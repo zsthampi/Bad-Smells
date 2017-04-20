@@ -1,0 +1,63 @@
+,action,assignee,assignees_name,comments,event_created_at,issue_closed_at,issue_created_at,issue_id,labels_color,labels_name,mclose_created,mdue_created,milestone,milestone_closed_at,milestone_created_at,milestone_due_on,title,user
+0,closed,[],[],0,1492603196.0,1492603196.0,1489702577.0,15,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan on Piazza,zsthampi
+1,closed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1492603196.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,zsthampi
+2,closed,[],[],0,1492603196.0,1492603196.0,1487891173.0,10,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Carrry over from Feb Milestone,zsthampi
+3,closed,[],[],0,1492603196.0,1492603196.0,1486420244.0,8,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Extension,zsthampi
+4,closed,[],[],0,1492603196.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,zsthampi
+5,closed,[],[],2,1490647054.0,1490647054.0,1488380404.0,12,[],[],None,None,None,None,None,None,some interesting pattterns in your work,zsthampi
+6,closed,[],[],0,1490647031.0,1490647031.0,1489702453.0,14,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan on Website,zsthampi
+7,demilestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489759563.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,zsthampi
+8,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489759563.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,zsthampi
+9,milestoned,[],[],0,1489759542.0,1492603196.0,1489702577.0,15,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan on Piazza,zsthampi
+10,renamed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489703221.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,zsthampi
+11,milestoned,[],[],0,1489702460.0,1490647031.0,1489702453.0,14,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan on Website,zsthampi
+12,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489528087.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,zsthampi
+13,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489528087.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,adrianluan
+14,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489528073.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,fuzailm1
+15,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1489528060.0,1492603196.0,1489528060.0,13,[],[],None,204504.0,Evaluation Plan,None,1489702296.0,1489906800.0,Evaluation Plan - General,fuzailm1
+16,demilestoned,[],[],0,1488335883.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,zsthampi
+17,milestoned,[],[],0,1488335883.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,zsthampi
+18,reopened,[],[],0,1488335864.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,zsthampi
+19,closed,[],[],0,1488335859.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,zsthampi
+20,closed,[],[],0,1488335832.0,1488335832.0,1487022612.0,9,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Testing (23 - 28 Feb),zsthampi
+21,closed,fuzailm1,[u'fuzailm1'],0,1488335807.0,1488335807.0,1488132949.0,11,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Create Report,zsthampi
+22,closed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1488335799.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+23,closed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1488335785.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,zsthampi
+24,closed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1488335754.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,zsthampi
+25,closed,[],[],0,1488335723.0,1488335723.0,1486419274.0,5,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Data Collection (Core Infrastructure),zsthampi
+26,assigned,fuzailm1,[u'fuzailm1'],0,1488132949.0,1488335807.0,1488132949.0,11,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Create Report,fuzailm1
+27,milestoned,fuzailm1,[u'fuzailm1'],0,1488132949.0,1488335807.0,1488132949.0,11,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Create Report,zsthampi
+28,milestoned,[],[],0,1487891173.0,1492603196.0,1487891173.0,10,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Carrry over from Feb Milestone,zsthampi
+29,reopened,[],[],0,1487444577.0,1488335723.0,1486419274.0,5,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Data Collection (Core Infrastructure),fuzailm1
+30,closed,[],[],0,1487444545.0,1488335723.0,1486419274.0,5,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Data Collection (Core Infrastructure),fuzailm1
+31,renamed,[],[],0,1487023320.0,1488335832.0,1487022612.0,9,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Testing (23 - 28 Feb),zsthampi
+32,milestoned,[],[],0,1487022709.0,1488335832.0,1487022612.0,9,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Testing (23 - 28 Feb),zsthampi
+33,milestoned,[],[],0,1486509075.0,1492603196.0,1486419365.0,7,[],[],None,4524462.0,March Milestone,None,1486419138.0,1490943600.0,Project Meetings,adrianluan
+34,milestoned,[],[],0,1486509001.0,1492603196.0,1486420244.0,8,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Extension,adrianluan
+35,renamed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486508957.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,adrianluan
+36,renamed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486508928.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,adrianluan
+37,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486508854.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,adrianluan
+38,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486508787.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,adrianluan
+39,renamed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486508779.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,adrianluan
+40,renamed,[],[],0,1486508502.0,1488335723.0,1486419274.0,5,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Data Collection (Core Infrastructure),adrianluan
+41,milestoned,[],[],0,1486508365.0,1488335723.0,1486419274.0,5,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Data Collection (Core Infrastructure),adrianluan
+42,renamed,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419391.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,zsthampi
+43,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419321.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,fuzailm1
+44,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419321.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,zsthampi
+45,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419321.0,1488335754.0,1486419321.0,6,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 1 : Web Slurping,adrianluan
+46,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419234.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,fuzailm1
+47,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419234.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,zsthampi
+48,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419234.0,1488335785.0,1486419234.0,4,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 2 : Text Mining,adrianluan
+49,demilestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419159.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+50,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419159.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+51,demilestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419156.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+52,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419156.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+53,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419087.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,fuzailm1
+54,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419087.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+55,assigned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419087.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,adrianluan
+56,milestoned,adrianluan,"[u'adrianluan', u'zsthampi', u'fuzailm1']",0,1486419087.0,1488335799.0,1486419087.0,3,[],[],None,1849830.0,February Milestone,None,1486418970.0,1488268800.0,Implementation 3 : Peer to Peer,zsthampi
+57,closed,[],[],1,1485907638.0,1485907638.0,1485473746.0,1,[],[],1035562.0,375946.0,January Milestone,1486509216.0,1485473654.0,1485849600.0,Create Report,fuzailm1
+58,closed,[],[],0,1485551159.0,1485551159.0,1485550949.0,2,[],[],None,None,None,None,None,None,Adrian,adrianluan
+59,merged,[],[],0,1485551159.0,1485551159.0,1485550949.0,2,[],[],None,None,None,None,None,None,Adrian,adrianluan
+60,referenced,[],[],0,1485551159.0,1485551159.0,1485550949.0,2,[],[],None,None,None,None,None,None,Adrian,adrianluan
+61,milestoned,[],[],1,1485473777.0,1485907638.0,1485473746.0,1,[],[],1035562.0,375946.0,January Milestone,1486509216.0,1485473654.0,1485849600.0,Create Report,zsthampi

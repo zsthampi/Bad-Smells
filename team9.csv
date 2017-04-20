@@ -1,0 +1,145 @@
+,action,assignee,assignees_name,comments,event_created_at,issue_closed_at,issue_created_at,issue_id,labels_color,labels_name,mclose_created,mdue_created,milestone,milestone_closed_at,milestone_created_at,milestone_due_on,title,user
+0,closed,SidHeg,[u'SidHeg'],2,1492666296.0,1492666296.0,1488379472.0,36,[],[],None,None,None,None,None,None,comment: feb deliverables look interesting,saravanan19
+1,closed,[],[],0,1489118352.0,1489118352.0,1489118333.0,37,[],[],None,None,None,None,None,None,qrcode display updated,SidHeg
+2,merged,[],[],0,1489118352.0,1489118352.0,1489118333.0,37,[],[],None,None,None,None,None,None,qrcode display updated,SidHeg
+3,referenced,[],[],0,1489118352.0,1489118352.0,1489118333.0,37,[],[],None,None,None,None,None,None,qrcode display updated,SidHeg
+4,assigned,SidHeg,[u'SidHeg'],2,1488399539.0,1492666296.0,1488379472.0,36,[],[],None,None,None,None,None,None,comment: feb deliverables look interesting,SidHeg
+5,closed,[],[],0,1488341422.0,1488341422.0,1488341415.0,35,[],[],None,None,None,None,None,None,completed feb report,SidHeg
+6,merged,[],[],0,1488341422.0,1488341422.0,1488341415.0,35,[],[],None,None,None,None,None,None,completed feb report,SidHeg
+7,referenced,[],[],0,1488341422.0,1488341422.0,1488341415.0,35,[],[],None,None,None,None,None,None,completed feb report,SidHeg
+8,closed,[],[],0,1488336211.0,1488336211.0,1488336206.0,34,[],[],None,None,None,None,None,None,Build script modified to support unit testing,saravanan19
+9,merged,[],[],0,1488336211.0,1488336211.0,1488336206.0,34,[],[],None,None,None,None,None,None,Build script modified to support unit testing,saravanan19
+10,referenced,[],[],0,1488336211.0,1488336211.0,1488336206.0,34,[],[],None,None,None,None,None,None,Build script modified to support unit testing,saravanan19
+11,closed,[],[],0,1488260181.0,1488260181.0,1488260172.0,33,[],[],None,None,None,None,None,None,finished,SidHeg
+12,merged,[],[],0,1488260181.0,1488260181.0,1488260172.0,33,[],[],None,None,None,None,None,None,finished,SidHeg
+13,referenced,[],[],0,1488260181.0,1488260181.0,1488260172.0,33,[],[],None,None,None,None,None,None,finished,SidHeg
+14,head_ref_deleted,[],[],0,1488259848.0,1488254579.0,1488254571.0,31,[],[],None,None,None,None,None,None,Fb comm,saravanan19
+15,closed,[],[],1,1488259774.0,1488259774.0,1486502730.0,10,[],[],1757280.0,1766269.0,Final Testing and Deployment,1488259811.0,1486502531.0,1488268800.0,Test system features,saravanan19
+16,closed,SidHeg,[u'SidHeg'],1,1488259746.0,1488259746.0,1488254690.0,32,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,GPS Proximity check,saravanan19
+17,milestoned,SidHeg,[u'SidHeg'],1,1488259742.0,1488259746.0,1488254690.0,32,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,GPS Proximity check,saravanan19
+18,closed,SidHeg,"[u'SidHeg', u'saravanan19']",1,1488254703.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,saravanan19
+19,assigned,SidHeg,[u'SidHeg'],1,1488254690.0,1488259746.0,1488254690.0,32,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,GPS Proximity check,SidHeg
+20,closed,[],[],0,1488254579.0,1488254579.0,1488254571.0,31,[],[],None,None,None,None,None,None,Fb comm,saravanan19
+21,merged,[],[],0,1488254579.0,1488254579.0,1488254571.0,31,[],[],None,None,None,None,None,None,Fb comm,saravanan19
+22,referenced,[],[],0,1488254579.0,1488254579.0,1488254571.0,31,[],[],None,None,None,None,None,None,Fb comm,saravanan19
+23,closed,[],[],1,1488236873.0,1488236873.0,1486502776.0,11,[],[],1757280.0,1766269.0,Final Testing and Deployment,1488259811.0,1486502531.0,1488268800.0,Deployment ,saravanan19
+24,reopened,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487970848.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,saravanan19
+25,closed,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487918278.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,SidHeg
+26,head_ref_deleted,[],[],0,1487891703.0,1487890970.0,1487890965.0,30,[],[],None,None,None,None,None,None,backend code,saravanan19
+27,closed,[],[],0,1487890970.0,1487890970.0,1487890965.0,30,[],[],None,None,None,None,None,None,backend code,SidHeg
+28,merged,[],[],0,1487890970.0,1487890970.0,1487890965.0,30,[],[],None,None,None,None,None,None,backend code,SidHeg
+29,referenced,[],[],0,1487890970.0,1487890970.0,1487890965.0,30,[],[],None,None,None,None,None,None,backend code,SidHeg
+30,head_ref_deleted,[],[],0,1487886640.0,1487840355.0,1487840332.0,29,[],[],None,None,None,None,None,None,QRC,SidHeg
+31,closed,SidHeg,"[u'SidHeg', u'mohits19']",1,1487886363.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,SidHeg
+32,milestoned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487885398.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,saravanan19
+33,closed,[],[],0,1487840355.0,1487840355.0,1487840332.0,29,[],[],None,None,None,None,None,None,QRC,mohits19
+34,merged,[],[],0,1487840355.0,1487840355.0,1487840332.0,29,[],[],None,None,None,None,None,None,QRC,mohits19
+35,referenced,[],[],0,1487840355.0,1487840355.0,1487840332.0,29,[],[],None,None,None,None,None,None,QRC,mohits19
+36,head_ref_deleted,[],[],0,1487837729.0,1487837097.0,1487837090.0,27,[],[],None,None,None,None,None,None,GPS Code development,saravanan19
+37,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487837299.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,saravanan19
+38,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487837299.0,1488254703.0,1487837286.0,28,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Frontend Backend communication code development,SidHeg
+39,closed,SidHeg,[u'SidHeg'],2,1487837167.0,1487837167.0,1486502874.0,14,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - GPS,saravanan19
+40,closed,[],[],0,1487837097.0,1487837097.0,1487837090.0,27,[],[],None,None,None,None,None,None,GPS Code development,saravanan19
+41,merged,[],[],0,1487837097.0,1487837097.0,1487837090.0,27,[],[],None,None,None,None,None,None,GPS Code development,saravanan19
+42,referenced,[],[],0,1487837097.0,1487837097.0,1487837090.0,27,[],[],None,None,None,None,None,None,GPS Code development,saravanan19
+43,closed,mohits19,[u'mohits19'],2,1487731893.0,1487731893.0,1486502900.0,15,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - QR Code,mohits19
+44,closed,[],[],0,1487720998.0,1487720998.0,1487720991.0,26,[],[],None,None,None,None,None,None,basic QR code scanner,mohits19
+45,merged,[],[],0,1487720998.0,1487720998.0,1487720991.0,26,[],[],None,None,None,None,None,None,basic QR code scanner,mohits19
+46,referenced,[],[],0,1487720998.0,1487720998.0,1487720991.0,26,[],[],None,None,None,None,None,None,basic QR code scanner,mohits19
+47,closed,SidHeg,"[u'SidHeg', u'mohits19']",1,1487665034.0,1487665034.0,1486504746.0,18,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Create Database,SidHeg
+48,closed,[],[],0,1487664751.0,1487664751.0,1487664746.0,25,[],[],None,None,None,None,None,None,GPS code development layout setup,saravanan19
+49,merged,[],[],0,1487664751.0,1487664751.0,1487664746.0,25,[],[],None,None,None,None,None,None,GPS code development layout setup,saravanan19
+50,referenced,[],[],0,1487664751.0,1487664751.0,1487664746.0,25,[],[],None,None,None,None,None,None,GPS code development layout setup,saravanan19
+51,closed,[],[],0,1487662558.0,1487662558.0,1487662551.0,24,[],[],None,None,None,None,None,None,Generating QR code from basic text,mohits19
+52,merged,[],[],0,1487662558.0,1487662558.0,1487662551.0,24,[],[],None,None,None,None,None,None,Generating QR code from basic text,mohits19
+53,referenced,[],[],0,1487662558.0,1487662558.0,1487662551.0,24,[],[],None,None,None,None,None,None,Generating QR code from basic text,mohits19
+54,closed,[],[],0,1487575457.0,1487575457.0,1487575451.0,23,[],[],None,None,None,None,None,None,Cleanup code,saravanan19
+55,merged,[],[],0,1487575457.0,1487575457.0,1487575451.0,23,[],[],None,None,None,None,None,None,Cleanup code,saravanan19
+56,referenced,[],[],0,1487575457.0,1487575457.0,1487575451.0,23,[],[],None,None,None,None,None,None,Cleanup code,saravanan19
+57,closed,saravanan19,[u'saravanan19'],2,1487572769.0,1487572769.0,1486502840.0,13,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,code development - NFC,saravanan19
+58,closed,[],[],0,1487572548.0,1487572548.0,1487572538.0,22,[],[],None,None,None,None,None,None,Nfc,saravanan19
+59,merged,[],[],0,1487572548.0,1487572548.0,1487572538.0,22,[],[],None,None,None,None,None,None,Nfc,saravanan19
+60,referenced,[],[],0,1487572548.0,1487572548.0,1487572538.0,22,[],[],None,None,None,None,None,None,Nfc,saravanan19
+61,closed,[],[],0,1487563347.0,1487563347.0,1487563337.0,21,[],[],None,None,None,None,None,None,NFC Read completed,saravanan19
+62,merged,[],[],0,1487563347.0,1487563347.0,1487563337.0,21,[],[],None,None,None,None,None,None,NFC Read completed,saravanan19
+63,referenced,[],[],0,1487563347.0,1487563347.0,1487563337.0,21,[],[],None,None,None,None,None,None,NFC Read completed,saravanan19
+64,closed,saravanan19,[u'saravanan19'],1,1487278518.0,1487278518.0,1487278486.0,20,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Front End - Skeleton code Developmnet,saravanan19
+65,assigned,saravanan19,[u'saravanan19'],1,1487278486.0,1487278518.0,1487278486.0,20,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Front End - Skeleton code Developmnet,saravanan19
+66,milestoned,saravanan19,[u'saravanan19'],1,1487278486.0,1487278518.0,1487278486.0,20,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Front End - Skeleton code Developmnet,saravanan19
+67,assigned,saravanan19,[u'saravanan19'],2,1487278238.0,1487572769.0,1486502840.0,13,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,code development - NFC,saravanan19
+68,assigned,mohits19,[u'mohits19'],2,1487278088.0,1487731893.0,1486502900.0,15,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - QR Code,mohits19
+69,assigned,SidHeg,[u'SidHeg'],2,1487277877.0,1487837167.0,1486502874.0,14,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - GPS,SidHeg
+70,unassigned,SidHeg,[u'SidHeg'],2,1487277877.0,1487837167.0,1486502874.0,14,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - GPS,saravanan19
+71,assigned,SidHeg,[u'SidHeg'],2,1487277861.0,1487837167.0,1486502874.0,14,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - GPS,saravanan19
+72,closed,SidHeg,"[u'SidHeg', u'mohits19']",1,1487046656.0,1487046656.0,1486502783.0,12,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,BackEnd FrontEnd Communication,saravanan19
+73,closed,SidHeg,"[u'SidHeg', u'saravanan19']",1,1487043386.0,1487043386.0,1486503150.0,16,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,Front End Design,saravanan19
+74,closed,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",3,1487040688.0,1487040688.0,1486504588.0,17,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,API availability and Feasibility Check. ,saravanan19
+75,closed,SidHeg,"[u'SidHeg', u'mohits19']",1,1487040674.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,SidHeg
+76,closed,effat,[u'effat'],0,1486631134.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,saravanan19
+77,reopened,effat,[u'effat'],0,1486631082.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,saravanan19
+78,labeled,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505606.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,timm
+79,added_to_project,[],[],1,1486505591.0,1488236873.0,1486502776.0,11,[],[],1757280.0,1766269.0,Final Testing and Deployment,1488259811.0,1486502531.0,1488268800.0,Deployment ,timm
+80,added_to_project,mohits19,[u'mohits19'],2,1486505588.0,1487731893.0,1486502900.0,15,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - QR Code,timm
+81,added_to_project,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505586.0,1487665034.0,1486504746.0,18,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Create Database,timm
+82,added_to_project,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505584.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,timm
+83,head_ref_deleted,[],[],0,1486505518.0,1485795058.0,1485795014.0,7,[],[],None,None,None,None,None,None,Merge pull request #2 from SidHeg/master,SidHeg
+84,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505221.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,mohits19
+85,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505216.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,SidHeg
+86,milestoned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486505213.0,1487886363.0,1486505213.0,19,[u'84b6eb'],[u'enhancement'],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Business Logic,SidHeg
+87,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504791.0,1487665034.0,1486504746.0,18,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Create Database,mohits19
+88,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504787.0,1487665034.0,1486504746.0,18,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Create Database,SidHeg
+89,milestoned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504746.0,1487665034.0,1486504746.0,18,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Create Database,SidHeg
+90,renamed,saravanan19,[u'saravanan19'],2,1486504727.0,1487572769.0,1486502840.0,13,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,code development - NFC,saravanan19
+91,renamed,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504641.0,1487046656.0,1486502783.0,12,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,BackEnd FrontEnd Communication,SidHeg
+92,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1486504613.0,1487043386.0,1486503150.0,16,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,Front End Design,saravanan19
+93,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1486504613.0,1487043386.0,1486503150.0,16,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,Front End Design,SidHeg
+94,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",3,1486504588.0,1487040688.0,1486504588.0,17,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,API availability and Feasibility Check. ,mohits19
+95,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",3,1486504588.0,1487040688.0,1486504588.0,17,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,API availability and Feasibility Check. ,saravanan19
+96,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",3,1486504588.0,1487040688.0,1486504588.0,17,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,API availability and Feasibility Check. ,SidHeg
+97,milestoned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",3,1486504588.0,1487040688.0,1486504588.0,17,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,API availability and Feasibility Check. ,saravanan19
+98,milestoned,effat,[u'effat'],0,1486504520.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,SidHeg
+99,milestoned,effat,[u'effat'],0,1486504520.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,SidHeg
+100,milestoned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1486504520.0,1485895966.0,1485759053.0,6,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Initial Report,SidHeg
+101,milestoned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1486504520.0,1485895966.0,1485759053.0,6,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Initial Report,SidHeg
+102,milestoned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1486504520.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,SidHeg
+103,milestoned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1486504520.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,SidHeg
+104,milestoned,[],[],1,1486504519.0,1485220864.0,1484985760.0,4,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,User Study:,SidHeg
+105,milestoned,[],[],1,1486504519.0,1485220864.0,1484985760.0,4,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,User Study:,SidHeg
+106,milestoned,[],[],1,1486504519.0,1485661960.0,1484985737.0,3,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Review:,SidHeg
+107,milestoned,[],[],1,1486504519.0,1485661960.0,1484985737.0,3,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Review:,SidHeg
+108,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504140.0,1487046656.0,1486502783.0,12,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,BackEnd FrontEnd Communication,mohits19
+109,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504133.0,1487046656.0,1486502783.0,12,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,BackEnd FrontEnd Communication,SidHeg
+110,renamed,SidHeg,"[u'SidHeg', u'mohits19']",1,1486504042.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,SidHeg
+111,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486503854.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,mohits19
+112,assigned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486503854.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,SidHeg
+113,milestoned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1486503150.0,1487043386.0,1486503150.0,16,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,Front End Design,saravanan19
+114,renamed,SidHeg,"[u'SidHeg', u'mohits19']",1,1486503067.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,SidHeg
+115,renamed,SidHeg,"[u'SidHeg', u'mohits19']",1,1486503042.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,saravanan19
+116,milestoned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486502997.0,1487040674.0,1486502717.0,9,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,DataBase Design,saravanan19
+117,milestoned,SidHeg,"[u'SidHeg', u'mohits19']",1,1486502933.0,1487046656.0,1486502783.0,12,[],[],544418.0,470498.0,Software Design ,1487046720.0,1486502302.0,1486972800.0,BackEnd FrontEnd Communication,SidHeg
+118,milestoned,mohits19,[u'mohits19'],2,1486502900.0,1487731893.0,1486502900.0,15,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - QR Code,saravanan19
+119,milestoned,SidHeg,[u'SidHeg'],2,1486502874.0,1487837167.0,1486502874.0,14,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,Code development - GPS,saravanan19
+120,milestoned,saravanan19,[u'saravanan19'],2,1486502840.0,1487572769.0,1486502840.0,13,[],[],1757379.0,1766365.0,Code development and Testing,1488259814.0,1486502435.0,1488268800.0,code development - NFC,saravanan19
+121,milestoned,[],[],1,1486502776.0,1488236873.0,1486502776.0,11,[],[],1757280.0,1766269.0,Final Testing and Deployment,1488259811.0,1486502531.0,1488268800.0,Deployment ,saravanan19
+122,milestoned,[],[],1,1486502730.0,1488259774.0,1486502730.0,10,[],[],1757280.0,1766269.0,Final Testing and Deployment,1488259811.0,1486502531.0,1488268800.0,Test system features,saravanan19
+123,closed,effat,[u'effat'],0,1486502041.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,SidHeg
+124,assigned,effat,[u'effat'],0,1486354965.0,1486631134.0,1486354964.0,8,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Chits added.,effat
+125,closed,SidHeg,"[u'SidHeg', u'saravanan19']",1,1485895966.0,1485895966.0,1485759053.0,6,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Initial Report,mohits19
+126,closed,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1485806267.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,saravanan19
+127,referenced,[],[],0,1485795058.0,1484985639.0,1484985610.0,2,[],[],None,None,None,None,None,None,Pulling updated master branch,SidHeg
+128,closed,[],[],0,1485795058.0,1485795058.0,1485795014.0,7,[],[],None,None,None,None,None,None,Merge pull request #2 from SidHeg/master,SidHeg
+129,merged,[],[],0,1485795058.0,1485795058.0,1485795014.0,7,[],[],None,None,None,None,None,None,Merge pull request #2 from SidHeg/master,SidHeg
+130,referenced,[],[],0,1485795058.0,1485795058.0,1485795014.0,7,[],[],None,None,None,None,None,None,Merge pull request #2 from SidHeg/master,SidHeg
+131,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1485759053.0,1485895966.0,1485759053.0,6,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Initial Report,saravanan19
+132,assigned,SidHeg,"[u'SidHeg', u'saravanan19']",1,1485759053.0,1485895966.0,1485759053.0,6,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Initial Report,SidHeg
+133,closed,[],[],1,1485661961.0,1485661960.0,1484985737.0,3,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Review:,saravanan19
+134,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1485661619.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,mohits19
+135,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1485661619.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,saravanan19
+136,assigned,SidHeg,"[u'SidHeg', u'saravanan19', u'mohits19']",2,1485661619.0,1485806267.0,1485661579.0,5,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,Literature Study,SidHeg
+137,closed,[],[],1,1485220864.0,1485220864.0,1484985760.0,4,[],[],176.0,-654869.0,Requirement Analysis,1486504645.0,1486504469.0,1485849600.0,User Study:,saravanan19
+138,closed,[],[],0,1484985639.0,1484985639.0,1484985610.0,2,[],[],None,None,None,None,None,None,Pulling updated master branch,SidHeg
+139,merged,[],[],0,1484985639.0,1484985639.0,1484985610.0,2,[],[],None,None,None,None,None,None,Pulling updated master branch,SidHeg
+140,referenced,[],[],0,1484985639.0,1484985639.0,1484985610.0,2,[],[],None,None,None,None,None,None,Pulling updated master branch,SidHeg
+141,closed,[],[],0,1484809350.0,1484809350.0,1484809335.0,1,[],[],None,None,None,None,None,None,1/19/2017,SidHeg
+142,merged,[],[],0,1484809350.0,1484809350.0,1484809335.0,1,[],[],None,None,None,None,None,None,1/19/2017,SidHeg
+143,referenced,[],[],0,1484809350.0,1484809350.0,1484809335.0,1,[],[],None,None,None,None,None,None,1/19/2017,SidHeg

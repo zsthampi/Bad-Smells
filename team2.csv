@@ -1,0 +1,120 @@
+,action,assignee,assignees_name,comments,event_created_at,issue_closed_at,issue_created_at,issue_id,labels_color,labels_name,mclose_created,mdue_created,milestone,milestone_closed_at,milestone_created_at,milestone_due_on,title,user
+0,labeled,DevArenaCN,[u'DevArenaCN'],1,1492569417.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,DevArenaCN
+1,labeled,DevArenaCN,[u'DevArenaCN'],1,1492569410.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+2,labeled,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1492569396.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,DevArenaCN
+3,closed,DevArenaCN,[u'DevArenaCN'],5,1492114627.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,thegreyd
+4,closed,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1490578265.0,1490578265.0,1490577713.0,24,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Wrong Magic link,DevArenaCN
+5,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1490577714.0,1490578265.0,1490577713.0,24,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Wrong Magic link,DevArenaCN
+6,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1490577713.0,1490578265.0,1490577713.0,24,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Wrong Magic link,thegreyd
+7,labeled,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1490577713.0,1490578265.0,1490577713.0,24,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Wrong Magic link,thegreyd
+8,subscribed,DevArenaCN,[u'DevArenaCN'],5,1489265553.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,DevArenaCN
+9,mentioned,DevArenaCN,[u'DevArenaCN'],5,1489265553.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,DevArenaCN
+10,added_to_project,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489191291.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,DevArenaCN
+11,added_to_project,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489191289.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,DevArenaCN
+12,closed,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489119085.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,DevArenaCN
+13,closed,[],[],0,1489116256.0,1489116256.0,1489116249.0,23,[],[],None,None,None,None,None,None,Adding views for Devise,DevArenaCN
+14,merged,[],[],0,1489116256.0,1489116256.0,1489116249.0,23,[],[],None,None,None,None,None,None,Adding views for Devise,DevArenaCN
+15,referenced,[],[],0,1489116256.0,1489116256.0,1489116249.0,23,[],[],None,None,None,None,None,None,Adding views for Devise,DevArenaCN
+16,closed,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489115829.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,thegreyd
+17,closed,[],[],0,1489115666.0,1489115666.0,1489115661.0,22,[],[],None,None,None,None,None,None,Upgrade security,DevArenaCN
+18,merged,[],[],0,1489115666.0,1489115666.0,1489115661.0,22,[],[],None,None,None,None,None,None,Upgrade security,DevArenaCN
+19,referenced,[],[],0,1489115666.0,1489115666.0,1489115661.0,22,[],[],None,None,None,None,None,None,Upgrade security,DevArenaCN
+20,subscribed,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489115433.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,DevArenaCN
+21,mentioned,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489115433.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,DevArenaCN
+22,closed,[],[],0,1489114903.0,1489114903.0,1489114898.0,21,[],[],None,None,None,None,None,None,upgrade security for showing too much info,DevArenaCN
+23,merged,[],[],0,1489114903.0,1489114903.0,1489114898.0,21,[],[],None,None,None,None,None,None,upgrade security for showing too much info,DevArenaCN
+24,referenced,[],[],0,1489114903.0,1489114903.0,1489114898.0,21,[],[],None,None,None,None,None,None,upgrade security for showing too much info,DevArenaCN
+25,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489088289.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,DevArenaCN
+26,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489088289.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,thegreyd
+27,milestoned,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489088289.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,thegreyd
+28,labeled,thegreyd,"[u'thegreyd', u'DevArenaCN']",4,1489088289.0,1489115829.0,1489088289.0,20,[u'ee0701'],[u'bug'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Database information is public,thegreyd
+29,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489019110.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,DevArenaCN
+30,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489019110.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,thegreyd
+31,milestoned,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489019110.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,thegreyd
+32,labeled,thegreyd,"[u'thegreyd', u'DevArenaCN']",1,1489019110.0,1489119085.0,1489019110.0,19,[u'84b6eb'],[u'enhancement'],None,455719.0,Demo Day,None,1489019081.0,1489474800.0,Confirmation mail,thegreyd
+33,added_to_project,DevArenaCN,[u'DevArenaCN'],5,1488304558.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,DevArenaCN
+34,labeled,DevArenaCN,[u'DevArenaCN'],5,1488304536.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,DevArenaCN
+35,assigned,DevArenaCN,[u'DevArenaCN'],5,1488304527.0,1492114627.0,1488304522.0,18,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Creating API calls for storing Microsoft cognitive id,DevArenaCN
+36,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1487885329.0,1487885310.0,1487860031.0,17,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Modify UI for emails for magiclink and user confirmation,DevArenaCN
+37,closed,DevArenaCN,[u'DevArenaCN'],1,1487885310.0,1487885310.0,1487860031.0,17,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Modify UI for emails for magiclink and user confirmation,DevArenaCN
+38,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1487860042.0,1487885310.0,1487860031.0,17,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Modify UI for emails for magiclink and user confirmation,DevArenaCN
+39,assigned,DevArenaCN,[u'DevArenaCN'],1,1487860031.0,1487885310.0,1487860031.0,17,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Modify UI for emails for magiclink and user confirmation,DevArenaCN
+40,labeled,DevArenaCN,[u'DevArenaCN'],1,1487860031.0,1487885310.0,1487860031.0,17,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Modify UI for emails for magiclink and user confirmation,DevArenaCN
+41,closed,[],[],0,1487859952.0,1487859952.0,1487859946.0,16,[],[],None,None,None,None,None,None,Mail modify,DevArenaCN
+42,merged,[],[],0,1487859952.0,1487859952.0,1487859946.0,16,[],[],None,None,None,None,None,None,Mail modify,DevArenaCN
+43,referenced,[],[],0,1487859952.0,1487859952.0,1487859946.0,16,[],[],None,None,None,None,None,None,Mail modify,DevArenaCN
+44,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],6,1487612334.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,DevArenaCN
+45,added_to_project,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487612278.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,DevArenaCN
+46,added_to_project,DevArenaCN,[u'DevArenaCN'],6,1487612254.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,DevArenaCN
+47,closed,[],[],0,1487612220.0,1487612220.0,1487612214.0,15,[],[],None,None,None,None,None,None,minor change to magicLink return JSON format,DevArenaCN
+48,merged,[],[],0,1487612220.0,1487612220.0,1487612214.0,15,[],[],None,None,None,None,None,None,minor change to magicLink return JSON format,DevArenaCN
+49,referenced,[],[],0,1487612220.0,1487612220.0,1487612214.0,15,[],[],None,None,None,None,None,None,minor change to magicLink return JSON format,DevArenaCN
+50,closed,DevArenaCN,[u'DevArenaCN'],6,1487596944.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,DevArenaCN
+51,subscribed,DevArenaCN,[u'DevArenaCN'],6,1487596944.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,thegreyd
+52,mentioned,DevArenaCN,[u'DevArenaCN'],6,1487596944.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,thegreyd
+53,labeled,DevArenaCN,[u'DevArenaCN'],6,1487574669.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,thegreyd
+54,assigned,DevArenaCN,[u'DevArenaCN'],6,1487574655.0,1487596944.0,1487574640.0,14,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Magic link api call quotes error,DevArenaCN
+55,closed,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487437401.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,thegreyd
+56,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487406130.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,KaustubhG
+57,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487406130.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,DevArenaCN
+58,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487406129.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,thegreyd
+59,labeled,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",5,1487406129.0,1487437401.0,1487406129.0,13,[u'cc317c'],[u'question'],None,None,None,None,None,None,Email verification design discussion.,thegreyd
+60,closed,[],[],0,1487341172.0,1487341172.0,1487341148.0,12,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+61,merged,[],[],0,1487341172.0,1487341172.0,1487341148.0,12,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+62,referenced,[],[],0,1487341172.0,1487341172.0,1487341148.0,12,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+63,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],2,1487299116.0,1487298718.0,1487147299.0,8,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Error at wrong username when logging in,DevArenaCN
+64,moved_columns_in_project,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1487299101.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,DevArenaCN
+65,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1487299095.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+66,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1487299092.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+67,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1487299089.0,1487298525.0,1487111916.0,7,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Add authorization calls when directed back to the app,DevArenaCN
+68,closed,DevArenaCN,[u'DevArenaCN'],2,1487298718.0,1487298718.0,1487147299.0,8,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Error at wrong username when logging in,thegreyd
+69,closed,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1487298547.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,DevArenaCN
+70,closed,DevArenaCN,[u'DevArenaCN'],1,1487298525.0,1487298525.0,1487111916.0,7,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Add authorization calls when directed back to the app,DevArenaCN
+71,closed,[],[],0,1487298515.0,1487298515.0,1487298510.0,11,[],[],None,None,None,None,None,None,Add authorization with email and token,DevArenaCN
+72,merged,[],[],0,1487298515.0,1487298515.0,1487298510.0,11,[],[],None,None,None,None,None,None,Add authorization with email and token,DevArenaCN
+73,referenced,[],[],0,1487298515.0,1487298515.0,1487298510.0,11,[],[],None,None,None,None,None,None,Add authorization with email and token,DevArenaCN
+74,closed,DevArenaCN,[u'DevArenaCN'],1,1487295719.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+75,closed,[],[],0,1487295700.0,1487295700.0,1487295670.0,10,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+76,merged,[],[],0,1487295700.0,1487295700.0,1487295670.0,10,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+77,referenced,[],[],0,1487295700.0,1487295700.0,1487295670.0,10,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+78,added_to_project,DevArenaCN,[u'DevArenaCN'],2,1487253834.0,1487298718.0,1487147299.0,8,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Error at wrong username when logging in,DevArenaCN
+79,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1487253827.0,1487298525.0,1487111916.0,7,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Add authorization calls when directed back to the app,DevArenaCN
+80,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1487253823.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+81,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1487253804.0,1487253665.0,1487111863.0,5,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Adding auth token inside email,DevArenaCN
+82,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1487253802.0,1487253656.0,1487111845.0,4,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Send email to user's email,DevArenaCN
+83,closed,DevArenaCN,[u'DevArenaCN'],1,1487253665.0,1487253665.0,1487111863.0,5,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Adding auth token inside email,DevArenaCN
+84,closed,DevArenaCN,[u'DevArenaCN'],1,1487253656.0,1487253656.0,1487111845.0,4,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Send email to user's email,DevArenaCN
+85,closed,[],[],0,1487253647.0,1487253647.0,1487253640.0,9,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+86,merged,[],[],0,1487253647.0,1487253647.0,1487253640.0,9,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+87,referenced,[],[],0,1487253647.0,1487253647.0,1487253640.0,9,[],[],None,None,None,None,None,None,Magic link,DevArenaCN
+88,labeled,DevArenaCN,[u'DevArenaCN'],2,1487147336.0,1487298718.0,1487147299.0,8,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Error at wrong username when logging in,thegreyd
+89,assigned,DevArenaCN,[u'DevArenaCN'],2,1487147308.0,1487298718.0,1487147299.0,8,[u'ee0701'],[u'bug'],None,None,None,None,None,None,Error at wrong username when logging in,DevArenaCN
+90,labeled,DevArenaCN,[u'DevArenaCN'],1,1487111940.0,1487253665.0,1487111863.0,5,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Adding auth token inside email,DevArenaCN
+91,labeled,DevArenaCN,[u'DevArenaCN'],1,1487111935.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+92,labeled,DevArenaCN,[u'DevArenaCN'],1,1487111929.0,1487298525.0,1487111916.0,7,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Add authorization calls when directed back to the app,DevArenaCN
+93,assigned,DevArenaCN,[u'DevArenaCN'],1,1487111916.0,1487298525.0,1487111916.0,7,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Add authorization calls when directed back to the app,DevArenaCN
+94,assigned,DevArenaCN,[u'DevArenaCN'],1,1487111887.0,1487295719.0,1487111887.0,6,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Able to use the link to direct back to the app,DevArenaCN
+95,assigned,DevArenaCN,[u'DevArenaCN'],1,1487111863.0,1487253665.0,1487111863.0,5,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Adding auth token inside email,DevArenaCN
+96,assigned,DevArenaCN,[u'DevArenaCN'],1,1487111845.0,1487253656.0,1487111845.0,4,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Send email to user's email,DevArenaCN
+97,labeled,DevArenaCN,[u'DevArenaCN'],1,1487111845.0,1487253656.0,1487111845.0,4,[u'84b6eb'],[u'enhancement'],None,None,None,None,None,None,Send email to user's email,DevArenaCN
+98,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1486996009.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+99,closed,DevArenaCN,[u'DevArenaCN'],1,1486996001.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+100,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1486995984.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+101,closed,DevArenaCN,[u'DevArenaCN'],1,1486995969.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,DevArenaCN
+102,moved_columns_in_project,DevArenaCN,[u'DevArenaCN'],1,1486995963.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,DevArenaCN
+103,subscribed,DevArenaCN,[u'DevArenaCN'],1,1486950498.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,KaustubhG
+104,mentioned,DevArenaCN,[u'DevArenaCN'],1,1486950498.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,KaustubhG
+105,subscribed,DevArenaCN,[u'DevArenaCN'],1,1486950498.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,thegreyd
+106,mentioned,DevArenaCN,[u'DevArenaCN'],1,1486950498.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,thegreyd
+107,subscribed,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486734853.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,thegreyd
+108,mentioned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486734853.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,thegreyd
+109,subscribed,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486734853.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,KaustubhG
+110,mentioned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486734853.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,KaustubhG
+111,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486690952.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,KaustubhG
+112,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486690952.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,thegreyd
+113,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1486674374.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+114,added_to_project,DevArenaCN,[u'DevArenaCN'],1,1486674372.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,DevArenaCN
+115,added_to_project,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486674364.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,DevArenaCN
+116,assigned,DevArenaCN,[u'DevArenaCN'],1,1486672933.0,1486995969.0,1486672933.0,3,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Create documentation,DevArenaCN
+117,assigned,DevArenaCN,[u'DevArenaCN'],1,1486672899.0,1486996001.0,1486672899.0,2,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Basic testing on the API calls,DevArenaCN
+118,assigned,thegreyd,"[u'thegreyd', u'DevArenaCN', u'KaustubhG']",11,1486672853.0,1487298547.0,1486672853.0,1,[u'0052cc'],[u'requirement'],None,None,None,None,None,None,Server setup for Android App,DevArenaCN
