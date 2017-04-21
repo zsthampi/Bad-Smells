@@ -1,0 +1,24 @@
+USER DETAILS
+------------
+https://api.github.com/users/zsthampi
+
+BRANCHES 
+--------
+https://api.github.com/repos/zsthampi/SE17-Group-N/branches
+
+COMMITS (Uses sha from branches above)
+-------
+https://api.github.com/repos/zsthampi/SE17-Group-N/commits?sha=2e1585ac8c4bfaf3cbc6622051d08a1e5ebe8c6c&page=1
+
+ASSIGNEES (USERS)
+-----------------
+https://api.github.com/repos/zsthampi/SE17-Group-N/assignees
+
+ALL ISSUES
+----------
+https://api.github.com/repos/zsthampi/SE17-Group-N/issues?state=all
+
+ALL MILESTONES
+--------------
+https://api.github.com/repos/zsthampi/SE17-Group-N/milestones?state=all
+
