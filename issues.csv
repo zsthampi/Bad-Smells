@@ -1,0 +1,1377 @@
+assignee,assignees,body,closed_at,comments,created_at,created_by,id,labels,milestone_closed_at,milestone_created_at,milestone_due_on,milestone_id,milestone_number,milestone_updated_at,number,state,team,title,updated_at
+,,Check prior to enrollment if the image is already enrolled under another student,,0,2017-03-08T03:24:21Z,user1,212627458,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,30,open,team1,Existing enrollment,2017-03-08T03:24:21Z
+,,"- Separate out certain repetitive methods
+- buildRequest()
+- parseJSONResponse()",,0,2017-03-08T03:22:35Z,user1,212627230,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,29,open,team1,General refactor #1,2017-03-08T03:22:35Z
+,,,2017-03-08T03:17:57Z,1,2017-03-08T03:16:14Z,user1,212626410,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,28,closed,team1,FR Impl #5 : View Daily Attendance,2017-03-08T03:17:57Z
+,,"- low number of commits from all group members (am I reading this right? less than 5)
+- I'm seeing doing, doing, done in ""facial Recognition"" but not so much in the other sections of the project. 
+
+looking forward to see what bits actually run in the demos, after the spring break.",,0,2017-03-01T14:48:15Z,timm,211102550,,,,,,,,27,open,team1,some interesting patterns in your work,2017-03-01T14:48:15Z
+user1,"['user1', 'user3', 'user2']","We each need to write one page report about our implementations.
+
+Use requirements, functionality, and other documentation created so far to create them.
+
+",2017-03-01T00:58:25Z,6,2017-02-27T02:36:40Z,user3,210373781,,,2017-02-07T21:54:07Z,2017-02-26T08:00:00Z,2307044.0,8.0,2017-03-01T00:58:25Z,26,closed,team1,Report,2017-03-01T00:58:25Z
+user1,"['user1', 'user3', 'user2']",How will the view from the professor be different? what capabilities are you giving them vs. the students?,2017-03-01T00:59:48Z,5,2017-02-27T02:20:12Z,user3,210372075,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,25,closed,team1,Professor side,2017-03-01T00:59:49Z
+user3,['user3'],"Engagement implementation files will be updated and contained within the Engagement folder under the master branch in Code
+",,1,2017-02-27T02:11:19Z,user3,210371223,,,,,,,,24,open,team1,Finish and complete Engagement Implementation,2017-03-01T00:57:49Z
+user1,"['user1', 'user3', 'user2']","How do you all handle login? Face rec. didn't have any at all, but it should for admin/professors at least?
+",2017-02-28T03:43:11Z,7,2017-02-27T02:08:36Z,user3,210370964,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,23,closed,team1,Log in implementation,2017-02-28T03:43:11Z
+user1,"['user1', 'user3', 'user2']","If we can't load/migrate Database into GitHub for others to download and use the data, we need to create it ourselves. 
+
+",2017-03-01T01:00:28Z,7,2017-02-27T02:06:26Z,user3,210370776,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,22,closed,team1,Creating SQL script to recreate database from github,2017-03-01T01:00:28Z
+user3,"['user3', 'user2']","in process reviewing codes for GUI+Database!! 
+How it works??
+Get the functionalities in place????
+What else???
+Did not understand?????",,9,2017-02-27T00:15:58Z,user2,210361632,[u'enhancement'],,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,21,open,team1,Database + GUI ,2017-03-09T05:39:08Z
+user2,['user2'],"voiceSave()---->Database 
+searchVoice()------>Database 
+Find compare and take action",,2,2017-02-23T22:32:19Z,user2,209904765,,,,,,,,20,open,team1,Database work ,2017-02-26T23:06:48Z
+user3,['user3'],"Clean up means:
+""make pretty"" like add pictures and nice gradients.
+fix datepicker***** need to do.
+will add other mistakes that need addressing later.
+
+
+",,2,2017-02-23T09:49:26Z,user3,209712036,,,,,,,,19,open,team1,Need to go back and clean up Engagement implementation,2017-02-28T11:09:15Z
+user3,['user3'],Need to learn how to add database through NetBeans and migrate it to GitHub.,2017-03-01T01:02:34Z,6,2017-02-23T09:46:03Z,user3,209711224,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,18,closed,team1,Add Database-Finish Implementation(Engagement),2017-03-01T01:02:34Z
+,,"Same as Design phase 2
+- Save attendance checks to DB
+- View attendance by date",2017-03-08T03:22:39Z,1,2017-02-22T02:46:22Z,user1,209336531,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,17,closed,team1,FR Impl #4 : Add Database,2017-03-08T03:22:39Z
+,,"- Photo capturing done in Impl 1
+- Base64 encoding, Kairos API call and response parse done in Impl 2
+- Focus of this issue:
+    - Structure app properly. Include user name for enrollment
+    - Handle corner cases. Especially with response JSON parsing",2017-02-22T02:47:47Z,1,2017-02-19T01:21:12Z,user1,208685411,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,16,closed,team1,FR Impl #3 : Refinement of Impl #1 and #2,2017-02-22T02:47:47Z
+,,"- Encode bitmap image to Base64 string
+- Create required HTTP Post request
+- Call and parse response",2017-02-19T01:24:13Z,1,2017-02-19T01:18:39Z,user1,208685279,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,15,closed,team1,FR Impl #2 : Base64 and Kairos,2017-02-19T01:24:13Z
+user1,['user1'],"__Implement attendance recording__
+- Save attendance checks to DB
+- View attendance for a particular date",,0,2017-02-19T01:16:18Z,user1,208685141,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,14,open,team1,Design - Face recog : Phase 2,2017-02-22T02:45:12Z
+,,"- Implement core features
+- Enrollment and verification/recognition",2017-02-19T00:52:42Z,1,2017-02-19T00:52:00Z,user1,208684051,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,13,closed,team1,Design - Face Recog - Phase 1,2017-02-19T00:52:42Z
+user1,['user1'],"- Familiarity with Android framework
+- Assignee : Karan",2017-02-19T00:46:32Z,1,2017-02-19T00:43:30Z,user1,208683696,,,2017-02-07T00:12:51Z,2017-02-10T08:00:00Z,2304449.0,5.0,2017-02-23T22:38:35Z,12,closed,team1,Learning Android,2017-02-19T00:46:32Z
+user1,['user1'],"- Simple picture capturing in Android
+- Will be followed by Base64 encoding",2017-02-19T01:21:44Z,1,2017-02-16T20:00:33Z,user1,208229269,,,2017-02-16T19:58:12Z,2017-02-24T08:00:00Z,2328351.0,11.0,2017-03-08T03:24:21Z,11,closed,team1,FR Impl #1 : Picture capturing,2017-02-19T01:21:44Z
+user1,['user1'],"Designing in several phases.
+
+__Design Phase One : Core functionality__
+- Main activity with 2 options : enroll and verify
+- Respective activities with image capturing
+- In the backend, they encode the image and call the Kairos API, print success/failure
+- No class segregation, no user accounts, no DB
+
+- Subsequent phases will have the unimplemented features mentioned in the last line above
+- Order of implementation for now seems to be:
+    - DB : no point of app w/o this. there needs to be record keeping. Simple attendance for each day.
+    - Class segregation : Attendance as per different classes. Simulates real world
+    - User accounts : Least important from project point of view. Will involve user registering on Kairos and entering app ID/key during registration. Unless we use the same ID/key. this step should make it real world ready with security and what not.",2017-02-19T01:16:59Z,1,2017-02-16T19:52:19Z,user1,208227136,,,2017-02-07T21:55:14Z,2017-02-28T08:00:00Z,2307047.0,9.0,2017-03-01T01:02:34Z,10,closed,team1,Design - Face recognition,2017-02-19T01:16:59Z
+user1,['user1'],"__KAIROS__
+- REST based API
+    - Tested it to ""enroll"" a subject by providing the image url
+    - Tested it to ""verify"" the subject by providing a different image url(but ofcourse, of the same subject)
+    - Image can also be encoded and provided locally
+- Extremely simple to use(haven't explored Google in details because of the ongoing Android learning)
+- API seems good to go. Will only need to implement photo capturing in app and then use API from there",2017-02-19T00:42:31Z,1,2017-02-15T03:26:42Z,user1,207699421,,,2017-02-07T21:52:33Z,2017-02-13T08:00:00Z,2307042.0,7.0,2017-02-19T00:42:31Z,9,closed,team1,Alternatives to Google,2017-02-19T00:42:31Z
+,,Research about the voice API. ,2017-02-23T22:38:35Z,4,2017-02-07T22:05:21Z,user2,206030690,[u'help wanted'],,,,,,,8,closed,team1,Understanding the voice recognition API,2017-02-23T22:38:35Z
+user1,"['user1', 'user3']",The team will review android development and get ourselves introduced to the general know-how of android development platform. ,2017-02-23T22:38:35Z,1,2017-02-07T22:04:16Z,user2,206030415,[u'help wanted'],,,,,,,7,closed,team1,Reviewing Android ,2017-02-23T22:38:35Z
+user1,"['user1', 'user3', 'user2']","1. Coming up with plan for Project 2.
+2. Any ideas?
+3. Any magic?
+4. What amazing things we can do with our projects?
+5. Anything else :)",2017-02-23T22:38:35Z,4,2017-02-04T04:45:50Z,user2,205322999,"[u'enhancement', u'help wanted']",,2017-02-07T00:12:51Z,2017-02-10T08:00:00Z,2304449.0,5.0,2017-02-23T22:38:35Z,6,closed,team1,Brainstorming for Feb SE Project,2017-02-23T22:38:35Z
+effat,['effat'],"[Chits.txt](https://github.com/karanjadhav2508/kqsse17/files/746607/Chits.txt)
+",,1,2017-02-02T01:18:29Z,user3,204756185,,,,,,,,5,open,team1,Missing Chit numbers,2017-02-09T16:45:01Z
+,,"- Discussion on the ""heavy"" sections of the report
+- Division of section among team members",2017-02-07T00:11:06Z,1,2017-01-30T22:11:37Z,user1,204145549,,,,,,,,4,closed,team1,Report writing : Jan deliverable,2017-02-07T00:11:06Z
+,,"- different simulations such as escortee, paper sign-in, electronic sign-in
+- observe data related to all of these
+- also have questionnaires for all simulation participants as a double check
+- questionnaires for industry experts",2017-02-07T00:09:34Z,2,2017-01-17T23:16:36Z,user1,201434357,,,,,,,,3,closed,team1,User testing/survey,2017-02-07T00:09:34Z
+,,,2017-02-07T00:08:44Z,4,2017-01-17T23:12:33Z,user1,201433562,,,,,,,,2,closed,team1,Literature review,2017-02-07T00:08:44Z
+,,"## Visitor management
+- Improper/incomplete logging in and out of visitors in different places : libraries, residence halls, organizations
+- varying consequences : insufficient visibility/tracking of visitors, security compromise
+- white house also has this [problem](https://www.publicintegrity.org/2011/04/13/4115/white-house-visitor-logs-riddled-holes)
+- [literature review](https://scholar.google.com/scholar?q=visitor+logging&btnG=&hl=en&as_sdt=0%2C34&oq=visitor+) in progress",2017-01-26T21:58:36Z,3,2017-01-17T23:07:15Z,user1,201432514,,,,,,,,1,closed,team1,Problem selection,2017-01-26T21:58:36Z
+,,,2017-03-26T18:06:32Z,0,2017-03-26T17:57:05Z,user1,217072446,,,,,,,,88,closed,team2,Features and bug fixes,2017-03-26T18:06:32Z
+user1,"['user1', 'user3', 'user2']",We need to have a meeting to discuss how we want to conduct the user evaluation. Let me know what you guys think,2017-04-13T20:14:13Z,5,2017-03-20T18:08:55Z,user3,215508340,"[u'mediumpriority', u'question']",,2017-03-08T18:42:48Z,2017-03-31T07:00:00Z,2372495.0,9.0,2017-04-13T20:14:13Z,87,closed,team2,User eval,2017-04-13T20:14:13Z
+user1,['user1'],"- Remove rogue toast notifications
+- open confirmation links in app
+- streamline ui - remove excess buttons ",2017-03-13T04:57:49Z,1,2017-03-13T02:24:25Z,user1,213658025,,,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,86,closed,team2,Bug fixes and more Features,2017-03-13T04:57:49Z
+user1,['user1'],"When Internet connection is faulty, app crashes. This is handled at time of username/password login, but not handled at:
+- Registration
+- Magic link
+- Confirmation link
+- Voice enrollment
+- Voice verification",2017-04-13T20:13:40Z,3,2017-03-09T03:22:05Z,user1,212924761,[u'bug'],,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,85,closed,team2,No Internet Connection App Crash,2017-04-13T20:13:41Z
+user1,"['user1', 'user2']",,2017-04-13T20:14:33Z,3,2017-03-09T00:27:45Z,user1,212899774,[u'mediumpriority'],,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,84,closed,team2,Confirmation mail doesn't open inside the app,2017-04-13T20:14:33Z
+user1,['user1'],"Remove
+- [x] Occurs when after registering redirected to login activity. 
+- [x] another while magic link login",2017-03-09T01:02:02Z,0,2017-03-08T23:32:58Z,user1,212889709,"[u'bug', u'urgent']",,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,83,closed,team2,Rogue toast notification after registering ,2017-03-09T01:02:02Z
+user1,['user1'],"3 instances
+- in the login screen, 3 options
+- in the voice enrollment screen
+- in voice verify screen. ",2017-03-09T03:19:33Z,1,2017-03-08T23:29:49Z,user1,212889123,"[u'UI', u'urgent']",,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,82,closed,team2,Disable button which shouldn't be pressed ,2017-03-09T03:20:10Z
+,,,2017-03-08T04:27:23Z,0,2017-03-08T04:24:38Z,user1,212634453,,,,,,,,81,closed,team2,Sid,2017-03-08T04:27:23Z
+,,,2017-03-08T04:03:58Z,0,2017-03-08T04:02:57Z,user1,212632023,,,,,,,,80,closed,team2,Sid,2017-03-08T04:03:58Z
+user1,['user1'],,2017-04-13T20:14:50Z,2,2017-03-08T03:58:29Z,user1,212631523,"[u'enhancement', u'mediumpriority']",,,,,,,79,closed,team2,App icon and logo,2017-04-13T20:14:50Z
+,,"- Major UI changes
+- Major Testing changes
+- Deployment changes",2017-03-08T02:46:36Z,0,2017-03-08T02:46:04Z,user1,212622417,,,,,,,,78,closed,team2,Onwards to version 2,2017-03-08T02:46:36Z
+,,,2017-03-07T22:49:13Z,0,2017-03-07T22:49:08Z,user2,212583888,,,,,,,,77,closed,team2,low res screenshots,2017-03-07T22:49:13Z
+,,,2017-03-07T22:42:09Z,0,2017-03-07T22:42:04Z,user2,212582291,,,,,,,,76,closed,team2,added screenshots,2017-03-07T22:42:09Z
+,,,2017-03-07T22:31:18Z,0,2017-03-07T22:23:08Z,user2,212577963,,,,,,,,75,closed,team2,fix incorrect voice-phrase crash,2017-03-07T22:31:18Z
+,,,2017-03-07T22:15:54Z,0,2017-03-07T22:02:18Z,user2,212572922,,,,,,,,74,closed,team2,Kg,2017-03-07T22:15:54Z
+,,,2017-03-07T20:07:24Z,0,2017-03-07T19:58:56Z,user2,212541785,,,,,,,,73,closed,team2,Kg,2017-03-07T20:07:24Z
+,,,2017-03-07T19:03:24Z,0,2017-03-07T18:55:35Z,user2,212525608,,,,,,,,72,closed,team2,Kg,2017-03-07T19:03:24Z
+user1,['user1'],"When a tag is created, Travis can build and deploy apk file to our [releases](https://github.com/SE17GroupH/Zap/releases).",2017-03-08T02:37:48Z,1,2017-03-05T20:27:39Z,user1,211980860,"[u'enhancement', u'lowpriority']",,,,,,,71,closed,team2,Release Deployment with Travis,2017-03-08T02:37:48Z
+user1,['user1'],,2017-03-05T20:23:11Z,0,2017-03-05T20:15:53Z,user1,211979970,,,,,,,,70,closed,team2,Store and use API keys from travis,2017-03-05T20:23:11Z
+user1,['user1'],"- store them as environment variable
+- encrypt using travis gem and in config file",2017-03-05T20:18:34Z,1,2017-03-05T17:14:27Z,user1,211967410,[u'mediumpriority'],,,,,,,69,closed,team2,Store api keys in travis,2017-03-05T20:18:42Z
+,,,2017-03-05T16:46:38Z,0,2017-03-05T16:46:18Z,user1,211965509,,,,,,,,68,closed,team2,Fix travis build config,2017-03-05T16:46:38Z
+,,,2017-03-05T06:37:22Z,0,2017-03-05T06:33:27Z,user1,211934378,,,,,,,,67,closed,team2,fix travis config ,2017-03-05T06:37:22Z
+,,,2017-03-05T06:08:51Z,0,2017-03-05T06:08:08Z,user1,211933153,,,,,,,,66,closed,team2,"Fix bugs, optimize and add config",2017-03-05T06:08:52Z
+user1,['user1'],"travisCI is a build automation tool, and free to use with a public repo. It would be pretty cool if we got the tests automated with every commit. 
+
+Resources:
+- https://travis-ci.org
+- https://travis-ci.org/getting_started
+- https://docs.travis-ci.com/user/getting-started/",2017-03-05T17:06:08Z,11,2017-03-04T19:43:35Z,user1,211902226,"[u'enhancement', u'mediumpriority']",,,,,,,65,closed,team2,Intergrating with travisCI,2017-03-05T17:06:08Z
+,,"So apparently there's a better way we can store the api keys in gradle.properties. Since it's specific to the project and ignored by git, it can be a convenient place. 
+
+References
+- https://stackoverflow.com/questions/31743594/android-excluding-an-api-key-from-github-where-to-store-the-api-key-in-code
+- https://technobells.com/best-way-to-store-your-api-keys-for-your-android-studio-project-e4b5e8bb7d23#.h7r5lmkyq",2017-03-05T17:14:41Z,0,2017-03-04T16:49:42Z,user1,211891082,"[u'enhancement', u'lowpriority']",,,,,,,64,closed,team2,Store api keys in gradle,2017-03-05T17:14:41Z
+,,"looking like much is done, and doing. 
+
+looking forward to seeing what parts of this run, at the demos after the spring break",2017-03-04T19:02:45Z,0,2017-03-01T14:51:00Z,timm,211103348,[u'feedback'],,,,,,,63,closed,team2,thanks for the feb report,2017-04-19T02:37:44Z
+,,"tue - report - 3 pages describing each method - 1 file
+thurs - midterm syllabus upto case study: the power of architectures
+13,14,15 - demo day review - show to TA
+write unit tests",2017-03-01T15:02:18Z,1,2017-02-24T02:06:40Z,user1,209940083,[u'requirement'],,,,,,,62,closed,team2,schedule,2017-04-19T02:38:21Z
+user1,"['user1', 'user3', 'user2']",,2017-03-08T18:47:03Z,6,2017-02-23T21:59:24Z,user2,209897103,[u'urgent'],,,,,,,61,closed,team2,Testing,2017-03-08T18:47:03Z
+user1,['user1'],App continues when profile is not created. Which leads to wrong enrollment.,2017-03-09T04:00:38Z,1,2017-02-23T21:37:39Z,user1,209891698,"[u'bug', u'mediumpriority', u'VoiceDNA']",,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,60,closed,team2,Profile id in speaker enrollment,2017-03-09T04:00:38Z
+user1,['user1'],App crashes when speaking wrong phrase in speaker enrollment. ,2017-03-07T22:23:35Z,1,2017-02-23T21:35:49Z,user1,209891264,"[u'bug', u'urgent']",2017-03-15T17:54:08Z,2017-02-18T17:08:20Z,2017-03-14T07:00:00Z,2332067.0,7.0,2017-03-15T17:54:08Z,59,closed,team2,Crash in voice enrollment,2017-03-07T22:23:35Z
+,,,2017-02-23T19:51:04Z,0,2017-02-23T19:50:59Z,user2,209865150,,,,,,,,58,closed,team2,seperated register API call from main thread,2017-02-23T19:51:04Z
+,,,2017-02-23T19:38:23Z,0,2017-02-23T19:38:17Z,user2,209862124,,,,,,,,57,closed,team2,seperated magic-link email call from main thread,2017-02-23T19:38:23Z
+,,,2017-02-23T19:12:52Z,0,2017-02-23T19:12:47Z,user2,209855520,,,,,,,,56,closed,team2,default login in background thread,2017-02-23T19:12:52Z
+,,,2017-02-23T18:52:18Z,0,2017-02-23T18:52:12Z,user2,209850384,,,,,,,,55,closed,team2,minor changes,2017-02-23T18:52:18Z
+,,Fixed the network on main thread. Put the API call on a background thread.,2017-02-21T21:53:18Z,0,2017-02-21T21:53:13Z,user2,209284238,,,,,,,,54,closed,team2,put magic-link login API call on background thread,2017-02-21T21:53:18Z
+,,,2017-02-21T03:14:53Z,0,2017-02-21T03:14:47Z,user2,209031313,,,,,,,,53,closed,team2,minor changes,2017-02-21T03:14:53Z
+,,,2017-02-21T02:42:42Z,0,2017-02-21T02:42:36Z,user2,209027310,,,,,,,,52,closed,team2,Kg,2017-02-21T02:42:42Z
+,,,2017-02-21T02:08:12Z,0,2017-02-21T02:08:06Z,user2,209023161,,,,,,,,51,closed,team2,Kg,2017-02-21T02:08:12Z
+user1,"['user1', 'user2']","These are some conditions when the app crashes:
+- [ ]  When fingerprint hardware is not present and fingerprint auth is opened.
+- [x] When the storage and/or audio record permission are not given at voice auth.
+",2017-04-13T20:15:09Z,5,2017-02-20T07:19:22Z,user1,208801504,"[u'bug', u'mediumpriority']",,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,50,closed,team2,Fingerprint App crash,2017-04-13T20:15:09Z
+user1,['user1'],Implement Voice Authentication/ Speaker Recognition functionality,2017-02-18T21:59:09Z,0,2017-02-18T21:59:01Z,user1,208674657,,,,,,,,49,closed,team2,Sid,2017-02-18T21:59:09Z
+user1,['user1'],,2017-03-07T23:01:47Z,3,2017-02-18T21:57:09Z,user1,208674556,"[u'enhancement', u'lowpriority']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,48,closed,team2,Add phrases and proper instructions for voice enrollment,2017-03-07T23:01:47Z
+user1,"['user1', 'user2']","Currently all the processing is done when a button is pressed, which leads to hang the app, and skip frames. Sometimes you are not logged in from the heavy login activity due to the skipped frame. This also affects voice login operations. 
+
+Potential solutions:
+- https://developer.android.com/reference/android/os/AsyncTask.html  
+- https://stackoverflow.com/questions/14678593/the-application-may-be-doing-too-much-work-on-its-main-thread#21126690
+
+Todo:
+
+- [x] Login api call 
+- [x] Magic link api call
+- [x] Register api call
+- [x] Voice enroll api call
+- [x] Voice verify api call",2017-02-23T20:21:27Z,2,2017-02-18T19:28:37Z,user1,208664751,"[u'bug', u'mediumpriority', u'UI']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,47,closed,team2,Separate heavy operations from UI,2017-02-23T20:21:27Z
+user1,"['user1', 'user3', 'user2']","For voice login, every user has to create a new profile with the Microsoft API. Every time the app is freshly installed we create a new voice login profile. Currently we can create only 1000 profiles. I was thinking of storing the profile id associated with each email address on the server.  
+
+Share your thoughts, and how easy is it to implement.",2017-02-20T17:40:55Z,11,2017-02-18T19:23:39Z,user1,208664335,"[u'enhancement', u'lowpriority', u'question']",2017-02-20T17:42:31Z,2017-02-08T16:27:18Z,2017-02-19T08:00:00Z,2309833.0,4.0,2017-02-20T17:42:31Z,46,closed,team2,Storing user data on server,2017-02-20T17:40:55Z
+user1,['user1'],"- if the user is not registered
+    - call the profile creation api
+    - call the enrollment api with profile id and register the user with 3 voice samples 
+- if verified
+    - call verification api with profile id and voice sample",2017-02-18T18:31:58Z,2,2017-02-18T15:39:32Z,user1,208648958,"[u'urgent', u'VoiceDNA']",2017-02-20T17:42:31Z,2017-02-08T16:27:18Z,2017-02-19T08:00:00Z,2309833.0,4.0,2017-02-20T17:42:31Z,45,closed,team2,Implement voice api calls,2017-02-18T18:31:58Z
+user1,"['user1', 'user2']","Currently the back button takes you to the previous activity - we don't want that. We wan't to restrict activity - when he has logged out, when he presses back button on profile page - should automatically get logged out.  ",2017-03-09T02:19:12Z,2,2017-02-18T15:36:23Z,user1,208648748,"[u'bug', u'mediumpriority']",,2017-03-08T18:40:37Z,2017-03-20T07:00:00Z,2372491.0,8.0,2017-04-13T20:15:09Z,44,closed,team2,Restrict back button access,2017-03-09T02:19:12Z
+,,Prepare for Speaker Recognition Implementation. Bunch of small changes.,2017-02-18T00:24:31Z,0,2017-02-18T00:24:24Z,user1,208592113,,,,,,,,43,closed,team2,Sid,2017-02-18T00:24:31Z
+,,,2017-02-18T00:14:51Z,0,2017-02-18T00:14:46Z,user2,208590962,,,,,,,,42,closed,team2,added voice recording for enrollment and verification,2017-02-18T00:14:51Z
+,,,2017-02-17T23:09:01Z,0,2017-02-17T23:08:49Z,user2,208581943,,,,,,,,41,closed,team2,added voice recording,2017-02-17T23:09:01Z
+,,Magic link linking added,2017-02-17T21:46:14Z,0,2017-02-17T21:46:02Z,user2,208566108,,,,,,,,40,closed,team2,Kg,2017-02-17T21:46:14Z
+,,"Implement logout api call. Save email, password at login. Improve validation at registration.",2017-02-17T05:02:01Z,0,2017-02-17T05:01:55Z,user1,208337173,,,,,,,,39,closed,team2,Improve a bunch of things,2017-02-17T05:02:01Z
+user1,['user1'],,2017-03-07T23:01:20Z,0,2017-02-17T04:28:41Z,user1,208332723,"[u'enhancement', u'lowpriority']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,38,closed,team2,Optimize the app to run faster,2017-03-07T23:01:20Z
+user1,['user1'],Currently have a pretty barebones UI. Make it prettier.,2017-03-07T23:01:04Z,3,2017-02-17T04:28:35Z,user1,208332712,"[u'enhancement', u'lowpriority', u'UI']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,37,closed,team2,Make the App UI prettier,2017-03-07T23:01:04Z
+user1,['user1'],,2017-02-20T17:48:22Z,2,2017-02-17T04:27:03Z,user1,208332491,[u'urgent'],2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,36,closed,team2,Implement magic link api call,2017-02-20T17:48:22Z
+user1,['user1'],,2017-02-17T14:19:51Z,1,2017-02-17T04:26:59Z,user1,208332481,[u'urgent'],2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,35,closed,team2,Implement email verification at registration,2017-02-17T14:19:51Z
+user1,['user1'],,2017-02-18T19:29:36Z,1,2017-02-17T04:26:53Z,user1,208332466,"[u'UI', u'urgent']",2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,34,closed,team2,Accept email in fingerprint activity,2017-02-18T19:29:36Z
+user1,['user1'],,2017-02-19T17:07:47Z,1,2017-02-17T04:26:49Z,user1,208332458,[u'urgent'],2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,33,closed,team2,Implement fingerprint backend api call to server,2017-02-19T17:07:47Z
+,,Merge major changes to app in master branch. See commits for changes.,2017-02-16T23:09:43Z,0,2017-02-16T23:09:31Z,user1,208278000,,,,,,,,32,closed,team2,Add Registration and Logging plus Fingerprint auth enhancements.,2017-02-16T23:09:43Z
+user1,['user1'],,2017-02-16T19:44:51Z,1,2017-02-16T19:00:57Z,user1,208214389,[u'requirement'],2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,31,closed,team2,Redirect from Fingerprint to Profile page,2017-04-19T02:38:34Z
+user1,['user1'],Possibly using GSON library: https://github.com/google/gson,2017-02-16T18:07:25Z,1,2017-02-16T16:15:05Z,user1,208168843,[u'requirement'],,,,,,,30,closed,team2,Parse JSON from API calls,2017-04-19T02:38:41Z
+user1,['user1'],,2017-02-17T04:20:07Z,1,2017-02-16T16:15:00Z,user1,208168821,[u'requirement'],2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,29,closed,team2,Implement Logout call,2017-04-19T02:38:48Z
+user1,['user1'],"Primitive values can be saved inside the app using SharedPreferences Key:value pairs in Android.
+Things to store:
+- Boolean loggedin - True/False
+- String auth_token - value ",2017-02-17T04:23:56Z,1,2017-02-16T16:14:54Z,user1,208168783,[u'requirement'],2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,28,closed,team2,Remember state. Save auth token inside app.,2017-04-19T02:38:54Z
+user1,"['user1', 'user3', 'user2']","We've to decide how the registration will take place. Currently we are taking email, password as input.
+- Add authentication mode as input - magic link/fingerprint. to store which user has registered for magic link. 
+- Verify email address? - for magic link to work we need a verified email address. 
+- For fingerprint the server doesn't have to do anything, so no case there.
+- I can do the validation of password, in the app itself, at least 6 chars.
+- After registration
+    - do we redirect to the login page
+    - or login automatically ? 
+    - it will depend if user can immediately login after registering.",2017-02-20T17:39:48Z,8,2017-02-16T15:56:10Z,user1,208162599,"[u'question', u'urgent']",2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,27,closed,team2,Registration process flow,2017-02-20T17:39:48Z
+user1,['user1'],"Getting exception when user enters wrong username or password:
+
+`java.io.FileNotFoundException: https://zapserver.herokuapp.com/api/sessions`",2017-02-15T08:18:53Z,5,2017-02-14T21:50:55Z,user1,207646965,[u'bug'],2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,26,closed,team2,Error on wrong credentials,2017-02-15T08:19:49Z
+,,,2017-02-14T18:25:24Z,0,2017-02-14T18:25:14Z,user1,207596652,,,,,,,,25,closed,team2,Add local Fingerprint authentication in Android app,2017-02-14T18:25:24Z
+user1,"['user1', 'user3', 'user2']","So, as you guys know, the register, login and logout function has already been done, and I think I have a pretty solid idea on how to implement the magiclink stuff. Any update on your end? Should we meet up earlier before class to discuss some issues you guys are facing? @thegreyd @KaustubhG ",2017-03-08T18:43:24Z,15,2017-02-14T14:11:33Z,user3,207525794,[u'question'],2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,24,closed,team2,Status update,2017-03-08T18:43:24Z
+user2,['user2'],"- [x] Familiarize with Microsoft  API
+- [x] Make a toy app recording and saving voice
+- [x] Incorporate functionality in Zap",2017-02-20T17:12:57Z,5,2017-02-09T21:04:42Z,user2,206629388,[u'VoiceDNA'],2017-02-20T17:42:31Z,2017-02-08T16:27:18Z,2017-02-19T08:00:00Z,2309833.0,4.0,2017-02-20T17:42:31Z,23,closed,team2,Voice-DNA : get familiar with API and create a toy working app.,2017-02-20T17:12:57Z
+,,,2017-02-09T20:39:32Z,0,2017-02-09T20:39:25Z,user3,206623377,,,,,,,,22,closed,team2,Move server project to seperate repo,2017-02-09T20:39:32Z
+,,"@DevArenaCN @thegreyd 
+Guys could you create a new repo for the server-side code?
+Putting everything in the same repo will create a mess.",2017-02-09T20:40:29Z,7,2017-02-09T18:29:53Z,user2,206590215,[u'urgent'],,,,,,,21,closed,team2,New Repo for server stuff,2017-02-09T20:40:30Z
+,,Add server side code in the server folder,2017-02-09T17:38:49Z,0,2017-02-09T17:38:43Z,user3,206576854,,,,,,,,20,closed,team2,Basic registration with Devise using RoR,2017-02-09T17:38:49Z
+,,"Basic UI and app flow is in place.
+@thegreyd @DevArenaCN  , have a look and then and then I'll go ahead and merge this to the master branch.
+",2017-02-09T17:00:42Z,0,2017-02-09T16:17:32Z,user2,206551427,,,,,,,,19,closed,team2,Kg,2017-02-09T17:00:42Z
+user1,"['user1', 'user3']","Adding register function to the app, need communication between server and app.
+
+Harold-- Server side API calls creation.
+
+Sid-- Android app side",2017-02-15T08:21:20Z,6,2017-02-09T03:19:20Z,user3,206392808,"[u'Fingerprint', u'MagicLink', u'urgent', u'VoiceDNA']",2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,18,closed,team2,Adding register function,2017-02-15T08:21:20Z
+user1,['user1'],Adding fingerprint authentication function inside the app,2017-02-20T17:47:56Z,3,2017-02-09T02:40:57Z,user3,206387895,[u'Fingerprint'],2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,17,closed,team2,Fingerprint authentication inside the app,2017-02-20T17:47:56Z
+user2,['user2'],"Creating pages shown in the program flow as showed here. Modification can be made by your choice, but I would like to discuss it in this issue first. Thanks!",2017-02-09T18:42:58Z,15,2017-02-09T02:38:07Z,user3,206387523,[u'UI'],2017-02-13T01:52:05Z,2017-02-08T16:26:32Z,2017-02-11T08:00:00Z,2309829.0,2.0,2017-02-13T01:52:05Z,16,closed,team2,Creating all pages in the app,2017-02-09T18:42:58Z
+user2,['user2'],"Create a basic structure mimicking the program flow in the mock-up. Once this is setup, more functionality can be added to it.",2017-02-09T16:15:05Z,1,2017-02-09T02:37:56Z,user2,206387502,"[u'enhancement', u'UI']",2017-02-13T01:52:05Z,2017-02-08T16:26:32Z,2017-02-11T08:00:00Z,2309829.0,2.0,2017-02-13T01:52:05Z,15,closed,team2,Build basic place holders for the real stuff in the app,2017-02-09T16:15:05Z
+user1,"['user1', 'user3', 'user2']",,2017-02-09T18:43:16Z,4,2017-02-09T01:44:35Z,user3,206380135,"[u'UI', u'urgent']",2017-02-13T01:52:01Z,2017-02-08T16:25:50Z,2017-02-09T08:00:00Z,2309827.0,1.0,2017-02-13T01:52:01Z,14,closed,team2,Work out program flow for the app,2017-02-09T18:43:16Z
+,,Test merge.,2017-02-08T21:28:28Z,0,2017-02-08T21:28:17Z,user2,206330010,,,,,,,,13,closed,team2,test branch commit,2017-02-08T21:28:28Z
+user1,"['user1', 'user2']",,2017-02-09T21:06:40Z,1,2017-02-08T20:53:35Z,user3,206321320,[u'enhancement'],2017-02-13T01:52:01Z,2017-02-08T16:25:50Z,2017-02-09T08:00:00Z,2309827.0,1.0,2017-02-13T01:52:01Z,12,closed,team2,Make sure to work on your own branch,2017-02-09T21:06:40Z
+user1,"['user1', 'user3', 'user2']",,2017-02-23T20:45:15Z,0,2017-02-08T16:49:36Z,user3,206256354,"[u'enhancement', u'lowpriority', u'VoiceDNA']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,11,closed,team2,Add timing module for VoiceDNA auth,2017-02-23T20:45:15Z
+user1,"['user1', 'user3', 'user2']",,2017-02-23T20:45:28Z,0,2017-02-08T16:49:03Z,user3,206256167,"[u'enhancement', u'lowpriority', u'MagicLink']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,10,closed,team2,Add timing module to MagicLink,2017-02-23T20:45:28Z
+user1,"['user1', 'user3', 'user2']",,2017-02-23T20:45:37Z,0,2017-02-08T16:48:21Z,user3,206255960,"[u'enhancement', u'Fingerprint', u'lowpriority']",2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,9,closed,team2,Adding timing module for fingerprint auth,2017-02-23T20:45:37Z
+user3,['user3'],,2017-02-16T22:42:24Z,1,2017-02-08T16:46:45Z,user3,206255494,[u'MagicLink'],2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,8,closed,team2,Resources on setting up server for MagicLink,2017-02-16T22:42:24Z
+user2,['user2'],,2017-02-09T16:15:22Z,1,2017-02-08T16:37:43Z,user3,206252745,[u'UI'],2017-02-13T01:52:05Z,2017-02-08T16:26:32Z,2017-02-11T08:00:00Z,2309829.0,2.0,2017-02-13T01:52:05Z,7,closed,team2,UI design,2017-02-09T16:15:22Z
+user1,"['user1', 'user3', 'user2']",,2017-02-21T15:20:34Z,11,2017-02-08T16:37:36Z,user3,206252705,[u'VoiceDNA'],2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,6,closed,team2,VoiceDNA issues,2017-02-21T15:20:34Z
+user1,"['user1', 'user3', 'user2']",,2017-02-23T20:46:26Z,6,2017-02-08T16:37:19Z,user3,206252623,[u'MagicLink'],2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,5,closed,team2,MagicLink issues,2017-02-23T20:46:26Z
+user1,"['user1', 'user3', 'user2']",,2017-02-21T13:55:41Z,1,2017-02-08T16:35:41Z,user3,206252135,[u'Fingerprint'],2017-03-08T18:41:27Z,2017-02-08T16:27:45Z,2017-03-31T07:00:00Z,2309836.0,6.0,2017-03-08T18:45:30Z,4,closed,team2,Fingerprint authentication issues,2017-02-21T13:55:41Z
+user1,"['user1', 'user3', 'user2']",,2017-02-17T04:41:55Z,1,2017-02-08T16:35:12Z,user3,206251994,[u'Fingerprint'],2017-02-20T17:48:30Z,2017-02-08T16:26:56Z,2017-02-19T08:00:00Z,2309831.0,3.0,2017-02-20T17:48:30Z,3,closed,team2,Searching for resources for Fingerprint authentication,2017-02-17T04:41:55Z
+user1,"['user1', 'user3']","- [x] Add basic user registration function API
+
+- [x] Migrate from SQlite3 to PostgreSQL
+
+- [x] Host on Heroku
+
+- [x] RESTful with Android side
+
+- [x] Token authentication ability
+
+- [x] Email token
+
+- [x] Magic Link Login",2017-02-17T02:37:33Z,2,2017-02-08T16:34:48Z,user3,206251866,[u'MagicLink'],2017-02-20T17:48:28Z,2017-02-08T16:27:33Z,2017-02-19T08:00:00Z,2309835.0,5.0,2017-02-20T17:48:28Z,2,closed,team2,Set up server for magic link,2017-02-17T02:37:33Z
+user1,"['user1', 'user2']",Adding project base code and push it to GitHub,2017-02-08T20:34:13Z,3,2017-02-08T16:25:31Z,user3,206249039,"[u'help wanted', u'UI']",2017-02-13T01:52:01Z,2017-02-08T16:25:50Z,2017-02-09T08:00:00Z,2309827.0,1.0,2017-02-13T01:52:01Z,1,closed,team2,Set up project base code,2017-02-08T20:34:13Z
+user1,"['user1', 'user3']","The magic link sent to the email has a typo.
+
+Currently it's http://zzapserver.herokuapp.com
+
+should be zapserver.herokuapp.com",2017-03-27T01:31:05Z,1,2017-03-27T01:21:53Z,user1,217112470,[u'bug'],,,,,,,24,closed,team2,Wrong Magic link,2017-03-27T01:31:05Z
+,,,2017-03-10T03:24:16Z,0,2017-03-10T03:24:09Z,user3,213232862,,,,,,,,23,closed,team2,Adding views for Devise,2017-03-10T03:24:16Z
+,,,2017-03-10T03:14:26Z,0,2017-03-10T03:14:21Z,user3,213231490,,,,,,,,22,closed,team2,Upgrade security,2017-03-10T03:14:26Z
+,,,2017-03-10T03:01:43Z,0,2017-03-10T03:01:38Z,user3,213229931,,,,,,,,21,closed,team2,upgrade security for showing too much info,2017-03-10T03:01:43Z
+user1,"['user1', 'user3']","All the registered users with their auth tokens are visible. Not secure. 
+
+This happens when a HTTP GET request is sent to https://zapserver.herokuapp.com/api/users/1, server returns all the details of the user as JSON response.
+
+https://zapserver.herokuapp.com/api/users/1
+https://zapserver.herokuapp.com/api/users/2 ..etc.",2017-03-10T03:17:09Z,4,2017-03-09T19:38:09Z,user1,213142248,[u'bug'],,2017-03-09T00:24:41Z,2017-03-14T07:00:00Z,2373287.0,1.0,2017-03-10T04:11:25Z,20,closed,team2,Database information is public,2017-03-10T03:17:09Z
+user1,"['user1', 'user3']","Make confirmation mail at Registration, similar to the awesome Magic Link mail. I'm guessing this shouldn't be difficult. ",2017-03-10T04:11:25Z,1,2017-03-09T00:25:10Z,user1,212899351,[u'enhancement'],,2017-03-09T00:24:41Z,2017-03-14T07:00:00Z,2373287.0,1.0,2017-03-10T04:11:25Z,19,closed,team2,Confirmation mail,2017-03-10T04:11:25Z
+user3,['user3'],,2017-04-13T20:17:07Z,5,2017-02-28T17:55:22Z,user3,210862176,[u'enhancement'],,,,,,,18,closed,team2,Creating API calls for storing Microsoft cognitive id,2017-04-13T20:17:07Z
+user3,['user3'],,2017-02-23T21:28:30Z,1,2017-02-23T14:27:11Z,user3,209775497,[u'enhancement'],,,,,,,17,closed,team2,Modify UI for emails for magiclink and user confirmation,2017-02-23T21:28:30Z
+,,Change email format for magic link login,2017-02-23T14:25:52Z,0,2017-02-23T14:25:46Z,user3,209775083,,,,,,,,16,closed,team2,Mail modify,2017-02-23T14:25:52Z
+,,Update JSON for successfully sent out magic link,2017-02-20T17:37:00Z,0,2017-02-20T17:36:54Z,user3,208944489,,,,,,,,15,closed,team2,minor change to magicLink return JSON format,2017-02-20T17:37:01Z
+user3,['user3'],"When I make the following call, it returns a bad request:
+- Call: `curl -k -v -H ""Content-Type:application/json"" -X POST -d ""{'magiclink':{'email':'sid.sharma0@gmail.com'}}"" https://zapserver.herokuapp.com/api/magiclinks/
+`
+- Response: `{""status"":400,""error"":""Bad Request""}`
+
+Instead when you make this call it accepts
+- `curl -k -v -H ""Content-Type:application/json"" -X POST -d '{""magiclink"":{""email"":""sid.sharma0@gmail.com""}}' https://zapserver.herokuapp.com/api/magiclinks/`
+
+- Response: 204
+
+The difference between them is in the JSON body, I inter-changed single and double quotes. I am not able to implement the single quotes version in Java, because strings can't be inside single quotes. 
+Please fix this. 
+
+
+",2017-02-20T13:22:24Z,6,2017-02-20T07:10:40Z,user1,208800315,[u'bug'],,,,,,,14,closed,team2,Magic link api call quotes error,2017-02-20T17:35:49Z
+user1,"['user1', 'user3', 'user2']","The email verification step now takes place at the beginning. I was thinking this may not be the ideal choice, because we only need it for the magic link setup, and it increases steps to register(which we are trying to reduce). Actually we can design, so username can be anything not only email - an alias that you use, like Reddit. Reddit only asks for email after registration when it needs to connect with you, ex-when resetting password. 
+
+In either case, the email verification step can be in magic link setup, linked to a button to verify email. If we accept email as username, we'll send to that address; if we accept usernames of any kind, we'll have a field asking for email, and send to that. 
+
+I maybe overlooking somethings. Do share your thoughts.",2017-02-18T17:03:21Z,5,2017-02-18T08:22:09Z,user1,208624465,[u'question'],,,,,,,13,closed,team2,Email verification design discussion.,2017-02-18T17:03:21Z
+,,Adding email confirmation method,2017-02-17T14:19:32Z,0,2017-02-17T14:19:08Z,user3,208455140,,,,,,,,12,closed,team2,Magic link,2017-02-17T14:19:32Z
+,,,2017-02-17T02:28:35Z,0,2017-02-17T02:28:30Z,user3,208314909,,,,,,,,11,closed,team2,Add authorization with email and token,2017-02-17T02:28:35Z
+,,Adding magic link for Android app,2017-02-17T01:41:40Z,0,2017-02-17T01:41:10Z,user3,208306926,,,,,,,,10,closed,team2,Magic link,2017-02-17T01:41:40Z
+,,Adding email sending function,2017-02-16T14:00:47Z,0,2017-02-16T14:00:40Z,user3,208129313,,,,,,,,9,closed,team2,Magic link,2017-02-16T14:00:47Z
+user3,['user3'],"When entering wrong email address in Login api call, this is returned
+`{""status"":500,""error"":""Internal Server Error""}`
+
+Should be changed to 422(or related) with a relevant error message.
+
+- Example
+`curl -k -v -H ""Content-Type:application/json"" -d '{""session"":{""password"":""123456789"",""email"":""example@zapserver1.com""}}' https://zapserver.herokuapp.com/api/sessions/`",2017-02-17T02:31:58Z,2,2017-02-15T08:28:19Z,user1,207737106,[u'bug'],,,,,,,8,closed,team2,Error at wrong username when logging in,2017-02-17T02:31:58Z
+user3,['user3'],,2017-02-17T02:28:45Z,1,2017-02-14T22:38:36Z,user3,207657691,[u'enhancement'],,,,,,,7,closed,team2,Add authorization calls when directed back to the app,2017-02-17T02:28:45Z
+user3,['user3'],,2017-02-17T01:41:59Z,1,2017-02-14T22:38:07Z,user3,207657579,[u'enhancement'],,,,,,,6,closed,team2,Able to use the link to direct back to the app,2017-02-17T01:41:59Z
+user3,['user3'],,2017-02-16T14:01:05Z,1,2017-02-14T22:37:43Z,user3,207657492,[u'enhancement'],,,,,,,5,closed,team2,Adding auth token inside email,2017-02-16T14:01:05Z
+user3,['user3'],,2017-02-16T14:00:56Z,1,2017-02-14T22:37:25Z,user3,207657419,[u'enhancement'],,,,,,,4,closed,team2,Send email to user's email,2017-02-16T14:00:56Z
+user3,['user3'],Create documentation for the API calls used in Android,2017-02-13T14:26:09Z,1,2017-02-09T20:42:13Z,user3,206624023,[u'requirement'],,,,,,,3,closed,team2,Create documentation,2017-04-19T02:36:57Z
+user3,['user3'],"- [x] Registration working
+
+- [x] User sign in working
+
+- [x] User log out working",2017-02-13T14:26:41Z,1,2017-02-09T20:41:39Z,user3,206623883,[u'requirement'],,,,,,,2,closed,team2,Basic testing on the API calls,2017-04-19T02:36:50Z
+user1,"['user1', 'user3', 'user2']","- [x] Add basic user registration function API
+
+- [x] Migrate from SQlite3 to PostgreSQL
+
+- [x] Host on Heroku
+
+- [x] RESTful with Android side
+
+- [x] Token authentication ability
+
+- [x] Email token
+
+- [x] Magic Link Login",2017-02-17T02:29:07Z,11,2017-02-09T20:40:53Z,user3,206623738,[u'requirement'],,,,,,,1,closed,team2,Server setup for Android App,2017-04-19T02:36:36Z
+user3,['user3'],"Requirement:
+1)Add Courses - here course_number should be all capitalised, exp> CSC510, not csc510
+2)Add Professor - keep the same naming convention for all the professor
+3)Add department - keep the same naming convention for all the department
+
+",,0,2017-03-18T15:17:15Z,user1,215200518,"[u'core', u'easy']",,,,,,,21,open,team3,Admin Panel,2017-04-19T15:24:06Z
+,,"Think about which chart to use to show which data,
+Do we show the most common value or average of all the data values?",2017-04-19T15:22:53Z,2,2017-03-15T14:24:20Z,user1,214405328,"[u'enhancement', u'help wanted']",,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,20,closed,team3,Visual representations,2017-04-19T16:14:11Z
+user3,['user3'],"Where are we storing the current user and his/her information? I tried using @current_user, but its empty. Li, Can you please look into it. I want the current user info accessible on all pages. For that, you need to create and put that into session variable. ",2017-03-10T22:29:42Z,2,2017-03-10T14:58:22Z,user1,213362605,[u'help wanted'],,2017-02-06T15:22:40Z,2017-02-09T08:00:00Z,2302972.0,1.0,2017-04-19T16:15:59Z,19,closed,team3,Session Management,2017-04-19T16:14:22Z
+,,"no 3  pages posted to column I of https://docs.google.com/spreadsheets/d/1VKyJXfArq2DzuIfagd0Ffv2HLPO6mVnPWv8OZxexY-k/edit#gid=0 
+
+- each page describing each solution's progress under the headings ""done, doing, roadblocks""
+
+please fix.",2017-03-09T21:18:04Z,1,2017-03-01T14:53:23Z,timm,211104076,[u'bug'],,,,,,,18,closed,team3,no feb report,2017-04-19T15:42:18Z
+,,"Before db migration, we'd better delete all the tables in the local database, otherwise there will be conflict.",2017-03-09T21:18:21Z,1,2017-02-28T03:22:36Z,user4,210676123,[u'note'],,2017-02-06T15:35:12Z,2017-02-12T08:00:00Z,2303013.0,2.0,2017-04-19T16:15:24Z,17,closed,team3,Take care of db migration,2017-04-19T16:14:37Z
+user3,"['user3', 'user1']",I am trying to store the data to 2 different tables from the same form. I don't know how to do that. Can someone please look into that. ,2017-03-15T14:22:44Z,1,2017-02-28T00:57:36Z,user1,210655279,[u'help wanted'],,2017-02-06T15:53:40Z,2017-02-19T08:00:00Z,2303066.0,4.0,2017-04-19T16:15:40Z,16,closed,team3,Issue with storing form data to multiple tables,2017-04-19T16:14:50Z
+user2,"['user2', 'user1', 'user4']","I met a problem of searching courses. When choosing empty and press search, in ""courses_controller"", @courses = Course.all returns a nil, but I have one item in my database. Can anyone help?",2017-03-09T21:19:03Z,1,2017-02-24T21:33:40Z,user3,210163553,"[u'help wanted', u'question']",,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,15,closed,team3,The search course function,2017-04-19T16:14:59Z
+,,"I have updated our application, but since we do not have the user view, when the user sign up or login in successfully, our application will always redirect to the home page. After we have the user view and other views, I will change the code to let the our application redirect to the proper place.",2017-02-23T20:20:02Z,2,2017-02-22T03:13:50Z,user4,209340102,[u'note'],,2017-02-06T15:59:38Z,2017-02-23T08:00:00Z,2303096.0,5.0,2017-04-19T16:15:15Z,14,closed,team3,Small issue about login and sign up,2017-04-19T16:15:15Z
+,,"a. Should create index for models
+b. Check the use of ""uniqueness"", is it working as combined uniqueness or separate uniqueness?",2017-03-09T21:20:02Z,0,2017-02-21T20:18:26Z,user3,209260767,[u'medium'],,2017-02-06T15:35:12Z,2017-02-12T08:00:00Z,2303013.0,2.0,2017-04-19T16:15:24Z,13,closed,team3,Data model fix,2017-04-19T16:15:24Z
+user3,"['user3', 'user4']","1. Figure out how to store multiple values in a cell.
+2. Create mapping tables for all drop downs.
+3. Try to optimize feedback table.
+![whatsapp image 2017-02-19 at 10 54 35 pm](https://cloud.githubusercontent.com/assets/21146384/23111439/9b92e548-f6f6-11e6-81ad-5ff906ca8159.jpeg)
+",2017-02-24T21:29:16Z,3,2017-02-20T03:57:36Z,user2,208778540,[u'help wanted'],,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,12,closed,team3,Database Schema,2017-02-24T21:29:16Z
+user3,"['user3', 'user1', 'user4']","@czhao13rm wants to do the development on ""cloud 9"" (https://c9.io/). Do you know if it is able to cooperate with others who develop from local machine? If there are problems, please configure your local develop environment as soon as possible. :)",2017-02-19T22:12:59Z,1,2017-02-19T18:07:17Z,user3,208734367,[u'help wanted'],,2017-02-06T15:53:40Z,2017-02-19T08:00:00Z,2303066.0,4.0,2017-04-19T16:15:40Z,11,closed,team3,Development on cloud 9,2017-04-19T16:15:40Z
+,,"a) "".idea"" folder
+If you use Rubymine, it will generate a "".idea"" folder which stores personal configuration data. This folder will cause problems while fetching and merging branches. I added a "".gitignore"" file which prevent synchronize such files.
+
+b) ""FeedbackApp/config/database.yml""
+This is database configure file. Since we use Heroku to deploy our application, it will automatically generate database file on production. Also, this file stores the role information of PostgreSQL in local environment which we do not want to share.",2017-03-15T14:46:44Z,1,2017-02-19T17:53:38Z,user3,208733465,[u'note'],,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,10,closed,team3,Be careful of the gitignore,2017-04-19T16:15:49Z
+,,"1) Forum - Check how to add chat/forum feature with the extended like/dislike functionality
+2) API - Check whether the RMP API works with the ruby-rails , How to integrate node module with Ruby
+          - How to get data from NCSU course catalogue
+3) Design questionnaire first
+4) HOW TO GET INITIAL DATA? ",2017-04-19T15:25:15Z,0,2017-02-07T22:09:34Z,user1,206031764,[u'hard'],,2017-02-06T15:22:40Z,2017-02-09T08:00:00Z,2302972.0,1.0,2017-04-19T16:15:59Z,9,closed,team3,Critical issues,2017-04-19T16:15:59Z
+,,"Things to do: 
+1)Authentication - Profile creation for user, Login./Logout features (Restrict to NCSU Users)  
+2)Design the views: 
+a) Questionnaire to give feedback  -- Devika
+b) Visualisation screen for displaying course details (description, API data and Questionnaire answers) -- Chen
+c) Suggest courses - factors -- Devika
+d) Profile page (My account) -- LI
+e) Homepage --Rushi
+
+3)Chat application for Forum -- Rushi
+4)How to get API data from RMP and Course Description -- Li
+
+Timeline: 
+10th Feb: Complete the wireframes for each view
+11th Feb: Devika and Chen - Learn Ruby on Rails properly, Rushi and Li - Try to complete task 3 and 4
+12th Feb: Meet for discussing the DB schema
+..
+..
+.. (Planning yet to come for these intermediate days)
+..
+..
+28th Feb: Submission
+
+",2017-03-09T21:19:36Z,1,2017-02-06T21:41:11Z,user1,205716104,[u'enhancement'],,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,8,closed,team3,Feb Milestone - Detailed plan and work distribution,2017-04-19T16:16:11Z
+,,,2017-03-09T21:19:48Z,0,2017-02-06T16:05:32Z,timm,205630692,[u'question'],,,,,,,7,closed,team3,looking around issue,2017-03-09T21:19:48Z
+,,can i add this to projects?,2017-04-19T15:23:26Z,2,2017-02-06T16:05:01Z,timm,205630558,[u'core'],,,,,,,6,closed,team3,test issue,2017-04-19T15:41:59Z
+,,"Design database tables and relations.
+Design views according to prototype.
+Design controllers according to functional specification.",2017-02-12T02:24:00Z,0,2017-02-06T15:40:59Z,user3,205622158,"[u'core', u'hard']",,2017-02-06T15:35:12Z,2017-02-12T08:00:00Z,2303013.0,2.0,2017-04-19T16:15:24Z,5,closed,team3,MVC Design,2017-02-12T02:24:00Z
+,,"Roles of users.
+Authority of roles.
+What can the user do?
+
+",2017-02-20T03:16:03Z,1,2017-02-06T15:37:25Z,user3,205621021,"[u'core', u'medium']",,2017-02-06T15:35:12Z,2017-02-12T08:00:00Z,2303013.0,2.0,2017-04-19T16:15:24Z,4,closed,team3,Write functional specification,2017-02-20T03:16:03Z
+,,"Draw basic website prototypes for the following:
+1) Forum implementation (Login module, course module, chat console)
+2) Course details implementation (Choose course module, How to show - RMP API, Course description API, Design questionnaire)
+3)Course suggestion module (Profile creation module, Think how to show suggestions, How to find suggestions)",2017-02-12T02:24:00Z,0,2017-02-06T15:29:15Z,user3,205618295,"[u'core', u'medium']",,2017-02-06T15:22:40Z,2017-02-09T08:00:00Z,2302972.0,1.0,2017-04-19T16:15:59Z,3,closed,team3,Design prototypes,2017-02-12T02:24:00Z
+,,"Sharing technical background among group members, decide techniques that would be used to implement the project.
+As of now, inclined to use Ruby on Rails for the web development.
+Search for other options.
+Learn the technology (Ruby, Rails, RSpec) thoroughly before starting the implementation.",2017-02-12T02:24:00Z,0,2017-02-06T15:26:16Z,user3,205617309,"[u'core', u'easy']",,2017-02-06T15:22:40Z,2017-02-09T08:00:00Z,2302972.0,1.0,2017-04-19T16:15:59Z,2,closed,team3,Techniques choosing,2017-02-12T02:24:00Z
+user2,"['user2', 'user3', 'user4']","**Outline of Jan report - Team K** 
+Abstract - Introduction    -- Rushi
+User Study -  a) Research Questions (And why those questions?) -- Rushi
+                      b) Responses (How did we collect the data and our user base ?)  --- Devika
+Observations  - Survey results for each question ( And what does it indicate ) -- Rushi
+A justification for the need of better feedback/review system ( And Why not classEval )? --- Li
+Approach and future scope -- Chen
+Conclusion - References -- Chen
+
+P.S: I couldn't find enough literature to be added in the report, so please look into that if you get time 
+Other tasks: Learn Latex (Devika has already started)
+PPT on Google Slides: Li and Chen 
+Don't forget to add chits at the end for credits ",2017-02-06T15:41:28Z,0,2017-01-28T17:21:36Z,user1,203818880,"[u'core', u'note']",,2017-02-06T15:46:32Z,2017-02-18T08:00:00Z,2303050.0,3.0,2017-04-19T16:17:45Z,1,closed,team3,Jan report - Outline,2017-04-19T16:17:45Z
+,,"- [x] Make folder names short to include all courses [Zubin]
+- [x] Add all CSC graduate level courses [Zubin]
+- [x] Add users to the Piazza platform [Zubin]
+- [ ] Add Fall 2017 students to Piazza forum [Ongoing]
+- [ ] Get statistics from the Piazza forum [Zubin] - The waiting is the hardest part",2017-04-19T11:59:56Z,0,2017-03-16T22:16:17Z,user1,214854439,,2017-04-20T20:35:59Z,2017-03-16T22:11:36Z,2017-03-19T07:00:00Z,2392039.0,4.0,2017-04-20T20:35:59Z,15,closed,team4,Evaluation Plan on Piazza,2017-04-19T11:59:56Z
+,,"- [x] Add all the courses to the Database [Adrian]
+- [x] Add database tables for evaluation stuff [Adrian]
+- [x] Track time spent by user on each page [Adrian]
+Decided to time manually",2017-03-27T20:37:11Z,0,2017-03-16T22:14:13Z,user1,214853999,,2017-04-20T20:35:59Z,2017-03-16T22:11:36Z,2017-03-19T07:00:00Z,2392039.0,4.0,2017-04-20T20:35:59Z,14,closed,team4,Evaluation Plan on Website,2017-03-27T20:37:11Z
+user3,"['user3', 'user1', 'user2']","- [ ] Deploy Website [Fuzail] 
+- [x] Get rooms at Hunt for interviews 
+- [x] Create Signup Sheet [Fuzail] 
+- [ ] Conduct Interviews
+- [x] Create questionnaire for interviews
+- [ ] Create Report using data from interviews",2017-04-19T11:59:56Z,0,2017-03-14T21:47:40Z,user2,214216769,,2017-04-20T20:35:59Z,2017-03-16T22:11:36Z,2017-03-19T07:00:00Z,2392039.0,4.0,2017-04-20T20:35:59Z,13,closed,team4,Evaluation Plan - General,2017-04-19T11:59:56Z
+,,"- low number of total commits
+- the feb report mentions an ROR site, not screen snaps. not sure if that is real of ""vaporware"" at this point
+- the data mining stuff is interesting but you realize you need data to mine data, right? and if you cant get exactly what you want right now then the game changes: 
+       - can you design an environment that would collect the necessity data such that data mining would become useful at some time in the future?
+
+looking forward to seeing what parts of this are running, at the demos after the break.",2017-03-27T20:37:34Z,2,2017-03-01T15:00:04Z,timm,211106190,,,,,,,,12,closed,team4,some interesting pattterns in your work,2017-03-27T20:37:34Z
+user2,['user2'],- [x] Create Report,2017-03-01T02:36:47Z,0,2017-02-26T18:15:49Z,user1,210336496,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,11,closed,team4,Create Report,2017-03-01T02:36:47Z
+,,"- [ ] Book a domain and host the website
+- [ ] Add data for all the courses on the website 
+- [ ] Enhance text mining solution to rate specific Professor
+",2017-04-19T11:59:56Z,0,2017-02-23T23:06:13Z,user1,209911922,,2017-04-20T20:35:58Z,2017-02-06T22:12:18Z,2017-03-31T07:00:00Z,2304189.0,3.0,2017-04-20T20:35:58Z,10,closed,team4,Carrry over from Feb Milestone,2017-04-19T11:59:56Z
+,,"- [x] Check integration of multiple languages and tools
+- [x] Test website (RubyonRails)
+- [ ] Add people/ and review forum (PUSHED TO MARCH MILESTONE)
+- [ ] Test the text mining/regression model (PUSHED TO MARCH MILESTONE)
+- [x] Test integration of website and text mining. ",2017-03-01T02:37:12Z,0,2017-02-13T21:50:12Z,user1,207349755,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,9,closed,team4,Testing (23 - 28 Feb),2017-03-01T02:37:12Z
+,,"- [ ] Get data from RateMyProfessor
+- [ ] Create a script to automatically import new data to our database
+- [ ] Enhance text mining solution to rate Content on the scale - EASY vs HARD",2017-04-19T11:59:56Z,0,2017-02-06T22:30:44Z,user1,205727689,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,8,closed,team4,Extension,2017-04-19T11:59:56Z
+,,"So we can keep track of when we're meeting. 
+
+- [x]  Talk to professor in class about solutions for Peer to Peer Implementation
+- [x] Meet on Feb 9th (Agenda : Data collection, and add to database)
+- [x] Meet on Feb 13th (Get the data together, and build designs)
+Data collection is done. Design to be ready by next meeting
+- [x] Meet on Feb 16th (Discuss the progress on designs)
+Extending to Saturday meeting
+- [x] Meet on Saturday Feb 18th (Noon hack to get things done)
+- [x] Meet on Tuesday, Feb 21st (Discuss progress on assignments and update GITHUB profile for spot quiz)
+- [x] Meeting for integrating website and text mining (Wed, Feb 22) 
+- [x] Meet on Saturday for testing, Feb 25th. 
+- [x] Meeting on Monday, 2/27 to complete report. 
+- [x] Meeting on 3/27 to finalize evaluations
+- [ ] Meeting on 3/29 for Evaluations",2017-04-19T11:59:56Z,0,2017-02-06T22:16:05Z,user1,205724322,,2017-04-20T20:35:58Z,2017-02-06T22:12:18Z,2017-03-31T07:00:00Z,2304189.0,3.0,2017-04-20T20:35:58Z,7,closed,team4,Project Meetings,2017-04-19T11:59:56Z
+user3,"['user3', 'user1', 'user2']","- [x] Create a database (Adrian, Fuzail. Deadline : Feb 13. Extended to Feb 16)
+- [x] Book domain for hosting Ruby on Rails application (Along with testing)
+We will just do the demo on local host
+- [x] Create design/prototype of website. (Adrian, Fuzail. ETA : Feb 16)
+Extended to Feb 18
+- [x] Integrate text mining solution to the website. (Zubin, Adrian. ETA : Feb 25)
+- [ ] Deploy website on a public server. (PUSHED TO MARCH MILESTONE)",2017-03-01T02:35:54Z,0,2017-02-06T22:15:21Z,user3,205724156,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,6,closed,team4,Implementation 1 : Web Slurping,2017-03-01T02:39:59Z
+,,"Things to support the 3 implementations. 
+Identify stuff that we cannot work without! 
+
+- [x] Collect data on Course Description (Zubin. Deadline : 9th Feb)
+STATUS : Converted data on Spring 2017 using Python script. Output uploaded on Data Collection folder. ETA for rest : 13 Feb
+- [x] Collect data on Grade Distribution (Adrian, Fuzail. Deadline : 9th Feb)
+STATUS : Fuzail to check with CSC department if we can get the data directly. 
+Else, export details to Excel for each Course from MyPack
+- [x] Create a database (Adrian, Fuzail. Deadline : Feb 13 (Extended to Feb 16. To combine course description and data into DB)
+- [x] Book domain for hosting Ruby on Rails application (Along with testing)
+We will just do the demo on local host",2017-03-01T02:35:23Z,0,2017-02-06T22:14:34Z,user1,205723979,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,5,closed,team4,Data Collection (Core Infrastructure),2017-03-01T02:35:23Z
+user3,"['user3', 'user1', 'user2']","- [x] Create design/prototype for text mining. (Zubin. ETA : Feb 13. Extended to Feb 18)
+Following summarizes the design for text mining approach 
+1. Get reviews/contents from Piazza
+2. For each course, convert them into Vector (Using Doc2Vec data algorithm) 
+3. From the Doc2Vec model, get the similar words to a list of words we are interested in. (For example : Professor, Rating, Course, Difficulty etc) 
+4. Compare the output from Doc2Vec model to a set of Good Words and Bad Words (These set of good and bad words are available on the internet) 
+5. Compute a rating for each course - count(good)/(count(good) + count(bad)) 
+
+- [x] Convert output from Piazza API (Javascript) to JSON format and pass it to Python script which does the Doc2Vec modeling 
+- [x] Research more on Doc2Vec modeling, and coding it up on Python 
+- [x] Make a list of words we are interested in 
+- [x] Get the list of good words and bad words 
+- [x] Code up on Python and test
+- [x] Find out ways to extract text from attachments (PDF, image etc). Right now, Piazza posts these as hyperlinks - parse the HTML link (or download the PDF), and extract its content 
+- [ ] Check how to get Course content evaluated (easy vs hard as opposed to usual good vs bad) (PUSHED TO MARCH MILESTONE)
+- [x] Integrate to Ruby website
+",2017-03-01T02:36:25Z,0,2017-02-06T22:13:54Z,user1,205723835,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,4,closed,team4,Implementation 2 : Text Mining,2017-03-01T02:40:20Z
+user3,"['user3', 'user1', 'user2']","Ways to connect the right people to the right people. 
+
+- [x] Start a forum on Piazza (Adrian. ETA : 13 Feb)
+- [x] Add forum pages for the following courses (Zubin. ETA : 18 Feb) 
+       - Software Engineering (CSC 510)
+       - Algo (CSC 505)
+       - OODD (CSC 517) 
+       - DMBS (CSC 540) 
+       - ADS (CSC 541) 
+       - BI (CSC 591) 
+       - Machine Learning (CSC 591) 
+- [x] Fill above pages with sample data, syllabus, reviews etc (ETA pushed to 25 Feb)
+       - Software Engineering (CSC 510) (Fuzail - ETA : 21 Feb)
+       - Algo (CSC 505) (Zubin - ETA : 21 Feb)
+       - OODD (CSC 517) (Fuzail - ETA : 21 Feb)
+       - DMBS (CSC 540) (Adrian - ETA : 21 Feb)
+       - ADS (CSC 541) (Adrian - ETA : 21 Feb)
+       - BI (CSC 591) (Zubin - ETA : 21 Feb)
+       - Machine Learning (CSC 591) (Zubin - ETA : 21 Feb)
+- [x] Use Piazza API to get info for text mining (Zubin. ETA : 16 Feb)
+Uses JS. We need to integrate languages in the end design",2017-03-01T02:36:39Z,0,2017-02-06T22:11:27Z,user1,205723282,,2017-04-20T20:35:56Z,2017-02-06T22:09:30Z,2017-02-28T08:00:00Z,2304184.0,2.0,2017-04-20T20:35:56Z,3,closed,team4,Implementation 3 : Peer to Peer,2017-03-01T02:36:39Z
+,,,2017-01-27T21:05:59Z,0,2017-01-27T21:02:29Z,user3,203739382,,,,,,,,2,closed,team4,Adrian,2017-01-27T21:05:59Z
+,,"- [x] Abstract - Fuzail 
+- [x] Introduction - Fuzail 
+- [x] Data Review - Zubin
+- [x] Data Presentation - Adrian 
+- [x] Literature Review - Fuzail
+- [x] Conclusion - Fuzail",2017-02-01T00:07:18Z,1,2017-01-26T23:35:46Z,user1,203521201,,2017-02-07T23:13:36Z,2017-01-26T23:34:14Z,2017-01-31T08:00:00Z,2281219.0,1.0,2017-02-07T23:13:36Z,1,closed,team4,Create Report,2017-02-01T00:07:18Z
+,,,2017-03-28T23:05:00Z,0,2017-03-28T23:03:31Z,user1,217718117,,,,,,,,27,closed,team5,merge changes,2017-03-28T23:05:00Z
+,,,2017-03-31T17:25:08Z,0,2017-03-18T15:45:16Z,user1,215202242,,,,,,,,26,closed,team5,Refresh newsfeed,2017-03-31T17:25:08Z
+user3,['user3'],,2017-03-31T17:25:56Z,0,2017-03-18T15:21:43Z,user1,215200766,,,,,,,,25,closed,team5,Creating another database for storing user generated data.,2017-03-31T17:25:56Z
+,,"A. Tracking user behavior in web app 
+    1. Time spent
+    2. Like/Dislike button
+    3. 5 star ratings before closing the tab.
+B. Interviews
+",2017-04-07T16:20:21Z,1,2017-03-18T15:20:39Z,user1,215200706,,,,,,,,24,closed,team5,User Evaluations Techniques,2017-04-07T16:20:21Z
+,,,2017-03-13T04:20:45Z,0,2017-03-10T17:51:27Z,user1,213408121,[u'feature'],,,,,,,23,closed,team5,Need to add refresh button.,2017-03-13T04:20:45Z
+user2,['user2'],"Uncaught SyntaxError: missing ) after argument list  
+",2017-03-31T17:24:55Z,1,2017-03-10T17:45:37Z,user1,213406731,[u'bug'],,,,,,,22,closed,team5,Responsive Voice Issue,2017-03-31T17:24:55Z
+,,"mr thomas is committing much more than the rest. Do you need to talk about work balancing?
+
+The written report mentions products without any samples. e.g. no web screenshots.
+
+I look forward to seeing what you have running on all this, after the break",2017-03-18T15:15:59Z,0,2017-03-01T15:08:07Z,timm,211108567,,,,,,,,21,closed,team5,interesting patterns in your work,2017-03-18T15:15:59Z
+,,,2017-03-09T03:34:40Z,1,2017-02-23T17:26:06Z,user1,209829087,,,,,,,,20,closed,team5,Automatic scrolling feature for the newsfeed if the newsfeed is overflowing,2017-03-09T03:34:40Z
+,,,2017-03-10T05:25:35Z,1,2017-02-23T17:25:05Z,user1,209828806,,,,,,,,19,closed,team5,Adding images to the newsfeed,2017-03-10T05:25:35Z
+user2,['user2'],Limited character count for a Twitter post forces stories to be multiple tweets. Must figure out the best way to represent one story in multiple posts.,2017-03-31T17:38:10Z,0,2017-02-23T17:17:10Z,user2,209826577,[u'enhancement'],2017-04-11T21:40:58Z,2017-02-06T20:00:50Z,2017-02-28T08:00:00Z,2303921.0,5.0,2017-04-11T21:40:58Z,18,closed,team5,Better splitting of large news stories on Twitter.,2017-03-31T17:38:10Z
+,,,2017-03-18T15:16:10Z,1,2017-02-23T17:15:47Z,user1,209826214,,,,,,,,17,closed,team5,Uniform web page design across all webpages,2017-03-18T15:16:10Z
+user2,['user2'],,2017-03-31T17:26:11Z,1,2017-02-23T17:14:28Z,user1,209825855,[u'feature'],2017-04-11T21:40:55Z,2017-02-06T20:00:07Z,2017-02-28T08:00:00Z,2303919.0,4.0,2017-04-11T21:40:55Z,16,closed,team5,Prefetching the news article to improve the response time.,2017-03-31T17:26:11Z
+,,,2017-03-18T15:17:21Z,0,2017-02-23T17:12:42Z,user1,209825401,,,,,,,,15,closed,team5,Look into text-to-speech API for third implementation.,2017-03-18T15:17:21Z
+,,,2017-02-23T17:20:04Z,1,2017-02-21T06:46:41Z,user1,209056316,[u'help wanted'],,,,,,,14,closed,team5,Display the news on the same page,2017-02-23T17:20:04Z
+user2,['user2'],,2017-02-18T15:33:37Z,1,2017-02-18T15:32:14Z,user2,208648487,,2017-04-11T21:40:58Z,2017-02-06T20:00:50Z,2017-02-28T08:00:00Z,2303921.0,5.0,2017-04-11T21:40:58Z,13,closed,team5,Use Twitter API to post messages from Python script.,2017-02-18T15:33:37Z
+user2,['user2'],,2017-02-08T21:45:58Z,1,2017-02-07T19:14:53Z,user2,205986150,,2017-04-11T21:40:58Z,2017-02-06T20:00:50Z,2017-02-28T08:00:00Z,2303921.0,5.0,2017-04-11T21:40:58Z,12,closed,team5,Publish text to Facebook Page using API,2017-02-08T21:45:58Z
+user2,['user2'],,2017-02-23T17:14:27Z,0,2017-02-07T18:57:30Z,user2,205981729,[u'feature'],2017-04-11T21:40:55Z,2017-02-06T20:00:07Z,2017-02-28T08:00:00Z,2303919.0,4.0,2017-04-11T21:40:55Z,11,closed,team5,Use Python News API to summarize an article,2017-02-23T17:14:27Z
+user3,['user3'],,2017-02-23T17:18:34Z,0,2017-02-07T18:56:37Z,user2,205981505,,2017-04-11T21:40:55Z,2017-02-06T20:00:07Z,2017-02-28T08:00:00Z,2303919.0,4.0,2017-04-11T21:40:55Z,10,closed,team5,Create Flask App with Login,2017-02-23T17:18:34Z
+,,,2017-02-21T06:47:01Z,1,2017-02-07T18:37:36Z,user1,205976689,,2017-04-11T21:40:55Z,2017-02-06T20:00:07Z,2017-02-28T08:00:00Z,2303919.0,4.0,2017-04-11T21:40:55Z,9,closed,team5,Brainstorming for project implementation methodology,2017-02-21T06:47:01Z
+,,"Stats on news viewership
+http://www.journalism.org/files/legacy/NIELSEN%20STUDY%20-%20Copy.pdf
+
+Economics of online news?
+http://journals.sagepub.com/doi/pdf/10.1177/107769900908600309",2017-02-07T18:34:01Z,0,2017-01-27T19:29:22Z,user2,203719521,,,,,,,,8,closed,team5,Possible Papers,2017-02-07T18:34:01Z
+,,"Ask the user to go over 2 set of news applications. One with summarized news ie flipboard and other news app such as bbc or nytimes. Ask them which one do they prefer and why.
+
+",2017-02-07T18:34:13Z,1,2017-01-23T19:40:14Z,user1,202630344,[u'meeting'],,,,,,,7,closed,team5,1/23/17 Personal Interviews Ideas,2017-02-18T15:38:26Z
+,,"Put up the questionnaire online
+Discuss what needs to be written in the report
+",2017-02-07T18:34:07Z,0,2017-01-23T19:21:44Z,user1,202625833,[u'meeting'],,,,,,,6,closed,team5,1/23/17 Meeting Minutes,2017-02-18T15:37:59Z
+,,"What we did:
+* Discuss Papers
+* Discuss Jan Report
+ 
+Whats next:
+* Pass out survey
+* Group evaluations ('chit' system or w/e)
+* Begin writing report",2017-02-07T18:32:32Z,0,2017-01-21T17:22:04Z,user2,202327917,[u'meeting'],,,,,,,5,closed,team5,1/21/17 Meeting Minutes,2017-02-18T15:42:03Z
+timm,['timm'],"A low bandwidth news app where a user can choose his preferences of news. We have a designed three solutions for the same,
+
+1. Web Application: We are planning to create a web application in Python flask that allows the user to create an account and view latest news according to his preferences.
+
+2. A news reader: A text-to-speech generator that can read the news to the user.
+
+3. A text-based news delivery system: News delivered in the form of text message, particularly targeted in users with limited Internet  accessibility.
+
+References:
+1. Personalized news recommendation based on click behavior :  http://dl.acm.org/citation.cfm?id=1719976
+2. A contextual-bandit approach to personalized news article recommendation : http://dl.acm.org/citation.cfm?id=1772758
+3. Multilingual Information Retrieval and Smart News Feed Based on Big Data : http://ieeexplore.ieee.org/document/7396613/?reload=true&arnumber=7396613&tag=1
+4. Personalized news retrieval system : https://www.google.com/patents/US20050028194 
+5. An adaptive personalized news dissemination system : http://link.springer.com/article/10.1007/s10844-008-0053-8",2017-02-07T18:34:16Z,0,2017-01-18T20:08:13Z,user3,201679014,,,,,,,,4,closed,team5,Personalized News Feed,2017-02-07T18:34:16Z
+,,,2017-02-07T18:32:23Z,1,2017-01-18T19:06:28Z,user1,201663742,,,,,,,,3,closed,team5,Three different solutions,2017-02-07T18:32:23Z
+,,,2017-02-07T18:34:26Z,1,2017-01-18T18:38:26Z,user1,201657223,,,,,,,,2,closed,team5,Two way text based communication problem between mobile and web server,2017-02-07T18:34:26Z
+,,,2017-02-07T18:32:08Z,0,2017-01-18T18:35:54Z,user1,201656623,,,,,,,,1,closed,team5,News API which automatically categorizes the news articles,2017-02-07T18:32:08Z
+,,,2017-02-23T01:17:05Z,0,2017-02-09T14:54:10Z,user1,206526739,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,32,closed,team6,Implementing google trends(include server setting),2017-02-23T01:17:05Z
+,,,2017-03-14T03:17:52Z,0,2017-02-09T14:54:00Z,user1,206526682,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,31,closed,team6,"[optional] Improve back up plan(better outlook, sync with up-to-date db setting, include google api features)",2017-03-14T03:17:52Z
+,,,2017-02-12T16:53:40Z,0,2017-02-09T14:53:35Z,user1,206526574,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,30,closed,team6,[Tam - 10FEB] Display data from all tables,2017-02-12T16:53:40Z
+,,,2017-02-22T21:44:19Z,0,2017-02-09T14:53:26Z,user1,206526532,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,29,closed,team6,[Christine- 2days] Build the most basic simulation interacting with database,2017-02-22T21:44:19Z
+,,,2017-02-12T16:53:51Z,0,2017-02-09T14:53:10Z,user1,206526449,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,28,closed,team6,"[ Tam - 1 day ] Wrap up simulation (back up database, basic tests, etc)",2017-02-12T16:53:52Z
+,,,2017-02-12T16:54:04Z,0,2017-02-09T14:52:50Z,user1,206526351,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,27,closed,team6,[Tam - 6 days] Researching for simulation options,2017-02-12T16:54:04Z
+,,,2017-02-22T21:44:11Z,1,2017-02-08T21:27:40Z,user3,206329859,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,26,closed,team6,[Matt - 19FEB] Research Screen Share for Demo,2017-02-22T21:44:12Z
+,,,2017-02-22T21:44:11Z,5,2017-02-08T21:24:33Z,user3,206329017,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,25,closed,team6,"[Matt - 17FEB] Auto Refresh, No Finger",2017-02-22T21:44:11Z
+,,,2017-02-22T21:44:11Z,4,2017-02-08T21:23:25Z,user3,206328740,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,24,closed,team6,[Matt - 13FEB] Add Threat Map Buttons,2017-02-22T21:44:11Z
+,,,2017-02-15T17:26:06Z,0,2017-02-07T22:40:32Z,user2,206039192,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,23,closed,team6,Group meeting on Feb. 14. (3 p.m.) at room 2323 in Hunt Library,2017-02-15T17:26:06Z
+,,,2017-02-22T21:44:11Z,4,2017-02-07T21:55:43Z,user2,206028273,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,22,closed,team6,[Christine] researching and implementing andoid push notifications / server set up(php),2017-02-22T21:44:11Z
+,,,2017-02-22T21:44:11Z,0,2017-02-07T21:54:53Z,user3,206028079,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,21,closed,team6,Matt - Research Auto-Refresh on mobile app screeen,2017-02-22T21:44:11Z
+,,,2017-02-22T21:43:51Z,0,2017-02-07T21:54:51Z,user1,206028066,[u'enhancement'],,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,20,closed,team6,Build database node js interface,2017-02-22T21:43:52Z
+,,,2017-02-07T18:23:40Z,6,2017-02-03T18:11:37Z,user2,205229444,,,,,,,,19,closed,team6,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),2017-02-07T18:23:40Z
+,,"i know this a work in progress but on
+
+https://docs.google.com/presentation/d/1U9hL_DG420zW8FS4d89bBGhxB9cYkr7ATJyzTlgxWaI/pub?start=true&loop=false&delayms=20000#slide=id.g1a765db5d3_0_70
+
+slide17 is unusual. v. wordy
+
+first few slides are v.nice btw. good use of white space and color
+
+suggestion: add line numbers to each slide",2017-02-04T14:27:57Z,1,2017-01-31T04:43:22Z,timm,204204076,,,,,,,,18,closed,team6,slide 17 is ... unusual,2017-02-04T14:27:57Z
+,,"- [ ] Finish final touchups and integration
+
+- [ ] Finish github documentations
+
+- [ ] Discuss materials for user eval
+
+- [ ] to be added by team members",2017-03-14T03:17:52Z,0,2017-01-31T02:35:32Z,user1,204189768,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,17,closed,team6,Mile stone wrapping up (due 27FEB),2017-03-14T03:17:52Z
+,,"- [x] Research demo options
+
+- [x] Form test scenarios
+
+- [x] Research and prepare solutions for test scenarios
+
+- [x] Tune up final demo codes
+
+- [ ] Prepare offline-demo
+
+- [ ] Execute and record offline-demo
+
+- [ ] Edit and publish offline-demo
+
+@ChristineTzeng @mfarve1 ",2017-03-14T03:17:52Z,2,2017-01-31T02:31:18Z,user1,204189224,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,16,closed,team6,Demo finalization (due 20FEB),2017-03-14T03:17:52Z
+,,(* to be defined *),2017-02-15T17:26:28Z,0,2017-01-31T02:29:25Z,user1,204189001,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,15,closed,team6,Second level prototyping (due 13FEB),2017-02-15T17:26:28Z
+,,"Due dates : 06FEB17
+
+- [x] Research on IBM cloud platform and mobil interfaces
+
+- [x] Build simulation console (first level prototyping)
+
+- [x] Build demo interface (first level prototyping)
+
+Please put further discussions/resource links/issue reports/etc here",2017-02-11T18:55:57Z,2,2017-01-31T02:12:43Z,user1,204186746,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,14,closed,team6,First level prototyping (due 06FEB),2017-02-11T18:55:57Z
+timm,"['timm', 'effat', 'user2', 'user1', 'user3']","Task Tracking Tool:
+
+Remember Dr. Menzes mentioned Googlers used sticky notes on white boards? We have an equivalence here on GitHub. Please go to Projects > Basic demo prototyping and you will see 3 columns.
+You can then create the tasks you are planning to do in the ""Todo"" column. Please try to be specific and realistic as possible especially when it comes to the time you think you will need to finish a particular task.  When you are working on a certain task, please drag it to the ""in-progress"" column, and when you're done, drag it to the ""finish"" column.
+
+This will help everyone in the team keep track of the progress of our project and remind/help each other out if necessary.
+
+",2017-03-14T03:17:52Z,6,2017-01-31T02:08:02Z,user1,204186092,,,2017-01-20T15:25:23Z,2017-02-28T08:00:00Z,2267276.0,2.0,2017-03-14T03:17:52Z,13,closed,team6,Announcements - FEB milestone,2017-03-14T03:17:52Z
+,,,2017-01-31T00:54:39Z,2,2017-01-26T22:50:49Z,user2,203512862,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,12,closed,team6,group meeting on Jan. 30 starts from 6 pm in Hunt Library Room 2323,2017-01-31T00:54:39Z
+user1,['user1'],,2017-01-27T22:55:39Z,0,2017-01-26T21:58:25Z,timm,203501095,,,,,,,,11,closed,team6,feed gorilla,2017-01-27T22:55:39Z
+user2,['user2'],,2017-01-27T22:55:39Z,0,2017-01-26T21:58:07Z,timm,203501009,,,,,,,,10,closed,team6,buy gorrilaa,2017-01-27T22:55:39Z
+,,"- [x] buy pizza
+- [x] book room
+
+Room 2323 in Hunt Library on Jan. 24 from 3 pm to 4:30 pm",2017-01-28T16:02:09Z,2,2017-01-20T00:45:42Z,user2,202018021,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,9,closed,team6,Team meeting 5(weekly),2017-01-28T16:02:09Z
+,,Room 2325 in Hunt Library on Jan. 21 from 1 pm to 3 pm.,2017-01-22T07:08:15Z,5,2017-01-20T00:22:01Z,user2,202014533,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,8,closed,team6,Team meeting 4,2017-01-22T07:08:15Z
+user2,"['user2', 'user1', 'user3']",Please use this instead of gmail,2017-01-31T00:55:19Z,11,2017-01-18T05:39:41Z,user1,201483977,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,7,closed,team6,Announcements,2017-01-31T00:55:19Z
+,,"Christine, Matt, since we are all here. You think we can start our meeting right away ? 
+Jan 14, 10:11 AM
+SZ TING TZENG  
+That's fine for me
+SZ TING • Jan 14, 10:11 AM
+Matthew Farver  
+I'm ready
+Matthew • Jan 14, 10:11 AM
+you want to try the full blown conference with voice and video ?
+in such case, i will need to reboot my laptop to enable those features
+give me some mins ☺ sry, i disabled those features from cmos...
+Jan 14, 10:12 AM
+Matthew Farver  
+ok
+Matthew • Jan 14, 10:13 AM
+i'll reboot and rejoin real quick...
+Jan 14, 10:13 AM
+You missed a call
+Jan 14, 10:17 AM
+Missed call from Matthew
+Jan 14, 10:17 AM
+can you see or hear me ?
+Jan 14, 10:19 AM
+SZ TING TZENG  
+I can see and hear Matt but only can see Tam
+SZ TING • Jan 14, 10:21 AM
+Matthew Farver  
+i can see Tam and SzTing but cant hear 
+Matthew • Jan 14, 10:21 AM
+weif it's too much of a problem, we can do the vid next time and just chat for now... if you're cool with it
+Jan 14, 10:22 AM
+SZ TING TZENG  
+sure
+SZ TING • Jan 14, 10:23 AM
+Matthew Farver  
+yea thats fine
+Matthew • Jan 14, 10:23 AM
+You were in a call with Matthew and SZ TING
+Jan 14, 10:23 AM
+Matthew Farver  
+I guess we need to narrow down and pick a problem to focus on 
+Matthew • Jan 14, 10:24 AM
+Ithink so too.
+The good thing is it appears that in the 2nd paper link i sent, the author gave hints on how to solve most of the problems
+Jan 14, 10:28 AM
+Matthew Farver  
+Yea, I think that will make your lives a little easier
+Matthew • Jan 14, 10:28 AM
+SZ TING TZENG  
+What we have now are: 1. the infection issue 2. with open data so we can reduce patients' cost?
+SZ TING • Jan 14, 10:29 AM
+Christine, would you tell more about that since Matt was not at our other meeting.
+Jan 14, 10:30 AM
+SZ TING TZENG  
+Sure.
+There're lots of unnecessary care(could be some avoidable harm for patients) or cost in healthcare systems now.
+If the medical information is open, patients can make their own decision about the treatment.
+ During our meeting on Thurs. Tam suggested that we can narrow down to suggesting which insurance to choose
+Speaking of open data, my friends also told me that barcode will be a good tool for both hospital staffs and patients
+SZ TING • Jan 14, 10:36 AM
+Matthew Farver  
+I like it, for the purpose of this project i think finding a solution to improve patient safety (acquired infections) may be a simpler choice 
+I am just thinking from our point of view, of how difficult do we want to make our lives with this project
+Matthew • Jan 14, 10:37 AM
+yeah Matt. We discuss it and found out that the easiest way to work with reducing costs for patients is through helping users choosing the right health insurance. It sounds like an old idea but I think there are ways to help users. I also agree with you that creating apps for patient safety is a simplier choice
+Jan 14, 10:37 AM
+SZ TING TZENG  
+But the most problem we have here will be the source of information or data
+SZ TING • Jan 14, 10:38 AM
+Matthew Farver  
+me may run into health information privacy issues  
+looking into the insurance side
+Matthew • Jan 14, 10:39 AM
+the problem with the insurance idea besides a huge data we need to collect, and privacy is how we can come up with 3 days to do that one thing
+Jan 14, 10:40 AM
+Matthew Farver  
+true, i think we have a lot me flexibility working with the spread of infection topic 
+Matthew • Jan 14, 10:41 AM
+But Christine, can you tell more about what you friend told you ? I would love to hear
+Jan 14, 10:42 AM
+SZ TING TZENG  
+We may also need some knowledge from insurance representatives?
+SZ TING • Jan 14, 10:42 AM
+yeah... 
+Jan 14, 10:44 AM
+Matthew Farver  
+I did an internship for a pharma company last summer and the way health insurance works is extremely complicated
+Matthew • Jan 14, 10:44 AM
+I think it will be easier if we structure our arguments like this
+How can we help everyone in Health Care ?
+By improving patient flow and the speed of treatments
+How to do that >> by improving Safety
+and we can either stop at that, and branch out to 3 branches
+or we can drill down to patient safety
+and within patient safety, we tackle 3 ways to do it
+one of which is preventing hospital acquired infection 
+by that, we can easily branch out to 3 branches, one for each of us easily. How do you think? The open data is a great idea but since it's quite complicated, i don't know how we can have 3 ways of doing a complicated task...
+Jan 14, 10:49 AM
+Matthew Farver  
+I think focusing on one specific problem like acquired infection is the way to go
+Matthew • Jan 14, 10:50 AM
+ok
+Christine, I think with acquired infection, information and communication is also the Key
+Jan 14, 10:51 AM
+SZ TING TZENG  
+Agree
+SZ TING • Jan 14, 10:51 AM
+If you are passionate about data and information and integration, you can do research on that and take it as your own way to solve the issue
+Jan 14, 10:51 AM
+SZ TING TZENG  
+Okay, but do you have any other ideas abt what other 2 solutions could be?
+SZ TING • Jan 14, 10:54 AM
+Also, if we come up with a good app to help preventing infections then the app can also be used for home care, and in that sense, it will help patients at home and the ones careing for them reduce costs too
+Jan 14, 10:55 AM
+Matthew Farver  
+Now that we have chose an issue to focus on we can think up ways to solve it, we can meet up before class and share our ideas 
+Matthew • Jan 14, 10:56 AM
+me, as of now, I will come up with a game for the patient, either help them maintain good habits during the time they are under care.
+Jan 14, 10:56 AM
+Matthew Farver  
+yea i think their are many different ways to improve this problem
+its just a matter of picking 3
+Matthew • Jan 14, 10:57 AM
+good idea Matt. I tried to check out the full book of the 2nd paper but can't find the online book i checked out
+The book has several recommendations. Oh, Christine, the book also has at least one chapter discuss about information and data
+Jan 14, 10:58 AM
+SZ TING TZENG  
+The 2nd one right? will read that :)
+SZ TING • Jan 14, 10:59 AM
+Matthew Farver  
+with this topic I dont think we will have issues finding 3 ways to improve it
+Matthew • Jan 14, 10:59 AM
+yeah. I think we will have plenty.
+Jan 14, 11:00 AM
+Matthew Farver  
+do we want to meet before class on Tuesday? 
+Matthew • Jan 14, 11:01 AM
+I am fine with that.
+should we agree on a general meeting schedule ?
+Jan 14, 11:01 AM
+SZ TING TZENG  
+A general meeting schedule will be good
+SZ TING • Jan 14, 11:03 AM
+Matthew Farver  
+I agree
+Lets meet before class on Tuesday and we can discuss the solutions each of us thought up and determine a general meeting schedule 
+Matthew • Jan 14, 11:04 AM
+sure.
+Jan 14, 11:05 AM
+Matthew Farver  
+is everyone available on Tuesday before class?
+Matthew • Jan 14, 11:05 AM
+SZ TING TZENG  
+Yes for me
+SZ TING • Jan 14, 11:05 AM
+Matthew Farver  
+3pm? 
+Matthew • Jan 14, 11:05 AM
+yes. I'm fine with that
+Jan 14, 11:05 AM
+SZ TING TZENG  
+Hunt library?
+SZ TING • Jan 14, 11:06 AM
+Team. I gotta go meet a Captain of US Public Health Service. I will try to squeeze some insights out of here and see if she can hook us up with some nurses in US public health service
+Jan 14, 11:07 AM
+Matthew Farver  
+ok
+Matthew • Jan 14, 11:07 AM
+I'll check the conversation archive when I get back.
+Jan 14, 11:07 AM
+Matthew Farver  
+see ya Tam
+Matthew • Jan 14, 11:07 AM
+SZ TING TZENG  
+If you all agree to meet at Hunt library I'll book a study group room then
+see you
+SZ TING • Jan 14, 11:08 AM
+Matthew Farver  
+that would be great 
+thanks
+Matthew • Jan 14, 11:08 AM
+SZ TING TZENG  
+☺
+Team, room 2323 in Hunt library from 3:00 to 4:30
+SZ TING • Jan 14, 11:10 AM
+Matthew Farver  
+Thank you have a great weekend
+Matthew • Jan 14, 11:11 AM
+SZ TING TZENG  
+You too!
+SZ TING • Jan 14, 11:11 AM
+SZ TING TZENG  
+Apart from our topic, one of my friend(pharmacist side) told me that there're 2 problems annoy them most: 1. the systems they used in hospital are unstable and inefficient
+ 2. patients have too many questions abt the medicine they use, and the only way for patients to get information is from pharmacist. my friend also mentioned that barcode seems an efficient way to deal with this problem
+many hospitals in Taiwan are launching the barcode method for both patients and hospital staffs
+SZ TING • Jan 14, 11:30 AM
+Matthew Farver  
+SZ TING TZENG  
+so now patients have another way to understand what medicine they are going to use
+and it also increase the performance of staffs on identifying medicine 
+SZ TING • Jan 14, 11:34 AM
+See you at 2323 ☺
+Tue, 2:50 PM
+SZ TING TZENG  
+Team, seems the library doesn't allow students to reserve group study rooms from more than one week.
+I reserved for our next meeting(room 2323 on Jan 24 from 3:00~4:30 p.m.)
+And will reserve the next one after our weekly discussion",2017-01-18T05:22:02Z,0,2017-01-18T05:21:47Z,user1,201481976,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,6,closed,team6,Team meeting 2 ,2017-01-18T05:22:02Z
+timm,"['timm', 'user2', 'user1', 'user3']",,2017-01-30T14:52:57Z,3,2017-01-18T05:16:42Z,user1,201481461,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,5,closed,team6,Prepare milestone briefing,2017-01-30T14:52:57Z
+user2,"['user2', 'user1', 'user3']",,2017-01-28T16:01:45Z,7,2017-01-18T05:15:46Z,user1,201481377,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,4,closed,team6,How people have tried to solve Hospital acquired infection,2017-01-28T16:01:45Z
+user2,"['user2', 'user1', 'user3']",,2017-01-28T16:01:29Z,2,2017-01-18T05:14:07Z,user1,201481198,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,3,closed,team6,Find a group of users with experience on Hospital acquired infections,2017-01-28T16:01:29Z
+user2,"['user2', 'user1', 'user3']",,2017-01-22T07:09:52Z,2,2017-01-18T05:12:13Z,user1,201480989,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,2,closed,team6,Conduct research on problems in daily Hospital Operations,2017-01-22T07:09:52Z
+user2,"['user2', 'user1', 'user3']",,2017-01-20T04:40:44Z,7,2017-01-17T20:13:55Z,user1,201393262,,2017-01-31T01:48:43Z,2017-01-18T05:06:54Z,2017-01-31T08:00:00Z,2260454.0,1.0,2017-01-31T01:48:43Z,1,closed,team6,Team meeting 3,2017-01-20T04:40:44Z
+,,Pull request test,2017-03-16T04:00:56Z,0,2017-03-16T04:00:19Z,user1,214592828,,,,,,,,27,closed,team7,README change,2017-03-16T04:00:56Z
+,,pull request test,2017-03-16T03:32:39Z,0,2017-03-16T03:31:52Z,user1,214589436,,,,,,,,26,closed,team7,Update README.md,2017-03-16T03:32:39Z
+,,"almost no commits in feb. most strange.
+
+feb report mentions various products for which you have no samples, no links.
+
+Looking forward to seeing how much of all this actually currently works, in the after spring-break demo sessions.",2017-03-31T00:03:22Z,0,2017-03-01T15:11:36Z,timm,211109645,[u'question'],,,,,,,25,closed,team7,interesting pattern of activity,2017-04-20T02:06:39Z
+,,I have tried to make a pop-up window but was not able to get the exact functionality required but no have started making a new activity just for registering the student in the system. This will register his/her face in the system thereby making it easy to recognize.,2017-03-14T18:11:26Z,1,2017-02-27T17:15:20Z,user2,210548649,[u'bug'],,,,,,,24,closed,team7,Creating a new activity for registration of the student in the system.,2017-04-20T02:10:53Z
+,,I am presently coding on doing the registration of individual and the API communication system process.,2017-03-14T18:11:12Z,1,2017-02-27T14:36:56Z,user2,210501477,[u'enhancement'],,,,,,,23,closed,team7,Make the UI and to register user to Db in face recognition,2017-04-20T02:08:44Z
+user1,"['user1', 'user3']","- Unit testing of all the implementations.
+- System Testing as a whole.
+- Deployment of the whole application.",2017-04-11T20:34:59Z,0,2017-02-14T17:22:05Z,user2,207581007,[u'Testing'],,,,,,,22,closed,team7,Deployment and Testing,2017-04-20T02:12:35Z
+user1,"['user1', 'user3']","- Study API
+- Develop code
+- Test Features",2017-03-14T18:11:04Z,1,2017-02-14T17:19:46Z,user2,207580377,[u'enhancement'],,,,,,,21,closed,team7,Code Development -- Bar Code,2017-04-20T02:12:55Z
+user1,"['user1', 'user3']","- Study API
+- Develop code
+- Test Features",2017-03-14T18:10:56Z,1,2017-02-14T17:17:54Z,user2,207579871,[u'help wanted'],,,,,,,20,closed,team7,Code Development -- GPS,2017-04-20T02:13:14Z
+user1,"['user1', 'user2', 'user3']","- Study API
+- Develop code
+- Test Features",2017-03-14T18:10:17Z,2,2017-02-14T17:17:36Z,user2,207579784,[u'Working'],,,,,,,19,closed,team7,Code development -- Fingerprint,2017-04-20T02:14:11Z
+user1,"['user1', 'user3']",Start the creation of database of some set of students for demo purpose for fingerprint/face recognition system.,2017-03-14T18:10:47Z,1,2017-02-14T17:15:49Z,user2,207579319,[u'help wanted'],,,,,,,18,closed,team7,Database Creation,2017-03-14T18:10:47Z
+user1,"['user1', 'user3']","From 1 to 4.
+All of us should be available.
+Pooja please book a room.
+Start learning android basics if you don't know also this weekend on Friday we can finalize the project implementation ideas.",2017-02-19T00:49:01Z,3,2017-02-08T15:38:42Z,user2,206233656,[u'help wanted'],,2017-02-06T15:43:05Z,2017-02-17T08:00:00Z,2303042.0,8.0,2017-02-19T00:49:01Z,17,closed,team7,Meeting on Tuesday ,2017-02-19T00:49:01Z
+user1,"['user1', 'user3']","- Pooja and Q ----- Face Recognition/ Fingure Print Scanning(Check feasibility and its implementation)
+- Pooja and Me ---- Bar Code (Implementation)
+- Q and Me ----- GPS (Implementation)
+
+",2017-02-27T14:37:10Z,0,2017-02-08T15:28:56Z,user2,206230771,[u'Working'],,2017-02-06T15:44:01Z,2017-02-24T08:00:00Z,2303043.0,9.0,2017-02-27T14:37:10Z,16,closed,team7,Division of work,2017-04-20T02:16:21Z
+user1,"['user1', 'user3']","Tuesday from 2 to 4 
+Three ways are:
+- GPS
+- Face Recognition
+- FingurePrint Scanner
+- Barcode
+Let us find different ways to implement any open source resources and API's available.
+Room 3219 have sent you'll invitations.
+Please come on time.",2017-02-06T16:02:23Z,0,2017-02-06T00:51:12Z,user2,205468068,[u'Meeting'],,2017-02-06T15:41:50Z,2017-02-10T08:00:00Z,2303040.0,7.0,2017-02-07T21:34:42Z,15,closed,team7,Phase 2's meeting(Coding Month) ,2017-04-20T02:27:22Z
+user1,"['user1', 'user3']","Book a room for 2.oo pm to 4.00 pm
+To finalize the report as well as the presentation preparations.
+Pooja just reserve the room when possible.",2017-02-14T16:45:48Z,4,2017-01-29T16:00:47Z,user2,203877964,[u'Meeting'],,,,,,,14,closed,team7,Meeting on Tuesday,2017-04-20T02:27:35Z
+user1,"['user1', 'user3']","- [x] 1-Name of the project with all the member's name and other starting things
+- [x] 2-Index
+- [ ] 3-Introduction----Pooja
+- [ ] 4-Problem-----Pooja
+- [ ] 5,6,7*-Literatures and Statistics----5,6--Q and 7--Me
+- [ ] 8,9,10*-User Survey---Me
+- [ ] 11,12,13-Project Goals----11-Q,12-Me,13-Pooja
+- [ ] 14-Problems which can be faced---Pooja
+- [ ] 15-Conclusion---Q
+- [ ] 16-References
+- [x] 17-Thank You
+*-Not sure about the number of slides
+Other remaining slides all later.",2017-02-07T21:48:56Z,4,2017-01-29T15:47:13Z,user2,203877204,[u'PPT/Report'],2017-02-06T15:37:58Z,2017-01-29T15:58:28Z,2017-01-31T08:00:00Z,2284810.0,6.0,2017-02-07T21:48:56Z,13,closed,team7,20-20 Presentation,2017-04-20T02:29:27Z
+user1,"['user1', 'user3']","- [x] Abstract (10-15 lines) - about 1 Paragraph----- Pooja
+- [x] Introduction (About 15lines each) - about 2 Paragraphs -----Pooja",2017-02-07T21:48:47Z,3,2017-01-28T21:22:51Z,user2,203832229,[u'PPT/Report'],2017-02-06T15:38:04Z,2017-01-28T22:20:06Z,2017-01-29T08:00:00Z,2284268.0,5.0,2017-02-07T21:48:47Z,12,closed,team7,1st Report,2017-04-20T02:29:40Z
+user1,"['user1', 'user3']","- Each of us has to read at least 3 papers related attendance management systems or our approach to solving.
+- Post your paper links by 9 before reading to prevent someone reading the same paper.
+- Ask your friends to do the survey also as we have 2 more groups along with us doing on the same project so this can be quite challenging.
+- We have just received 40 responses. Please share this doc between your friends and ask them just to do this in 2-5 minutes.
+- Post all the paper topics and other than the one posted by pooja have researched like the 3 which are stated in our idea.
+",2017-02-07T21:47:18Z,0,2017-01-26T14:14:39Z,user2,203381054,[u'Meeting'],2017-01-28T22:19:14Z,2017-01-26T14:15:13Z,,2280089.0,2.0,2017-02-07T21:47:18Z,11,closed,team7,Meeting on Friday from 4.30 to 7.30,2017-04-20T02:27:53Z
+user2,"['user1', 'user2']","Saturday, 1/21/2017, 13:00 onwards in Hunt. Let us decide and book a room?",2017-02-07T21:47:08Z,2,2017-01-20T17:34:01Z,user3,202198572,[u'Meeting'],,,,,,,10,closed,team7,Next Meeting,2017-04-20T02:28:07Z
+timm,"['timm', 'effat', 'user1', 'user3']",Write your idea along with the paper or literature you get by tonight or maximum tomorrow morning,2017-02-07T21:46:45Z,12,2017-01-20T03:16:55Z,user2,202038423,[u'Topics'],,,,,,,9,closed,team7,Detail explanation of Ideas,2017-04-20T02:28:33Z
+user1,"['user1', 'user3']","Tuesday 3pm - 4.15pm ?
+- To short-list topics down and to discuss them in detail.",2017-01-20T17:32:54Z,0,2017-01-16T14:11:40Z,user2,201028719,[u'Meeting'],,,,,,,8,closed,team7,Next Meeting,2017-04-20T02:29:10Z
+user1,"['user1', 'user3']",Write about questions and doubts related to survey questions,2017-02-07T21:46:36Z,0,2017-01-16T14:06:06Z,user2,201027485,[u'invalid'],,,,,,,7,closed,team7,Survey Questions,2017-04-20T02:30:04Z
+user1,"['user1', 'user3']","Harshal
+- Expiration Date Checker
+- Car Finding in Parking Area
+- Connecting Patients to Health Professionals/Doctor
+  - In rural areas, the people are not able to get better health so to connect them thereby better health services
+  - Can be done by making a web page as well as an application. As the rural areas just have low bandwidth so they can send symptoms via SMS services.
+  - Possible to make but for checking have to check the SMS client(free is not available).
+- News priority based on present Location(GPS)
+
+Pooja
+- Notification System with location sensing (Similar application as grocery crowd sourcing but for a generic purpose)
+- Card Tracker Application/Software (Initially start with a wolfpack one card)
+- Android Reminder/Alarm with GPS Sensor (Reminds you of what to do when you enter a particular area)
+- Attendance System
+
+Qiufeng
+- Application for Grocery crowdsourcing
+- Sublease finder
+  - A plateform which helps you find the person who is looking for appartments
+  - I know craigslist sort of does the job, but we might need a more professional plateform.
+- An application which synchronizes and updates all of your emails from different account (Such as Gmail, Hotmail, Yahoo, etc.).
+- Workout plan generator
+  - Users need to input their basic information(heigh, weight, percentage of body fat)
+  - Users need to input their expectations, such as, do they want to lose fat or build muscle
+  - Expected time period. Like gain 10 lbs of muscle in 30 days
+  - The program can automatically pick the right workout plan from the database
+",2017-02-07T21:46:29Z,3,2017-01-16T14:00:13Z,user2,201026149,[u'Topics'],,,,,,,6,closed,team7,Division on topics and discuss the details out here,2017-04-20T02:26:06Z
+user1,"['user1', 'user3']","The various categories like
+-Enough Literature available
+-3 ways to solve the problem
+-Feasibility of surveying the topic
+-How is the problem and what part of the society/others it is affecting?
+-Check the previous people's approach can they be modified for bettering? ",2017-02-07T21:46:22Z,0,2017-01-15T22:43:12Z,user2,200903327,[u'Literature'],,,,,,,5,closed,team7,Table like a trade-off table,2017-04-20T02:25:04Z
+user1,"['user1', 'user3']",We should meet the professor and TA as we short-list 2-3 projects and discuss with them. This will make us know are we going correct and if any problems we'll get the guidance accordingly,2017-02-07T21:46:14Z,0,2017-01-15T22:36:50Z,user2,200903018,[u'wontfix'],,,,,,,4,closed,team7,Output from the professor and TA,2017-04-20T02:22:31Z
+user1,"['user1', 'user3']","We will Discuss regarding the Literature Survey on this Issue 
+So this will be like a channel to discuss related. 
+Find all the papers with respect to the topics needed",2017-02-07T21:46:07Z,2,2017-01-15T22:33:20Z,user2,200902840,[u'help wanted'],,,,,,,3,closed,team7,Literature Survey Related ,2017-04-20T02:23:00Z
+user1,"['user1', 'user3']","- By Sunday, Jan 15th -- Short List about 3-5 topics with proper research on literature of about 5-6 papers minimum.
+- Next week we have to the survey depending on the finalized topic and before that we should at least either meet or mail to the professor or the T.A about our topics as well as problems.
+-From Sunday, Jan 22nd -- Start the literature survey as by that week's end there is a submission.",2017-02-07T21:46:00Z,2,2017-01-15T02:26:50Z,user2,200843484,[u'invalid'],,,,,,,2,closed,team7,Project Flow (If any suggestions tell me),2017-04-20T02:16:54Z
+timm,"['timm', 'effat', 'user1', 'user3']",As some paper I don't know are related to SE or other fields of CS,2017-02-07T21:45:53Z,0,2017-01-15T02:17:40Z,user2,200843150,[u'question'],,,,,,,1,closed,team7,Do we have to search literature with respect to software engineering only ?,2017-02-07T21:45:53Z
+user3,['user3'],,2017-03-31T00:38:17Z,5,2017-03-31T00:12:12Z,user2,218363275,,,,,,,,50,closed,team8,Approach1,2017-03-31T00:38:17Z
+,,,2017-03-31T00:12:54Z,0,2017-03-31T00:11:38Z,user2,218363215,,,,,,,,49,closed,team8,Approach3,2017-03-31T00:12:54Z
+,,Merging approach2 to master,2017-03-31T00:12:38Z,0,2017-03-31T00:11:13Z,user2,218363156,,,,,,,,48,closed,team8,Approach2,2017-03-31T00:12:38Z
+user1,"['user1', 'user3', 'user4', 'user2']","Report is to be 6 pages
+
+ppt between 6 and 12 minutes any format you wish.",2017-04-11T19:51:17Z,12,2017-03-30T21:22:52Z,user1,218332105,[u'Conversation'],,2017-01-26T22:00:41Z,2017-04-07T07:00:00Z,2281097.0,3.0,2017-04-18T19:26:54Z,47,closed,team8,Report / ppt discussion,2017-04-11T19:51:17Z
+user1,"['user1', 'user3', 'user4', 'user2']",Let's post our ideas and discuss the evaluation method here,2017-03-31T17:59:45Z,5,2017-03-20T15:10:31Z,user4,215451259,[u'Conversation'],,2017-01-26T22:00:41Z,2017-04-07T07:00:00Z,2281097.0,3.0,2017-04-18T19:26:54Z,46,closed,team8,Evaluation method discussion,2017-03-31T17:59:45Z
+user1,"['user1', 'user3', 'user4', 'user2']",Sometime around April 7th,2017-04-18T19:26:54Z,0,2017-03-16T20:40:21Z,user1,214831558,"[u'approach1', u'approach2', u'approach3']",,2017-01-26T22:00:41Z,2017-04-07T07:00:00Z,2281097.0,3.0,2017-04-18T19:26:54Z,45,closed,team8,Lightning / Tech Talk,2017-04-18T19:26:54Z
+user1,"['user1', 'user3', 'user4', 'user2']",April 7th,2017-04-11T19:50:53Z,0,2017-03-16T20:39:59Z,user1,214831469,"[u'approach1', u'approach2', u'approach3']",,2017-01-26T22:00:41Z,2017-04-07T07:00:00Z,2281097.0,3.0,2017-04-18T19:26:54Z,44,closed,team8,Deep analysis paper,2017-04-11T19:50:53Z
+,,"commits only from one person? most strange
+
+looking forward to seeing how much of all this actually work, at demos post-mid-session-break",,2,2017-03-01T15:14:43Z,timm,211110596,,,,,,,,43,open,team8,interesting work patterns,2017-03-01T18:11:31Z
+user3,['user3'],"When I register as a new Google account and select my skills, after redirecting to the homepage, when I click log out it does not log me out and instead reloads the member page. ",2017-02-28T20:12:27Z,1,2017-02-28T20:09:07Z,user1,210890659,"[u'approach2', u'bug']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,42,closed,team8,Stuck in loop when logging out after signing up new google user,2017-02-28T20:12:27Z
+user2,['user2'],When I go to edit my skills it gives me blank checkboxes when I have existing skills. ,2017-03-30T20:42:18Z,1,2017-02-28T20:04:02Z,user1,210889557,"[u'approach2', u'enhancement', u'wontfix']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,41,closed,team8,When editing profile we should check the skills based off of the DB,2017-03-30T20:42:18Z
+user4,['user4'],"** user info
+- [x] create user info
+- [ ] user info update function
+- [ ] show user info
+
+** configuration
+- [x] team configuration function
+
+**team info
+- [ ] show team info
+- [x] show team table
+- [ ] join a team
+- [ ] leave a team",2017-03-30T20:48:01Z,1,2017-02-25T06:55:34Z,user4,210216671,[u'approach3'],,,,,,,40,closed,team8,Approach3 test,2017-03-30T20:48:01Z
+user1,"['user1', 'user3', 'user4', 'user2']","Need to make unit tests for all 3 approaches
+
+- [ ] approach 1
+- [ ] approach 2
+- [x] approach 3 ",2017-04-06T21:29:04Z,0,2017-02-23T21:59:17Z,user1,209897075,"[u'approach1', u'approach2', u'approach3']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,39,closed,team8,Unit Tests,2017-04-06T21:29:05Z
+user1,"['user1', 'user3', 'user4', 'user2']",We need to write a 3 page report 1 page for each approach to turn in with the project. ,2017-03-30T20:48:51Z,4,2017-02-23T21:54:05Z,user1,209895817,"[u'approach1', u'approach2', u'approach3']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,38,closed,team8,Software Report,2017-03-30T20:48:52Z
+user2,['user2'],"We have too many placeholders in user's home page right now. I am removing unnecessary ones.
+It will only have:
+
+1. App's name
+2. Home (User's home)
+3. Profiles -> edit profile and log out (drop down)
+
+@bhaskarsinha1311 Do we need anything else?",2017-02-23T18:05:41Z,2,2017-02-23T16:05:35Z,user2,209805431,"[u'approach1', u'Conversation']",2017-03-30T21:25:15Z,2017-02-07T17:48:32Z,2017-02-23T08:00:00Z,2306423.0,5.0,2017-03-30T21:25:15Z,37,closed,team8,Change title bar/header for user home page,2017-02-23T18:05:42Z
+user4,['user4'],"- [x] create view of a team table for users to select positions
+easy
+Dynamically generate table with Firebase data server
+Choose selection mechanism(button/link)
+
+- [x] Constraint check
+medium
+After selecting a team, the select method is unavailable
+A user can only select the positions which match their skills(string match)
+
+- [x]  Teams config
+selection, easy
+Admin can generate team numbers and skill requirements",2017-02-25T06:44:38Z,5,2017-02-23T03:34:22Z,user4,209654461,"[u'approach3', u'medium']",,,,,,,36,closed,team8,Create a view and function for users to select positions in teams,2017-02-25T06:44:38Z
+user4,['user4'],"- [x] build the skeleton
+Based on AngularJS
+- [x] Link to data service
+Firebase
+- [x] Create sample data
+three types of data: config, users information, teams information",2017-02-23T05:16:05Z,1,2017-02-23T03:23:03Z,user4,209652900,"[u'approach3', u'medium']",,,,,,,35,closed,team8,Build approach 3,2017-02-23T05:16:05Z
+user2,['user2'],When a google user logs in we need to find a way to get their skills since they bypass the usual sign in page.,2017-02-28T06:45:49Z,7,2017-02-23T01:36:11Z,user1,209636285,"[u'approach2', u'bug']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,34,closed,team8,Need to figure out how to get skills from Google users,2017-02-28T06:45:49Z
+user2,['user2'],Is currently just pulling name from the team -> members object. Will need to populate with a userID instead of just a name so we can access the rest of the details. ,2017-03-31T18:00:15Z,0,2017-02-23T01:32:40Z,user1,209635695,"[u'approach2', u'enhancement', u'wontfix']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,33,closed,team8,Need to display more details on the team view. ,2017-03-31T18:00:15Z
+user3,['user3'],Search results for matching skills should be displayed in descending order.,2017-03-30T20:41:23Z,0,2017-02-22T20:05:45Z,user2,209565396,"[u'approach1', u'bug']",2017-03-30T21:25:15Z,2017-02-07T17:48:32Z,2017-02-23T08:00:00Z,2306423.0,5.0,2017-03-30T21:25:15Z,32,closed,team8,Display search result in order,2017-03-30T20:41:23Z
+user3,['user3'],User should have option of adding/removing skills after signup as well.,2017-03-30T20:40:03Z,2,2017-02-22T20:04:32Z,user2,209565098,"[u'approach1', u'bug']",2017-03-30T21:25:15Z,2017-02-07T17:48:32Z,2017-02-23T08:00:00Z,2306423.0,5.0,2017-03-30T21:25:15Z,31,closed,team8,Edit skills,2017-03-30T21:05:18Z
+user3,"['user3', 'user2']",,2017-02-23T18:06:12Z,1,2017-02-22T20:02:55Z,user2,209564662,"[u'approach1', u'bug']",2017-03-30T21:25:15Z,2017-02-07T17:48:32Z,2017-02-23T08:00:00Z,2306423.0,5.0,2017-03-30T21:25:15Z,30,closed,team8,Create logout functionality,2017-02-23T18:06:12Z
+user1,['user1'],,2017-03-01T01:40:22Z,1,2017-02-22T14:04:00Z,user1,209462916,"[u'approach2', u'bug']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,29,closed,team8,figure out how to assign false value on a skill if checkbox isn't checked,2017-03-01T01:40:22Z
+user1,['user1'],,2017-02-23T01:38:36Z,0,2017-02-22T03:52:21Z,user1,209345200,"[u'approach2', u'bug']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,28,closed,team8,Figure out why table isn't auto updating on homepage when data changes in DB,2017-02-23T01:38:36Z
+user1,['user1'],,2017-02-23T01:29:53Z,1,2017-02-22T03:51:33Z,user1,209345093,"[u'approach2', u'bug']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,27,closed,team8,figure out why table is getting cut off on homepage,2017-02-23T01:29:53Z
+user1,['user1'],,2017-02-28T19:52:51Z,1,2017-02-22T03:50:23Z,user1,209344921,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,26,closed,team8,Insert user data for creating an account through google,2017-02-28T19:52:59Z
+,,,2017-02-23T01:36:47Z,1,2017-02-22T01:47:43Z,user1,209328222,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,25,closed,team8,Make a table for each team that is created listing members,2017-02-23T01:36:47Z
+user2,['user2'],Backend work to actually sort these users,2017-03-30T20:39:13Z,4,2017-02-22T01:47:13Z,user1,209328139,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,24,closed,team8,Sort the users into teams,2017-03-30T20:39:13Z
+user1,['user1'],,2017-02-28T18:24:40Z,3,2017-02-22T01:37:28Z,user1,209326686,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,23,closed,team8,Insert new data into user database for email user signup,2017-02-28T18:24:40Z
+user1,['user1'],,2017-02-23T01:37:32Z,1,2017-02-22T01:37:04Z,user1,209326614,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,22,closed,team8,Create user table,2017-02-23T01:37:32Z
+user1,['user1'],"Need to create a teams page where the assigned teams will be displayed
+
+Will have a collection of tables where each team member is listed and their associated skills
+
+Will have a back button to return home",2017-02-23T01:37:11Z,1,2017-02-22T00:54:02Z,user1,209319925,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,21,closed,team8,Teams page,2017-02-23T01:37:11Z
+user1,['user1'],"Need to create a login landing page
+
+Will have a table of current users in the systems and their skills
+
+Will have a button that will create teams
+",2017-02-23T01:39:23Z,1,2017-02-22T00:53:03Z,user1,209319781,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,20,closed,team8,Create Homepage,2017-02-23T01:39:23Z
+user1,['user1'],"Need to create a sign up page that includes
+
+- name
+- email
+- skills
+    - Backend
+    - Frontend
+    - database
+
+Need to also figure out how to route this with Google if we wish to keep their login service.
+",2017-02-23T01:35:26Z,1,2017-02-22T00:51:35Z,user1,209319527,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,19,closed,team8,Create Sign up page,2017-02-23T01:35:26Z
+user1,['user1'],Need to create a sign in page for the application,2017-02-23T01:35:09Z,1,2017-02-22T00:49:27Z,user1,209319158,"[u'approach2', u'enhancement']",2017-03-30T21:25:12Z,2017-02-22T00:48:16Z,2017-03-14T07:00:00Z,2339339.0,8.0,2017-04-06T21:29:05Z,18,closed,team8,Create Sign in page,2017-02-23T01:35:09Z
+user1,"['user1', 'user4']",,2017-02-22T00:47:31Z,6,2017-02-07T21:53:54Z,user1,206027855,,,,,,,,17,closed,team8,Create 3 branches of our repo. 1 for each approach,2017-02-22T00:47:31Z
+,,,2017-02-23T01:34:25Z,0,2017-02-07T18:00:34Z,user2,205967731,"[u'core', u'medium']",2017-02-23T01:38:11Z,2017-02-07T18:01:54Z,2017-02-23T08:00:00Z,2306466.0,7.0,2017-02-23T01:38:11Z,16,closed,team8,Coding: Core,2017-02-23T01:34:25Z
+user1,"['user1', 'user3', 'user4', 'user2']","List of things to be done for approach 3:
+
+- [x] How will users bid for particular project?
+- [ ] Lottery design?
+
+@jdeng8 Can you take lead for this approach? Please add few more points here.",2017-02-15T16:03:24Z,3,2017-02-07T17:27:36Z,user2,205959057,"[u'approach3', u'hard']",2017-02-22T00:48:07Z,2017-02-07T17:47:41Z,2017-02-11T08:00:00Z,2306422.0,4.0,2017-02-22T00:48:07Z,15,closed,team8,Design: Approach 3,2017-02-15T16:03:24Z
+user1,"['user1', 'user3', 'user4', 'user2']","List of things to be done for approach 2:
+
+- [x] How will professor/manager add details of all the students/employees under him? Decide on that.
+- [x] List of things needed to make the group? (Eg, total students, total groups, etc).
+- [x] Finalize the algorithm to divide the group evenly.",2017-02-15T16:03:52Z,1,2017-02-07T17:25:01Z,user2,205958387,"[u'approach2', u'medium']",2017-02-22T00:48:07Z,2017-02-07T17:47:41Z,2017-02-11T08:00:00Z,2306422.0,4.0,2017-02-22T00:48:07Z,14,closed,team8,Design: Approach 2,2017-02-15T16:03:53Z
+user1,"['user1', 'user3', 'user4', 'user2']","List of things which needs to be done after core has been implemented:
+- [x] Skeleton implementation (Simply display all the results if one or more skills are matching)
+- [x] Sort using specified skills
+- [ ] How to handle communication between users after match
+- [x] Decide on threshold
+- [x] Defining users
+
+Add if you can think of better way to break the list in smaller ones. Will be useful for dividing work between us.",2017-02-15T16:02:36Z,2,2017-02-07T17:20:42Z,user2,205957248,"[u'approach1', u'medium']",2017-02-22T00:48:07Z,2017-02-07T17:47:41Z,2017-02-11T08:00:00Z,2306422.0,4.0,2017-02-22T00:48:07Z,13,closed,team8,Design: Approach 1 ,2017-02-15T16:02:36Z
+user1,"['user1', 'user3', 'user4', 'user2']","Following are core/common to all approaches so need to get these done first.
+
+- [x] Finalize the login/signup page (what all details will we ask from end user?)
+- [ ] LinkedIn API (pull skill set for particular profile)
+- [x] Database design (how to save profile details)
+- [x] Database hosting?
+- [x] Designing the web app
+- [ ] Logging",2017-02-15T16:01:51Z,3,2017-02-07T17:14:41Z,user2,205955655,"[u'core', u'hard']",2017-02-22T00:48:07Z,2017-02-07T17:47:41Z,2017-02-11T08:00:00Z,2306422.0,4.0,2017-02-22T00:48:07Z,12,closed,team8,Design: core,2017-02-15T16:01:51Z
+user1,"['user1', 'user3', 'user4', 'user2']","Since we will be working separately on our assigned issues, I was thinking that we should meet once a week (or more?) to see how well we are progressing. Half an hour or an hour should be enough. So at what time will you guys be free? Comment below! 
+
+MW - 2nd half
+TTF - 1st half 
+
+P.S.: We need to more often for first week to decide on 3 approaches's design.",2017-02-07T21:41:29Z,5,2017-02-07T02:23:35Z,user2,205767106,[u'Meeting Notes'],,,,,,,11,closed,team8,Once a week meeting,2017-02-07T21:41:29Z
+user1,"['user1', 'user3', 'user4', 'user2']","We have to come with milestones before tomorrow's class so let us note down as many things as possible which needs to be done. Will create milestones according to discussion below.
+
+- Pull skills from LinkedIn (LinkedIn API?)
+- Signup page details (what all information are we taking from user and which all will be pulled from other sites)
+- Anything else which is needed for more than 1 project design?
+- Project 1 design
+       a. Threshold?
+       b. Search result display?
+- Project 2 design
+       a. How will professor/manager add all the students/employers details?
+- Project 3 design
+       a. How to implement lottery?
+
+- Testing should start around Feb 24/25.
+
+",2017-02-08T18:32:45Z,8,2017-02-06T21:59:48Z,user2,205720572,[u'Conversation'],,,,,,,10,closed,team8,Finalizing milestones,2017-02-08T18:32:45Z
+user1,"['user1', 'user3', 'user4', 'user2']","- [x] Abstract
+- [x] Introduction
+- [x] Outline Survey
+- [x] graphs
+- [x] free responses
+- [x] Approach 1
+- [x] Approach 2
+- [x] Approach 3
+- [x] Research Ties
+- [x] Conclusion
+
+Here are the parts that need to be done in the paper still. I wrote about the survey questions and the graph related answers in the survey. I didn't really address the free response questions. I will be stepping away for a little while but I will be glad to come back and do some editing when the time comes. We are at about 4 pages now give or take a page from placeholder text. ",2017-02-01T03:57:31Z,15,2017-01-28T22:35:59Z,user1,203836136,,2017-02-07T00:43:38Z,2017-01-26T22:00:06Z,2017-01-31T08:00:00Z,2281094.0,1.0,2017-02-07T00:43:38Z,9,closed,team8,Parts of paper that need done.,2017-02-01T03:57:31Z
+user1,"['user1', 'user3', 'user4', 'user2']","Just want to confirm that everyone can access and edit the latex document on sharelatex.
+
+I have started doing some writing about the survey questions and I will soon write about the responses.",2017-02-01T04:05:50Z,4,2017-01-28T00:05:45Z,user1,203770420,,,,,,,,8,closed,team8,Everyone can access?,2017-02-01T04:05:50Z
+user1,"['user1', 'user3', 'user4', 'user2']","Hey I need everyone's email to share the latex file with you to edit. Paste below. Thanks!
+
+magoff2@ncsu.edu",2017-01-26T22:36:24Z,4,2017-01-26T22:32:32Z,user1,203508956,,2017-02-07T00:43:38Z,2017-01-26T22:00:06Z,2017-01-31T08:00:00Z,2281094.0,1.0,2017-02-07T00:43:38Z,7,closed,team8,Everyone paste your email here,2017-01-26T22:36:24Z
+user3,['user3'],Need someone to create the slideshow and share it with the group. Assign yourself,2017-02-01T04:05:49Z,1,2017-01-26T22:14:10Z,user1,203504951,,2017-02-07T00:43:38Z,2017-01-26T22:00:06Z,2017-01-31T08:00:00Z,2281094.0,1.0,2017-02-07T00:43:38Z,6,closed,team8,Create Slideshow and share with the group,2017-02-01T04:05:50Z
+user1,"['user1', 'user3', 'user4', 'user2']","Hey guys, aggregate any papers you have come across and code bases here so we have a list to reference while we write this paper. ",2017-02-01T04:05:49Z,4,2017-01-26T22:13:40Z,user1,203504840,,2017-02-07T00:43:38Z,2017-01-26T22:00:06Z,2017-01-31T08:00:00Z,2281094.0,1.0,2017-02-07T00:43:38Z,5,closed,team8,Aggregate Papers here:,2017-02-01T04:05:49Z
+user1,['user1'],,2017-01-28T00:04:03Z,0,2017-01-26T22:12:51Z,user1,203504634,,2017-02-07T00:43:38Z,2017-01-26T22:00:06Z,2017-01-31T08:00:00Z,2281094.0,1.0,2017-02-07T00:43:38Z,4,closed,team8,Create ShareLatex file and share with the team,2017-01-28T00:04:03Z
+user3,"['user3', 'user4', 'user2']","- Google form survey would work best
+- Are you a master's student?
+- Do you have problems finding team members with specific skill sets?
+- How often are your teams successful 1-5
+- How many different team projects do you work on in a year?
+    - 1 - 3
+    - 4 - 6
+    - 7+ 
+- What have you done to find those team members?
+- Chit #? (if applicable)
+- Which services have you used to form teams before?
+    - LinkedIn
+    - Class Forums
+    - Slack
+    - In person
+    - Other
+- What experiences did you have with those team members which you found. 
+- What were some problems that you had with team members in the past?
+- In general, which is better for you?
+    - Assigned teams
+    - Freely formed teams
+- Rate the following services 1 -5: 
+    - Slack
+    - LinkedIn
+    - 
+- What are the factors do you think contribute to you finding a team aside from their technical expertise?
+- Do you prefer to collaborate online or in person with your team?
+- Do you prefer to start a team or join a pre-existing team?
+- How often do you asses a potential team members skills before forming a team?
+- If there was [Potential application here] would you find it helpful?
+    - yes / maybe / no
+- How often would you use it during team creation?
+    - Often
+    - Sometimes 
+    - etc
+- What would make it more convenient for you to find team members?
+
+
+
+
+# Side Notes
+- Team could put out job postings and people could apply
+- meet-up app / website
+- meet-ups like python meets or something
+- similar to dating apps in a way
+- Areas of expertise to assess
+    - Front-end
+    - Security
+    - etc
+- people could both apply to a team or be in an eligible pool 
+- LinkedIn API log in or Google log in
+- How much can we reuse across designs. 
+- quantitative way to assess social connections, things they like and shared connections on linked in. 
+
+
+
+
+",2017-02-01T04:05:49Z,3,2017-01-24T21:00:36Z,user1,202938648,[u'Meeting Notes'],,,,,,,3,closed,team8,Meeting 1/24/17,2017-02-01T04:05:49Z
+,,"Few minor things which needs to be updated:
+1. Github name (Its group T now, not group S)
+I think only @bhaskarsinha1311  can do it as he was the one who starter this group.
+2. Update the link in se17 google sheet. One link is already present but it is for old S group. ",2017-01-24T21:13:31Z,1,2017-01-24T17:41:56Z,user2,202889539,,,,,,,,2,closed,team8,Update group info,2017-01-24T21:13:31Z
+user1,"['user1', 'user3', 'user4', 'user2']","Hey guys, we really need to get a move on with developing this idea and moving on to some user testing ideas and actually booking that room. Could you reiterate the idea here for the sake of recording our conversations in Github?",2017-02-01T04:05:49Z,17,2017-01-23T19:04:04Z,user1,202621593,[u'Conversation'],,,,,,,1,closed,team8,Developing Idea / Scheduling User Testing,2017-02-01T04:05:49Z
+,,,2017-03-10T03:59:12Z,0,2017-03-10T03:58:53Z,user2,213237801,,,,,,,,37,closed,team9,qrcode display updated,2017-03-10T03:59:12Z
+user2,['user2'],"do i understand your architecture? everyone talks to the same DB back end?
+
+re the DB:
+
+- `student` and `professor` are probably both `roles` of `Person`
+- a `student`'s `courses` are probably a bridge relationship between `Person` and `Subject`
+
+thanks for the work. i look forward to the demon, after the spring break.",2017-04-20T05:31:36Z,2,2017-03-01T14:44:32Z,timm,211101456,,,,,,,,36,closed,team9,comment: feb deliverables look interesting,2017-04-20T05:31:36Z
+,,,2017-03-01T04:10:22Z,0,2017-03-01T04:10:15Z,user2,210974952,,,,,,,,35,closed,team9,completed feb report,2017-03-01T04:10:22Z
+,,,2017-03-01T02:43:31Z,0,2017-03-01T02:43:26Z,user3,210963954,,,,,,,,34,closed,team9,Build script modified to support unit testing,2017-03-01T02:43:31Z
+,,,2017-02-28T05:36:21Z,0,2017-02-28T05:36:12Z,user2,210691763,,,,,,,,33,closed,team9,finished,2017-02-28T05:36:21Z
+user2,['user2'],"Collected GPS co-ordinates from front end, need to check the proximity of student and professor at the backend. ",2017-02-28T05:29:06Z,1,2017-02-28T04:04:50Z,user3,210681299,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,32,closed,team9,GPS Proximity check,2017-02-28T05:29:06Z
+,,Frontend and backend communication,2017-02-28T04:02:59Z,0,2017-02-28T04:02:51Z,user3,210681042,,,,,,,,31,closed,team9,Fb comm,2017-02-28T05:30:48Z
+,,,2017-02-23T23:02:50Z,0,2017-02-23T23:02:45Z,user2,209911249,,,,,,,,30,closed,team9,backend code,2017-02-23T23:15:03Z
+,,,2017-02-23T08:59:15Z,0,2017-02-23T08:58:52Z,user1,209700762,,,,,,,,29,closed,team9,QRC,2017-02-23T21:50:40Z
+user2,"['user2', 'user3']","HTTP Post and Get functions will be used for communication b/w frontend and backend. 
+",2017-02-28T04:05:03Z,1,2017-02-23T08:08:06Z,user3,209691201,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,28,closed,team9,Frontend Backend communication code development,2017-02-28T04:05:03Z
+,,,2017-02-23T08:04:57Z,0,2017-02-23T08:04:50Z,user3,209690651,,,,,,,,27,closed,team9,GPS Code development,2017-02-23T08:15:29Z
+,,"Just scans QR code and displays decoded text. still need to figure out how to send to backend, compare and register attendance.",2017-02-21T23:49:58Z,0,2017-02-21T23:49:51Z,user1,209309309,,,,,,,,26,closed,team9,basic QR code scanner,2017-02-21T23:49:58Z
+,,,2017-02-21T08:12:31Z,0,2017-02-21T08:12:26Z,user3,209070199,,,,,,,,25,closed,team9,GPS code development layout setup,2017-02-21T08:12:31Z
+,,,2017-02-21T07:35:58Z,0,2017-02-21T07:35:51Z,user1,209063736,,,,,,,,24,closed,team9,Generating QR code from basic text,2017-02-21T07:35:58Z
+,,,2017-02-20T07:24:17Z,0,2017-02-20T07:24:11Z,user3,208802185,,,,,,,,23,closed,team9,Cleanup code,2017-02-20T07:24:17Z
+,,"Completed both reader and writer functionalities.
+Now the teacher/Professor can write message into the nfc tag.
+Students can register their attendance using their phone.",2017-02-20T06:35:48Z,0,2017-02-20T06:35:38Z,user3,208795435,,,,,,,,22,closed,team9,Nfc,2017-02-20T06:35:48Z
+,,,2017-02-20T04:02:27Z,0,2017-02-20T04:02:17Z,user3,208779019,,,,,,,,21,closed,team9,NFC Read completed,2017-02-20T04:02:27Z
+user3,['user3'],"1. Basic login page.
+2. Professor page - NFC, GPS and QRCode buttons that lead to different pages where professor can use different technologies to generate attendance code.
+3. Student page - NFC, GPS and QRCode buttons that lead to different pages where student can use different technologies to register attendance code.",2017-02-16T20:55:18Z,1,2017-02-16T20:54:46Z,user3,208243408,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,20,closed,team9,Front End - Skeleton code Developmnet,2017-02-16T20:55:18Z
+user2,"['user2', 'user1']","Develop Business logic
+- for NFC
+- for GPS
+- for QR-code",2017-02-23T21:46:03Z,1,2017-02-07T22:06:53Z,user2,206031088,[u'enhancement'],2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,19,closed,team9,Business Logic,2017-02-23T21:46:03Z
+user2,"['user2', 'user1']",- Create Database,2017-02-21T08:17:14Z,1,2017-02-07T21:59:06Z,user2,206029161,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,18,closed,team9,Create Database,2017-02-21T08:17:14Z
+user2,"['user2', 'user3', 'user1']","- QR Code
+- GPS
+- NFC 
+
+Also analyse the NFC hardware dependencies",2017-02-14T02:51:28Z,3,2017-02-07T21:56:28Z,user3,206028480,,2017-02-14T04:32:00Z,2017-02-07T21:18:22Z,2017-02-13T08:00:00Z,2306932.0,1.0,2017-02-14T04:32:00Z,17,closed,team9,API availability and Feasibility Check. ,2017-02-14T02:51:28Z
+user2,"['user2', 'user3']","- Android UI design study and design
+",2017-02-14T03:36:26Z,1,2017-02-07T21:32:30Z,user3,206021969,,2017-02-14T04:32:00Z,2017-02-07T21:18:22Z,2017-02-13T08:00:00Z,2306932.0,1.0,2017-02-14T04:32:00Z,16,closed,team9,Front End Design,2017-02-14T03:36:26Z
+user1,['user1'],"- Study APIs
+- Develop code 
+- test the features",2017-02-22T02:51:33Z,2,2017-02-07T21:28:20Z,user3,206020755,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,15,closed,team9,Code development - QR Code,2017-02-22T02:51:33Z
+user2,['user2'],"- Study APIs
+- Develop code 
+- test the features",2017-02-23T08:06:07Z,2,2017-02-07T21:27:54Z,user3,206020625,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,14,closed,team9,Code development - GPS,2017-02-23T08:06:07Z
+user3,['user3'],"- Study Android apis
+- implement the code
+- Test the features",2017-02-20T06:39:29Z,2,2017-02-07T21:27:20Z,user3,206020453,,2017-02-28T05:30:14Z,2017-02-07T21:20:35Z,2017-02-28T08:00:00Z,2306939.0,2.0,2017-02-28T05:30:14Z,13,closed,team9,code development - NFC,2017-02-20T06:39:29Z
+user2,"['user2', 'user1']",Design REST APIs and JSON format,2017-02-14T04:30:56Z,1,2017-02-07T21:26:23Z,user2,206020186,,2017-02-14T04:32:00Z,2017-02-07T21:18:22Z,2017-02-13T08:00:00Z,2306932.0,1.0,2017-02-14T04:32:00Z,12,closed,team9,BackEnd FrontEnd Communication,2017-02-14T04:30:56Z
+,,Deploy the final software after final system testing,2017-02-27T23:07:53Z,1,2017-02-07T21:26:16Z,user3,206020139,,2017-02-28T05:30:11Z,2017-02-07T21:22:11Z,2017-02-28T08:00:00Z,2306942.0,3.0,2017-02-28T05:30:11Z,11,closed,team9,Deployment ,2017-02-27T23:07:53Z
+,,"- [x] NFC
+- [x] QR Code
+- [x] GPS",2017-02-28T05:29:34Z,1,2017-02-07T21:25:30Z,user3,206019918,,2017-02-28T05:30:11Z,2017-02-07T21:22:11Z,2017-02-28T08:00:00Z,2306942.0,3.0,2017-02-28T05:30:11Z,10,closed,team9,Test system features,2017-02-28T05:29:34Z
+user2,"['user2', 'user1']","- Design the required Databases.
+- Decide the technology used
+- Decide primary key and foreign keys",2017-02-14T02:51:14Z,1,2017-02-07T21:25:17Z,user2,206019860,,2017-02-14T04:32:00Z,2017-02-07T21:18:22Z,2017-02-13T08:00:00Z,2306932.0,1.0,2017-02-14T04:32:00Z,9,closed,team9,DataBase Design,2017-02-14T02:51:14Z
+effat,['effat'],"Hi Effat,
+
+We forgot to add the chits initially. We updated the January report and chits are available in the last page of the document. 
+
+https://github.com/SidHeg/se17-teamD/blob/master/SE_Project_Report.pdf",2017-02-09T09:05:34Z,0,2017-02-06T04:22:44Z,user3,205485433,,2017-02-07T21:57:25Z,2017-02-07T21:54:29Z,2017-01-31T08:00:00Z,2307045.0,4.0,2017-02-09T09:05:34Z,8,closed,team9,Chits added.,2017-02-09T09:05:34Z
+,,Pulling updated master branch,2017-01-30T16:50:58Z,0,2017-01-30T16:50:14Z,user2,204065304,,,,,,,,7,closed,team9,Merge pull request #2 from SidHeg/master,2017-01-30T16:50:58Z
+user2,"['user2', 'user3']",To be submitted on Jan 31,2017-01-31T20:52:46Z,1,2017-01-30T06:50:53Z,user1,203938368,,2017-02-07T21:57:25Z,2017-02-07T21:54:29Z,2017-01-31T08:00:00Z,2307045.0,4.0,2017-02-09T09:05:34Z,6,closed,team9,Initial Report,2017-02-07T21:55:20Z
+user2,"['user2', 'user3', 'user1']","- [x] NFC based Attendance Management
+- [x] GPS based Attendance Management
+- [x] QR Code Based Attendance Management  ",2017-01-30T19:57:47Z,2,2017-01-29T03:46:19Z,user3,203848591,,2017-02-07T21:57:25Z,2017-02-07T21:54:29Z,2017-01-31T08:00:00Z,2307045.0,4.0,2017-02-09T09:05:34Z,5,closed,team9,Literature Study,2017-02-07T21:55:20Z
+,,,2017-01-24T01:21:04Z,1,2017-01-21T08:02:40Z,user2,202301489,,2017-02-07T21:57:25Z,2017-02-07T21:54:29Z,2017-01-31T08:00:00Z,2307045.0,4.0,2017-02-09T09:05:34Z,4,closed,team9,User Study:,2017-02-07T21:55:19Z
+,,,2017-01-29T03:52:40Z,1,2017-01-21T08:02:17Z,user2,202301476,,2017-02-07T21:57:25Z,2017-02-07T21:54:29Z,2017-01-31T08:00:00Z,2307045.0,4.0,2017-02-09T09:05:34Z,3,closed,team9,Literature Review:,2017-02-07T21:55:19Z
+,,,2017-01-21T08:00:39Z,0,2017-01-21T08:00:10Z,user2,202301330,,,,,,,,2,closed,team9,Pulling updated master branch,2017-01-21T08:00:39Z
+,,,2017-01-19T07:02:30Z,0,2017-01-19T07:02:15Z,user2,201779825,,,,,,,,1,closed,team9,1/19/2017,2017-01-19T07:02:30Z
+,,"commits a little low, but that will change v.soon i'm sure
+
+reading the report, this look ok. i look forward to seeing what parts of this actually run (after the break)
+
+",,0,2017-03-01T15:17:09Z,timm,211111319,,,,,,,,22,open,team10,interesting work patterns,2017-03-01T15:17:09Z
+,,"Current database has 1000 training data.
+We need to find more data to train our classifier.
+Find a dataset with labelled review as positive or negative",,0,2017-02-21T21:43:34Z,user2,209281846,,,,,,,,21,open,team10,Database issues.,2017-02-21T21:43:34Z
+,,,2017-02-27T03:46:55Z,5,2017-02-21T21:39:37Z,user4,209280887,,,,,,,,20,closed,team10,Python nltk code issues,2017-02-27T03:46:55Z
+user2,['user2'],,2017-02-21T21:46:12Z,4,2017-02-11T00:10:25Z,user3,206938221,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,19,closed,team10,Writing a program using Python and NLTK,2017-02-21T21:46:12Z
+user4,['user4'],,2017-02-20T16:47:02Z,1,2017-02-11T00:09:18Z,user2,206938094,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,18,closed,team10,Analyze Sentiment Web,2017-02-20T16:47:02Z
+user3,['user3'],,2017-02-19T06:17:27Z,2,2017-02-11T00:08:25Z,user2,206937988,,,,,,,,17,closed,team10,Make a simple Web page using Flask in python,2017-02-19T18:18:29Z
+user1,['user1'],,2017-02-20T16:50:08Z,1,2017-02-11T00:06:41Z,user2,206937766,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,16,closed,team10,Investigate the google chrome extension possibility,2017-02-20T16:50:08Z
+user1,"['user1', 'user4', 'user2', 'user3']","We must gather together to decide different phases of our project and organize our steps due date.
+
+This meeting should be before Feb. 7.",2017-02-19T06:19:09Z,1,2017-02-06T23:22:19Z,user3,205738270,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,15,closed,team10,Brainstorming on the steps we want to take toward Feb. milestone (Due 6th),2017-02-19T06:19:10Z
+user1,"['user1', 'user4', 'user2', 'user3']","- [x] iFeel
+- [x] Deeply Moving
+- [x] Python NLTK
+- [ ] R, TM
+- [ ] GATE",2017-02-19T06:18:20Z,2,2017-02-06T23:20:22Z,user1,205737928,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,14,closed,team10,Explore Different Sentiment Analysis Approach (Due 15th),2017-02-19T06:18:20Z
+user1,"['user1', 'user4', 'user2', 'user3']",,2017-02-27T04:40:34Z,1,2017-02-06T23:10:57Z,user1,205736200,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,13,closed,team10,Finalize Prototype for Demonstration (Due 24th),2017-02-27T04:40:35Z
+user1,"['user1', 'user4', 'user2', 'user3']","Have a Brainstorm session and come up with as many ways of implementation as possible. 
+Pick the top 3, and decide who will investigate which implementation, final person will start pre-processing data.
+
+- [x] 3 implementations
+- [x] Programming Language
+- [x] Who will Investigate What",2017-02-19T06:19:34Z,1,2017-02-06T23:01:25Z,user1,205734319,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,12,closed,team10,"Brainstorm Session: Finalize 3 Implementations, assign who will investigate what, decide on programming language (Due 10th)",2017-02-19T06:19:34Z
+user1,"['user1', 'user4', 'user2', 'user3']","- Looking and understanding the data and decide how we want to solve the problem from text-mining perspective!
+
+- Pre-process it if needed.
+
+http://jmcauley.ucsd.edu/data/amazon/",2017-02-20T16:54:29Z,1,2017-02-06T22:48:15Z,user1,205731502,,,2017-02-06T22:38:46Z,2017-02-28T08:00:00Z,2304228.0,4.0,2017-02-27T04:40:35Z,11,closed,team10,Have data from Amazon Pre-Processed (Due 20th),2017-02-20T16:54:29Z
+,,,2017-02-06T22:47:54Z,0,2017-02-06T22:47:19Z,user1,205731302,,,,,,,,10,closed,team10,Pre-process Data,2017-02-06T22:47:54Z
+user1,"['user1', 'user4', 'user2', 'user3']","Write the report step by step!
+@ecdraayer Please update us which part of the report you are working on and tell us in which part you need assistance. Inquire a meeting right away if needed. ",2017-01-30T21:59:35Z,2,2017-01-27T16:38:33Z,user3,203681896,[u'help wanted'],2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,9,closed,team10,Writing the report,2017-01-30T21:59:35Z
+user1,"['user1', 'user4', 'user2', 'user3']","We should summarize the statistics obtained from our survey in the form of charts, tables, figures and etc to be included in our report. This will be a form of our reasoning/motivation toward conducting our project/research.
+For the sake of collecting as much as information, we will do it as late as possible by Jan. 30 9:00 PM.",2017-01-30T21:59:35Z,2,2017-01-27T16:34:09Z,user3,203680795,[u'enhancement'],2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,8,closed,team10,Include statistics in the report,2017-01-30T21:59:35Z
+user4,"['user4', 'user2', 'user3']","**Mahnaz** will read the following papers and will summarize two of them by Jan. 28 11:59 PM:
+
+                  -Who cares about sarcastic tweets? Investigating the impact of sarcasm on sentiment analysis
+                    http://www.lrec-conf.org/proceedings/lrec2014/pdf/67_Paper.pdf
+
+                  - Challenges in Sentiment Analysis
+                     http://saifmohammad.com/WebDocs/sentiment-challenges.pdf
+
+                  - Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud     
+                     http://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2015.2304
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+@Sanand007 
+@syazdan25 ",2017-01-30T21:59:35Z,2,2017-01-27T16:19:10Z,user3,203676752,[u'help wanted'],2017-02-06T22:38:55Z,2017-01-27T16:08:37Z,2017-01-28T08:00:00Z,2282605.0,2.0,2017-02-06T22:38:55Z,7,closed,team10,Action required (Paper summarization),2017-01-30T21:59:35Z
+user1,"['user1', 'user4', 'user2', 'user3']","Lets decide for a meeting on or before 31 jan when the report is complete so that we can all review it.
+Do comment the time when you are available.",2017-02-01T04:45:10Z,0,2017-01-26T19:45:27Z,user2,203469685,,2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,6,closed,team10,Final report submission on Jan 31.,2017-02-01T04:45:10Z
+user1,"['user1', 'user4', 'user2', 'user3']",,2017-01-30T21:59:35Z,2,2017-01-26T19:43:43Z,user2,203469259,,2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,5,closed,team10,Rough Draft of the report by Jan 29. Meeting on Jan 29. Please comment the timings when you are available.,2017-01-30T21:59:35Z
+user4,"['user4', 'user2', 'user3']",,2017-01-30T21:59:35Z,0,2017-01-26T19:41:36Z,user2,203468691,,2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,4,closed,team10,Paper summary by 28 Jan,2017-01-30T21:59:35Z
+user1,"['user1', 'user4', 'user2', 'user3']",,2017-01-27T17:03:39Z,2,2017-01-26T19:39:35Z,user2,203468196,,2017-02-06T22:38:57Z,2017-01-26T19:37:29Z,2017-01-31T08:00:00Z,2280839.0,1.0,2017-02-06T22:38:57Z,3,closed,team10,List of papers for literature survey by Jan 26th,2017-01-27T17:03:39Z
+,,"analyse the feasibility of
+Sentiment Analysis/ Review Analysis
+Computer Vision for Traffic light detection
+Virtual Reality for Fear Management
+Portal for Stress Management in Student
+",2017-01-22T16:14:55Z,0,2017-01-21T18:46:01Z,user2,202332622,,,,,,,,2,closed,team10,22 Jan Meeting- Room 3313 hunt Library,2017-01-22T16:14:55Z
+,,"Come up with 3-4 topics each backed up by literature.
+Update the topics and related literature in the file for ideas.",2017-01-21T17:44:46Z,0,2017-01-20T01:47:59Z,user2,202026792,,,,,,,,1,closed,team10,Meeting agenda for 21 Jan room- 3316 Hunt Library,2017-01-21T17:44:46Z

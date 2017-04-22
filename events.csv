@@ -1,0 +1,2000 @@
+actor,created_at,id,issue_id,issue_number,issue_title,milestone_id,milestone_number,milestone_title,team,type
+user2,2017-04-09T20:08:45Z,5655751145,,,,,,,team1,CommitCommentEvent
+user1,2017-04-07T23:45:26Z,5650798305,,,,,,,team1,PushEvent
+user2,2017-04-06T04:38:44Z,5636226718,,,,,,,team1,PushEvent
+user2,2017-03-09T05:39:08Z,5460506269,210361632.0,21.0,Database + GUI ,2307047.0,9.0,Design,team1,IssueCommentEvent
+user1,2017-03-09T01:44:09Z,5459718977,,,,,,,team1,PushEvent
+user2,2017-03-08T06:57:19Z,5453197148,,,,,,,team1,PushEvent
+user1,2017-03-08T05:07:01Z,5452831944,,,,,,,team1,PushEvent
+user1,2017-03-08T03:36:33Z,5452556986,,,,,,,team1,PushEvent
+user1,2017-03-08T03:24:21Z,5452516326,212627458.0,30.0,Existing enrollment,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-03-08T03:22:40Z,5452510674,209336531.0,17.0,FR Impl #4 : Add Database,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-03-08T03:22:39Z,5452510655,209336531.0,17.0,FR Impl #4 : Add Database,2328351.0,11.0,Implementation - Facial recognition,team1,IssueCommentEvent
+user1,2017-03-08T03:22:35Z,5452510404,212627230.0,29.0,General refactor #1,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-03-08T03:17:57Z,5452494693,212626410.0,28.0,FR Impl #5 : View Daily Attendance,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-03-08T03:17:57Z,5452494681,212626410.0,28.0,FR Impl #5 : View Daily Attendance,2328351.0,11.0,Implementation - Facial recognition,team1,IssueCommentEvent
+user1,2017-03-08T03:16:14Z,5452488716,212626410.0,28.0,FR Impl #5 : View Daily Attendance,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-03-07T02:52:23Z,5444456810,,,,,,,team1,PushEvent
+user2,2017-03-03T19:33:26Z,5429853842,,,,,,,team1,PushEvent
+user2,2017-03-02T04:56:38Z,5417427434,,,,,,,team1,PushEvent
+user2,2017-03-02T02:57:34Z,5417040237,,,,,,,team1,PushEvent
+user2,2017-03-02T00:24:08Z,5416412507,,,,,,,team1,PushEvent
+user2,2017-03-01T16:38:07Z,5413395350,,,,,,,team1,PushEvent
+timm,2017-03-01T14:48:15Z,5412541319,211102550.0,27.0,some interesting patterns in your work,,,,team1,IssuesEvent
+user2,2017-03-01T04:20:36Z,5409480795,210361632.0,21.0,Database + GUI ,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-03-01T01:14:45Z,5408766461,,,,,,,team1,PushEvent
+user3,2017-03-01T01:02:34Z,5408708267,209711224.0,18.0,Add Database-Finish Implementation(Engagement),2307047.0,9.0,Design,team1,IssuesEvent
+user3,2017-03-01T01:02:34Z,5408708263,209711224.0,18.0,Add Database-Finish Implementation(Engagement),2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-03-01T01:00:28Z,5408697587,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssuesEvent
+user3,2017-03-01T01:00:28Z,5408697582,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-03-01T00:59:49Z,5408694022,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssuesEvent
+user3,2017-03-01T00:59:49Z,5408694018,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-03-01T00:58:25Z,5408687058,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssuesEvent
+user3,2017-03-01T00:58:25Z,5408687050,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user3,2017-03-01T00:57:49Z,5408683869,210371223.0,24.0,Finish and complete Engagement Implementation,,,,team1,IssueCommentEvent
+user1,2017-03-01T00:22:29Z,5408516256,,,,,,,team1,PushEvent
+user3,2017-03-01T00:13:17Z,5408474691,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user2,2017-02-28T23:42:07Z,5408329939,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user2,2017-02-28T23:40:06Z,5408320175,,,,,,,team1,PushEvent
+user1,2017-02-28T22:55:10Z,5408090139,,,,,,,team1,PushEvent
+user3,2017-02-28T22:14:09Z,5407860583,,,,,,,team1,PushEvent
+user3,2017-02-28T22:11:49Z,5407847517,,,,,,,team1,PushEvent
+user3,2017-02-28T11:13:44Z,5403971029,,,,,,,team1,PushEvent
+user3,2017-02-28T11:11:54Z,5403961243,209711224.0,18.0,Add Database-Finish Implementation(Engagement),2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-28T11:09:15Z,5403946681,209712036.0,19.0,Need to go back and clean up Engagement implementation,,,,team1,IssueCommentEvent
+user3,2017-02-28T03:43:57Z,5402025596,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user3,2017-02-28T03:43:11Z,5402023082,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssuesEvent
+user3,2017-02-28T03:43:10Z,5402022988,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-28T03:42:34Z,5402021080,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-28T03:41:33Z,5402017790,209711224.0,18.0,Add Database-Finish Implementation(Engagement),2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-28T02:24:08Z,5401736476,,,,,,,team1,PushEvent
+user3,2017-02-28T01:29:22Z,5401511852,,,,,,,team1,PushEvent
+user2,2017-02-27T15:50:25Z,5397940731,,,,,,,team1,ForkEvent
+user3,2017-02-27T13:44:12Z,5397072408,209712036.0,19.0,Need to go back and clean up Engagement implementation,,,,team1,IssueCommentEvent
+user3,2017-02-27T13:41:27Z,5397055072,209711224.0,18.0,Add Database-Finish Implementation(Engagement),,,,team1,IssueCommentEvent
+user3,2017-02-27T05:01:27Z,5394714307,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user3,2017-02-27T04:41:05Z,5394663098,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user2,2017-02-27T02:48:06Z,5394361494,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user2,2017-02-27T02:47:47Z,5394360603,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user2,2017-02-27T02:47:04Z,5394358523,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssueCommentEvent
+user3,2017-02-27T02:38:55Z,5394335017,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user1,2017-02-27T02:38:50Z,5394334834,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:36:40Z,5394329053,210373781.0,26.0,Report,2307044.0,8.0,Implementation,team1,IssuesEvent
+user1,2017-02-27T02:36:13Z,5394327807,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user2,2017-02-27T02:34:06Z,5394321924,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:32:07Z,5394316646,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user2,2017-02-27T02:28:02Z,5394305302,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:26:19Z,5394300706,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user1,2017-02-27T02:25:09Z,5394297739,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:24:25Z,5394295716,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:22:15Z,5394289925,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:20:12Z,5394284352,210372075.0,25.0,Professor side,2307047.0,9.0,Design,team1,IssuesEvent
+user2,2017-02-27T02:17:58Z,5394278596,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user2,2017-02-27T02:16:54Z,5394276009,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user1,2017-02-27T02:15:55Z,5394273421,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:13:31Z,5394267309,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user2,2017-02-27T02:11:52Z,5394263045,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user1,2017-02-27T02:11:35Z,5394262435,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user2,2017-02-27T02:11:24Z,5394261986,210370964.0,23.0,Log in implementation,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:11:19Z,5394261786,210371223.0,24.0,Finish and complete Engagement Implementation,,,,team1,IssuesEvent
+user2,2017-02-27T02:09:01Z,5394255605,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssueCommentEvent
+user3,2017-02-27T02:08:36Z,5394254598,210370964.0,23.0,Log in implementation,,,,team1,IssuesEvent
+user3,2017-02-27T02:06:26Z,5394249003,210370776.0,22.0,Creating SQL script to recreate database from github,2307047.0,9.0,Design,team1,IssuesEvent
+user2,2017-02-27T00:17:26Z,5393999104,210361632.0,21.0,Database + GUI ,,,,team1,IssueCommentEvent
+user2,2017-02-27T00:15:58Z,5393996096,210361632.0,21.0,Database + GUI ,,,,team1,IssuesEvent
+user2,2017-02-26T23:06:48Z,5393852993,209904765.0,20.0,Database work ,,,,team1,IssueCommentEvent
+user2,2017-02-26T23:06:35Z,5393852575,209904765.0,20.0,Database work ,,,,team1,IssueCommentEvent
+user2,2017-02-23T22:38:35Z,5381617902,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssuesEvent
+user2,2017-02-23T22:38:35Z,5381617890,206030415.0,7.0,Reviewing Android ,,,,team1,IssuesEvent
+user2,2017-02-23T22:38:35Z,5381617866,205322999.0,6.0,Brainstorming for Feb SE Project,2304449.0,5.0,Learn Android,team1,IssuesEvent
+user2,2017-02-23T22:32:19Z,5381580055,209904765.0,20.0,Database work ,,,,team1,IssuesEvent
+user2,2017-02-23T20:10:23Z,5380663316,,,,,,,team1,PushEvent
+user2,2017-02-23T20:05:42Z,5380631468,,,,,,,team1,PushEvent
+user2,2017-02-23T20:05:19Z,5380628904,,,,,,,team1,PushEvent
+user2,2017-02-23T19:45:31Z,5380491210,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssueCommentEvent
+user3,2017-02-23T09:50:47Z,5376671525,209711224.0,18.0,Add Database-Finish Implementation(Engagement),,,,team1,IssueCommentEvent
+user3,2017-02-23T09:49:26Z,5376662931,209712036.0,19.0,Need to go back and clean up Engagement implementation,,,,team1,IssuesEvent
+user3,2017-02-23T09:46:52Z,5376646791,209711224.0,18.0,Add Database-Finish Implementation,,,,team1,IssueCommentEvent
+user3,2017-02-23T09:46:03Z,5376641684,209711224.0,18.0,Add Database-Finish Implementation,,,,team1,IssuesEvent
+user3,2017-02-23T09:42:47Z,5376621526,,,,,,,team1,PushEvent
+user3,2017-02-23T09:37:14Z,5376588615,,,,,,,team1,PushEvent
+user3,2017-02-23T09:36:07Z,5376582046,,,,,,,team1,PushEvent
+user3,2017-02-23T09:26:52Z,5376528646,,,,,,,team1,PushEvent
+user3,2017-02-23T09:22:47Z,5376505468,,,,,,,team1,PushEvent
+user3,2017-02-23T09:07:22Z,5376421870,,,,,,,team1,PushEvent
+user3,2017-02-23T08:58:09Z,5376372947,,,,,,,team1,PushEvent
+user1,2017-02-22T02:47:47Z,5367141678,208685411.0,16.0,FR Impl #3 : Refinement of Impl #1 and #2,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-22T02:47:47Z,5367141674,208685411.0,16.0,FR Impl #3 : Refinement of Impl #1 and #2,2328351.0,11.0,Implementation - Facial recognition,team1,IssueCommentEvent
+user1,2017-02-22T02:46:22Z,5367135989,209336531.0,17.0,FR Impl #4 : Add Database,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-21T21:10:42Z,5365427990,,,,,,,team1,PushEvent
+user1,2017-02-19T01:30:28Z,5350410502,,,,,,,team1,PushEvent
+user1,2017-02-19T01:24:13Z,5350401792,208685279.0,15.0,FR Impl #2 : Base64 and Kairos,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-19T01:24:13Z,5350401790,208685279.0,15.0,FR Impl #2 : Base64 and Kairos,2328351.0,11.0,Implementation - Facial recognition,team1,IssueCommentEvent
+user1,2017-02-19T01:21:44Z,5350397830,208229269.0,11.0,FR Impl #1 : Picture capturing,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-19T01:21:44Z,5350397829,208229269.0,11.0,FR Impl #1 : Picture capturing,2328351.0,11.0,Implementation - Facial recognition,team1,IssueCommentEvent
+user1,2017-02-19T01:21:12Z,5350396827,208685411.0,16.0,FR Impl #3 : Refinement of Impl #1 and #2,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-19T01:18:39Z,5350393016,208685279.0,15.0,FR Impl #2 : Base64 and Kairos,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-19T01:16:59Z,5350390707,208227136.0,10.0,Design - Face recognition,2307047.0,9.0,Design,team1,IssuesEvent
+user1,2017-02-19T01:16:59Z,5350390706,208227136.0,10.0,Design - Face recognition,2307047.0,9.0,Design,team1,IssueCommentEvent
+user1,2017-02-19T01:16:18Z,5350389967,208685141.0,14.0,Design - Face recog : Phase 2,2307047.0,9.0,Design,team1,IssuesEvent
+user1,2017-02-19T00:52:42Z,5350358702,208684051.0,13.0,Design - Face Recog - Phase 1,2307047.0,9.0,Design,team1,IssuesEvent
+user1,2017-02-19T00:52:42Z,5350358701,208684051.0,13.0,Design - Face Recog - Phase 1,2307047.0,9.0,Design,team1,IssueCommentEvent
+user1,2017-02-19T00:52:00Z,5350357731,208684051.0,13.0,Design - Face Recog - Phase 1,2307047.0,9.0,Design,team1,IssuesEvent
+user1,2017-02-19T00:46:32Z,5350350609,208683696.0,12.0,Learning Android,2304449.0,5.0,Learn Android,team1,IssuesEvent
+user1,2017-02-19T00:46:32Z,5350350608,208683696.0,12.0,Learning Android,2304449.0,5.0,Learn Android,team1,IssueCommentEvent
+user1,2017-02-19T00:43:30Z,5350346350,208683696.0,12.0,Learning Android,2304449.0,5.0,Learn Android,team1,IssuesEvent
+user1,2017-02-19T00:42:31Z,5350345034,207699421.0,9.0,Alternatives to Google,2307042.0,7.0,Facial/voice Recognition API,team1,IssuesEvent
+user1,2017-02-19T00:42:31Z,5350345033,207699421.0,9.0,Alternatives to Google,2307042.0,7.0,Facial/voice Recognition API,team1,IssueCommentEvent
+user1,2017-02-18T19:56:36Z,5349871579,,,,,,,team1,PushEvent
+user1,2017-02-16T20:00:33Z,5339309173,208229269.0,11.0,FR Impl #1 : Picture capturing,2328351.0,11.0,Implementation - Facial recognition,team1,IssuesEvent
+user1,2017-02-16T19:52:19Z,5339253574,208227136.0,10.0,Design - Face recognition,2307047.0,9.0,Design,team1,IssuesEvent
+user2,2017-02-16T03:32:46Z,5333929291,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssueCommentEvent
+user2,2017-02-16T03:29:32Z,5333918544,,,,,,,team1,CreateEvent
+user2,2017-02-16T03:21:08Z,5333890006,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssueCommentEvent
+user1,2017-02-15T19:39:28Z,5331502580,,,,,,,team1,PushEvent
+user1,2017-02-15T19:38:38Z,5331497020,,,,,,,team1,PushEvent
+user1,2017-02-15T03:26:42Z,5326284986,207699421.0,9.0,Alternatives to Google,2307042.0,7.0,Facial/voice Recognition API,team1,IssuesEvent
+user1,2017-02-09T16:45:01Z,5296674353,204756185.0,5.0,Missing Chit numbers,,,,team1,IssueCommentEvent
+user1,2017-02-09T16:44:15Z,5296668539,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssueCommentEvent
+user1,2017-02-09T16:43:30Z,5296663017,206030415.0,7.0,Reviewing Android ,,,,team1,IssueCommentEvent
+user1,2017-02-09T16:39:57Z,5296637436,205322999.0,6.0,Brainstorming for Feb SE Project,2304449.0,5.0,Learn Android,team1,IssueCommentEvent
+user2,2017-02-07T22:05:21Z,5283710980,206030690.0,8.0,Understanding the voice recognition API,,,,team1,IssuesEvent
+user2,2017-02-07T22:04:16Z,5283704051,206030415.0,7.0,Reviewing Android ,,,,team1,IssuesEvent
+user2,2017-02-07T03:15:19Z,5277455084,205322999.0,6.0,Brainstorming for Feb SE Project,2304449.0,5.0,Android introduction,team1,IssueCommentEvent
+user1,2017-02-07T00:11:06Z,5276679432,204145549.0,4.0,Report writing : Jan deliverable,,,,team1,IssuesEvent
+user1,2017-02-07T00:11:06Z,5276679427,204145549.0,4.0,Report writing : Jan deliverable,,,,team1,IssueCommentEvent
+user1,2017-02-07T00:09:34Z,5276672344,201434357.0,3.0,User testing/survey,,,,team1,IssuesEvent
+user1,2017-02-07T00:09:34Z,5276672338,201434357.0,3.0,User testing/survey,,,,team1,IssueCommentEvent
+user1,2017-02-07T00:08:44Z,5276668614,201433562.0,2.0,Literature review,,,,team1,IssuesEvent
+user1,2017-02-07T00:08:44Z,5276668610,201433562.0,2.0,Literature review,,,,team1,IssueCommentEvent
+user1,2017-02-06T18:24:20Z,5274613440,205322999.0,6.0,Brainstorming for Feb SE Project,2301210.0,4.0,Come up with solutions and other details :),team1,IssueCommentEvent
+user2,2017-02-06T01:56:43Z,5270032332,205322999.0,6.0,Brainstorming for Feb SE Project,2301201.0,3.0,Samantha: 3rd unique solution,team1,IssueCommentEvent
+user2,2017-02-04T04:45:50Z,5265799359,205322999.0,6.0,Brainstorming for Feb SE Project,,,,team1,IssuesEvent
+user3,2017-02-02T01:18:29Z,5251845310,204756185.0,5.0,Missing Chit numbers,,,,team1,IssuesEvent
+user3,2017-02-02T01:11:45Z,5251819114,,,,,,,team1,WatchEvent
+user3,2017-02-01T02:13:18Z,5245077190,,,,,,,team1,PushEvent
+user3,2017-02-01T02:09:34Z,5245065070,,,,,,,team1,PushEvent
+user3,2017-01-31T02:47:45Z,5238118425,,,,,,,team1,PushEvent
+user1,2017-01-31T02:46:55Z,5238116008,,,,,,,team1,PushEvent
+user1,2017-01-31T02:46:04Z,5238113764,,,,,,,team1,PushEvent
+user3,2017-01-31T02:45:36Z,5238112590,,,,,,,team1,PushEvent
+user3,2017-01-30T23:09:10Z,5237282076,,,,,,,team1,PushEvent
+user1,2017-01-30T22:11:37Z,5236961476,204145549.0,4.0,Report writing : Jan deliverable,,,,team1,IssuesEvent
+user1,2017-01-26T22:01:17Z,5220492160,201434357.0,3.0,User testing/survey,,,,team1,IssueCommentEvent
+user1,2017-01-26T21:58:36Z,5220475834,201432514.0,1.0,Problem selection,,,,team1,IssuesEvent
+user1,2017-01-26T21:58:36Z,5220475830,201432514.0,1.0,Problem selection,,,,team1,IssueCommentEvent
+user3,2017-01-23T21:32:09Z,5199671748,,,,,,,team1,PushEvent
+user2,2017-01-23T16:29:52Z,5197799451,,,,,,,team1,WatchEvent
+user3,2017-01-23T02:03:05Z,5194203390,,,,,,,team1,PushEvent
+user3,2017-01-23T02:00:40Z,5194197906,,,,,,,team1,PushEvent
+user3,2017-01-23T01:57:48Z,5194191291,,,,,,,team1,PushEvent
+user3,2017-01-23T01:54:33Z,5194184598,,,,,,,team1,PushEvent
+user3,2017-01-23T01:50:39Z,5194176596,,,,,,,team1,PushEvent
+user3,2017-01-23T01:42:43Z,5194159553,,,,,,,team1,PushEvent
+user3,2017-01-23T01:03:43Z,5194079799,201433562.0,2.0,Literature review,,,,team1,IssueCommentEvent
+user1,2017-01-22T18:32:57Z,5193360198,201433562.0,2.0,Literature review,,,,team1,IssueCommentEvent
+user1,2017-01-22T18:31:11Z,5193356921,201432514.0,1.0,Problem selection,,,,team1,IssueCommentEvent
+user1,2017-01-22T18:29:01Z,5193353200,,,,,,,team1,PushEvent
+user2,2017-01-22T04:16:46Z,5192113212,,,,,,,team1,PushEvent
+user2,2017-01-22T04:14:30Z,5192110676,,,,,,,team1,PushEvent
+user2,2017-01-22T04:13:14Z,5192109202,,,,,,,team1,PushEvent
+user1,2017-04-13T20:15:09Z,5686570948,208801504.0,50.0,Fingerprint App crash,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-04-13T20:15:09Z,5686570939,208801504.0,50.0,Fingerprint App crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-04-13T20:14:50Z,5686569077,212631523.0,79.0,App icon and logo,,,,team2,IssuesEvent
+user1,2017-04-13T20:14:50Z,5686569067,212631523.0,79.0,App icon and logo,,,,team2,IssueCommentEvent
+user1,2017-04-13T20:14:33Z,5686567411,212899774.0,84.0,Confirmation mail doesn't open inside the app,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-04-13T20:14:33Z,5686567399,212899774.0,84.0,Confirmation mail doesn't open inside the app,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-04-13T20:14:13Z,5686565519,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssuesEvent
+user1,2017-04-13T20:14:13Z,5686565511,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssueCommentEvent
+user1,2017-04-13T20:13:41Z,5686562163,212924761.0,85.0,No Internet Connection App Crash,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-04-13T20:13:41Z,5686562155,212924761.0,85.0,No Internet Connection App Crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-31T14:48:17Z,5603665551,,,,,,,team2,GollumEvent
+user1,2017-03-31T14:46:32Z,5603652133,,,,,,,team2,GollumEvent
+user1,2017-03-27T02:36:08Z,5567248661,,,,,,,team2,GollumEvent
+user1,2017-03-27T02:35:52Z,5567247788,,,,,,,team2,GollumEvent
+user1,2017-03-26T18:06:32Z,5565917242,,,,,,,team2,PushEvent
+user1,2017-03-26T18:06:32Z,5565917199,,,,,,,team2,PullRequestEvent
+user1,2017-03-26T18:03:04Z,5565908171,,,,,,,team2,ReleaseEvent
+user1,2017-03-26T17:57:05Z,5565891733,,,,,,,team2,PullRequestEvent
+user1,2017-03-26T17:56:19Z,5565889873,,,,,,,team2,CreateEvent
+user1,2017-03-26T17:55:44Z,5565888551,,,,,,,team2,PushEvent
+user1,2017-03-26T17:50:43Z,5565876310,,,,,,,team2,PushEvent
+user1,2017-03-26T17:47:06Z,5565867054,,,,,,,team2,PushEvent
+user1,2017-03-26T17:46:03Z,5565864534,,,,,,,team2,PushEvent
+user2,2017-03-21T21:33:23Z,5537229882,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssueCommentEvent
+user3,2017-03-21T21:19:50Z,5537138231,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssueCommentEvent
+user2,2017-03-21T20:16:10Z,5536690761,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssueCommentEvent
+user1,2017-03-21T19:17:36Z,5536301563,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssueCommentEvent
+user3,2017-03-20T18:08:55Z,5527633363,215508340.0,87.0,User eval,2372495.0,9.0,v4,team2,IssuesEvent
+user1,2017-03-15T17:48:40Z,5500162151,208801504.0,50.0,Fingerprint App crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-15T17:48:11Z,5500158736,212924761.0,85.0,No Internet Connection App Crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-15T17:47:03Z,5500150330,212899774.0,84.0,Confirmation mail doesn't open inside the app,2332067.0,7.0,Demo day,team2,IssueCommentEvent
+user3,2017-03-13T17:44:13Z,5484166289,212899774.0,84.0,Confirmation mail doesn't open inside the app,2332067.0,7.0,Demo day,team2,IssueCommentEvent
+user3,2017-03-13T17:43:56Z,5484164336,212631523.0,79.0,App icon and logo,,,,team2,IssueCommentEvent
+user3,2017-03-13T17:42:57Z,5484157089,212924761.0,85.0,No Internet Connection App Crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user3,2017-03-13T17:42:44Z,5484155408,208801504.0,50.0,Fingerprint App crash,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-13T04:57:50Z,5479910859,,,,,,,team2,PushEvent
+user1,2017-03-13T04:57:49Z,5479910827,,,,,,,team2,PullRequestEvent
+user1,2017-03-13T04:57:43Z,5479910645,213658025.0,86.0,Bug fixes and more Features,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-13T02:24:25Z,5479482744,,,,,,,team2,PullRequestEvent
+user1,2017-03-09T14:29:26Z,5463243497,,,,,,,team2,DeleteEvent
+user1,2017-03-09T14:29:19Z,5463242623,,,,,,,team2,DeleteEvent
+user1,2017-03-09T14:29:12Z,5463241597,,,,,,,team2,DeleteEvent
+user1,2017-03-09T14:29:05Z,5463240578,,,,,,,team2,DeleteEvent
+user1,2017-03-09T04:13:49Z,5460253288,,,,,,,team2,PushEvent
+user1,2017-03-09T04:00:38Z,5460212845,209891698.0,60.0,Profile id in speaker enrollment,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-09T04:00:38Z,5460212842,209891698.0,60.0,Profile id in speaker enrollment,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-09T03:22:05Z,5460086394,212924761.0,85.0,No Internet Connection App Crash,,,,team2,IssuesEvent
+user1,2017-03-09T03:19:33Z,5460077795,212889123.0,82.0,Disable button which shouldn't be pressed ,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-09T03:19:33Z,5460077792,212889123.0,82.0,Disable button which shouldn't be pressed ,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-09T02:19:12Z,5459858299,208648748.0,44.0,Restrict back button access,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-09T02:19:12Z,5459858297,208648748.0,44.0,Restrict back button access,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-09T01:02:02Z,5459540381,212889709.0,83.0,Rogue toast notification after registering ,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-09T00:27:45Z,5459394703,212899774.0,84.0,Confirmation mail doesn't open inside the app,2332067.0,7.0,Demo day,team2,IssuesEvent
+user1,2017-03-08T23:35:13Z,5459147278,208648748.0,44.0,Restrict back button access,2372491.0,8.0,v3,team2,IssueCommentEvent
+user1,2017-03-08T23:32:58Z,5459135543,212889709.0,83.0,Rogue toast notification after registering ,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-08T23:29:49Z,5459118746,212889123.0,82.0,Disable button which shouldn't be pressed ,2372491.0,8.0,v3,team2,IssuesEvent
+user1,2017-03-08T19:48:32Z,5457750155,,,,,,,team2,GollumEvent
+user1,2017-03-08T19:17:00Z,5457543669,,,,,,,team2,PushEvent
+user1,2017-03-08T19:10:05Z,5457497835,,,,,,,team2,GollumEvent
+user1,2017-03-08T19:06:21Z,5457473301,,,,,,,team2,GollumEvent
+user1,2017-03-08T18:50:33Z,5457368279,,,,,,,team2,GollumEvent
+user1,2017-03-08T18:47:03Z,5457345555,209897103.0,61.0,Testing,,,,team2,IssuesEvent
+user1,2017-03-08T18:47:01Z,5457345304,209897103.0,61.0,Testing,,,,team2,IssueCommentEvent
+user1,2017-03-08T18:43:24Z,5457322053,207525794.0,24.0,Status update,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user1,2017-03-08T18:43:24Z,5457322044,207525794.0,24.0,Status update,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-03-08T18:35:09Z,5457268849,,,,,,,team2,DeleteEvent
+user1,2017-03-08T18:35:03Z,5457268143,,,,,,,team2,DeleteEvent
+user1,2017-03-08T18:34:56Z,5457267495,,,,,,,team2,DeleteEvent
+user1,2017-03-08T18:34:43Z,5457266307,,,,,,,team2,DeleteEvent
+user1,2017-03-08T08:31:27Z,5453568951,,,,,,,team2,GollumEvent
+user1,2017-03-08T08:29:58Z,5453561643,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T08:25:01Z,5453538906,,,,,,,team2,GollumEvent
+user1,2017-03-08T08:23:10Z,5453530651,,,,,,,team2,CreateEvent
+user1,2017-03-08T08:23:10Z,5453530649,,,,,,,team2,PushEvent
+user1,2017-03-08T07:37:57Z,5453346976,,,,,,,team2,PushEvent
+user1,2017-03-08T07:37:22Z,5453344712,,,,,,,team2,PushEvent
+user1,2017-03-08T07:24:07Z,5453294421,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T07:20:50Z,5453282724,,,,,,,team2,CreateEvent
+user1,2017-03-08T07:00:08Z,5453207269,,,,,,,team2,PushEvent
+user1,2017-03-08T06:59:18Z,5453204366,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T06:55:25Z,5453190344,,,,,,,team2,CreateEvent
+user1,2017-03-08T06:55:25Z,5453190343,,,,,,,team2,PushEvent
+user1,2017-03-08T06:50:02Z,5453171358,,,,,,,team2,CreateEvent
+user1,2017-03-08T06:37:44Z,5453127760,,,,,,,team2,PushEvent
+user1,2017-03-08T04:52:44Z,5452788111,,,,,,,team2,PushEvent
+user1,2017-03-08T04:27:24Z,5452715353,,,,,,,team2,PushEvent
+user1,2017-03-08T04:27:23Z,5452715327,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T04:24:38Z,5452707072,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T04:22:08Z,5452699647,,,,,,,team2,PushEvent
+user1,2017-03-08T04:20:53Z,5452695931,,,,,,,team2,PushEvent
+user1,2017-03-08T04:03:59Z,5452645786,,,,,,,team2,PushEvent
+user1,2017-03-08T04:03:58Z,5452645739,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T04:02:57Z,5452642679,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T03:58:29Z,5452628070,212631523.0,79.0,App icon and logo,,,,team2,IssuesEvent
+user1,2017-03-08T03:54:07Z,5452614007,,,,,,,team2,PushEvent
+user1,2017-03-08T02:56:41Z,5452418862,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T02:50:24Z,5452395382,,,,,,,team2,CreateEvent
+user1,2017-03-08T02:48:44Z,5452389254,,,,,,,team2,DeleteEvent
+user1,2017-03-08T02:46:37Z,5452381841,,,,,,,team2,PushEvent
+user1,2017-03-08T02:46:36Z,5452381791,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T02:46:04Z,5452379783,,,,,,,team2,PullRequestEvent
+user1,2017-03-08T02:44:23Z,5452373863,,,,,,,team2,CreateEvent
+user1,2017-03-08T02:43:11Z,5452369567,,,,,,,team2,PushEvent
+user1,2017-03-08T02:40:25Z,5452359693,,,,,,,team2,DeleteEvent
+user1,2017-03-08T02:40:19Z,5452359324,,,,,,,team2,DeleteEvent
+user1,2017-03-08T02:40:11Z,5452358864,,,,,,,team2,DeleteEvent
+user1,2017-03-08T02:39:05Z,5452354773,,,,,,,team2,DeleteEvent
+user1,2017-03-08T02:37:48Z,5452350017,211980860.0,71.0,Release Deployment with Travis,,,,team2,IssuesEvent
+user1,2017-03-08T02:37:43Z,5452349639,211980860.0,71.0,Release Deployment with Travis,,,,team2,IssueCommentEvent
+user1,2017-03-08T02:29:35Z,5452318438,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T02:23:02Z,5452292871,,,,,,,team2,PushEvent
+user1,2017-03-08T02:23:02Z,5452292873,,,,,,,team2,CreateEvent
+user1,2017-03-08T02:19:31Z,5452278938,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T02:15:12Z,5452262431,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T02:13:07Z,5452254254,,,,,,,team2,PushEvent
+user1,2017-03-08T02:13:07Z,5452254227,,,,,,,team2,CreateEvent
+user1,2017-03-08T02:02:35Z,5452212933,,,,,,,team2,PushEvent
+user1,2017-03-08T02:02:34Z,5452212906,,,,,,,team2,CreateEvent
+user1,2017-03-08T01:54:40Z,5452179487,,,,,,,team2,ReleaseEvent
+user1,2017-03-08T01:48:14Z,5452152832,,,,,,,team2,CreateEvent
+user3,2017-03-08T01:35:09Z,5452098315,209897103.0,61.0,Testing,,,,team2,IssueCommentEvent
+user1,2017-03-08T01:32:25Z,5452086667,,,,,,,team2,PushEvent
+user1,2017-03-08T01:18:50Z,5452028699,,,,,,,team2,PushEvent
+user2,2017-03-07T23:01:47Z,5451377282,208674556.0,48.0,Add phrases and proper instructions for voice enrollment,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user2,2017-03-07T23:01:47Z,5451377274,208674556.0,48.0,Add phrases and proper instructions for voice enrollment,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-03-07T23:01:20Z,5451374583,208332723.0,38.0,Optimize the app to run faster,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user2,2017-03-07T23:01:04Z,5451372877,208332712.0,37.0,Make the App UI prettier,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user2,2017-03-07T22:57:22Z,5451350907,,,,,,,team2,PushEvent
+user2,2017-03-07T22:49:14Z,5451302560,,,,,,,team2,PushEvent
+user2,2017-03-07T22:49:13Z,5451302434,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:49:08Z,5451301897,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:48:20Z,5451297230,,,,,,,team2,PushEvent
+user2,2017-03-07T22:42:10Z,5451260661,,,,,,,team2,PushEvent
+user2,2017-03-07T22:42:10Z,5451260588,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:42:05Z,5451260095,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:41:50Z,5451258721,,,,,,,team2,PushEvent
+user2,2017-03-07T22:31:19Z,5451194584,,,,,,,team2,PushEvent
+user2,2017-03-07T22:31:18Z,5451194517,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:26:21Z,5451163209,209897103.0,61.0,Testing,,,,team2,IssueCommentEvent
+user2,2017-03-07T22:24:37Z,5451152338,208332712.0,37.0,Make the App UI prettier,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-03-07T22:23:35Z,5451145885,209891264.0,59.0,Crash in voice enrollment,2332067.0,7.0,Demo day,team2,IssuesEvent
+user2,2017-03-07T22:23:35Z,5451145879,209891264.0,59.0,Crash in voice enrollment,2332067.0,7.0,Demo day,team2,IssueCommentEvent
+user2,2017-03-07T22:23:08Z,5451143001,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:22:51Z,5451141311,,,,,,,team2,PushEvent
+user2,2017-03-07T22:15:55Z,5451096567,,,,,,,team2,PushEvent
+user2,2017-03-07T22:15:54Z,5451096512,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:02:18Z,5451007980,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T22:02:04Z,5451006092,,,,,,,team2,PushEvent
+user2,2017-03-07T21:05:52Z,5450633579,,,,,,,team2,PushEvent
+user2,2017-03-07T20:07:25Z,5450257318,,,,,,,team2,PushEvent
+user2,2017-03-07T20:07:24Z,5450257261,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T19:58:56Z,5450201297,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T19:58:14Z,5450196701,,,,,,,team2,PushEvent
+user2,2017-03-07T19:53:11Z,5450161459,,,,,,,team2,PushEvent
+user2,2017-03-07T19:03:25Z,5449822616,,,,,,,team2,PushEvent
+user2,2017-03-07T19:03:25Z,5449822546,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T18:55:35Z,5449769607,,,,,,,team2,PullRequestEvent
+user2,2017-03-07T18:55:14Z,5449767351,,,,,,,team2,PushEvent
+user2,2017-03-07T18:50:59Z,5449738968,,,,,,,team2,PushEvent
+user2,2017-03-07T18:46:03Z,5449706680,,,,,,,team2,PushEvent
+user2,2017-03-07T18:18:51Z,5449525867,,,,,,,team2,PushEvent
+user1,2017-03-07T17:21:30Z,5449140852,,,,,,,team2,GollumEvent
+user1,2017-03-06T18:51:52Z,5441760362,209897103.0,61.0,Testing,,,,team2,IssueCommentEvent
+user1,2017-03-05T20:27:39Z,5435860291,211980860.0,71.0,Release Deployment with Travis,,,,team2,IssuesEvent
+user1,2017-03-05T20:23:53Z,5435852066,,,,,,,team2,PushEvent
+user1,2017-03-05T20:23:12Z,5435850623,,,,,,,team2,PushEvent
+user1,2017-03-05T20:23:11Z,5435850606,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T20:18:34Z,5435840450,211967410.0,69.0,Store api keys in travis,,,,team2,IssuesEvent
+user1,2017-03-05T20:18:34Z,5435840447,211967410.0,69.0,Store api keys in travis,,,,team2,IssueCommentEvent
+user1,2017-03-05T20:15:53Z,5435834661,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T20:14:33Z,5435831749,,,,,,,team2,PushEvent
+user1,2017-03-05T19:26:46Z,5435728849,,,,,,,team2,PushEvent
+user1,2017-03-05T18:54:08Z,5435664074,,,,,,,team2,PushEvent
+user1,2017-03-05T18:33:34Z,5435624110,,,,,,,team2,PushEvent
+user1,2017-03-05T18:21:07Z,5435599592,,,,,,,team2,PushEvent
+user1,2017-03-05T18:05:21Z,5435569802,,,,,,,team2,PushEvent
+user1,2017-03-05T17:55:43Z,5435549764,,,,,,,team2,PushEvent
+user1,2017-03-05T17:48:21Z,5435534665,,,,,,,team2,PushEvent
+user1,2017-03-05T17:14:41Z,5435468657,211891082.0,64.0,Store api keys in gradle,,,,team2,IssuesEvent
+user1,2017-03-05T17:14:27Z,5435468211,211967410.0,69.0,Store api keys in travis,,,,team2,IssuesEvent
+user1,2017-03-05T17:06:08Z,5435450935,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssuesEvent
+user1,2017-03-05T17:05:40Z,5435450045,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-05T16:46:39Z,5435412020,,,,,,,team2,PushEvent
+user1,2017-03-05T16:46:38Z,5435411996,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T16:46:18Z,5435411362,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T16:37:45Z,5435394368,,,,,,,team2,PushEvent
+user1,2017-03-05T16:31:46Z,5435382156,,,,,,,team2,PushEvent
+user1,2017-03-05T16:21:56Z,5435361955,,,,,,,team2,PushEvent
+user1,2017-03-05T15:35:10Z,5435264769,,,,,,,team2,PushEvent
+user1,2017-03-05T15:20:33Z,5435234293,,,,,,,team2,PushEvent
+user1,2017-03-05T15:09:06Z,5435211750,,,,,,,team2,PushEvent
+user1,2017-03-05T15:01:41Z,5435197118,,,,,,,team2,PushEvent
+user1,2017-03-05T09:15:23Z,5434632084,,,,,,,team2,PushEvent
+user1,2017-03-05T09:06:12Z,5434618319,,,,,,,team2,PushEvent
+user1,2017-03-05T08:54:54Z,5434601739,,,,,,,team2,PushEvent
+user1,2017-03-05T07:07:03Z,5434452555,,,,,,,team2,PushEvent
+user1,2017-03-05T07:05:05Z,5434450054,,,,,,,team2,PushEvent
+user1,2017-03-05T06:49:05Z,5434430307,,,,,,,team2,PushEvent
+user1,2017-03-05T06:37:23Z,5434415451,,,,,,,team2,PushEvent
+user1,2017-03-05T06:37:22Z,5434415438,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T06:33:27Z,5434409721,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T06:31:49Z,5434407416,,,,,,,team2,PushEvent
+user1,2017-03-05T06:25:20Z,5434398271,,,,,,,team2,PushEvent
+user1,2017-03-05T06:21:18Z,5434393303,,,,,,,team2,PushEvent
+user1,2017-03-05T06:12:43Z,5434382431,,,,,,,team2,PushEvent
+user1,2017-03-05T06:08:52Z,5434377216,,,,,,,team2,PushEvent
+user1,2017-03-05T06:08:52Z,5434377195,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T06:08:08Z,5434376179,,,,,,,team2,PullRequestEvent
+user1,2017-03-05T06:06:39Z,5434374257,,,,,,,team2,PushEvent
+user3,2017-03-05T01:26:06Z,5433996264,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user2,2017-03-04T19:58:33Z,5433444876,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user3,2017-03-04T19:57:04Z,5433441974,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-04T19:56:25Z,5433440799,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-04T19:55:48Z,5433439583,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user2,2017-03-04T19:54:47Z,5433437561,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user3,2017-03-04T19:52:37Z,5433433708,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-04T19:51:46Z,5433432223,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user3,2017-03-04T19:46:09Z,5433421994,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-04T19:44:45Z,5433419416,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssueCommentEvent
+user1,2017-03-04T19:43:35Z,5433417266,211902226.0,65.0,Intergrating with travisCI,,,,team2,IssuesEvent
+user1,2017-03-04T19:22:30Z,5433377316,,,,,,,team2,PushEvent
+user1,2017-03-04T19:21:56Z,5433376283,,,,,,,team2,PushEvent
+user1,2017-03-04T19:02:45Z,5433340992,211103348.0,63.0,thanks for the feb report,,,,team2,IssuesEvent
+user1,2017-03-04T16:57:39Z,5433099812,209897103.0,61.0,Unit Testing,,,,team2,IssueCommentEvent
+user1,2017-03-04T16:49:42Z,5433084239,211891082.0,64.0,Store api keys in gradle,,,,team2,IssuesEvent
+user1,2017-03-02T01:34:50Z,5416720671,,,,,,,team2,CreateEvent
+user1,2017-03-02T01:34:50Z,5416720658,,,,,,,team2,ReleaseEvent
+user1,2017-03-01T15:04:18Z,5412661460,,,,,,,team2,WatchEvent
+user1,2017-03-01T15:02:18Z,5412646912,209940083.0,62.0,schedule,,,,team2,IssuesEvent
+user1,2017-03-01T15:02:18Z,5412646897,209940083.0,62.0,schedule,,,,team2,IssueCommentEvent
+timm,2017-03-01T14:51:00Z,5412561225,211103348.0,63.0,thanks for the feb report,,,,team2,IssuesEvent
+user1,2017-03-01T02:32:11Z,5409104030,,,,,,,team2,PushEvent
+user1,2017-02-26T20:04:36Z,5393458117,,,,,,,team2,PushEvent
+user1,2017-02-26T20:03:31Z,5393455648,,,,,,,team2,PushEvent
+user1,2017-02-26T20:00:53Z,5393449713,,,,,,,team2,PushEvent
+user1,2017-02-26T19:31:27Z,5393387877,,,,,,,team2,PushEvent
+user1,2017-02-25T23:30:37Z,5391468378,,,,,,,team2,PushEvent
+user1,2017-02-24T05:55:13Z,5383285139,208332712.0,37.0,Make the App UI prettier,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-02-24T05:31:42Z,5383214686,209897103.0,61.0,Unit Testing,,,,team2,IssueCommentEvent
+user1,2017-02-24T05:23:31Z,5383191348,,,,,,,team2,GollumEvent
+user1,2017-02-24T05:21:38Z,5383185912,,,,,,,team2,GollumEvent
+user1,2017-02-24T05:20:30Z,5383182399,,,,,,,team2,GollumEvent
+user1,2017-02-24T02:06:40Z,5382570980,209940083.0,62.0,schedule,,,,team2,IssuesEvent
+user2,2017-02-23T21:59:24Z,5381372647,209897103.0,61.0,Unite Testing,,,,team2,IssuesEvent
+user1,2017-02-23T21:37:39Z,5381229469,209891698.0,60.0,Profile id in speaker enrollment,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user1,2017-02-23T21:35:49Z,5381217254,209891264.0,59.0,Crash in voice enrollment,2332067.0,7.0,Demo day,team2,IssuesEvent
+user3,2017-02-23T20:46:26Z,5380897244,206252623.0,5.0,MagicLink issues,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user3,2017-02-23T20:45:37Z,5380892191,206255960.0,9.0,Adding timing module for fingerprint auth,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user3,2017-02-23T20:45:28Z,5380891152,206256167.0,10.0,Add timing module to MagicLink,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user3,2017-02-23T20:45:15Z,5380889804,206256354.0,11.0,Add timing module for VoiceDNA auth,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user1,2017-02-23T20:21:27Z,5380736458,208664751.0,47.0,Separate heavy operations from UI,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user1,2017-02-23T20:21:27Z,5380736440,208664751.0,47.0,Separate heavy operations from UI,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-02-23T19:51:05Z,5380528886,,,,,,,team2,PushEvent
+user2,2017-02-23T19:51:04Z,5380528821,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:50:59Z,5380528360,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:50:47Z,5380527163,,,,,,,team2,PushEvent
+user2,2017-02-23T19:38:23Z,5380442593,,,,,,,team2,PushEvent
+user2,2017-02-23T19:38:23Z,5380442497,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:38:17Z,5380441792,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:37:57Z,5380439265,,,,,,,team2,PushEvent
+user2,2017-02-23T19:12:53Z,5380266391,,,,,,,team2,PushEvent
+user2,2017-02-23T19:12:52Z,5380266333,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:12:47Z,5380265818,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T19:12:15Z,5380262178,,,,,,,team2,PushEvent
+user2,2017-02-23T18:52:18Z,5380127971,,,,,,,team2,PushEvent
+user2,2017-02-23T18:52:18Z,5380127922,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T18:52:12Z,5380127313,,,,,,,team2,PullRequestEvent
+user2,2017-02-23T18:52:08Z,5380126796,,,,,,,team2,PushEvent
+user1,2017-02-23T18:33:37Z,5380004457,,,,,,,team2,PushEvent
+user3,2017-02-23T14:26:22Z,5378214262,206252623.0,5.0,MagicLink issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-02-21T21:54:36Z,5365715928,206252623.0,5.0,MagicLink issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-02-21T21:53:19Z,5365707614,,,,,,,team2,PushEvent
+user2,2017-02-21T21:53:19Z,5365707556,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T21:53:13Z,5365706995,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T21:52:42Z,5365703568,,,,,,,team2,PushEvent
+user3,2017-02-21T21:17:05Z,5365469850,207525794.0,24.0,Status update,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-02-21T15:20:34Z,5362968072,206252705.0,6.0,VoiceDNA issues,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user1,2017-02-21T15:20:34Z,5362968022,206252705.0,6.0,VoiceDNA issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-02-21T15:19:03Z,5362956423,208674556.0,48.0,Add phrases and proper instructions for voice enrollment,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user3,2017-02-21T14:48:37Z,5362725704,208674556.0,48.0,Add phrases and proper instructions for voice enrollment,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user3,2017-02-21T13:56:37Z,5362361768,206252705.0,6.0,VoiceDNA issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user3,2017-02-21T13:55:41Z,5362355483,206252135.0,4.0,Fingerprint authentication issues,2309836.0,6.0,Testing and debugging,team2,IssuesEvent
+user3,2017-02-21T13:55:41Z,5362355472,206252135.0,4.0,Fingerprint authentication issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-02-21T04:18:58Z,5359656465,,,,,,,team2,PushEvent
+user2,2017-02-21T03:16:35Z,5359467546,208801504.0,50.0,App crashes ,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user2,2017-02-21T03:14:53Z,5359462365,,,,,,,team2,PushEvent
+user2,2017-02-21T03:14:53Z,5359462325,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T03:14:47Z,5359462065,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T03:14:25Z,5359460966,,,,,,,team2,PushEvent
+user2,2017-02-21T03:13:29Z,5359457943,206252623.0,5.0,MagicLink issues,2309836.0,6.0,Testing and debugging,team2,IssueCommentEvent
+user1,2017-02-21T02:50:55Z,5359384951,,,,,,,team2,PushEvent
+user2,2017-02-21T02:42:42Z,5359359128,,,,,,,team2,PushEvent
+user2,2017-02-21T02:42:42Z,5359359102,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T02:42:36Z,5359358777,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T02:41:21Z,5359354851,,,,,,,team2,PushEvent
+user2,2017-02-21T02:26:08Z,5359307282,,,,,,,team2,PushEvent
+user2,2017-02-21T02:08:13Z,5359248602,,,,,,,team2,PushEvent
+user2,2017-02-21T02:08:12Z,5359248568,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T02:08:06Z,5359248249,,,,,,,team2,PullRequestEvent
+user2,2017-02-21T02:05:14Z,5359239021,,,,,,,team2,PushEvent
+user1,2017-04-13T20:17:07Z,5686583094,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssuesEvent
+user1,2017-04-13T20:17:07Z,5686583086,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssueCommentEvent
+user3,2017-03-27T02:06:30Z,5567159221,,,,,,,team2,PushEvent
+user3,2017-03-27T01:57:11Z,5567131544,,,,,,,team2,PushEvent
+user3,2017-03-27T01:51:38Z,5567114868,,,,,,,team2,PushEvent
+user3,2017-03-27T01:33:45Z,5567065243,,,,,,,team2,PushEvent
+user3,2017-03-27T01:31:05Z,5567057918,217112470.0,24.0,Wrong Magic link,,,,team2,IssuesEvent
+user3,2017-03-27T01:31:05Z,5567057915,217112470.0,24.0,Wrong Magic link,,,,team2,IssueCommentEvent
+user3,2017-03-27T01:29:33Z,5567053595,,,,,,,team2,PushEvent
+user1,2017-03-27T01:21:54Z,5567033187,217112470.0,24.0,Wrong Magic link,,,,team2,IssuesEvent
+user1,2017-03-11T23:02:28Z,5476689453,,,,,,,team2,CreateEvent
+user3,2017-03-11T22:45:00Z,5476659772,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssueCommentEvent
+user1,2017-03-11T20:52:33Z,5476463734,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssueCommentEvent
+user3,2017-03-10T14:05:50Z,5470754906,,,,,,,team2,CreateEvent
+user3,2017-03-10T14:05:50Z,5470754890,,,,,,,team2,ReleaseEvent
+user3,2017-03-10T13:56:24Z,5470695899,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssueCommentEvent
+user3,2017-03-10T04:11:25Z,5468095589,212899351.0,19.0,Confirmation mail,2373287.0,1.0,Demo Day,team2,IssuesEvent
+user3,2017-03-10T04:11:25Z,5468095585,212899351.0,19.0,Confirmation mail,2373287.0,1.0,Demo Day,team2,IssueCommentEvent
+user3,2017-03-10T04:03:44Z,5468071324,,,,,,,team2,PushEvent
+user1,2017-03-10T03:41:23Z,5467998627,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssueCommentEvent
+user3,2017-03-10T03:35:25Z,5467978775,,,,,,,team2,PushEvent
+user3,2017-03-10T03:34:56Z,5467977088,,,,,,,team2,PushEvent
+user3,2017-03-10T03:29:59Z,5467959853,,,,,,,team2,PushEvent
+user3,2017-03-10T03:24:17Z,5467940564,,,,,,,team2,PushEvent
+user3,2017-03-10T03:24:16Z,5467940520,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:24:09Z,5467940137,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:23:56Z,5467939355,,,,,,,team2,PushEvent
+user1,2017-03-10T03:17:09Z,5467915531,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssuesEvent
+user3,2017-03-10T03:14:35Z,5467906833,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssueCommentEvent
+user3,2017-03-10T03:14:27Z,5467906367,,,,,,,team2,PushEvent
+user3,2017-03-10T03:14:26Z,5467906344,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:14:21Z,5467906094,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:13:38Z,5467903760,,,,,,,team2,PushEvent
+user3,2017-03-10T03:12:31Z,5467900030,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssueCommentEvent
+user1,2017-03-10T03:10:33Z,5467893644,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssueCommentEvent
+user3,2017-03-10T03:01:44Z,5467863393,,,,,,,team2,PushEvent
+user3,2017-03-10T03:01:43Z,5467863345,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:01:38Z,5467863064,,,,,,,team2,PullRequestEvent
+user3,2017-03-10T03:01:28Z,5467862476,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssueCommentEvent
+user3,2017-03-10T03:00:52Z,5467860088,,,,,,,team2,PushEvent
+user1,2017-03-09T19:38:09Z,5465512631,213142248.0,20.0,Database information is public,2373287.0,1.0,Demo Day,team2,IssuesEvent
+user1,2017-03-09T00:25:10Z,5459383548,212899351.0,19.0,Confirmation mail,2373287.0,1.0,Demo Day,team2,IssuesEvent
+user3,2017-02-28T17:55:23Z,5406554195,210862176.0,18.0,Creating API calls for storing Microsoft cognitive id,,,,team2,IssuesEvent
+user1,2017-02-26T21:58:16Z,5393704108,,,,,,,team2,WatchEvent
+user1,2017-02-26T19:58:23Z,5393444024,,,,,,,team2,PushEvent
+user3,2017-02-23T21:28:30Z,5381169388,209775497.0,17.0,Modify UI for emails for magiclink and user confirmation,,,,team2,IssuesEvent
+user3,2017-02-23T21:28:30Z,5381169376,209775497.0,17.0,Modify UI for emails for magiclink and user confirmation,,,,team2,IssueCommentEvent
+user3,2017-02-23T14:27:11Z,5378219736,209775497.0,17.0,Modify UI for emails for magiclink and user confirmation,,,,team2,IssuesEvent
+user3,2017-02-23T14:25:53Z,5378211117,,,,,,,team2,PushEvent
+user3,2017-02-23T14:25:52Z,5378211046,,,,,,,team2,PullRequestEvent
+user3,2017-02-23T14:25:47Z,5378210419,,,,,,,team2,PullRequestEvent
+user3,2017-02-23T14:22:26Z,5378188874,,,,,,,team2,PushEvent
+user3,2017-02-23T13:53:24Z,5378007696,,,,,,,team2,CreateEvent
+user3,2017-02-23T13:52:44Z,5378003570,,,,,,,team2,PushEvent
+user3,2017-02-20T17:37:01Z,5357186557,,,,,,,team2,PushEvent
+user3,2017-02-20T17:37:01Z,5357186514,,,,,,,team2,PullRequestEvent
+user3,2017-02-20T17:36:54Z,5357186007,,,,,,,team2,PullRequestEvent
+user3,2017-02-20T17:35:49Z,5357180068,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user3,2017-02-20T17:33:35Z,5357168315,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user3,2017-02-20T17:32:51Z,5357164449,,,,,,,team2,PushEvent
+user1,2017-02-20T17:28:54Z,5357141999,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user1,2017-02-20T17:27:15Z,5357132457,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user1,2017-02-20T17:07:59Z,5357020077,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user3,2017-02-20T13:22:24Z,5355560387,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssuesEvent
+user3,2017-02-20T13:22:24Z,5355560380,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssueCommentEvent
+user1,2017-02-20T07:10:40Z,5353701228,208800315.0,14.0,Magic link api call quotes error,,,,team2,IssuesEvent
+user3,2017-02-19T00:36:32Z,5350337017,,,,,,,team2,CreateEvent
+user1,2017-02-18T17:03:21Z,5349548163,208624465.0,13.0,Email verification design discussion.,,,,team2,IssuesEvent
+user1,2017-02-18T17:03:21Z,5349548159,208624465.0,13.0,Email verification design discussion.,,,,team2,IssueCommentEvent
+user3,2017-02-18T16:26:54Z,5349481569,208624465.0,13.0,Email verification design discussion.,,,,team2,IssueCommentEvent
+user2,2017-02-18T16:25:32Z,5349478946,208624465.0,13.0,Email verification design discussion.,,,,team2,IssueCommentEvent
+user1,2017-02-18T16:13:24Z,5349456253,208624465.0,13.0,Email verification design discussion.,,,,team2,IssueCommentEvent
+user3,2017-02-18T13:02:39Z,5349136739,208624465.0,13.0,Email verification design discussion.,,,,team2,IssueCommentEvent
+user1,2017-02-18T08:22:10Z,5348728075,208624465.0,13.0,Email verification design discussion.,,,,team2,IssuesEvent
+user3,2017-02-17T14:19:33Z,5344360289,,,,,,,team2,PushEvent
+user3,2017-02-17T14:19:32Z,5344360225,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T14:19:08Z,5344357681,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T14:15:46Z,5344336418,,,,,,,team2,PushEvent
+user3,2017-02-17T14:13:16Z,5344320899,,,,,,,team2,PushEvent
+user3,2017-02-17T13:45:35Z,5344160461,,,,,,,team2,PushEvent
+user3,2017-02-17T13:38:40Z,5344122442,,,,,,,team2,PushEvent
+user3,2017-02-17T02:33:43Z,5341368490,,,,,,,team2,PushEvent
+user1,2017-02-17T02:31:58Z,5341362346,207737106.0,8.0,Error at wrong username when logging in,,,,team2,IssuesEvent
+user1,2017-02-17T02:31:58Z,5341362345,207737106.0,8.0,Error at wrong username when logging in,,,,team2,IssueCommentEvent
+user3,2017-02-17T02:29:07Z,5341351677,206623738.0,1.0,Server setup for Android App,,,,team2,IssuesEvent
+user3,2017-02-17T02:29:07Z,5341351671,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-17T02:28:45Z,5341350284,207657691.0,7.0,Add authorization calls when directed back to the app,,,,team2,IssuesEvent
+user3,2017-02-17T02:28:45Z,5341350281,207657691.0,7.0,Add authorization calls when directed back to the app,,,,team2,IssueCommentEvent
+user3,2017-02-17T02:28:36Z,5341349751,,,,,,,team2,PushEvent
+user3,2017-02-17T02:28:35Z,5341349722,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T02:28:30Z,5341349392,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T02:26:55Z,5341343556,,,,,,,team2,PushEvent
+user3,2017-02-17T01:44:40Z,5341181500,,,,,,,team2,PushEvent
+user3,2017-02-17T01:41:59Z,5341170969,207657579.0,6.0,Able to use the link to direct back to the app,,,,team2,IssuesEvent
+user3,2017-02-17T01:41:59Z,5341170967,207657579.0,6.0,Able to use the link to direct back to the app,,,,team2,IssueCommentEvent
+user3,2017-02-17T01:41:41Z,5341169889,,,,,,,team2,PushEvent
+user3,2017-02-17T01:41:40Z,5341169853,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T01:41:10Z,5341167878,,,,,,,team2,PullRequestEvent
+user3,2017-02-17T01:40:45Z,5341166319,,,,,,,team2,PushEvent
+user3,2017-02-17T01:38:00Z,5341155690,,,,,,,team2,PushEvent
+user3,2017-02-16T14:01:05Z,5336770028,207657492.0,5.0,Adding auth token inside email,,,,team2,IssuesEvent
+user3,2017-02-16T14:01:05Z,5336770018,207657492.0,5.0,Adding auth token inside email,,,,team2,IssueCommentEvent
+user3,2017-02-16T14:00:56Z,5336769136,207657419.0,4.0,Send email to user's email,,,,team2,IssuesEvent
+user3,2017-02-16T14:00:56Z,5336769124,207657419.0,4.0,Send email to user's email,,,,team2,IssueCommentEvent
+user3,2017-02-16T14:00:48Z,5336768262,,,,,,,team2,PushEvent
+user3,2017-02-16T14:00:47Z,5336768163,,,,,,,team2,PullRequestEvent
+user3,2017-02-16T14:00:40Z,5336767357,,,,,,,team2,PullRequestEvent
+user3,2017-02-16T13:58:18Z,5336751900,,,,,,,team2,PushEvent
+user3,2017-02-16T13:55:26Z,5336734165,,,,,,,team2,PushEvent
+user3,2017-02-16T13:46:45Z,5336680017,,,,,,,team2,PushEvent
+user3,2017-02-16T13:35:52Z,5336613987,,,,,,,team2,PushEvent
+user3,2017-02-16T05:12:48Z,5334227579,,,,,,,team2,PushEvent
+user3,2017-02-16T05:07:40Z,5334213498,,,,,,,team2,PushEvent
+user3,2017-02-16T05:02:51Z,5334199682,,,,,,,team2,PushEvent
+user3,2017-02-16T04:55:53Z,5334178951,,,,,,,team2,PushEvent
+user3,2017-02-16T04:49:03Z,5334159102,,,,,,,team2,PushEvent
+user3,2017-02-16T04:47:03Z,5334153193,,,,,,,team2,PushEvent
+user3,2017-02-16T04:39:59Z,5334132760,,,,,,,team2,PushEvent
+user3,2017-02-16T04:16:22Z,5334066857,,,,,,,team2,PushEvent
+user3,2017-02-16T04:02:36Z,5334025150,,,,,,,team2,PushEvent
+user3,2017-02-16T04:01:23Z,5334021445,,,,,,,team2,PushEvent
+user3,2017-02-16T03:54:56Z,5334000959,,,,,,,team2,PushEvent
+user3,2017-02-16T03:03:10Z,5333830549,,,,,,,team2,PushEvent
+user3,2017-02-15T17:18:59Z,5330555037,207737106.0,8.0,Error at wrong username when logging in,,,,team2,IssueCommentEvent
+user1,2017-02-15T08:28:19Z,5327230367,207737106.0,8.0,Error at wrong username when logging in,,,,team2,IssuesEvent
+user3,2017-02-14T22:38:36Z,5325107871,207657691.0,7.0,Add authorization calls when directed back to the app,,,,team2,IssuesEvent
+user3,2017-02-14T22:38:07Z,5325105098,207657579.0,6.0,Able to use the link to direct back to the app,,,,team2,IssuesEvent
+user3,2017-02-14T22:37:43Z,5325102849,207657492.0,5.0,Adding auth token inside email,,,,team2,IssuesEvent
+user3,2017-02-14T22:37:25Z,5325101113,207657419.0,4.0,Send email to user's email,,,,team2,IssuesEvent
+user3,2017-02-14T22:21:26Z,5325005489,,,,,,,team2,CreateEvent
+user3,2017-02-13T14:26:42Z,5314183751,206623883.0,2.0,Basic testing on the API calls,,,,team2,IssuesEvent
+user3,2017-02-13T14:26:41Z,5314183737,206623883.0,2.0,Basic testing on the API calls,,,,team2,IssueCommentEvent
+user3,2017-02-13T14:26:09Z,5314180234,206624023.0,3.0,Create documentation,,,,team2,IssuesEvent
+user3,2017-02-13T01:49:48Z,5311150171,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-13T01:48:18Z,5311146704,206624023.0,3.0,Create documentation,,,,team2,IssueCommentEvent
+user3,2017-02-13T01:46:41Z,5311142834,,,,,,,team2,PushEvent
+user3,2017-02-13T01:45:22Z,5311139709,,,,,,,team2,PushEvent
+user3,2017-02-13T01:38:06Z,5311123308,,,,,,,team2,PushEvent
+user3,2017-02-13T01:31:53Z,5311108504,,,,,,,team2,PushEvent
+user3,2017-02-12T21:02:15Z,5310553184,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-12T18:27:15Z,5310250566,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user2,2017-02-12T17:40:55Z,5310162442,,,,,,,team2,MemberEvent
+user3,2017-02-12T17:36:54Z,5310154746,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-12T17:28:17Z,5310138551,,,,,,,team2,PushEvent
+user3,2017-02-12T03:50:16Z,5308962387,,,,,,,team2,PushEvent
+user3,2017-02-11T20:43:09Z,5308334468,,,,,,,team2,PushEvent
+user3,2017-02-11T20:09:38Z,5308275100,,,,,,,team2,PushEvent
+user3,2017-02-11T19:15:23Z,5308178176,,,,,,,team2,PushEvent
+user3,2017-02-11T19:13:27Z,5308174600,,,,,,,team2,PushEvent
+user3,2017-02-11T05:09:54Z,5306882299,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-11T04:29:58Z,5306827064,,,,,,,team2,PushEvent
+user3,2017-02-11T03:39:25Z,5306753696,,,,,,,team2,PushEvent
+user3,2017-02-11T03:36:59Z,5306749932,,,,,,,team2,PushEvent
+user3,2017-02-11T03:29:09Z,5306738021,,,,,,,team2,PushEvent
+user3,2017-02-11T01:40:12Z,5306532077,,,,,,,team2,PushEvent
+user3,2017-02-10T22:45:37Z,5305915731,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user2,2017-02-10T15:28:57Z,5303312301,,,,,,,team2,MemberEvent
+user3,2017-02-10T13:55:01Z,5302726051,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-10T13:54:13Z,5302721622,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user2,2017-02-10T02:28:06Z,5299994569,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-10T01:42:34Z,5299827748,206623738.0,1.0,Server setup for Android App,,,,team2,IssueCommentEvent
+user3,2017-02-09T21:14:52Z,5298456556,,,,,,,team2,PushEvent
+user3,2017-02-09T21:11:52Z,5298438419,,,,,,,team2,PushEvent
+user3,2017-02-09T20:42:13Z,5298254604,206624023.0,3.0,Create documentation,,,,team2,IssuesEvent
+user3,2017-02-09T20:41:39Z,5298250640,206623883.0,2.0,Basic testing on the API calls,,,,team2,IssuesEvent
+user3,2017-02-09T20:40:53Z,5298246138,206623738.0,1.0,Server setup for Android App,,,,team2,IssuesEvent
+user3,2017-02-09T20:38:01Z,5298228589,,,,,,,team2,PushEvent
+user2,2017-02-09T18:31:09Z,5297408286,,,,,,,team2,CreateEvent
+user2,2017-02-09T18:31:08Z,5297408115,,,,,,,team2,CreateEvent
+user2,2017-04-19T15:25:15Z,5716581453,206031764.0,9.0,Critical issues,,,,team3,IssuesEvent
+user3,2017-04-19T15:24:06Z,5716571056,215200518.0,21.0,Admin Panel,,,,team3,IssuesEvent
+user3,2017-04-19T15:23:26Z,5716565426,205630558.0,6.0,test issue,,,,team3,IssuesEvent
+user3,2017-04-19T15:23:26Z,5716565408,205630558.0,6.0,test issue,,,,team3,IssueCommentEvent
+user2,2017-04-19T15:23:24Z,5716565158,214405328.0,20.0,Visual representations,,,,team3,IssueCommentEvent
+user3,2017-04-19T15:23:10Z,5716563138,215200518.0,21.0,Admin Panel,,,,team3,IssuesEvent
+user2,2017-04-19T15:22:53Z,5716560802,214405328.0,20.0,Visual representations,,,,team3,IssuesEvent
+user1,2017-04-08T13:27:00Z,5652350661,,,,,,,team3,PushEvent
+user2,2017-04-08T01:07:25Z,5651036792,,,,,,,team3,PushEvent
+user1,2017-04-03T14:54:53Z,5615567871,,,,,,,team3,PushEvent
+user3,2017-04-03T05:44:48Z,5612531672,,,,,,,team3,PushEvent
+user3,2017-04-03T03:24:14Z,5612181274,,,,,,,team3,PushEvent
+user1,2017-04-03T02:00:05Z,5611975676,,,,,,,team3,PushEvent
+user3,2017-04-03T01:42:48Z,5611932978,,,,,,,team3,PushEvent
+user3,2017-04-02T21:53:57Z,5611491596,,,,,,,team3,PushEvent
+user1,2017-04-02T02:59:21Z,5609599215,,,,,,,team3,PushEvent
+user3,2017-04-01T04:25:52Z,5607363238,,,,,,,team3,PushEvent
+user1,2017-03-31T01:15:18Z,5599885627,,,,,,,team3,PushEvent
+user1,2017-03-31T01:13:41Z,5599880097,,,,,,,team3,PushEvent
+user1,2017-03-31T01:10:04Z,5599868135,,,,,,,team3,PushEvent
+user1,2017-03-31T01:00:48Z,5599834444,,,,,,,team3,PushEvent
+user1,2017-03-31T00:51:56Z,5599800805,,,,,,,team3,PushEvent
+user1,2017-03-31T00:36:54Z,5599746082,,,,,,,team3,PushEvent
+user1,2017-03-31T00:25:14Z,5599701945,,,,,,,team3,PushEvent
+user1,2017-03-31T00:08:10Z,5599637462,,,,,,,team3,PushEvent
+user1,2017-03-19T02:39:12Z,5520252319,,,,,,,team3,PushEvent
+user1,2017-03-18T18:10:26Z,5519404396,,,,,,,team3,PushEvent
+user1,2017-03-18T15:17:15Z,5519062527,215200518.0,21.0,Admin Panel,,,,team3,IssuesEvent
+user4,2017-03-15T17:31:09Z,5500027192,,,,,,,team3,PushEvent
+user4,2017-03-15T16:08:20Z,5499361251,,,,,,,team3,PushEvent
+user3,2017-03-15T14:46:44Z,5498665752,208733465.0,10.0,Be careful of the gitignore,,,,team3,IssuesEvent
+user3,2017-03-15T14:46:44Z,5498665745,208733465.0,10.0,Be careful of the gitignore,,,,team3,IssueCommentEvent
+user3,2017-03-15T14:46:22Z,5498662866,214405328.0,20.0,Visual representations,,,,team3,IssueCommentEvent
+user1,2017-03-15T14:24:20Z,5498482714,214405328.0,20.0,Visual representations,,,,team3,IssuesEvent
+user1,2017-03-15T14:22:45Z,5498469904,210655279.0,16.0,Issue with storing form data to multiple tables,,,,team3,IssuesEvent
+user1,2017-03-15T14:22:45Z,5498469896,210655279.0,16.0,Issue with storing form data to multiple tables,,,,team3,IssueCommentEvent
+user1,2017-03-15T14:21:20Z,5498458711,,,,,,,team3,PushEvent
+user3,2017-03-15T03:07:01Z,5495203114,,,,,,,team3,PushEvent
+user1,2017-03-15T02:49:54Z,5495143422,,,,,,,team3,PushEvent
+user3,2017-03-15T00:44:11Z,5494681354,,,,,,,team3,PushEvent
+user1,2017-03-10T22:29:42Z,5473852918,213362605.0,19.0,Session Management,,,,team3,IssuesEvent
+user1,2017-03-10T22:29:40Z,5473852742,213362605.0,19.0,Session Management,,,,team3,IssueCommentEvent
+user4,2017-03-10T21:26:22Z,5473507999,,,,,,,team3,PushEvent
+user3,2017-03-10T19:48:46Z,5472954686,213362605.0,19.0,Session Management,,,,team3,IssueCommentEvent
+user1,2017-03-10T14:58:22Z,5471086964,213362605.0,19.0,Session Management,,,,team3,IssuesEvent
+user4,2017-03-09T23:31:10Z,5466978393,,,,,,,team3,PushEvent
+user3,2017-03-09T21:20:02Z,5466175559,209260767.0,13.0,Data model fix,,,,team3,IssuesEvent
+user3,2017-03-09T21:19:48Z,5466174007,205630692.0,7.0,looking around issue,,,,team3,IssuesEvent
+user3,2017-03-09T21:19:36Z,5466172743,205716104.0,8.0,Feb Milestone - Detailed plan and work distribution,,,,team3,IssuesEvent
+user3,2017-03-09T21:19:04Z,5466169188,210163553.0,15.0,The search course function,,,,team3,IssuesEvent
+user3,2017-03-09T21:19:03Z,5466169179,210163553.0,15.0,The search course function,,,,team3,IssueCommentEvent
+user3,2017-03-09T21:18:21Z,5466164779,210676123.0,17.0,Take care of db migration,,,,team3,IssuesEvent
+user3,2017-03-09T21:18:04Z,5466162856,211104076.0,18.0,no feb report,,,,team3,IssuesEvent
+user3,2017-03-09T21:18:04Z,5466162854,211104076.0,18.0,no feb report,,,,team3,IssueCommentEvent
+user3,2017-03-09T21:14:21Z,5466139370,,,,,,,team3,PushEvent
+user3,2017-03-09T00:43:21Z,5459461491,,,,,,,team3,PushEvent
+user4,2017-03-08T22:44:49Z,5458873920,,,,,,,team3,PushEvent
+user2,2017-03-05T17:15:29Z,5435470248,,,,,,,team3,PushEvent
+user2,2017-03-05T17:15:01Z,5435469321,,,,,,,team3,PushEvent
+user2,2017-03-01T22:00:05Z,5415600328,,,,,,,team3,PushEvent
+timm,2017-03-01T14:53:24Z,5412579195,211104076.0,18.0,no feb report,,,,team3,IssuesEvent
+user1,2017-03-01T01:27:56Z,5408832679,,,,,,,team3,PushEvent
+user3,2017-02-28T05:46:53Z,5402405795,210676123.0,17.0,Take care of db migration,,,,team3,IssueCommentEvent
+user3,2017-02-28T05:45:23Z,5402401074,,,,,,,team3,PushEvent
+user4,2017-02-28T05:42:33Z,5402392190,,,,,,,team3,PushEvent
+user4,2017-02-28T03:22:36Z,5401953672,210676123.0,17.0,Take care of db migration,,,,team3,IssuesEvent
+user1,2017-02-28T00:57:36Z,5401375674,210655279.0,16.0,Issue with storing form data to multiple tables,,,,team3,IssuesEvent
+user1,2017-02-26T02:37:11Z,5391743938,,,,,,,team3,PushEvent
+user1,2017-02-25T03:28:14Z,5389497486,,,,,,,team3,PushEvent
+user3,2017-02-24T21:33:40Z,5388269487,210163553.0,15.0,The search course function,,,,team3,IssuesEvent
+user3,2017-02-24T21:29:16Z,5388245048,208778540.0,12.0,Database Schema,2303050.0,3.0,First Round Developing and Testing,team3,IssuesEvent
+user3,2017-02-23T20:20:03Z,5380726882,209340102.0,14.0,Small issue about login and sign up,,,,team3,IssuesEvent
+user3,2017-02-23T20:20:03Z,5380726879,209340102.0,14.0,Small issue about login and sign up,,,,team3,IssueCommentEvent
+user3,2017-02-23T20:18:20Z,5380715780,,,,,,,team3,PushEvent
+user3,2017-02-23T07:04:49Z,5375894396,208778540.0,12.0,Database Schema,2303050.0,3.0,First Round Developing and Testing,team3,IssueCommentEvent
+user3,2017-02-23T06:52:00Z,5375847016,,,,,,,team3,PushEvent
+user3,2017-02-23T05:53:52Z,5375645218,,,,,,,team3,PushEvent
+user1,2017-02-23T04:59:11Z,5375469835,,,,,,,team3,PushEvent
+user3,2017-02-22T05:39:29Z,5367695661,,,,,,,team3,PushEvent
+user3,2017-02-22T04:45:10Z,5367531158,,,,,,,team3,PushEvent
+user3,2017-02-22T03:53:23Z,5367375477,209340102.0,14.0,Small issue about login and sign up,,,,team3,IssueCommentEvent
+user4,2017-02-22T03:17:57Z,5367252473,,,,,,,team3,PushEvent
+user4,2017-02-22T03:13:50Z,5367237771,209340102.0,14.0,Small issue about login and sign up,,,,team3,IssuesEvent
+user3,2017-02-21T20:31:48Z,5365176311,,,,,,,team3,PushEvent
+user3,2017-02-21T20:18:26Z,5365091075,209260767.0,13.0,Data model fix,,,,team3,IssuesEvent
+user3,2017-02-21T14:27:59Z,5362572118,208778540.0,12.0,Database Schema,2303050.0,3.0,First Round Developing and Testing,team3,IssueCommentEvent
+user3,2017-02-21T14:21:16Z,5362525375,208778540.0,12.0,Database Schema,2303050.0,3.0,First Round Developing and Testing,team3,IssueCommentEvent
+user4,2017-02-21T02:54:18Z,5359395884,,,,,,,team3,PushEvent
+user1,2017-02-21T02:45:31Z,5359367812,,,,,,,team3,PushEvent
+user1,2017-02-21T02:20:55Z,5359290454,,,,,,,team3,PushEvent
+user1,2017-02-21T02:09:10Z,5359251791,,,,,,,team3,PushEvent
+user3,2017-02-21T02:02:17Z,5359229207,,,,,,,team3,PushEvent
+user2,2017-02-20T03:57:36Z,5353168417,208778540.0,12.0,Database Schema,,,,team3,IssuesEvent
+user3,2017-02-20T03:16:03Z,5353057298,205621021.0,4.0,Write functional specification,2303013.0,2.0,Technical Design,team3,IssuesEvent
+user3,2017-02-20T03:16:00Z,5353057169,205621021.0,4.0,Write functional specification,2303013.0,2.0,Technical Design,team3,IssueCommentEvent
+user3,2017-02-19T23:10:18Z,5352507336,,,,,,,team3,PushEvent
+user4,2017-02-19T22:12:59Z,5352392387,208734367.0,11.0,Development on cloud 9,,,,team3,IssuesEvent
+user4,2017-02-19T22:12:51Z,5352392148,208734367.0,11.0,Development on cloud 9,,,,team3,IssueCommentEvent
+user3,2017-02-19T21:13:06Z,5352271383,,,,,,,team3,PushEvent
+user3,2017-02-19T18:07:17Z,5351906042,208734367.0,11.0,Development on cloud 9,,,,team3,IssuesEvent
+user3,2017-02-19T17:53:38Z,5351879514,208733465.0,10.0,Be careful of the gitignore,,,,team3,IssuesEvent
+user3,2017-02-19T17:36:23Z,5351845161,,,,,,,team3,PushEvent
+user3,2017-02-18T19:16:45Z,5349801057,,,,,,,team3,PushEvent
+user3,2017-02-18T17:13:28Z,5349566847,,,,,,,team3,PushEvent
+user3,2017-02-18T15:21:40Z,5349361745,,,,,,,team3,PushEvent
+user3,2017-02-12T02:55:32Z,5308895999,205716104.0,8.0,Feb Milestone - Detailed plan and work distribution,,,,team3,IssueCommentEvent
+user3,2017-02-12T02:24:00Z,5308857542,205622158.0,5.0,MVC Design,2303013.0,2.0,Technical Design,team3,IssuesEvent
+user3,2017-02-12T02:24:00Z,5308857541,205618295.0,3.0,Design prototypes,2302972.0,1.0,Prototype Design,team3,IssuesEvent
+user3,2017-02-12T02:24:00Z,5308857537,205617309.0,2.0,Techniques choosing,2302972.0,1.0,Prototype Design,team3,IssuesEvent
+user1,2017-02-07T22:09:34Z,5283738544,206031764.0,9.0,Critical issues,,,,team3,IssuesEvent
+user1,2017-02-06T21:41:11Z,5275857295,205716104.0,8.0,Feb Milestone - Detailed plan and work distribution,,,,team3,IssuesEvent
+user1,2017-02-06T17:16:26Z,5274178657,205630558.0,6.0,test issue,,,,team3,IssueCommentEvent
+timm,2017-02-06T16:05:32Z,5273660168,205630692.0,7.0,looking around issue,,,,team3,IssuesEvent
+timm,2017-02-06T16:05:01Z,5273656906,205630558.0,6.0,test issue,,,,team3,IssuesEvent
+user3,2017-02-06T15:41:28Z,5273481092,203818880.0,1.0,Jan report - Outline,,,,team3,IssuesEvent
+user3,2017-02-06T15:40:59Z,5273477186,205622158.0,5.0,MVC Design,,,,team3,IssuesEvent
+user3,2017-02-06T15:37:25Z,5273451031,205621021.0,4.0,Write functional specification,2303013.0,2.0,Technical Design,team3,IssuesEvent
+user3,2017-02-06T15:29:15Z,5273389932,205618295.0,3.0,Design prototypes,2302972.0,1.0,Prototype Design,team3,IssuesEvent
+user3,2017-02-06T15:26:17Z,5273367280,205617309.0,2.0,Techniques choosing,2302972.0,1.0,Prototype Design,team3,IssuesEvent
+user1,2017-01-31T21:20:21Z,5243668094,,,,,,,team3,GollumEvent
+user1,2017-01-31T21:19:50Z,5243665075,,,,,,,team3,GollumEvent
+user1,2017-01-31T21:17:39Z,5243651507,,,,,,,team3,PushEvent
+user1,2017-01-31T21:16:28Z,5243644357,,,,,,,team3,PushEvent
+user1,2017-01-31T21:15:58Z,5243641070,,,,,,,team3,PushEvent
+user1,2017-01-31T21:11:15Z,5243611152,,,,,,,team3,CreateEvent
+user1,2017-01-28T17:21:36Z,5228554980,203818880.0,1.0,Jan report - Outline,,,,team3,IssuesEvent
+user1,2017-01-26T20:34:41Z,5219977463,,,,,,,team3,MemberEvent
+user1,2017-01-23T21:18:47Z,5199590939,,,,,,,team3,GollumEvent
+user1,2017-04-19T11:59:56Z,5714996310,214854439.0,15.0,Evaluation Plan on Piazza,2392039.0,4.0,Evaluation Plan,team4,IssuesEvent
+user1,2017-04-19T11:59:56Z,5714996304,214216769.0,13.0,Evaluation Plan - General,2392039.0,4.0,Evaluation Plan,team4,IssuesEvent
+user1,2017-04-19T11:59:56Z,5714996299,209911922.0,10.0,Carrry over from Feb Milestone,2304189.0,3.0,March Milestone,team4,IssuesEvent
+user1,2017-04-19T11:59:56Z,5714996293,205727689.0,8.0,Extension,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-04-19T11:59:56Z,5714996288,205724322.0,7.0,Project Meetings,2304189.0,3.0,March Milestone,team4,IssuesEvent
+user1,2017-04-11T16:25:55Z,5669210341,,,,,,,team4,PushEvent
+user1,2017-04-10T21:23:49Z,5663104974,,,,,,,team4,PushEvent
+user2,2017-04-08T00:18:54Z,5650905255,,,,,,,team4,PushEvent
+user3,2017-03-28T14:41:27Z,5579474726,,,,,,,team4,PushEvent
+user1,2017-03-27T20:37:34Z,5573782657,211106190.0,12.0,some interesting pattterns in your work,,,,team4,IssuesEvent
+user1,2017-03-27T20:37:11Z,5573779694,214853999.0,14.0,Evaluation Plan on Website,2392039.0,4.0,Evaluation Plan,team4,IssuesEvent
+user3,2017-03-20T13:15:51Z,5525309235,,,,,,,team4,PushEvent
+user3,2017-03-19T23:42:54Z,5522477953,,,,,,,team4,PushEvent
+user1,2017-03-17T14:26:21Z,5514125574,211106190.0,12.0,some interesting pattterns in your work,,,,team4,IssueCommentEvent
+user2,2017-03-17T00:11:27Z,5510510141,,,,,,,team4,PushEvent
+user2,2017-03-17T00:08:30Z,5510497783,,,,,,,team4,PushEvent
+user1,2017-03-16T22:26:34Z,5510029892,211106190.0,12.0,some interesting pattterns in your work,,,,team4,IssueCommentEvent
+user1,2017-03-16T22:16:17Z,5509974819,214854439.0,15.0,Evaluation Plan on Piazza,,,,team4,IssuesEvent
+user1,2017-03-16T22:14:13Z,5509963331,214853999.0,14.0,Evaluation Plan on Website,,,,team4,IssuesEvent
+user2,2017-03-14T21:47:40Z,5493782581,214216769.0,13.0,Evaluation Plan,2304189.0,3.0,March Milestone,team4,IssuesEvent
+user1,2017-03-08T04:12:30Z,5452671411,,,,,,,team4,PushEvent
+user3,2017-03-02T22:02:18Z,5423464910,,,,,,,team4,PushEvent
+timm,2017-03-01T15:00:04Z,5412630116,211106190.0,12.0,some interesting pattterns in your work,,,,team4,IssuesEvent
+user1,2017-03-01T02:37:44Z,5409124803,205724322.0,7.0,Project Meetings,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:37:40Z,5409124546,205724322.0,7.0,Project Meetings,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:37:12Z,5409122971,207349755.0,9.0,Testing (23 - 28 Feb),2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:36:47Z,5409121362,210336496.0,11.0,Create Report,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:36:39Z,5409120881,205723282.0,3.0,Implementation 3 : Peer to Peer,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:36:25Z,5409120074,205723835.0,4.0,Implementation 2 : Text Mining,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:35:54Z,5409118057,205724156.0,6.0,Implementation 1 : Web Slurping,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-03-01T02:35:23Z,5409116059,205723979.0,5.0,Data Collection (Core Infrastructure),2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-02-28T00:12:19Z,5401171158,,,,,,,team4,PushEvent
+user3,2017-02-28T00:11:31Z,5401167525,,,,,,,team4,PushEvent
+user2,2017-02-27T22:23:13Z,5400573182,,,,,,,team4,PushEvent
+user2,2017-02-27T22:22:57Z,5400571419,,,,,,,team4,PushEvent
+user2,2017-02-27T22:15:39Z,5400524977,,,,,,,team4,PushEvent
+user2,2017-02-27T22:15:22Z,5400523090,,,,,,,team4,PushEvent
+user2,2017-02-27T21:23:04Z,5400182322,,,,,,,team4,PushEvent
+user1,2017-02-26T18:15:49Z,5393236587,210336496.0,11.0,Create Report,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-02-25T22:17:32Z,5391342637,,,,,,,team4,PushEvent
+user1,2017-02-24T20:37:59Z,5387955693,,,,,,,team4,PushEvent
+user1,2017-02-23T23:06:13Z,5381777832,209911922.0,10.0,Carrry over from Feb Milestone,2304189.0,3.0,March Milestone,team4,IssuesEvent
+user3,2017-02-23T21:23:37Z,5381136898,,,,,,,team4,PushEvent
+user2,2017-02-21T21:41:22Z,5365629281,,,,,,,team4,PushEvent
+user1,2017-02-21T19:34:51Z,5364802220,,,,,,,team4,PushEvent
+user1,2017-02-21T17:58:41Z,5364161483,,,,,,,team4,PushEvent
+user3,2017-02-21T17:05:33Z,5363788734,,,,,,,team4,PushEvent
+user3,2017-02-20T20:19:21Z,5357940906,,,,,,,team4,PushEvent
+user3,2017-02-19T21:28:24Z,5352301964,,,,,,,team4,PushEvent
+user3,2017-02-19T17:43:17Z,5351858687,,,,,,,team4,PushEvent
+user1,2017-02-19T00:13:38Z,5350305071,,,,,,,team4,PushEvent
+user3,2017-02-18T19:41:27Z,5349844467,,,,,,,team4,PushEvent
+user3,2017-02-18T19:11:33Z,5349791427,,,,,,,team4,PushEvent
+user2,2017-02-18T19:02:57Z,5349775196,205723979.0,5.0,Data Collection (Core Infrastructure),2304184.0,2.0,February Milestone,team4,IssuesEvent
+user2,2017-02-18T19:02:25Z,5349774269,205723979.0,5.0,Data Collection (Core Infrastructure),2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-02-17T00:12:19Z,5340792211,,,,,,,team4,PushEvent
+user1,2017-02-13T21:50:12Z,5317177319,207349755.0,9.0,Testing (25 - 28 Feb),,,,team4,IssuesEvent
+user1,2017-02-13T04:27:53Z,5311552153,,,,,,,team4,PushEvent
+user1,2017-02-08T23:04:00Z,5291629008,,,,,,,team4,PushEvent
+user1,2017-02-06T22:30:44Z,5276166473,205727689.0,8.0,Extension,,,,team4,IssuesEvent
+user1,2017-02-06T22:23:15Z,5276120719,205723979.0,5.0,Core Infrastructure,,,,team4,IssueCommentEvent
+user1,2017-02-06T22:16:05Z,5276077263,205724322.0,7.0,Project Meetings,,,,team4,IssuesEvent
+user3,2017-02-06T22:15:21Z,5276072710,205724156.0,6.0,Web Slurping implementation,,,,team4,IssuesEvent
+user1,2017-02-06T22:14:34Z,5276067942,205723979.0,5.0,Core Infrastructure,,,,team4,IssuesEvent
+user1,2017-02-06T22:13:54Z,5276063963,205723835.0,4.0,Text Mining,,,,team4,IssuesEvent
+user1,2017-02-06T22:11:27Z,5276049244,205723282.0,3.0,Peer to Peer Implementation,2304184.0,2.0,February Milestone,team4,IssuesEvent
+user1,2017-02-01T00:08:02Z,5244597459,,,,,,,team4,PushEvent
+user2,2017-02-01T00:07:18Z,5244594232,203521201.0,1.0,Create Report,2281219.0,1.0,January Milestone,team4,IssuesEvent
+user2,2017-02-01T00:05:17Z,5244585512,,,,,,,team4,PushEvent
+user2,2017-01-30T20:26:26Z,5236316353,,,,,,,team4,PushEvent
+user3,2017-01-27T21:05:59Z,5226350382,,,,,,,team4,PushEvent
+user3,2017-01-27T21:05:59Z,5226350355,,,,,,,team4,PullRequestEvent
+user1,2017-01-27T21:05:42Z,5226349009,,,,,,,team4,PushEvent
+user3,2017-01-27T21:02:29Z,5226333073,,,,,,,team4,PullRequestEvent
+user3,2017-01-27T21:01:00Z,5226325550,,,,,,,team4,PushEvent
+user3,2017-01-27T20:58:55Z,5226314198,,,,,,,team4,PushEvent
+user3,2017-01-27T20:49:10Z,5226264756,,,,,,,team4,CreateEvent
+timm,2017-01-27T03:26:25Z,5221748037,203521201.0,1.0,Create Report,2281219.0,1.0,January Milestone,team4,IssueCommentEvent
+user1,2017-01-26T23:35:46Z,5220993279,203521201.0,1.0,Create Report,,,,team4,IssuesEvent
+user2,2017-01-26T23:24:09Z,5220939662,,,,,,,team4,PushEvent
+user1,2017-01-26T23:23:23Z,5220936293,,,,,,,team4,PushEvent
+user1,2017-01-26T23:07:54Z,5220860922,,,,,,,team4,GollumEvent
+user1,2017-01-26T23:07:28Z,5220858752,,,,,,,team4,GollumEvent
+user1,2017-01-23T20:28:56Z,5199294945,,,,,,,team4,PushEvent
+user1,2017-04-14T01:06:59Z,5687973170,,,,,,,team5,PushEvent
+user2,2017-04-13T03:55:24Z,5680975388,,,,,,,team5,PushEvent
+user2,2017-04-08T02:08:36Z,5651165857,,,,,,,team5,PushEvent
+user2,2017-04-07T18:05:04Z,5648888861,,,,,,,team5,PushEvent
+user1,2017-04-07T16:20:21Z,5648191704,215200706.0,24.0,User Evaluations Techniques,,,,team5,IssuesEvent
+user2,2017-04-04T17:17:15Z,5624541502,,,,,,,team5,PushEvent
+user2,2017-04-02T21:13:06Z,5611413929,,,,,,,team5,PushEvent
+user2,2017-04-02T15:56:31Z,5610780711,,,,,,,team5,PushEvent
+user3,2017-03-31T22:06:57Z,5606374994,,,,,,,team5,PushEvent
+user3,2017-03-31T22:01:32Z,5606348463,,,,,,,team5,PushEvent
+user3,2017-03-31T18:26:50Z,5605101098,,,,,,,team5,PushEvent
+user1,2017-03-31T17:38:10Z,5604798238,209826577.0,18.0,Better splitting of large news stories on Twitter.,2303921.0,5.0,Explore feasibility of automatic posts to Twitter and Facebook page,team5,IssuesEvent
+user2,2017-03-31T17:30:34Z,5604752811,,,,,,,team5,PushEvent
+user1,2017-03-31T17:26:11Z,5604726537,209825855.0,16.0,Prefetching the news article to improve the response time.,2303919.0,4.0,Get Server Side framework up and running,team5,IssuesEvent
+user1,2017-03-31T17:25:56Z,5604725002,215200766.0,25.0,Creating another database for storing user generated data.,,,,team5,IssuesEvent
+user1,2017-03-31T17:25:34Z,5604722905,215200706.0,24.0,User Evaluations Techniques,,,,team5,IssueCommentEvent
+user1,2017-03-31T17:25:08Z,5604720243,215202242.0,26.0,Refresh newsfeed,,,,team5,IssuesEvent
+user1,2017-03-31T17:24:55Z,5604718977,213406731.0,22.0,Responsive Voice Issue,,,,team5,IssuesEvent
+user1,2017-03-31T17:24:55Z,5604718969,213406731.0,22.0,Responsive Voice Issue,,,,team5,IssueCommentEvent
+user2,2017-03-31T03:02:35Z,5600244289,,,,,,,team5,PushEvent
+user1,2017-03-31T02:10:53Z,5600071052,,,,,,,team5,PushEvent
+user2,2017-03-31T00:21:41Z,5599688907,,,,,,,team5,PushEvent
+user2,2017-03-31T00:16:58Z,5599671107,,,,,,,team5,PushEvent
+user2,2017-03-31T00:13:57Z,5599659695,,,,,,,team5,PushEvent
+user2,2017-03-30T20:56:29Z,5598621390,,,,,,,team5,PushEvent
+user2,2017-03-30T20:48:07Z,5598563239,,,,,,,team5,PushEvent
+user2,2017-03-30T20:43:00Z,5598529044,,,,,,,team5,PushEvent
+user2,2017-03-30T20:40:21Z,5598511725,,,,,,,team5,PushEvent
+user2,2017-03-30T19:32:14Z,5598052876,,,,,,,team5,PushEvent
+user2,2017-03-30T19:13:34Z,5597928498,,,,,,,team5,PushEvent
+user2,2017-03-30T01:50:41Z,5591902725,,,,,,,team5,PushEvent
+user2,2017-03-29T20:56:19Z,5590470556,,,,,,,team5,PushEvent
+user2,2017-03-29T20:52:55Z,5590446429,,,,,,,team5,PushEvent
+user2,2017-03-28T23:26:27Z,5583194317,,,,,,,team5,PushEvent
+user2,2017-03-28T23:24:16Z,5583184043,,,,,,,team5,PushEvent
+user2,2017-03-28T23:17:10Z,5583150445,,,,,,,team5,PushEvent
+user2,2017-03-28T23:12:10Z,5583126829,,,,,,,team5,PushEvent
+user1,2017-03-28T23:07:11Z,5583102068,,,,,,,team5,PushEvent
+user1,2017-03-28T23:05:01Z,5583091256,,,,,,,team5,PushEvent
+user1,2017-03-28T23:05:00Z,5583091163,,,,,,,team5,PullRequestEvent
+user2,2017-03-28T23:04:41Z,5583089500,,,,,,,team5,PushEvent
+user1,2017-03-28T23:03:32Z,5583083243,,,,,,,team5,PullRequestEvent
+user1,2017-03-28T23:00:08Z,5583064585,,,,,,,team5,PushEvent
+user2,2017-03-28T22:55:39Z,5583042225,,,,,,,team5,PushEvent
+user1,2017-03-28T22:54:28Z,5583036146,,,,,,,team5,PushEvent
+user1,2017-03-28T22:52:37Z,5583026616,,,,,,,team5,PushEvent
+user2,2017-03-28T22:47:54Z,5583002260,,,,,,,team5,PushEvent
+user2,2017-03-28T22:40:22Z,5582962868,,,,,,,team5,PushEvent
+user1,2017-03-28T22:34:21Z,5582930917,,,,,,,team5,PushEvent
+user1,2017-03-28T22:25:35Z,5582883466,,,,,,,team5,PushEvent
+user1,2017-03-28T22:21:13Z,5582858700,,,,,,,team5,PushEvent
+user1,2017-03-28T22:16:44Z,5582832619,,,,,,,team5,PushEvent
+user1,2017-03-28T21:56:18Z,5582709748,,,,,,,team5,PushEvent
+user2,2017-03-28T21:52:28Z,5582685830,,,,,,,team5,PushEvent
+user2,2017-03-28T18:58:30Z,5581485151,,,,,,,team5,PushEvent
+user2,2017-03-28T18:55:25Z,5581462496,,,,,,,team5,PushEvent
+user2,2017-03-28T18:28:23Z,5581262213,,,,,,,team5,PushEvent
+user2,2017-03-28T18:26:57Z,5581251509,,,,,,,team5,PushEvent
+user2,2017-03-28T18:02:09Z,5581066007,,,,,,,team5,PushEvent
+user2,2017-03-23T02:07:04Z,5546707765,,,,,,,team5,PushEvent
+user2,2017-03-21T20:13:32Z,5536673334,,,,,,,team5,PushEvent
+user2,2017-03-21T04:36:06Z,5530842610,,,,,,,team5,PushEvent
+user2,2017-03-21T04:03:50Z,5530743464,,,,,,,team5,PushEvent
+user1,2017-03-18T15:45:16Z,5519116601,215202242.0,26.0,Refresh newsfeed,,,,team5,IssuesEvent
+user1,2017-03-18T15:21:43Z,5519071182,215200766.0,25.0,Creating another database for storing user generated data.,,,,team5,IssuesEvent
+user1,2017-03-18T15:20:39Z,5519069161,215200706.0,24.0,User Evaluations Techniques,,,,team5,IssuesEvent
+user1,2017-03-18T15:17:21Z,5519062718,209825401.0,15.0,Look into text-to-speech API for third implementation.,,,,team5,IssuesEvent
+user1,2017-03-18T15:16:10Z,5519060445,209826214.0,17.0,Uniform web page design across all webpages,,,,team5,IssuesEvent
+user1,2017-03-18T15:15:59Z,5519059972,211108567.0,21.0,interesting patterns in your work,,,,team5,IssuesEvent
+user1,2017-03-13T04:20:45Z,5479817587,213408121.0,23.0,Need to add refresh button.,,,,team5,IssuesEvent
+user1,2017-03-12T02:30:49Z,5476985217,,,,,,,team5,PushEvent
+user1,2017-03-12T02:21:07Z,5476972352,,,,,,,team5,PushEvent
+user1,2017-03-12T02:16:58Z,5476966911,,,,,,,team5,DeleteEvent
+user1,2017-03-12T02:10:23Z,5476958037,,,,,,,team5,CreateEvent
+user1,2017-03-12T00:31:47Z,5476822861,,,,,,,team5,CreateEvent
+user2,2017-03-11T19:57:29Z,5476363836,,,,,,,team5,PushEvent
+user1,2017-03-10T17:51:27Z,5472241094,213408121.0,23.0,Need to add refresh button.,,,,team5,IssuesEvent
+user1,2017-03-10T17:45:37Z,5472205173,213406731.0,22.0,Responsive Voice Issue,,,,team5,IssuesEvent
+user1,2017-03-10T17:40:59Z,5472176760,,,,,,,team5,PushEvent
+user1,2017-03-10T17:07:35Z,5471972134,,,,,,,team5,PushEvent
+user1,2017-03-10T05:42:24Z,5468361756,,,,,,,team5,PushEvent
+user1,2017-03-10T05:25:35Z,5468310702,209828806.0,19.0,Adding images to the newsfeed,,,,team5,IssuesEvent
+user1,2017-03-10T05:25:32Z,5468310540,209828806.0,19.0,Adding images to the newsfeed,,,,team5,IssueCommentEvent
+user1,2017-03-10T04:50:20Z,5468209172,,,,,,,team5,PushEvent
+user1,2017-03-10T04:38:10Z,5468175432,,,,,,,team5,PushEvent
+user1,2017-03-10T04:34:51Z,5468165858,,,,,,,team5,PushEvent
+user1,2017-03-10T04:13:33Z,5468104360,,,,,,,team5,PushEvent
+user1,2017-03-10T04:03:11Z,5468069781,,,,,,,team5,PushEvent
+user1,2017-03-10T03:27:51Z,5467952839,,,,,,,team5,PushEvent
+user1,2017-03-10T02:43:20Z,5467797749,,,,,,,team5,PushEvent
+user1,2017-03-10T02:25:44Z,5467732368,,,,,,,team5,PushEvent
+user1,2017-03-10T01:49:43Z,5467593859,,,,,,,team5,PushEvent
+user1,2017-03-09T03:35:49Z,5460132681,209826214.0,17.0,Uniform web page design across all webpages,,,,team5,IssueCommentEvent
+user1,2017-03-09T03:34:40Z,5460128945,209829087.0,20.0,Automatic scrolling feature for the newsfeed if the newsfeed is overflowing,,,,team5,IssuesEvent
+user1,2017-03-09T03:34:37Z,5460128821,209829087.0,20.0,Automatic scrolling feature for the newsfeed if the newsfeed is overflowing,,,,team5,IssueCommentEvent
+user1,2017-03-09T03:33:36Z,5460125200,,,,,,,team5,PushEvent
+user2,2017-03-03T04:18:18Z,5425108204,,,,,,,team5,PushEvent
+timm,2017-03-01T15:08:07Z,5412690657,211108567.0,21.0,interesting patterns in your work,,,,team5,IssuesEvent
+user1,2017-03-01T03:14:45Z,5409262593,,,,,,,team5,PushEvent
+user2,2017-02-28T19:29:59Z,5407029689,,,,,,,team5,PushEvent
+user2,2017-02-28T18:26:19Z,5406688248,,,,,,,team5,PushEvent
+user1,2017-02-28T00:19:14Z,5401203071,,,,,,,team5,PushEvent
+user2,2017-02-28T00:09:29Z,5401157820,,,,,,,team5,PushEvent
+user2,2017-02-28T00:06:39Z,5401144607,,,,,,,team5,PushEvent
+user2,2017-02-28T00:02:17Z,5401124004,,,,,,,team5,PushEvent
+user3,2017-02-27T23:09:54Z,5400854880,,,,,,,team5,PushEvent
+user2,2017-02-27T04:37:41Z,5394654478,,,,,,,team5,PushEvent
+user2,2017-02-26T20:36:24Z,5393528305,,,,,,,team5,PushEvent
+user2,2017-02-26T19:30:56Z,5393386579,,,,,,,team5,PushEvent
+user2,2017-02-24T23:36:06Z,5388880001,,,,,,,team5,PushEvent
+user2,2017-02-24T23:09:51Z,5388768293,,,,,,,team5,PushEvent
+user2,2017-02-24T23:09:37Z,5388767233,,,,,,,team5,PushEvent
+user2,2017-02-24T23:09:32Z,5388766955,,,,,,,team5,PushEvent
+user2,2017-02-24T23:08:24Z,5388762074,,,,,,,team5,PushEvent
+user2,2017-02-24T23:02:13Z,5388733818,,,,,,,team5,PushEvent
+user2,2017-02-23T22:26:33Z,5381545248,,,,,,,team5,PushEvent
+user2,2017-02-23T22:22:24Z,5381519568,,,,,,,team5,PushEvent
+user3,2017-02-23T21:59:15Z,5381371691,,,,,,,team5,PushEvent
+user2,2017-02-23T21:36:03Z,5381218804,,,,,,,team5,PushEvent
+user2,2017-02-23T21:28:00Z,5381166105,,,,,,,team5,PushEvent
+user2,2017-02-23T20:47:46Z,5380905661,,,,,,,team5,PushEvent
+user2,2017-02-23T17:33:25Z,5379603228,,,,,,,team5,PushEvent
+user1,2017-02-23T17:26:06Z,5379552140,209829087.0,20.0,Automatic scrolling feature for the newsfeed if the newsfeed is overflowing,,,,team5,IssuesEvent
+user1,2017-02-23T17:25:06Z,5379544962,209828806.0,19.0,Adding images to the newsfeed,,,,team5,IssuesEvent
+user1,2017-02-23T17:20:04Z,5379510207,209056316.0,14.0,Display the news on the same page,,,,team5,IssuesEvent
+user1,2017-02-23T17:19:59Z,5379509770,209056316.0,14.0,Display the news on the same page,,,,team5,IssueCommentEvent
+user2,2017-02-23T17:18:49Z,5379501647,209825855.0,16.0,Prefetching the news article to improve the response time.,2303919.0,4.0,Get Server Side framework up and running,team5,IssueCommentEvent
+user1,2017-02-23T17:18:34Z,5379499951,205981505.0,10.0,Create Flask App with Login,2303919.0,4.0,Get Server Side framework up and running,team5,IssuesEvent
+user2,2017-02-23T17:17:10Z,5379490129,209826577.0,18.0,Better splitting of large news stories on Twitter.,2303921.0,5.0,Explore feasibility of automatic posts to Twitter and Facebook page,team5,IssuesEvent
+user1,2017-02-23T17:15:47Z,5379480482,209826214.0,17.0,Uniform web page design across all webpages,,,,team5,IssuesEvent
+user1,2017-02-23T17:14:28Z,5379470737,209825855.0,16.0,Prefetching the news article to improve the response time.,,,,team5,IssuesEvent
+user2,2017-02-23T17:14:27Z,5379470634,205981729.0,11.0,Use Python News API to summarize an article,2303919.0,4.0,Get Server Side framework up and running,team5,IssuesEvent
+user1,2017-02-23T17:12:42Z,5379457761,209825401.0,15.0,Look into text-to-speech API for third implementation.,,,,team5,IssuesEvent
+user2,2017-02-23T16:56:00Z,5379333235,,,,,,,team5,PushEvent
+user1,2017-02-23T16:42:07Z,5379225935,,,,,,,team5,PushEvent
+user2,2017-02-23T16:18:12Z,5379040160,,,,,,,team5,PushEvent
+user2,2017-02-23T03:54:56Z,5375277488,,,,,,,team5,PushEvent
+user2,2017-02-22T21:44:12Z,5373513749,,,,,,,team5,PushEvent
+user3,2017-02-21T23:10:27Z,5366180680,,,,,,,team5,PushEvent
+user3,2017-02-21T20:45:32Z,5365262270,,,,,,,team5,PushEvent
+user2,2017-02-21T20:21:33Z,5365111671,,,,,,,team5,PushEvent
+user2,2017-02-21T20:13:11Z,5365057532,,,,,,,team5,PushEvent
+user3,2017-02-21T19:35:52Z,5364808800,,,,,,,team5,PushEvent
+user2,2017-02-21T18:50:07Z,5364498473,,,,,,,team5,PushEvent
+user1,2017-02-21T06:47:01Z,5360101388,205976689.0,9.0,Brainstorming for project implementation methodology,2303919.0,4.0,Get Server Side framework up and running,team5,IssuesEvent
+user1,2017-02-21T06:46:42Z,5360100308,209056316.0,14.0,Display the news on the same page,,,,team5,IssuesEvent
+user1,2017-02-21T06:39:11Z,5360074589,,,,,,,team5,PushEvent
+user2,2017-02-18T17:50:03Z,5349641585,,,,,,,team5,PushEvent
+user1,2017-02-18T16:56:23Z,5349534996,,,,,,,team5,PushEvent
+user2,2017-02-18T15:33:37Z,5349382664,208648487.0,13.0,Use Twitter API to post messages from Python script.,2303921.0,5.0,Explore feasibility of automatic posts to Twitter and Facebook page,team5,IssuesEvent
+user2,2017-02-18T15:33:30Z,5349382474,208648487.0,13.0,Use Twitter API to post messages from Python script.,2303921.0,5.0,Explore feasibility of automatic posts to Twitter and Facebook page,team5,IssueCommentEvent
+user2,2017-02-18T15:32:14Z,5349380178,208648487.0,13.0,Use Twitter API to post messages from Python script.,2303921.0,5.0,Explore feasibility of automatic posts to Twitter and Facebook page,team5,IssuesEvent
+user2,2017-02-17T21:38:51Z,5347115710,,,,,,,team5,PushEvent
+user1,2017-02-17T05:45:52Z,5341955280,,,,,,,team5,PushEvent
+user2,2017-02-16T22:05:09Z,5340095657,,,,,,,team5,PushEvent
+user2,2017-02-16T15:31:28Z,5337410450,,,,,,,team5,PushEvent
+user2,2017-02-14T22:13:44Z,5324958786,,,,,,,team5,PushEvent
+user1,2017-02-12T21:48:20Z,5310648980,,,,,,,team5,PushEvent
+user2,2017-02-12T19:47:49Z,5310404496,,,,,,,team5,PushEvent
+user2,2017-02-08T21:45:58Z,5291152014,205986150.0,12.0,Publish text to Facebook Page using API,2303921.0,5.0,Explore feasibility of automatic posts to Facebook page,team5,IssuesEvent
+user2,2017-02-08T21:37:16Z,5291097389,205986150.0,12.0,Publish text to Facebook Page using API,2303921.0,5.0,Explore feasibility of automatic posts to Facebook page,team5,IssueCommentEvent
+user3,2017-02-07T21:42:29Z,5283558992,,,,,,,team5,PushEvent
+user2,2017-02-07T19:14:54Z,5282592293,205986150.0,12.0,Publish text to Facebook Page using API,2303921.0,5.0,Explore feasibility of automatic posts to Facebook page,team5,IssuesEvent
+user2,2017-02-07T18:57:30Z,5282477325,205981729.0,11.0,Use Python News API to summarize an article,,,,team5,IssuesEvent
+user2,2017-02-07T18:56:37Z,5282471460,205981505.0,10.0,Create Flask App with Login,2303919.0,4.0,Get Server Side framework up and running,team5,IssuesEvent
+user1,2017-02-07T18:42:21Z,5282376627,205976689.0,9.0,Brainstorming for project implementation methodology,2282761.0,1.0,Feb Milestone,team5,IssueCommentEvent
+user1,2017-02-07T18:40:36Z,5282365413,205976689.0,9.0,Brainstorming for project implementation methodology,2282761.0,1.0,Feb Milestone,team5,IssueCommentEvent
+user1,2017-02-07T18:37:36Z,5282345252,205976689.0,9.0,Brainstorming for project implementation methodology,,,,team5,IssuesEvent
+user2,2017-02-07T18:34:26Z,5282324926,201657223.0,2.0,Two way text based communication problem between mobile and web server,,,,team5,IssuesEvent
+user2,2017-02-07T18:34:16Z,5282323758,201679014.0,4.0,Personalized News Feed,,,,team5,IssuesEvent
+user1,2017-02-07T18:34:13Z,5282323483,202630344.0,7.0,1/23/17 Personal Interviews Ideas,,,,team5,IssuesEvent
+user2,2017-02-07T18:34:08Z,5282322772,202625833.0,6.0,1/23/17 Meeting Minutes,,,,team5,IssuesEvent
+user2,2017-02-07T18:34:01Z,5282322044,203719521.0,8.0,Possible Papers,,,,team5,IssuesEvent
+user1,2017-02-07T18:32:32Z,5282312238,202327917.0,5.0,1/21/2017 Meeting Minutes,,,,team5,IssuesEvent
+user1,2017-02-07T18:32:23Z,5282311218,201663742.0,3.0,Three different solutions,,,,team5,IssuesEvent
+user1,2017-02-07T18:32:08Z,5282309514,201656623.0,1.0,News API which automatically categorizes the news articles,,,,team5,IssuesEvent
+user2,2017-02-01T03:55:48Z,5245371235,,,,,,,team5,PushEvent
+user2,2017-02-01T03:15:22Z,5245264329,,,,,,,team5,PushEvent
+user2,2017-02-01T01:49:00Z,5244995231,,,,,,,team5,PushEvent
+user2,2017-02-01T01:48:27Z,5244993231,,,,,,,team5,PushEvent
+user2,2017-01-27T19:29:22Z,5225838884,203719521.0,8.0,Possible Papers,,,,team5,IssuesEvent
+user1,2017-01-23T19:42:52Z,5199013459,202630344.0,7.0,1/23/17 Personal Interviews Ideas,,,,team5,IssueCommentEvent
+user1,2017-01-23T19:40:14Z,5198997423,202630344.0,7.0,1/23/17 Personal Interviews Ideas,,,,team5,IssuesEvent
+user1,2017-01-23T19:21:44Z,5198883382,202625833.0,6.0,1/23/17 Meeting Minutes,,,,team5,IssuesEvent
+user2,2017-01-21T17:22:04Z,5191147223,202327917.0,5.0,1/21/2017 Meeting Minutes,,,,team5,IssuesEvent
+user2,2017-01-21T17:12:56Z,5191131895,,,,,,,team5,PushEvent
+user1,2017-04-08T01:45:18Z,5651116229,,,,,,,team6,PushEvent
+user1,2017-04-08T00:32:14Z,5650945493,,,,,,,team6,PushEvent
+user2,2017-03-20T14:18:57Z,5525755481,,,,,,,team6,PushEvent
+user3,2017-03-19T17:47:42Z,5521718503,,,,,,,team6,PushEvent
+user1,2017-03-14T04:38:14Z,5487445502,,,,,,,team6,PushEvent
+user1,2017-03-14T04:37:00Z,5487441977,,,,,,,team6,PushEvent
+user1,2017-03-14T03:24:01Z,5487214050,,,,,,,team6,PushEvent
+user1,2017-03-14T03:17:52Z,5487193731,206526682.0,31.0,"[optional] Improve back up plan(better outlook, sync with up-to-date db setting, include google api features)",2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-03-14T03:17:52Z,5487193727,204189768.0,17.0,Mile stone wrapping up (due 27FEB),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-03-14T03:17:52Z,5487193723,204189224.0,16.0,Demo finalization (due 20FEB),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-03-14T03:17:52Z,5487193720,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user2,2017-03-03T21:20:03Z,5430467964,,,,,,,team6,ForkEvent
+user3,2017-02-28T22:55:12Z,5408090352,,,,,,,team6,PushEvent
+user1,2017-02-27T18:44:48Z,5399160201,,,,,,,team6,PushEvent
+user1,2017-02-27T05:58:15Z,5394869320,,,,,,,team6,PushEvent
+user1,2017-02-27T05:00:32Z,5394711756,,,,,,,team6,GollumEvent
+user1,2017-02-27T04:59:40Z,5394709067,,,,,,,team6,GollumEvent
+user1,2017-02-27T03:49:52Z,5394534964,,,,,,,team6,GollumEvent
+user1,2017-02-27T03:08:49Z,5394421024,,,,,,,team6,GollumEvent
+user1,2017-02-23T19:28:25Z,5380373242,,,,,,,team6,PushEvent
+user1,2017-02-23T19:14:48Z,5380279215,204189224.0,16.0,Demo finalization (due 20FEB),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-23T15:18:46Z,5378587656,,,,,,,team6,PushEvent
+user3,2017-02-23T15:17:22Z,5378577283,,,,,,,team6,PushEvent
+user2,2017-02-23T01:17:05Z,5374681449,206526739.0,32.0,Implementing google trends(include server setting),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user2,2017-02-23T01:08:29Z,5374643983,,,,,,,team6,PushEvent
+user1,2017-02-22T21:46:22Z,5373528078,,,,,,,team6,PushEvent
+user1,2017-02-22T21:45:48Z,5373524434,204189224.0,16.0,Demo finalization (due 20FEB),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-22T21:44:20Z,5373514521,206526532.0,29.0,[Christine- 2days] Build the most basic simulation interacting with database,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:44:12Z,5373513702,206329859.0,26.0,[Matt - 19FEB] Research Screen Share for Demo,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:44:11Z,5373513684,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:44:11Z,5373513658,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:44:11Z,5373513627,206028273.0,22.0,[Christine] researching and implementing andoid push notifications / server set up(php),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:44:11Z,5373513605,206028079.0,21.0,Matt - Research Auto-Refresh on mobile app screeen,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T21:43:52Z,5373511514,206028066.0,20.0,Build database node js interface,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-22T20:58:27Z,5373215210,,,,,,,team6,PushEvent
+user2,2017-02-22T20:56:03Z,5373199951,,,,,,,team6,PushEvent
+user1,2017-02-22T20:50:48Z,5373165944,,,,,,,team6,PushEvent
+user1,2017-02-22T19:33:46Z,5372656268,,,,,,,team6,PushEvent
+user1,2017-02-22T13:17:00Z,5369961476,,,,,,,team6,PushEvent
+user1,2017-02-22T03:19:59Z,5367259529,,,,,,,team6,PushEvent
+user2,2017-02-22T02:57:23Z,5367177909,,,,,,,team6,PushEvent
+user2,2017-02-22T02:56:29Z,5367174615,,,,,,,team6,PushEvent
+user3,2017-02-20T17:54:12Z,5357274166,,,,,,,team6,PushEvent
+user1,2017-02-17T23:08:05Z,5347571244,,,,,,,team6,PushEvent
+user1,2017-02-17T23:04:17Z,5347553633,,,,,,,team6,PushEvent
+user3,2017-02-17T19:35:05Z,5346405491,,,,,,,team6,PushEvent
+user3,2017-02-17T19:34:08Z,5346400076,,,,,,,team6,PushEvent
+user3,2017-02-17T16:39:18Z,5345312317,,,,,,,team6,PushEvent
+user1,2017-02-16T20:12:48Z,5339386687,,,,,,,team6,PushEvent
+user1,2017-02-16T18:52:36Z,5338855718,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-16T18:42:38Z,5338789756,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-16T18:03:24Z,5338539679,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-15T17:29:25Z,5330629227,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-15T17:26:28Z,5330608219,204189001.0,15.0,Second level prototyping (due 13FEB),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-15T17:26:06Z,5330605640,206039192.0,23.0,Group meeting on Feb. 14. (3 p.m.) at room 2323 in Hunt Library,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user3,2017-02-14T19:48:16Z,5324040748,,,,,,,team6,PushEvent
+user3,2017-02-14T19:39:01Z,5323979006,,,,,,,team6,PushEvent
+user1,2017-02-13T16:04:57Z,5314893640,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-13T15:48:55Z,5314770995,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-13T04:28:29Z,5311553462,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-13T03:21:45Z,5311388322,,,,,,,team6,PushEvent
+user1,2017-02-13T03:12:41Z,5311364615,206329859.0,26.0,[Matt - 19FEB] Research Screen Share for Demo,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-13T02:28:56Z,5311247293,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-13T02:26:33Z,5311241072,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-12T16:54:04Z,5310074238,206526351.0,27.0,[Tam - 6 days] Researching for simulation options,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-12T16:53:52Z,5310073869,206526449.0,28.0,"[ Tam - 1 day ] Wrap up simulation (back up database, basic tests, etc)",2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-12T16:53:40Z,5310073538,206526574.0,30.0,[Tam - 10FEB] Display data from all tables,2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-12T16:51:50Z,5310070036,,,,,,,team6,PushEvent
+user1,2017-02-12T00:26:43Z,5308705368,206028273.0,22.0,[Christine] researching and implementing ios push notifications / server set up(php),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user2,2017-02-12T00:22:18Z,5308699174,206028273.0,22.0,[Christine] researching and implementing ios push notifications / server set up(php),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-11T19:02:03Z,5308154035,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-11T18:55:57Z,5308142597,204186746.0,14.0,First level prototyping (due 06FEB),2267276.0,2.0,FEB Milestone,team6,IssuesEvent
+user1,2017-02-11T15:06:59Z,5307724925,,,,,,,team6,PushEvent
+user1,2017-02-11T12:58:22Z,5307520387,206028273.0,22.0,[Christine] researching and implementing ios push notifications / server set up(php),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user2,2017-02-11T05:23:10Z,5306899996,206028273.0,22.0,[Christine] researching and implementing ios push notifications / server set up(php),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-11T04:58:47Z,5306866812,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-11T04:51:42Z,5306856986,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-11T04:43:15Z,5306845456,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user3,2017-02-11T04:36:39Z,5306836578,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-10T21:24:49Z,5305491814,,,,,,,team6,PushEvent
+user3,2017-02-10T20:56:37Z,5305338859,,,,,,,team6,PushEvent
+user2,2017-02-09T21:46:34Z,5298652895,,,,,,,team6,PushEvent
+user2,2017-02-09T21:42:39Z,5298627709,,,,,,,team6,ForkEvent
+user1,2017-02-09T20:17:21Z,5298101009,,,,,,,team6,PushEvent
+user1,2017-02-09T15:01:45Z,5295894381,,,,,,,team6,PushEvent
+user1,2017-02-09T14:54:11Z,5295839161,206526739.0,32.0,Implementing google trends(include server setting),,,,team6,IssuesEvent
+user1,2017-02-09T14:54:00Z,5295837994,206526682.0,31.0,"[optional] Improve back up plan(better outlook, sync with up-to-date db setting, include google api features)",,,,team6,IssuesEvent
+user1,2017-02-09T14:53:35Z,5295834946,206526574.0,30.0,[Tam - 10FEB] Display data from all tables,,,,team6,IssuesEvent
+user1,2017-02-09T14:53:27Z,5295833995,206526532.0,29.0,[Christine- 2days] Build the most basic simulation interacting with database,,,,team6,IssuesEvent
+user1,2017-02-09T14:53:10Z,5295832046,206526449.0,28.0,"[ Tam - 1 day ] Wrap up simulation (back up database, basic tests, etc)",,,,team6,IssuesEvent
+user1,2017-02-09T14:52:51Z,5295829754,206526351.0,27.0,[Tam - 6 days] Researching for simulation options,,,,team6,IssuesEvent
+user3,2017-02-08T21:27:40Z,5291035360,206329859.0,26.0,[Matt - 19FEB] Research Screen Share for Demo,,,,team6,IssuesEvent
+user3,2017-02-08T21:24:33Z,5291015266,206329017.0,25.0,"[Matt - 17FEB] Auto Refresh, No Finger",,,,team6,IssuesEvent
+user3,2017-02-08T21:23:25Z,5291007965,206328740.0,24.0,[Matt - 13FEB] Add Threat Map Buttons,,,,team6,IssuesEvent
+user3,2017-02-08T20:56:23Z,5290839453,,,,,,,team6,PushEvent
+user3,2017-02-08T20:51:32Z,5290808426,,,,,,,team6,PushEvent
+user2,2017-02-07T22:40:32Z,5283928658,206039192.0,23.0,Group meeting on Feb. 14. (3 p.m.) at room 2323 in Hunt Library,,,,team6,IssuesEvent
+user2,2017-02-07T21:55:44Z,5283646997,206028273.0,22.0,[Christine - 6 days] researching and implementing ios push notifications,,,,team6,IssuesEvent
+user3,2017-02-07T21:54:53Z,5283640877,206028079.0,21.0,Matt - Research Auto-Refresh on mobile app screeen,,,,team6,IssuesEvent
+user1,2017-02-07T21:54:51Z,5283640719,206028066.0,20.0,Build database node js interface,,,,team6,IssuesEvent
+user3,2017-02-07T21:48:32Z,5283598939,,,,,,,team6,PushEvent
+user1,2017-02-07T19:25:57Z,5282666856,,,,,,,team6,PushEvent
+user1,2017-02-07T19:24:31Z,5282656984,204186092.0,13.0,Announcements - FEB milestone,2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-07T19:17:29Z,5282609867,,,,,,,team6,PushEvent
+user1,2017-02-07T19:03:58Z,5282520415,,,,,,,team6,PushEvent
+user1,2017-02-07T18:43:36Z,5282384708,204186746.0,14.0,First level prototyping (due 06FEB),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-07T18:23:40Z,5282253739,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssuesEvent
+user2,2017-02-06T21:48:40Z,5275904161,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user2,2017-02-06T21:04:53Z,5275625051,,,,,,,team6,PushEvent
+user1,2017-02-06T16:32:47Z,5273851483,,,,,,,team6,PushEvent
+user1,2017-02-06T16:24:11Z,5273785566,,,,,,,team6,PushEvent
+user1,2017-02-06T16:10:04Z,5273690582,,,,,,,team6,PushEvent
+user1,2017-02-06T15:59:59Z,5273621980,,,,,,,team6,PushEvent
+user1,2017-02-06T15:53:39Z,5273573488,,,,,,,team6,PushEvent
+user1,2017-02-06T15:39:05Z,5273463113,,,,,,,team6,PushEvent
+user1,2017-02-06T15:30:08Z,5273396743,,,,,,,team6,PushEvent
+user1,2017-02-06T15:23:48Z,5273348745,,,,,,,team6,PushEvent
+user1,2017-02-06T15:13:55Z,5273279722,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user1,2017-02-06T15:05:49Z,5273219992,204186746.0,14.0,First level prototyping (due 06FEB),2267276.0,2.0,FEB Milestone,team6,IssueCommentEvent
+user1,2017-02-04T15:00:47Z,5266661606,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user1,2017-02-04T14:59:07Z,5266658772,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssuesEvent
+user3,2017-02-04T14:37:38Z,5266624636,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user3,2017-02-04T14:36:29Z,5266622740,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssuesEvent
+user3,2017-02-04T14:36:29Z,5266622736,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user1,2017-02-04T14:27:57Z,5266608868,204204076.0,18.0,slide 17 is ... unusual,,,,team6,IssuesEvent
+user1,2017-02-04T14:26:47Z,5266607060,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user3,2017-02-04T14:23:43Z,5266602298,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssueCommentEvent
+user2,2017-02-03T18:11:37Z,5263348281,205229444.0,19.0,Weekly meeting on Feb 6 at 3 p.m. (Room 2323 in Hunt library),,,,team6,IssuesEvent
+user1,2017-01-31T21:04:06Z,5243567760,,,,,,,team6,PushEvent
+timm,2017-01-31T04:44:33Z,5238425114,204204076.0,18.0,slide 17 is ... unusual,,,,team6,IssueCommentEvent
+timm,2017-01-31T04:43:23Z,5238422285,204204076.0,18.0,slide 17 is ... unusual,,,,team6,IssuesEvent
+user1,2017-01-31T02:35:32Z,5238082594,204189768.0,17.0,Mile stone wrapping up (due 27FEB),,,,team6,IssuesEvent
+user1,2017-01-31T02:31:18Z,5238070055,204189224.0,16.0,Demo finalization (due 20FEB),,,,team6,IssuesEvent
+user1,2017-01-31T02:29:25Z,5238064157,204189001.0,15.0,Second level prototyping (due date 13FEB),,,,team6,IssuesEvent
+user1,2017-01-31T02:12:43Z,5238011523,204186746.0,14.0,First level prototyping,,,,team6,IssuesEvent
+user1,2017-01-31T02:08:02Z,5237995940,204186092.0,13.0,Announcements - FEB milestone,,,,team6,IssuesEvent
+user1,2017-01-31T00:55:19Z,5237732515,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-31T00:55:19Z,5237732510,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-31T00:54:39Z,5237730367,203512862.0,12.0,group meeting on Jan. 30 starts from 6 pm in Hunt Library Room 2323,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-31T00:54:18Z,5237729184,203512862.0,12.0,group meeting on Jan. 30 starts from 6 pm in Hunt Library Room 2323,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user3,2017-01-30T18:22:48Z,5235539158,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-30T18:14:59Z,5235492245,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user3,2017-01-30T17:22:16Z,5235153585,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-30T14:52:58Z,5234113205,201481461.0,5.0,Prepare milestone briefing,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-30T14:51:46Z,5234105364,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-29T17:02:46Z,5230415366,203512862.0,12.0,group meeting on Jan. 30 starts from 6 pm in Hunt Library Room 2323,,,,team6,IssueCommentEvent
+user1,2017-01-28T16:03:48Z,5228431310,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-28T16:02:10Z,5228428847,202018021.0,9.0,Team meeting 5(weekly),2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-28T16:01:45Z,5228428217,201481377.0,4.0,How people have tried to solve Hospital acquired infection,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-28T16:01:29Z,5228427808,201481198.0,3.0,Find a group of users with experience on Hospital acquired infections,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-27T22:59:14Z,5226903568,201481461.0,5.0,Prepare milestone briefing,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-27T22:55:39Z,5226888234,203501095.0,11.0,feed gorilla,2281087.0,3.0,Mar Milestones,team6,IssuesEvent
+user1,2017-01-27T22:55:39Z,5226888226,203501009.0,10.0,buy gorrilaa,2281087.0,3.0,Mar Milestones,team6,IssuesEvent
+user2,2017-01-26T22:50:49Z,5220771610,203512862.0,12.0,group meeting on Jan. 30 starts from 6 pm in Hunt Library Room 2323,,,,team6,IssuesEvent
+timm,2017-01-26T21:58:26Z,5220474723,203501095.0,11.0,feed gorilla,2281087.0,3.0,Mar Milestones,team6,IssuesEvent
+timm,2017-01-26T21:58:07Z,5220472858,203501009.0,10.0,buy gorrilaa,2281087.0,3.0,Mar Milestones,team6,IssuesEvent
+timm,2017-01-26T18:49:33Z,5219340856,202018021.0,9.0,Team meeting 5(weekly),2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user3,2017-01-24T20:27:09Z,5206376684,202018021.0,9.0,Team meeting 5(weekly),2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-24T06:38:31Z,5201753958,201481377.0,4.0,How people have tried to solve Hospital acquired infection,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-23T19:07:38Z,5198797048,201483977.0,7.0,Announcements,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-22T16:20:31Z,5193130167,201481461.0,5.0,Prepare milestone briefing,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-22T07:09:52Z,5192319181,201480989.0,2.0,Conduct research on problems in daily Hospital Operations,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-22T07:09:08Z,5192318254,201481461.0,5.0,Prepare milestone briefing,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-22T07:08:15Z,5192317260,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssuesEvent
+user1,2017-01-22T07:08:02Z,5192316995,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user1,2017-01-22T03:21:19Z,5192042697,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user3,2017-01-22T03:16:40Z,5192036731,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user2,2017-01-22T02:26:17Z,5191969959,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+user2,2017-01-22T02:15:34Z,5191955902,202014533.0,8.0,Team meeting 4,2260454.0,1.0,JAN Milestone,team6,IssueCommentEvent
+SE-17-GroupQ,2017-04-20T19:03:29Z,5726490600,,,,,,,team7,MemberEvent
+SE-17-GroupQ,2017-04-20T19:03:28Z,5726490583,,,,,,,team7,MemberEvent
+SE-17-GroupQ,2017-04-20T19:03:28Z,5726490576,,,,,,,team7,MemberEvent
+SE-17-GroupQ,2017-04-20T19:03:28Z,5726490557,,,,,,,team7,MemberEvent
+SE-17-GroupQ,2017-04-20T19:03:28Z,5726490556,,,,,,,team7,MemberEvent
+user2,2017-04-11T20:34:59Z,5670969691,207581007.0,22.0,Deployment and Testing,,,,team7,IssuesEvent
+user1,2017-04-08T02:24:36Z,5651196068,,,,,,,team7,PushEvent
+user1,2017-04-08T02:13:03Z,5651174599,,,,,,,team7,PushEvent
+user2,2017-03-31T00:03:22Z,5599617604,211109645.0,25.0,interesting pattern of activity,,,,team7,IssuesEvent
+user1,2017-03-16T04:00:56Z,5503418999,,,,,,,team7,PullRequestEvent
+user1,2017-03-16T04:00:19Z,5503416991,,,,,,,team7,PullRequestEvent
+user1,2017-03-16T03:32:39Z,5503328272,,,,,,,team7,PullRequestEvent
+user1,2017-03-16T03:31:52Z,5503325694,,,,,,,team7,PullRequestEvent
+user1,2017-03-16T03:30:57Z,5503322575,,,,,,,team7,ForkEvent
+user2,2017-03-14T18:11:26Z,5492321086,210548649.0,24.0,Creating a new activity for registration of the student in the system.,,,,team7,IssueCommentEvent
+user2,2017-03-14T18:11:26Z,5492321084,210548649.0,24.0,Creating a new activity for registration of the student in the system.,,,,team7,IssuesEvent
+user2,2017-03-14T18:11:12Z,5492319388,210501477.0,23.0,Make the UI and to register user to Db in face recognition,,,,team7,IssuesEvent
+user2,2017-03-14T18:11:05Z,5492318536,207580377.0,21.0,Code Development -- Bar Code,,,,team7,IssuesEvent
+user2,2017-03-14T18:10:57Z,5492317533,207579871.0,20.0,Code Development -- GPS,,,,team7,IssuesEvent
+user2,2017-03-14T18:10:47Z,5492316291,207579319.0,18.0,Database Creation,,,,team7,IssuesEvent
+user2,2017-03-14T18:10:44Z,5492315934,207579319.0,18.0,Database Creation,,,,team7,IssueCommentEvent
+user2,2017-03-14T18:10:17Z,5492312675,207579784.0,19.0,Code development -- Fingerprint,,,,team7,IssuesEvent
+user2,2017-03-14T18:09:46Z,5492308788,210501477.0,23.0,Make the UI and to register user to Db in face recognition,,,,team7,IssueCommentEvent
+timm,2017-03-01T15:11:36Z,5412716796,211109645.0,25.0,interesting pattern of activity,,,,team7,IssuesEvent
+user2,2017-03-01T02:06:35Z,5409001564,,,,,,,team7,PushEvent
+user2,2017-02-27T17:15:20Z,5398575856,210548649.0,24.0,Creating a new activity for registration of the student in the system.,,,,team7,IssuesEvent
+user2,2017-02-27T14:37:11Z,5397413050,206230771.0,16.0,Division of work,2303043.0,9.0,Completion of other 2 methods,team7,IssuesEvent
+user2,2017-02-27T14:36:56Z,5397411506,210501477.0,23.0,Make the UI and to register user to Db in face recognition,,,,team7,IssuesEvent
+user2,2017-02-27T14:32:24Z,5397380985,207579784.0,19.0,Code development -- Fingerprint,,,,team7,IssueCommentEvent
+user2,2017-02-21T15:59:40Z,5363274237,207580377.0,21.0,Code Development -- Bar Code,,,,team7,IssueCommentEvent
+user2,2017-02-21T15:58:38Z,5363265641,207579871.0,20.0,Code Development -- GPS,,,,team7,IssueCommentEvent
+user2,2017-02-21T15:57:28Z,5363256022,207579784.0,19.0,Code development -- Fingerprint,,,,team7,IssueCommentEvent
+Paaaatrick,2017-02-21T07:01:42Z,5360153392,,,,,,,team7,CreateEvent
+Paaaatrick,2017-02-21T06:55:41Z,5360131490,,,,,,,team7,DeleteEvent
+Paaaatrick,2017-02-21T06:49:38Z,5360110444,,,,,,,team7,CreateEvent
+Paaaatrick,2017-02-21T06:48:25Z,5360106026,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-21T06:45:05Z,5360094760,,,,,,,team7,PushEvent
+user2,2017-02-19T00:49:01Z,5350353929,206233656.0,17.0,Meeting on Tuesday ,2303042.0,8.0,Completion of the Interface and implementation of 1st method,team7,IssuesEvent
+user2,2017-02-14T17:22:05Z,5323080288,207581007.0,22.0,Deployment and Testing,,,,team7,IssuesEvent
+user2,2017-02-14T17:19:47Z,5323064523,207580377.0,21.0,Code Development -- Bar Code,,,,team7,IssuesEvent
+user2,2017-02-14T17:17:54Z,5323051371,207579871.0,20.0,Code Development -- GPS,,,,team7,IssuesEvent
+user2,2017-02-14T17:17:36Z,5323049262,207579784.0,19.0,Code development -- Fingerprint,,,,team7,IssuesEvent
+user2,2017-02-14T17:15:49Z,5323036994,207579319.0,18.0,Database Creation,,,,team7,IssuesEvent
+user2,2017-02-14T16:45:48Z,5322818290,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssuesEvent
+user3,2017-02-09T12:35:31Z,5294995449,206233656.0,17.0,Meeting on Tuesday ,2303042.0,8.0,Completion of the Interface and implementation of 1st method,team7,IssueCommentEvent
+user3,2017-02-09T00:41:46Z,5292088546,206233656.0,17.0,Meeting on Tuesday ,2303042.0,8.0,Completion of the Interface and implementation of 1st method,team7,IssueCommentEvent
+user3,2017-02-09T00:39:50Z,5292080902,206233656.0,17.0,Meeting on Tuesday ,2303042.0,8.0,Completion of the Interface and implementation of 1st method,team7,IssueCommentEvent
+user2,2017-02-08T15:38:42Z,5288654734,206233656.0,17.0,Meeting on Tuesday ,2303042.0,8.0,Completion of the Interface and implementation of 1st method,team7,IssuesEvent
+user2,2017-02-08T15:28:56Z,5288584723,206230771.0,16.0,Division of work,2303043.0,9.0,Completion of other 2 methods,team7,IssuesEvent
+user2,2017-02-07T21:48:56Z,5283601697,203877204.0,13.0,20-20 Presentation,2284810.0,6.0,20 20 Project Presentation,team7,IssuesEvent
+user2,2017-02-07T21:48:47Z,5283600701,203832229.0,12.0,1st Report,2284268.0,5.0,Project Report,team7,IssuesEvent
+user2,2017-02-07T21:47:18Z,5283590432,203381054.0,11.0,Meeting on Friday from 4.30 to 7.30,2280089.0,2.0,Paper link sharing by 9 pm ,team7,IssuesEvent
+user2,2017-02-07T21:47:08Z,5283589270,202198572.0,10.0,Next Meeting,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:45Z,5283586680,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:36Z,5283585746,201027485.0,7.0,Survey Questions,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:29Z,5283585027,201026149.0,6.0,Division on topics and discuss the details out here,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:22Z,5283584277,200903327.0,5.0,Table like a trade-off table,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:14Z,5283583363,200903018.0,4.0,Output from the professor and TA,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:07Z,5283582644,200902840.0,3.0,Literature Survey Related ,,,,team7,IssuesEvent
+user2,2017-02-07T21:46:00Z,5283581766,200843484.0,2.0,Project Flow (If any suggestions tell me),,,,team7,IssuesEvent
+user2,2017-02-07T21:45:53Z,5283580986,200843150.0,1.0,Do we have to search literature with respect to software engineering only ?,,,,team7,IssuesEvent
+timm,2017-02-06T16:02:23Z,5273639866,205468068.0,15.0,Phase 2's meeting(Coding Month) ,2303040.0,7.0,Brain Stromming of ideas and finalizing the three ways ,team7,IssuesEvent
+user2,2017-02-06T00:51:12Z,5269902462,205468068.0,15.0,Phase 2's meeting(Coding Month) ,,,,team7,IssuesEvent
+user2,2017-02-01T22:09:34Z,5250930704,203877204.0,13.0,20-20 Presentation,2284810.0,6.0,20 20 Project Presentation,team7,IssueCommentEvent
+user2,2017-02-01T22:09:24Z,5250929712,203877204.0,13.0,20-20 Presentation,2284810.0,6.0,20 20 Project Presentation,team7,IssueCommentEvent
+Paaaatrick,2017-02-01T04:56:24Z,5245524390,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:56:15Z,5245524003,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:55:12Z,5245521350,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:54:59Z,5245520801,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:53:34Z,5245516978,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:53:02Z,5245515629,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:52:19Z,5245513797,,,,,,,team7,PushEvent
+Paaaatrick,2017-02-01T04:49:49Z,5245507465,,,,,,,team7,PushEvent
+user2,2017-01-31T19:11:41Z,5242868619,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssueCommentEvent
+user2,2017-01-31T16:27:19Z,5241769461,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssueCommentEvent
+user2,2017-01-31T16:26:22Z,5241762160,203877204.0,13.0,20-20 Presentation,2284810.0,6.0,20 20 Project Presentation,team7,IssueCommentEvent
+user3,2017-01-31T05:52:45Z,5238596052,203832229.0,12.0,1st Report,2284268.0,5.0,Project Report,team7,IssueCommentEvent
+user3,2017-01-31T04:22:05Z,5238371341,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssueCommentEvent
+user2,2017-01-31T04:20:59Z,5238368719,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssueCommentEvent
+user2,2017-01-31T04:19:38Z,5238365435,203832229.0,12.0,1st Report,2284268.0,5.0,Project Report,team7,IssueCommentEvent
+user2,2017-01-31T02:21:48Z,5238040760,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user3,2017-01-30T05:33:12Z,5231788156,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user2,2017-01-30T05:23:24Z,5231768466,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user3,2017-01-30T03:21:13Z,5231533304,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user2,2017-01-29T23:46:21Z,5231140036,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user2,2017-01-29T16:00:47Z,5230311621,203877964.0,14.0,Meeting on Tuesday,,,,team7,IssuesEvent
+user2,2017-01-29T15:51:06Z,5230295711,203832229.0,12.0,1st Report,2284268.0,5.0,Project Report,team7,IssueCommentEvent
+user2,2017-01-29T15:49:57Z,5230293752,203877204.0,13.0,20-20 Presentation,,,,team7,IssueCommentEvent
+user2,2017-01-29T15:47:13Z,5230289222,203877204.0,13.0,20-20 Presentation,,,,team7,IssuesEvent
+user2,2017-01-28T21:29:44Z,5228955608,203832229.0,12.0,1st Report,,,,team7,IssueCommentEvent
+user2,2017-01-28T21:22:51Z,5228944985,203832229.0,12.0,1st Report,,,,team7,IssuesEvent
+user3,2017-01-28T19:33:41Z,5228771945,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user2,2017-01-26T14:14:39Z,5217545216,203381054.0,11.0,Meeting on Friday from 4.30 to 7.30,,,,team7,IssuesEvent
+user3,2017-01-25T01:54:51Z,5207996665,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T21:13:55Z,5206652540,,,,,,,team7,PushEvent
+user2,2017-01-24T21:10:19Z,5206630872,,,,,,,team7,PushEvent
+user2,2017-01-24T21:09:55Z,5206628534,,,,,,,team7,PushEvent
+user2,2017-01-24T21:09:23Z,5206625730,,,,,,,team7,PushEvent
+user2,2017-01-24T21:08:39Z,5206621376,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T21:07:15Z,5206612950,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:57:23Z,5206553256,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:56:51Z,5206549941,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:56:07Z,5206545298,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:55:06Z,5206539171,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:53:53Z,5206531670,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:53:31Z,5206529458,,,,,,,team7,PushEvent
+Paaaatrick,2017-01-24T20:52:26Z,5206523122,,,,,,,team7,PushEvent
+user2,2017-01-24T20:32:12Z,5206405738,,,,,,,team7,PushEvent
+user2,2017-01-23T14:23:20Z,5196940389,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+timm,2017-01-22T18:02:10Z,5193307435,202038423.0,9.0,Detail explanation of Ideas,,,,team7,IssueCommentEvent
+user2,2017-01-21T20:37:42Z,5191468246,,,,,,,team7,PushEvent
+user2,2017-04-18T19:26:54Z,5709984704,214831558.0,45.0,Lightning / Tech Talk,2281097.0,3.0,March Milestone (Due April 7),team8,IssuesEvent
+user2,2017-04-11T19:51:17Z,5670669741,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssuesEvent
+user2,2017-04-11T19:50:53Z,5670666948,214831469.0,44.0,Deep analysis paper,2281097.0,3.0,March Milestone (Due April 7),team8,IssuesEvent
+user1,2017-04-08T03:09:14Z,5651277071,,,,,,,team8,PushEvent
+user1,2017-04-08T03:03:04Z,5651265607,,,,,,,team8,PushEvent
+user1,2017-04-08T02:31:20Z,5651208442,,,,,,,team8,PushEvent
+user1,2017-04-07T03:35:35Z,5644110499,,,,,,,team8,PushEvent
+user2,2017-04-06T21:29:05Z,5642579787,209897075.0,39.0,Unit Tests,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-04-05T01:43:04Z,5627484658,,,,,,,team8,PushEvent
+user1,2017-04-03T20:34:43Z,5617957824,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T20:23:34Z,5617880860,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:22:48Z,5616658552,,,,,,,team8,PushEvent
+user1,2017-04-03T17:21:13Z,5616648379,,,,,,,team8,DeleteEvent
+user1,2017-04-03T17:19:16Z,5616635665,,,,,,,team8,PushEvent
+user1,2017-04-03T17:19:15Z,5616635521,,,,,,,team8,CreateEvent
+user3,2017-04-03T17:13:08Z,5616593613,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user3,2017-04-03T17:12:50Z,5616591756,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:12:30Z,5616589701,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:12:09Z,5616587392,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user3,2017-04-03T17:11:19Z,5616582232,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:10:32Z,5616577369,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:09:45Z,5616572524,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user3,2017-04-03T17:07:48Z,5616559945,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:05:05Z,5616542396,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user1,2017-04-03T17:01:04Z,5616515706,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user2,2017-03-31T18:00:15Z,5604935548,209635695.0,33.0,Need to display more details on the team view. ,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-03-31T17:59:45Z,5604932324,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssuesEvent
+user2,2017-03-31T01:10:01Z,5599867948,,,,,,,team8,PushEvent
+user2,2017-03-31T01:10:00Z,5599867926,,,,,,,team8,PushEvent
+user2,2017-03-31T01:10:00Z,5599867915,,,,,,,team8,PushEvent
+user2,2017-03-31T00:38:20Z,5599751245,,,,,,,team8,PushEvent
+user2,2017-03-31T00:38:17Z,5599751069,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:25:57Z,5599704524,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:25:26Z,5599702679,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:25:19Z,5599702230,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:25:15Z,5599702015,,,,,,,team8,PullRequestEvent
+user3,2017-03-31T00:21:31Z,5599688345,218363275.0,50.0,Approach1,,,,team8,IssueCommentEvent
+user2,2017-03-31T00:20:33Z,5599684773,218363275.0,50.0,Approach1,,,,team8,IssueCommentEvent
+user2,2017-03-31T00:19:51Z,5599682078,218363275.0,50.0,Approach1,,,,team8,IssueCommentEvent
+user3,2017-03-31T00:18:22Z,5599676509,,,,,,,team8,PushEvent
+user3,2017-03-31T00:17:50Z,5599674391,218363275.0,50.0,Approach1,,,,team8,IssueCommentEvent
+user2,2017-03-31T00:15:24Z,5599665206,218363275.0,50.0,Approach1,,,,team8,IssueCommentEvent
+user2,2017-03-31T00:12:56Z,5599655852,,,,,,,team8,PushEvent
+user2,2017-03-31T00:12:54Z,5599655703,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:12:42Z,5599654908,,,,,,,team8,PushEvent
+user2,2017-03-31T00:12:38Z,5599654691,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:12:12Z,5599653110,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:11:38Z,5599650920,,,,,,,team8,PullRequestEvent
+user2,2017-03-31T00:11:13Z,5599649333,,,,,,,team8,PullRequestEvent
+user3,2017-03-30T21:47:55Z,5598954026,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:50Z,5598953417,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:41Z,5598952544,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:36Z,5598952037,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:30Z,5598951425,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:24Z,5598950844,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:18Z,5598950315,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:13Z,5598949783,,,,,,,team8,PushEvent
+user3,2017-03-30T21:47:07Z,5598949239,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:59Z,5598948301,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:54Z,5598947775,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:48Z,5598947145,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:43Z,5598946541,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:34Z,5598945735,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:28Z,5598945161,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:20Z,5598944395,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:15Z,5598943855,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:09Z,5598943360,,,,,,,team8,PushEvent
+user3,2017-03-30T21:46:04Z,5598942842,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:58Z,5598942305,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:50Z,5598941603,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:43Z,5598940878,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:38Z,5598940374,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:32Z,5598939707,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:26Z,5598939158,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:21Z,5598938617,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:14Z,5598937957,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:09Z,5598937478,,,,,,,team8,PushEvent
+user3,2017-03-30T21:45:04Z,5598936996,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:59Z,5598936470,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:54Z,5598935991,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:49Z,5598935550,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:37Z,5598934242,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:30Z,5598933567,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:12Z,5598931777,,,,,,,team8,PushEvent
+user3,2017-03-30T21:44:05Z,5598931032,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:59Z,5598930445,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:36Z,5598928207,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:32Z,5598927726,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:27Z,5598927250,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:22Z,5598926696,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:17Z,5598926160,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:09Z,5598925351,,,,,,,team8,PushEvent
+user3,2017-03-30T21:43:05Z,5598924795,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:58Z,5598924190,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:50Z,5598923325,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:44Z,5598922774,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:39Z,5598922137,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:21Z,5598920115,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:15Z,5598919494,,,,,,,team8,PushEvent
+user3,2017-03-30T21:42:03Z,5598918253,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:58Z,5598917785,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:54Z,5598917329,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:49Z,5598916810,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:43Z,5598916285,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:35Z,5598915443,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:28Z,5598914626,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:17Z,5598913434,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:11Z,5598912785,,,,,,,team8,PushEvent
+user3,2017-03-30T21:41:04Z,5598912106,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:57Z,5598911441,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:48Z,5598910469,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:41Z,5598909731,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:24Z,5598908083,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:16Z,5598907256,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:10Z,5598906531,,,,,,,team8,PushEvent
+user3,2017-03-30T21:40:01Z,5598905764,,,,,,,team8,PushEvent
+user3,2017-03-30T21:39:52Z,5598904871,,,,,,,team8,PushEvent
+user3,2017-03-30T21:39:45Z,5598904156,,,,,,,team8,PushEvent
+user3,2017-03-30T21:39:38Z,5598903419,,,,,,,team8,PushEvent
+user3,2017-03-30T21:38:26Z,5598896028,,,,,,,team8,PushEvent
+user3,2017-03-30T21:38:03Z,5598893777,,,,,,,team8,PushEvent
+user3,2017-03-30T21:37:08Z,5598888084,,,,,,,team8,PushEvent
+user3,2017-03-30T21:37:01Z,5598887346,,,,,,,team8,PushEvent
+user3,2017-03-30T21:36:36Z,5598884977,,,,,,,team8,PushEvent
+user3,2017-03-30T21:36:05Z,5598881430,,,,,,,team8,PushEvent
+user3,2017-03-30T21:35:41Z,5598878673,,,,,,,team8,PushEvent
+user3,2017-03-30T21:34:58Z,5598873813,,,,,,,team8,PushEvent
+user3,2017-03-30T21:33:31Z,5598864573,,,,,,,team8,PushEvent
+user3,2017-03-30T21:30:43Z,5598846504,,,,,,,team8,PushEvent
+user1,2017-03-30T21:26:13Z,5598817964,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone (Due April 7),team8,IssueCommentEvent
+user2,2017-03-30T21:24:01Z,5598803995,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user1,2017-03-30T21:22:52Z,5598796891,218332105.0,47.0,Report / ppt discussion,2281097.0,3.0,March Milestone,team8,IssuesEvent
+user3,2017-03-30T21:05:18Z,5598682503,209565098.0,31.0,Edit skills,2306423.0,5.0,Coding and implementation,team8,IssueCommentEvent
+user3,2017-03-30T21:04:00Z,5598673593,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user2,2017-03-30T21:03:40Z,5598671309,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user2,2017-03-30T20:48:52Z,5598568531,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user4,2017-03-30T20:48:02Z,5598562721,210216671.0,40.0,Approach3 test,,,,team8,IssuesEvent
+user2,2017-03-30T20:42:19Z,5598524494,210889557.0,41.0,When editing profile we should check the skills based off of the DB,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-03-30T20:41:24Z,5598518582,209565396.0,32.0,Display search result in order,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user2,2017-03-30T20:40:03Z,5598509574,209565098.0,31.0,Edit skills,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user2,2017-03-30T20:40:03Z,5598509567,209565098.0,31.0,Edit skills,2306423.0,5.0,Coding and implementation,team8,IssueCommentEvent
+user2,2017-03-30T20:39:13Z,5598503875,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user4,2017-03-23T20:29:36Z,5553220573,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user2,2017-03-21T15:42:04Z,5534595055,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user2,2017-03-21T15:38:23Z,5534563200,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssueCommentEvent
+user2,2017-03-20T21:26:37Z,5529015718,,,,,,,team8,PushEvent
+user4,2017-03-20T15:10:32Z,5526179013,215451259.0,46.0,Evaluation method discussion,2281097.0,3.0,March Milestone,team8,IssuesEvent
+user1,2017-03-16T20:40:21Z,5509376616,214831558.0,45.0,Lightning / Tech Talk,,,,team8,IssuesEvent
+user1,2017-03-16T20:39:59Z,5509374118,214831469.0,44.0,Deep analysis paper,,,,team8,IssuesEvent
+user3,2017-03-14T17:51:42Z,5492169904,,,,,,,team8,PushEvent
+user3,2017-03-14T16:49:43Z,5491684583,,,,,,,team8,PushEvent
+user3,2017-03-14T16:48:23Z,5491673926,,,,,,,team8,PushEvent
+user3,2017-03-14T16:48:12Z,5491672441,,,,,,,team8,PushEvent
+user3,2017-03-14T16:48:01Z,5491671088,,,,,,,team8,PushEvent
+user3,2017-03-14T16:47:43Z,5491668828,,,,,,,team8,PushEvent
+user3,2017-03-14T16:47:25Z,5491666251,,,,,,,team8,PushEvent
+user3,2017-03-14T16:47:08Z,5491663771,,,,,,,team8,PushEvent
+user3,2017-03-14T16:46:53Z,5491661723,,,,,,,team8,PushEvent
+user3,2017-03-14T16:46:33Z,5491658960,,,,,,,team8,PushEvent
+user3,2017-03-14T16:46:14Z,5491656172,,,,,,,team8,PushEvent
+user3,2017-03-14T16:45:58Z,5491654102,,,,,,,team8,PushEvent
+user3,2017-03-14T16:45:36Z,5491651359,,,,,,,team8,PushEvent
+user3,2017-03-14T16:45:29Z,5491650369,,,,,,,team8,PushEvent
+user3,2017-03-14T16:45:17Z,5491648675,,,,,,,team8,PushEvent
+user3,2017-03-14T16:38:29Z,5491592832,,,,,,,team8,PushEvent
+user3,2017-03-14T16:33:39Z,5491553004,,,,,,,team8,PushEvent
+user4,2017-03-14T14:08:12Z,5490283303,210216671.0,40.0,Approach3 test,,,,team8,IssueCommentEvent
+user4,2017-03-14T14:06:28Z,5490269090,,,,,,,team8,PushEvent
+user4,2017-03-14T14:04:56Z,5490257104,,,,,,,team8,PushEvent
+user4,2017-03-14T14:04:20Z,5490252461,,,,,,,team8,PushEvent
+user1,2017-03-14T03:39:41Z,5487265108,,,,,,,team8,PushEvent
+user1,2017-03-14T02:52:39Z,5487107320,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-03-14T02:41:49Z,5487069860,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-03-14T02:41:29Z,5487068704,,,,,,,team8,PushEvent
+user1,2017-03-14T02:06:56Z,5486949065,,,,,,,team8,PushEvent
+user1,2017-03-13T23:51:40Z,5486432250,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-03-13T23:36:58Z,5486368893,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-03-13T23:35:08Z,5486360476,,,,,,,team8,PushEvent
+timm,2017-03-01T18:11:31Z,5414067182,211110596.0,43.0,interesting work patterns,,,,team8,IssueCommentEvent
+user1,2017-03-01T15:27:49Z,5412840637,211110596.0,43.0,interesting work patterns,,,,team8,IssueCommentEvent
+timm,2017-03-01T15:14:44Z,5412740625,211110596.0,43.0,interesting work patterns,,,,team8,IssuesEvent
+user1,2017-03-01T03:48:56Z,5409380702,,,,,,,team8,PushEvent
+user1,2017-03-01T03:47:12Z,5409374938,,,,,,,team8,PushEvent
+user1,2017-03-01T03:46:07Z,5409371266,,,,,,,team8,DeleteEvent
+user1,2017-03-01T03:46:06Z,5409371230,,,,,,,team8,PushEvent
+user1,2017-03-01T03:46:06Z,5409371199,,,,,,,team8,CreateEvent
+user1,2017-03-01T02:17:13Z,5409044763,,,,,,,team8,PushEvent
+user1,2017-03-01T01:49:54Z,5408930650,,,,,,,team8,DeleteEvent
+user1,2017-03-01T01:49:52Z,5408930502,,,,,,,team8,PushEvent
+user1,2017-03-01T01:49:52Z,5408930459,,,,,,,team8,CreateEvent
+user1,2017-03-01T01:49:09Z,5408927388,,,,,,,team8,PushEvent
+user1,2017-03-01T01:48:20Z,5408924037,,,,,,,team8,PushEvent
+user1,2017-03-01T01:40:22Z,5408889345,209462916.0,29.0,figure out how to assign false value on a skill if checkbox isn't checked,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-02-28T20:55:10Z,5407441912,,,,,,,team8,PushEvent
+user2,2017-02-28T20:52:43Z,5407429521,209462916.0,29.0,figure out how to assign false value on a skill if checkbox isn't checked,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T20:15:31Z,5407253651,210889557.0,41.0,When editing profile we should check the skills based off of the DB,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T20:12:28Z,5407239515,210890659.0,42.0,Stuck in loop when logging out after signing up new google user,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-28T20:12:27Z,5407239508,210890659.0,42.0,Stuck in loop when logging out after signing up new google user,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T20:12:06Z,5407237728,,,,,,,team8,PushEvent
+user1,2017-02-28T20:09:07Z,5407223732,210890659.0,42.0,Stuck in loop when logging out after signing up new google user,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-28T20:04:02Z,5407200401,210889557.0,41.0,When editing profile we should check the skills based off of the DB,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-28T19:52:59Z,5407147331,209344921.0,26.0,Insert user data for creating an account through google,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T19:52:51Z,5407146770,209344921.0,26.0,Insert user data for creating an account through google,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-02-28T18:24:40Z,5406681678,209326686.0,23.0,Insert new data into user database for email user signup,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-02-28T18:24:40Z,5406681668,209326686.0,23.0,Insert new data into user database for email user signup,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T18:24:01Z,5406679055,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T18:23:24Z,5406676608,209326686.0,23.0,Insert new data into user database for email user signup,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T18:11:34Z,5406627692,209326686.0,23.0,Insert new data into user database for email user signup,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T18:09:42Z,5406619546,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T15:18:52Z,5405427546,,,,,,,team8,PushEvent
+user1,2017-02-28T15:09:22Z,5405357207,,,,,,,team8,PushEvent
+user2,2017-02-28T06:45:49Z,5402607015,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user2,2017-02-28T06:45:49Z,5402607010,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T06:45:41Z,5402606570,,,,,,,team8,PushEvent
+user2,2017-02-28T03:43:55Z,5402025526,,,,,,,team8,PushEvent
+user1,2017-02-28T02:56:20Z,5401856264,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T02:47:13Z,5401823378,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T02:46:46Z,5401821669,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T02:43:26Z,5401809747,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user2,2017-02-28T02:35:49Z,5401781477,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-28T00:36:44Z,5401281944,,,,,,,team8,PushEvent
+user1,2017-02-27T22:05:26Z,5400459408,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-27T22:03:33Z,5400447428,,,,,,,team8,PushEvent
+user1,2017-02-27T21:55:20Z,5400391973,,,,,,,team8,DeleteEvent
+user1,2017-02-27T21:55:19Z,5400391850,,,,,,,team8,CreateEvent
+user1,2017-02-27T21:55:03Z,5400390023,,,,,,,team8,PushEvent
+user1,2017-02-27T21:52:11Z,5400370125,,,,,,,team8,DeleteEvent
+user1,2017-02-27T21:52:09Z,5400369925,,,,,,,team8,CreateEvent
+user1,2017-02-27T21:51:15Z,5400364392,,,,,,,team8,PushEvent
+user2,2017-02-27T01:33:44Z,5394167198,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user4,2017-02-25T06:57:13Z,5389799129,,,,,,,team8,PushEvent
+user4,2017-02-25T06:55:35Z,5389796815,210216671.0,40.0,Approach3 test,,,,team8,IssuesEvent
+user4,2017-02-25T06:44:38Z,5389781095,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssuesEvent
+user4,2017-02-25T06:44:38Z,5389781094,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssueCommentEvent
+user1,2017-02-24T02:40:45Z,5382692639,,,,,,,team8,PushEvent
+user4,2017-02-24T00:52:13Z,5382274516,,,,,,,team8,PushEvent
+user1,2017-02-23T21:59:17Z,5381371945,209897075.0,39.0,Unit Tests,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T21:56:50Z,5381355281,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T21:54:05Z,5381337048,209895817.0,38.0,Software Report,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user4,2017-02-23T21:45:15Z,5381279351,,,,,,,team8,PushEvent
+user2,2017-02-23T18:06:12Z,5379821508,209564662.0,30.0,Create logout functionality,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user2,2017-02-23T18:05:42Z,5379818267,209805431.0,37.0,Change title bar/header for user home page,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user2,2017-02-23T18:05:42Z,5379818256,209805431.0,37.0,Change title bar/header for user home page,2306423.0,5.0,Coding and implementation,team8,IssueCommentEvent
+user2,2017-02-23T18:04:57Z,5379813338,,,,,,,team8,PushEvent
+user4,2017-02-23T17:28:45Z,5379571043,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssueCommentEvent
+user3,2017-02-23T16:07:34Z,5378958325,209805431.0,37.0,Change title bar/header for user home page,2306423.0,5.0,Coding and implementation,team8,IssueCommentEvent
+user2,2017-02-23T16:05:35Z,5378943051,209805431.0,37.0,Change title bar/header for user home page,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user4,2017-02-23T05:26:09Z,5375553056,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssueCommentEvent
+user4,2017-02-23T05:16:05Z,5375521525,209652900.0,35.0,Build approach 3,,,,team8,IssuesEvent
+user4,2017-02-23T05:13:58Z,5375514896,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssueCommentEvent
+user4,2017-02-23T03:35:22Z,5375213102,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssueCommentEvent
+user4,2017-02-23T03:34:23Z,5375209834,209654461.0,36.0,Create a view and function for users to select positions in teams,,,,team8,IssuesEvent
+user4,2017-02-23T03:24:39Z,5375176529,209652900.0,35.0,Build approach 3,,,,team8,IssueCommentEvent
+user4,2017-02-23T03:23:03Z,5375171228,209652900.0,35.0,Build approach 3,,,,team8,IssuesEvent
+user2,2017-02-23T03:06:15Z,5375112309,209564662.0,30.0,Create logout functionality,2306423.0,5.0,Coding and implementation,team8,IssueCommentEvent
+user1,2017-02-23T01:51:56Z,5374826650,,,,,,,team8,PushEvent
+user1,2017-02-23T01:39:23Z,5374775687,209319781.0,20.0,Create Homepage,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:39:23Z,5374775681,209319781.0,20.0,Create Homepage,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:38:36Z,5374772582,209345200.0,28.0,Figure out why table isn't auto updating on homepage when data changes in DB,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:37:33Z,5374768295,209326614.0,22.0,Create user table,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:37:32Z,5374768290,209326614.0,22.0,Create user table,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:37:11Z,5374766867,209319925.0,21.0,Teams page,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:37:11Z,5374766863,209319925.0,21.0,Teams page,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:36:47Z,5374765251,209328222.0,25.0,Make a table for each team that is created listing members,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:36:47Z,5374765245,209328222.0,25.0,Make a table for each team that is created listing members,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:36:11Z,5374762816,209636285.0,34.0,Need to figure out how to get skills from Google users,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:35:26Z,5374759813,209319527.0,19.0,Create Sign up page,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:35:26Z,5374759810,209319527.0,19.0,Create Sign up page,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:35:09Z,5374758639,209319158.0,18.0,Create Sign in page,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:35:09Z,5374758636,209319158.0,18.0,Create Sign in page,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T01:34:25Z,5374755477,205967731.0,16.0,Coding: Core,2306466.0,7.0,Core implementation,team8,IssuesEvent
+user1,2017-02-23T01:32:40Z,5374747988,209635695.0,33.0,Need to display more details on the team view. ,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:31:03Z,5374741209,,,,,,,team8,PushEvent
+user1,2017-02-23T01:29:53Z,5374736220,209345093.0,27.0,figure out why table is getting cut off on homepage,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-23T01:29:53Z,5374736216,209345093.0,27.0,figure out why table is getting cut off on homepage,2339339.0,8.0,Approach 2,team8,IssueCommentEvent
+user1,2017-02-23T00:53:13Z,5374577709,,,,,,,team8,PushEvent
+user2,2017-02-22T20:35:16Z,5373064797,,,,,,,team8,PushEvent
+user2,2017-02-22T20:05:45Z,5372875222,209565396.0,32.0,Display search result in order,,,,team8,IssuesEvent
+user2,2017-02-22T20:04:32Z,5372867262,209565098.0,31.0,Edit skills,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user2,2017-02-22T20:02:55Z,5372856482,209564662.0,30.0,Create logout functionality,2306423.0,5.0,Coding and implementation,team8,IssuesEvent
+user1,2017-02-22T19:45:15Z,5372734544,,,,,,,team8,PushEvent
+user1,2017-02-22T14:04:00Z,5370256282,209462916.0,29.0,figure out how to assign false value on a skill if checkbox isn't checked,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T03:52:21Z,5367372129,209345200.0,28.0,Figure out why table isn't auto updating on homepage when data changes in DB,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T03:51:34Z,5367369596,209345093.0,27.0,figure out why table is getting cut off on homepage,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T03:51:05Z,5367368099,,,,,,,team8,PushEvent
+user1,2017-02-22T03:50:23Z,5367365913,209344921.0,26.0,Insert user data for creating an account through google,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T01:47:44Z,5366904687,209328222.0,25.0,Make a table for each team that is created listing members,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T01:47:13Z,5366902638,209328139.0,24.0,Sort the users into teams,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T01:39:29Z,5366870171,,,,,,,team8,PushEvent
+user1,2017-02-22T01:37:28Z,5366861704,209326686.0,23.0,Insert new data into user database,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T01:37:05Z,5366860060,209326614.0,22.0,Create user table,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T01:08:49Z,5366736316,,,,,,,team8,PushEvent
+user1,2017-02-22T00:54:02Z,5366672587,209319925.0,21.0,Teams page,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T00:53:03Z,5366668265,209319781.0,20.0,Create Homepage,,,,team8,IssuesEvent
+user1,2017-02-22T00:51:35Z,5366662192,209319527.0,19.0,Create Sign up page,,,,team8,IssuesEvent
+user1,2017-02-22T00:49:27Z,5366652539,209319158.0,18.0,Create Sign in page,2339339.0,8.0,Approach 2,team8,IssuesEvent
+user1,2017-02-22T00:47:31Z,5366644058,206027855.0,17.0,Create 3 branches of our repo. 1 for each approach,,,,team8,IssuesEvent
+user1,2017-02-22T00:06:37Z,5366460093,,,,,,,team8,PushEvent
+user3,2017-02-21T22:09:10Z,5365811918,,,,,,,team8,PushEvent
+user3,2017-02-21T22:09:05Z,5365811327,,,,,,,team8,PushEvent
+user3,2017-04-20T05:31:36Z,5721190586,211101456.0,36.0,comment: feb deliverables look interesting,,,,team9,IssuesEvent
+user1,2017-04-08T03:02:06Z,5651263947,,,,,,,team9,PushEvent
+user1,2017-04-08T00:57:54Z,5651013239,,,,,,,team9,PushEvent
+user1,2017-04-08T00:55:52Z,5651007903,,,,,,,team9,PushEvent
+user1,2017-04-08T00:48:41Z,5650989736,,,,,,,team9,PushEvent
+user1,2017-04-07T23:29:05Z,5650741020,,,,,,,team9,PushEvent
+user2,2017-03-10T03:59:13Z,5468056681,,,,,,,team9,PushEvent
+user2,2017-03-10T03:59:12Z,5468056631,,,,,,,team9,PullRequestEvent
+user2,2017-03-10T03:58:53Z,5468055477,,,,,,,team9,PullRequestEvent
+user2,2017-03-10T03:49:08Z,5468023897,,,,,,,team9,PushEvent
+user1,2017-03-09T23:28:55Z,5466966698,,,,,,,team9,PushEvent
+timm,2017-03-01T21:52:27Z,5415548964,211101456.0,36.0,comment: feb deliverables look interesting,,,,team9,IssueCommentEvent
+user3,2017-03-01T20:19:52Z,5414941801,211101456.0,36.0,comment: feb deliverables look interesting,,,,team9,IssueCommentEvent
+timm,2017-03-01T14:44:32Z,5412514065,211101456.0,36.0,comment: feb deliverables look interesting,,,,team9,IssuesEvent
+user2,2017-03-01T04:10:23Z,5409449936,,,,,,,team9,PushEvent
+user2,2017-03-01T04:10:22Z,5409449904,,,,,,,team9,PullRequestEvent
+user2,2017-03-01T04:10:15Z,5409449502,,,,,,,team9,PullRequestEvent
+user2,2017-03-01T04:09:19Z,5409446565,,,,,,,team9,PushEvent
+user3,2017-03-01T03:45:29Z,5409369229,,,,,,,team9,PushEvent
+user3,2017-03-01T03:45:00Z,5409367644,,,,,,,team9,PushEvent
+user3,2017-03-01T02:52:52Z,5409182406,,,,,,,team9,PushEvent
+user3,2017-03-01T02:43:32Z,5409147424,,,,,,,team9,PushEvent
+user3,2017-03-01T02:43:31Z,5409147382,,,,,,,team9,PullRequestEvent
+user3,2017-03-01T02:43:26Z,5409147081,,,,,,,team9,PullRequestEvent
+user3,2017-03-01T02:43:00Z,5409145402,,,,,,,team9,PushEvent
+user3,2017-03-01T00:39:10Z,5408593147,,,,,,,team9,PushEvent
+user3,2017-02-28T23:21:53Z,5408233304,,,,,,,team9,CreateEvent
+user2,2017-02-28T05:36:22Z,5402373075,,,,,,,team9,PushEvent
+user2,2017-02-28T05:36:21Z,5402373052,,,,,,,team9,PullRequestEvent
+user2,2017-02-28T05:36:12Z,5402372585,,,,,,,team9,PullRequestEvent
+user2,2017-02-28T05:35:50Z,5402371547,,,,,,,team9,PushEvent
+user3,2017-02-28T05:30:48Z,5402356085,,,,,,,team9,DeleteEvent
+user3,2017-02-28T05:29:35Z,5402352120,206019918.0,10.0,Test system features,2306942.0,3.0,Final Testing and Deployment,team9,IssuesEvent
+user3,2017-02-28T05:29:34Z,5402352117,206019918.0,10.0,Test system features,2306942.0,3.0,Final Testing and Deployment,team9,IssueCommentEvent
+user3,2017-02-28T05:29:06Z,5402350622,210681299.0,32.0,GPS Proximity check,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-28T05:29:06Z,5402350619,210681299.0,32.0,GPS Proximity check,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-28T04:05:03Z,5402095613,209691201.0,28.0,Frontend Backend communication code development,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-28T04:04:50Z,5402094997,210681299.0,32.0,GPS Proximity check,,,,team9,IssuesEvent
+user3,2017-02-28T04:03:00Z,5402089173,,,,,,,team9,PushEvent
+user3,2017-02-28T04:02:59Z,5402089134,,,,,,,team9,PullRequestEvent
+user3,2017-02-28T04:02:51Z,5402088743,,,,,,,team9,PullRequestEvent
+user3,2017-02-28T04:02:23Z,5402087300,,,,,,,team9,PushEvent
+user3,2017-02-27T23:07:53Z,5400843230,206020139.0,11.0,Deployment ,2306942.0,3.0,Final Testing and Deployment,team9,IssuesEvent
+user3,2017-02-27T23:07:53Z,5400843217,206020139.0,11.0,Deployment ,2306942.0,3.0,Final Testing and Deployment,team9,IssueCommentEvent
+user3,2017-02-24T21:14:08Z,5388161076,209691201.0,28.0,Frontend Backend communication code development,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-24T06:37:58Z,5383419873,209691201.0,28.0,Frontend Backend communication code development,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-24T06:37:58Z,5383419866,209691201.0,28.0,Frontend Backend communication code development,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-24T01:13:05Z,5382361720,,,,,,,team9,CreateEvent
+user3,2017-02-24T01:07:13Z,5382337006,,,,,,,team9,DeleteEvent
+user2,2017-02-24T00:19:58Z,5382137553,,,,,,,team9,PushEvent
+user2,2017-02-24T00:17:32Z,5382126548,,,,,,,team9,CreateEvent
+user2,2017-02-23T23:56:39Z,5382031647,,,,,,,team9,DeleteEvent
+user2,2017-02-23T23:21:42Z,5381859917,,,,,,,team9,PushEvent
+user2,2017-02-23T23:16:30Z,5381832846,,,,,,,team9,CreateEvent
+user3,2017-02-23T23:15:03Z,5381825095,,,,,,,team9,DeleteEvent
+user3,2017-02-23T23:09:29Z,5381795341,,,,,,,team9,PushEvent
+user2,2017-02-23T23:02:51Z,5381759591,,,,,,,team9,PushEvent
+user2,2017-02-23T23:02:50Z,5381759499,,,,,,,team9,PullRequestEvent
+user2,2017-02-23T23:02:45Z,5381758994,,,,,,,team9,PullRequestEvent
+user2,2017-02-23T23:00:47Z,5381748090,,,,,,,team9,CreateEvent
+user2,2017-02-23T22:59:23Z,5381739887,,,,,,,team9,DeleteEvent
+user3,2017-02-23T22:41:00Z,5381632735,,,,,,,team9,CreateEvent
+user3,2017-02-23T22:36:10Z,5381603189,,,,,,,team9,PushEvent
+user2,2017-02-23T21:51:59Z,5381323439,,,,,,,team9,CreateEvent
+user2,2017-02-23T21:51:45Z,5381321938,,,,,,,team9,DeleteEvent
+user2,2017-02-23T21:50:40Z,5381315013,,,,,,,team9,DeleteEvent
+user2,2017-02-23T21:46:03Z,5381284715,206031088.0,19.0,Business Logic,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-23T21:46:03Z,5381284706,206031088.0,19.0,Business Logic,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-23T17:45:43Z,5379686587,,,,,,,team9,PushEvent
+user1,2017-02-23T08:59:16Z,5376378899,,,,,,,team9,PushEvent
+user1,2017-02-23T08:59:16Z,5376378848,,,,,,,team9,PullRequestEvent
+user1,2017-02-23T08:58:52Z,5376376710,,,,,,,team9,PullRequestEvent
+user1,2017-02-23T08:57:43Z,5376370787,,,,,,,team9,PushEvent
+user3,2017-02-23T08:15:29Z,5376170980,,,,,,,team9,DeleteEvent
+user3,2017-02-23T08:08:06Z,5376139084,209691201.0,28.0,Frontend Backend communication code development,,,,team9,IssuesEvent
+user3,2017-02-23T08:06:07Z,5376130585,206020625.0,14.0,Code development - GPS,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-23T08:06:07Z,5376130581,206020625.0,14.0,Code development - GPS,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-23T08:04:58Z,5376125677,,,,,,,team9,PushEvent
+user3,2017-02-23T08:04:57Z,5376125636,,,,,,,team9,PullRequestEvent
+user3,2017-02-23T08:04:50Z,5376125154,,,,,,,team9,PullRequestEvent
+user3,2017-02-23T08:04:24Z,5376123309,,,,,,,team9,PushEvent
+user1,2017-02-22T21:32:09Z,5373436133,,,,,,,team9,PushEvent
+user1,2017-02-22T02:51:33Z,5367156292,206020755.0,15.0,Code development - QR Code,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user1,2017-02-22T02:10:42Z,5366997387,206020755.0,15.0,Code development - QR Code,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-22T01:52:45Z,5366925030,,,,,,,team9,PushEvent
+user1,2017-02-21T23:49:59Z,5366379894,,,,,,,team9,PushEvent
+user1,2017-02-21T23:49:59Z,5366379836,,,,,,,team9,PullRequestEvent
+user1,2017-02-21T23:49:51Z,5366379206,,,,,,,team9,PullRequestEvent
+user1,2017-02-21T23:48:07Z,5366370756,,,,,,,team9,PushEvent
+user2,2017-02-21T08:17:14Z,5360453528,206029161.0,18.0,Create Database,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-21T08:17:14Z,5360453522,206029161.0,18.0,Create Database,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user2,2017-02-21T08:15:59Z,5360447963,,,,,,,team9,PushEvent
+user3,2017-02-21T08:12:31Z,5360432867,,,,,,,team9,PushEvent
+user3,2017-02-21T08:12:31Z,5360432827,,,,,,,team9,PullRequestEvent
+user3,2017-02-21T08:12:26Z,5360432522,,,,,,,team9,PullRequestEvent
+user3,2017-02-21T08:11:24Z,5360427904,,,,,,,team9,DeleteEvent
+user3,2017-02-21T08:06:51Z,5360408109,,,,,,,team9,PushEvent
+user3,2017-02-21T07:57:15Z,5360367465,,,,,,,team9,CreateEvent
+user3,2017-02-21T07:51:14Z,5360343097,,,,,,,team9,PushEvent
+user1,2017-02-21T07:35:59Z,5360283040,,,,,,,team9,PushEvent
+user1,2017-02-21T07:35:59Z,5360282989,,,,,,,team9,PullRequestEvent
+user1,2017-02-21T07:35:51Z,5360282518,,,,,,,team9,PullRequestEvent
+user1,2017-02-21T07:00:24Z,5360148113,,,,,,,team9,PushEvent
+user2,2017-02-21T06:50:12Z,5360112383,,,,,,,team9,PushEvent
+user2,2017-02-21T06:37:53Z,5360070315,,,,,,,team9,CreateEvent
+user2,2017-02-21T06:15:48Z,5359995967,,,,,,,team9,PushEvent
+user2,2017-02-21T06:14:43Z,5359992172,,,,,,,team9,PushEvent
+user3,2017-02-20T07:24:18Z,5353747220,,,,,,,team9,PushEvent
+user3,2017-02-20T07:24:17Z,5353747188,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T07:24:12Z,5353746850,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T07:22:30Z,5353741055,,,,,,,team9,PushEvent
+user3,2017-02-20T06:39:29Z,5353597665,206020453.0,13.0,code development - NFC,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-20T06:39:29Z,5353597663,206020453.0,13.0,code development - NFC,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-20T06:35:48Z,5353586299,,,,,,,team9,PushEvent
+user3,2017-02-20T06:35:48Z,5353586274,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T06:35:38Z,5353585785,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T06:33:56Z,5353580486,,,,,,,team9,PushEvent
+user3,2017-02-20T05:45:30Z,5353437379,,,,,,,team9,PushEvent
+user3,2017-02-20T04:30:02Z,5353248415,,,,,,,team9,PushEvent
+user1,2017-02-20T04:06:37Z,5353192520,,,,,,,team9,CreateEvent
+user3,2017-02-20T04:02:27Z,5353181280,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T04:02:27Z,5353181306,,,,,,,team9,PushEvent
+user3,2017-02-20T04:02:17Z,5353180829,,,,,,,team9,PullRequestEvent
+user3,2017-02-20T04:00:17Z,5353175205,,,,,,,team9,PushEvent
+user3,2017-02-20T01:03:37Z,5352726569,,,,,,,team9,PushEvent
+user3,2017-02-20T00:59:47Z,5352717692,,,,,,,team9,PushEvent
+user3,2017-02-20T00:51:10Z,5352700650,,,,,,,team9,CreateEvent
+user3,2017-02-20T00:42:41Z,5352684205,,,,,,,team9,PushEvent
+user3,2017-02-16T20:55:18Z,5339650564,208243408.0,20.0,Front End - Skeleton code Developmnet,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-16T20:55:18Z,5339650560,208243408.0,20.0,Front End - Skeleton code Developmnet,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-16T20:54:46Z,5339647121,208243408.0,20.0,Front End - Skeleton code Developmnet,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-16T20:51:02Z,5339624024,206020453.0,13.0,code development - NFC,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-16T20:48:01Z,5339604753,206020755.0,15.0,Code development - QR Code,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-16T20:47:17Z,5339600140,206020625.0,14.0,Code development - GPS,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-16T06:50:22Z,5334538806,,,,,,,team9,PushEvent
+user3,2017-02-16T05:41:04Z,5334309715,,,,,,,team9,PushEvent
+user3,2017-02-16T05:38:25Z,5334301903,,,,,,,team9,PushEvent
+user3,2017-02-14T05:09:36Z,5319085006,,,,,,,team9,ForkEvent
+user3,2017-02-14T04:30:56Z,5318972052,206020186.0,12.0,BackEnd FrontEnd Communication,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user3,2017-02-14T04:30:56Z,5318972048,206020186.0,12.0,BackEnd FrontEnd Communication,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user3,2017-02-14T03:36:26Z,5318795745,206021969.0,16.0,Front End Design,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user3,2017-02-14T03:36:26Z,5318795736,206021969.0,16.0,Front End Design,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user3,2017-02-14T02:51:28Z,5318630850,206028480.0,17.0,API availability and Feasibility Check. ,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user2,2017-02-14T02:51:14Z,5318630020,206019860.0,9.0,DataBase Design,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user1,2017-02-14T02:44:05Z,5318602191,206028480.0,17.0,API availability and Feasibility Check. ,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user2,2017-02-14T02:30:30Z,5318550058,206019860.0,9.0,DataBase Design,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user2,2017-02-14T02:28:13Z,5318541003,206029161.0,18.0,Create Database,2306939.0,2.0,Code development and Testing,team9,IssueCommentEvent
+user3,2017-02-14T02:23:42Z,5318521699,206028480.0,17.0,API availability and Feasibility Check. ,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user2,2017-02-14T02:18:57Z,5318501987,206028480.0,17.0,API availability and Feasibility Check. ,2306932.0,1.0,Software Design ,team9,IssueCommentEvent
+user3,2017-02-09T09:05:34Z,5293863200,205485433.0,8.0,Chits added.,2307045.0,4.0,Requirement Analysis,team9,IssuesEvent
+user3,2017-02-09T09:04:42Z,5293858872,205485433.0,8.0,Chits added.,2307045.0,4.0,Requirement Analysis,team9,IssuesEvent
+user2,2017-02-07T22:11:58Z,5283752924,,,,,,,team9,DeleteEvent
+user2,2017-02-07T22:06:53Z,5283721102,206031088.0,19.0,Business Logic,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-07T21:59:06Z,5283669493,206029161.0,18.0,Create Database,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-07T21:56:28Z,5283652194,206028480.0,17.0,API availability and Feasibility Check. ,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user3,2017-02-07T21:32:30Z,5283493626,206021969.0,16.0,Front End Design,2306932.0,1.0,Software Design ,team9,IssuesEvent
+user3,2017-02-07T21:28:20Z,5283466352,206020755.0,15.0,Code development - QR Code,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-07T21:27:54Z,5283463483,206020625.0,14.0,Code development - GPS,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user3,2017-02-07T21:27:20Z,5283459915,206020453.0,13.0,NFC code developemnt,2306939.0,2.0,Code development and Testing,team9,IssuesEvent
+user2,2017-02-07T21:26:23Z,5283453586,206020186.0,12.0,Communication with FrontEnd,,,,team9,IssuesEvent
+user3,2017-02-07T21:26:16Z,5283452750,206020139.0,11.0,Deployment ,2306942.0,3.0,Final Testing and Deployment,team9,IssuesEvent
+user3,2017-02-07T21:25:30Z,5283447678,206019918.0,10.0,Test system features,2306942.0,3.0,Final Testing and Deployment,team9,IssuesEvent
+user2,2017-02-07T21:25:17Z,5283446230,206019860.0,9.0,Design DataBase,,,,team9,IssuesEvent
+user2,2017-02-07T21:14:01Z,5283371828,205485433.0,8.0,Chits added.,,,,team9,IssuesEvent
+user3,2017-02-06T04:22:45Z,5270362594,205485433.0,8.0,Chits added.,,,,team9,IssuesEvent
+user1,2017-02-03T01:23:20Z,5258953767,,,,,,,team9,PushEvent
+user1,2017-01-31T20:58:34Z,5243533063,,,,,,,team9,PushEvent
+user1,2017-01-31T20:52:46Z,5243496875,203938368.0,6.0,Initial Report,,,,team9,IssuesEvent
+user1,2017-01-31T20:51:13Z,5243487776,,,,,,,team9,PushEvent
+user1,2017-01-31T07:42:46Z,5238907937,,,,,,,team9,PushEvent
+user2,2017-01-31T05:07:13Z,5238482510,,,,,,,team9,PushEvent
+user2,2017-01-31T01:36:53Z,5237879280,,,,,,,team9,PushEvent
+user3,2017-01-30T19:57:47Z,5236141878,203848591.0,5.0,Literature Study,,,,team9,IssuesEvent
+user3,2017-01-30T19:57:47Z,5236141867,203848591.0,5.0,Literature Study,,,,team9,IssueCommentEvent
+user2,2017-01-30T16:50:58Z,5234939038,,,,,,,team9,PushEvent
+user2,2017-01-30T16:50:58Z,5234938960,,,,,,,team9,PullRequestEvent
+user2,2017-01-30T16:50:15Z,5234933816,,,,,,,team9,PullRequestEvent
+user1,2017-01-30T06:55:02Z,5231968617,203938368.0,6.0,Initial Report,,,,team9,IssueCommentEvent
+user1,2017-01-30T06:50:53Z,5231958755,203938368.0,6.0,Initial Report,,,,team9,IssuesEvent
+user3,2017-01-30T02:43:07Z,5231457837,,,,,,,team9,PushEvent
+user3,2017-01-30T02:42:46Z,5231457226,,,,,,,team9,PushEvent
+user3,2017-01-29T04:50:15Z,5229507437,,,,,,,team9,PushEvent
+user1,2017-01-29T04:42:09Z,5229499996,,,,,,,team9,PushEvent
+user1,2017-01-29T04:41:39Z,5229499537,,,,,,,team9,PushEvent
+user1,2017-01-29T04:38:35Z,5229496433,,,,,,,team9,PushEvent
+user1,2017-01-29T04:07:31Z,5229465579,,,,,,,team9,PushEvent
+user1,2017-01-29T03:58:25Z,5229455935,,,,,,,team9,PushEvent
+user3,2017-01-29T03:52:41Z,5229450128,202301476.0,3.0,Literature Review:,,,,team9,IssuesEvent
+user3,2017-01-29T03:52:41Z,5229450127,202301476.0,3.0,Literature Review:,,,,team9,IssueCommentEvent
+user3,2017-01-29T03:50:48Z,5229448165,,,,,,,team9,PushEvent
+user3,2017-01-29T03:48:36Z,5229446027,203848591.0,5.0,Literature Study,,,,team9,IssueCommentEvent
+user3,2017-01-29T03:46:19Z,5229443731,203848591.0,5.0,Literature Study,,,,team9,IssuesEvent
+user3,2017-01-25T01:55:29Z,5207998918,,,,,,,team9,PushEvent
+user3,2017-01-24T01:21:04Z,5200795401,202301489.0,4.0,User Study:,,,,team9,IssuesEvent
+user3,2017-01-24T01:21:04Z,5200795395,202301489.0,4.0,User Study:,,,,team9,IssueCommentEvent
+user3,2017-01-24T01:20:11Z,5200792004,,,,,,,team9,PushEvent
+user2,2017-01-21T08:02:40Z,5190375846,202301489.0,4.0,User Study:,,,,team9,IssuesEvent
+user2,2017-01-21T08:02:17Z,5190375442,202301476.0,3.0,Literature Review:,,,,team9,IssuesEvent
+user2,2017-01-21T08:00:40Z,5190373289,,,,,,,team9,PushEvent
+user2,2017-01-21T08:00:39Z,5190373280,,,,,,,team9,PullRequestEvent
+user2,2017-01-21T08:00:10Z,5190372492,,,,,,,team9,PullRequestEvent
+user1,2017-04-08T03:37:20Z,5651326365,,,,,,,team10,PushEvent
+user2,2017-04-08T03:36:04Z,5651324361,,,,,,,team10,PushEvent
+user2,2017-04-08T03:35:14Z,5651322625,,,,,,,team10,PushEvent
+user2,2017-04-05T14:54:20Z,5631612012,,,,,,,team10,PushEvent
+user2,2017-04-05T09:32:58Z,5629465272,,,,,,,team10,PushEvent
+user2,2017-04-05T09:32:40Z,5629463318,,,,,,,team10,PushEvent
+user2,2017-04-05T09:32:10Z,5629460037,,,,,,,team10,PushEvent
+user2,2017-04-05T08:35:20Z,5629095880,,,,,,,team10,PushEvent
+user2,2017-04-05T08:34:56Z,5629093096,,,,,,,team10,PushEvent
+user2,2017-04-04T04:55:46Z,5620029657,,,,,,,team10,PushEvent
+user2,2017-04-04T04:54:59Z,5620027502,,,,,,,team10,PushEvent
+user2,2017-04-04T04:53:14Z,5620022259,,,,,,,team10,PushEvent
+user2,2017-04-04T02:22:08Z,5619587448,,,,,,,team10,PushEvent
+user2,2017-04-04T02:21:42Z,5619586066,,,,,,,team10,PushEvent
+user2,2017-04-04T00:47:46Z,5619269051,,,,,,,team10,PushEvent
+user1,2017-04-03T14:29:01Z,5615354743,,,,,,,team10,PushEvent
+user1,2017-04-03T13:04:29Z,5614722499,,,,,,,team10,PushEvent
+user1,2017-04-03T12:36:38Z,5614547162,,,,,,,team10,PushEvent
+user1,2017-04-03T12:35:13Z,5614538313,,,,,,,team10,PushEvent
+user1,2017-04-03T00:00:17Z,5611722692,,,,,,,team10,PushEvent
+user3,2017-03-30T18:12:56Z,5597492093,,,,,,,team10,PushEvent
+user1,2017-03-28T00:27:32Z,5575090156,,,,,,,team10,PushEvent
+user1,2017-03-19T01:56:53Z,5520197943,,,,,,,team10,PushEvent
+user1,2017-03-19T01:55:05Z,5520195736,,,,,,,team10,PushEvent
+user2,2017-03-13T20:18:45Z,5485209062,,,,,,,team10,CommitCommentEvent
+user2,2017-03-09T00:55:23Z,5459512630,,,,,,,team10,PushEvent
+user2,2017-03-09T00:53:54Z,5459506413,,,,,,,team10,DeleteEvent
+user2,2017-03-09T00:36:43Z,5459433809,,,,,,,team10,CreateEvent
+timm,2017-03-01T15:17:09Z,5412758688,211111319.0,22.0,interesting work patterns,,,,team10,IssuesEvent
+user1,2017-03-01T03:52:53Z,5409393403,,,,,,,team10,PushEvent
+user1,2017-03-01T03:48:10Z,5409378148,,,,,,,team10,PushEvent
+user1,2017-03-01T03:44:47Z,5409366877,,,,,,,team10,PushEvent
+user3,2017-03-01T03:22:41Z,5409291501,,,,,,,team10,PushEvent
+user3,2017-02-28T05:35:27Z,5402370410,,,,,,,team10,PushEvent
+user2,2017-02-28T03:45:43Z,5402031565,,,,,,,team10,PushEvent
+user2,2017-02-27T04:40:35Z,5394661868,205736200.0,13.0,Finalize Prototype for Demonstration (Due 24th),2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-27T04:40:32Z,5394661768,205736200.0,13.0,Finalize Prototype for Demonstration (Due 24th),2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user4,2017-02-27T03:46:55Z,5394526985,209280887.0,20.0,Python nltk code issues,,,,team10,IssuesEvent
+user4,2017-02-27T03:46:55Z,5394526982,209280887.0,20.0,Python nltk code issues,,,,team10,IssueCommentEvent
+user4,2017-02-27T03:46:23Z,5394525516,,,,,,,team10,PushEvent
+user4,2017-02-27T03:45:21Z,5394522723,,,,,,,team10,PushEvent
+user4,2017-02-27T03:43:06Z,5394516428,209280887.0,20.0,Python nltk code issues,,,,team10,IssueCommentEvent
+user4,2017-02-27T03:40:17Z,5394508711,209280887.0,20.0,Python nltk code issues,,,,team10,IssueCommentEvent
+user4,2017-02-27T03:39:02Z,5394505432,,,,,,,team10,PushEvent
+user3,2017-02-27T02:55:09Z,5394381599,,,,,,,team10,PushEvent
+user1,2017-02-26T23:54:39Z,5393950466,,,,,,,team10,PushEvent
+user4,2017-02-26T17:10:13Z,5393107505,,,,,,,team10,PushEvent
+user3,2017-02-25T18:34:50Z,5390933645,,,,,,,team10,PushEvent
+user2,2017-02-25T17:44:17Z,5390836125,,,,,,,team10,PushEvent
+user2,2017-02-25T17:43:48Z,5390835280,,,,,,,team10,PushEvent
+user4,2017-02-25T17:42:36Z,5390833122,,,,,,,team10,ForkEvent
+user4,2017-02-25T17:39:34Z,5390827990,,,,,,,team10,PushEvent
+user2,2017-02-25T17:37:43Z,5390824847,,,,,,,team10,PushEvent
+user1,2017-02-25T16:50:10Z,5390735089,,,,,,,team10,PushEvent
+user4,2017-02-25T16:39:00Z,5390713970,,,,,,,team10,PushEvent
+user4,2017-02-23T21:21:17Z,5381121133,,,,,,,team10,PushEvent
+user4,2017-02-23T16:20:48Z,5379059711,,,,,,,team10,PushEvent
+user4,2017-02-23T05:06:08Z,5375490797,,,,,,,team10,PushEvent
+user4,2017-02-23T05:05:28Z,5375488792,,,,,,,team10,PushEvent
+user4,2017-02-23T05:04:01Z,5375484395,,,,,,,team10,PushEvent
+user4,2017-02-23T05:03:37Z,5375483298,,,,,,,team10,PushEvent
+user4,2017-02-23T05:03:17Z,5375482258,,,,,,,team10,PushEvent
+user4,2017-02-22T20:31:55Z,5373043705,209280887.0,20.0,Python nltk code issues,,,,team10,IssueCommentEvent
+user4,2017-02-21T23:28:08Z,5366274278,,,,,,,team10,PushEvent
+user2,2017-02-21T21:46:12Z,5365660202,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user4,2017-02-21T21:43:38Z,5365643818,,,,,,,team10,PushEvent
+user2,2017-02-21T21:43:34Z,5365643395,209281846.0,21.0,Database issues.,,,,team10,IssuesEvent
+user4,2017-02-21T21:41:01Z,5365627112,209280887.0,20.0,Python nltk code issues,,,,team10,IssueCommentEvent
+user4,2017-02-21T21:39:37Z,5365618306,209280887.0,20.0,Python nltk code issues,,,,team10,IssuesEvent
+user2,2017-02-21T21:32:02Z,5365568595,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user4,2017-02-21T21:30:22Z,5365557746,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user4,2017-02-21T21:23:28Z,5365512184,,,,,,,team10,PushEvent
+user3,2017-02-20T16:54:30Z,5356933604,205731502.0,11.0,Have data from Amazon Pre-Processed (Due 20th),2304228.0,4.0,February Milestone,team10,IssuesEvent
+user3,2017-02-20T16:54:27Z,5356933248,205731502.0,11.0,Have data from Amazon Pre-Processed (Due 20th),2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user3,2017-02-20T16:50:08Z,5356904929,206937766.0,16.0,Investigate the google chrome extension possibility,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user3,2017-02-20T16:49:39Z,5356902123,206937766.0,16.0,Investigate the google chrome extension possibility,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user3,2017-02-20T16:47:02Z,5356884117,206938094.0,18.0,Analyze Sentiment Web,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user3,2017-02-20T16:46:54Z,5356883289,206938094.0,18.0,Analyze Sentiment Web,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-19T18:38:33Z,5351966257,,,,,,,team10,PushEvent
+user2,2017-02-19T18:09:24Z,5351909856,206937988.0,17.0,Make a simple Web page using Flask in python,,,,team10,IssueCommentEvent
+user4,2017-02-19T17:36:27Z,5351845257,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-19T17:19:12Z,5351812573,,,,,,,team10,PushEvent
+user1,2017-02-19T16:31:29Z,5351720562,,,,,,,team10,PushEvent
+user2,2017-02-19T06:19:34Z,5350770986,205734319.0,12.0,"Brainstorm Session: Finalize 3 Implementations, assign who will investigate what, decide on programming language (Due 10th)",2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-19T06:19:10Z,5350770513,205738270.0,15.0,Brainstorming on the steps we want to take toward Feb. milestone (Due 6th),2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-19T06:18:20Z,5350769504,205737928.0,14.0,Explore Different Sentiment Analysis Approach (Due 15th),2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-19T06:17:47Z,5350768802,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-19T06:17:27Z,5350768378,206937988.0,17.0,Make a simple Web page using Flask in python,,,,team10,IssuesEvent
+user2,2017-02-13T21:13:19Z,5316940593,206937988.0,17.0,Make a simple Web page using Flask in python,,,,team10,IssueCommentEvent
+user3,2017-02-11T00:10:25Z,5306262486,206938221.0,19.0,Writing a program using Python and NLTK,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-11T00:09:18Z,5306258575,206938094.0,18.0,Analyze Sentiment Web,,,,team10,IssuesEvent
+user2,2017-02-11T00:08:25Z,5306255613,206937988.0,17.0,Make a simple Web page using Flask in python,,,,team10,IssuesEvent
+user2,2017-02-11T00:06:41Z,5306249267,206937766.0,16.0,Investigate the google chrome extension possibility,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user2,2017-02-11T00:00:44Z,5306227786,,,,,,,team10,PushEvent
+user2,2017-02-10T23:54:35Z,5306205427,205734319.0,12.0,"Brainstorm Session: Finalize 3 Implementations, assign who will investigate what, decide on programming language (Due 10th)",2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-10T23:53:32Z,5306201762,,,,,,,team10,PushEvent
+user4,2017-02-07T22:30:19Z,5283866866,205737928.0,14.0,Explore Different Sentiment Analysis Approach (Due 15th),2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-07T22:10:36Z,5283744790,205737928.0,14.0,Explore Different Sentiment Analysis Approach (Due 15th),2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user2,2017-02-06T23:45:53Z,5276561962,205738270.0,15.0,Brainstorming on the steps we want to take toward Feb. milestone (Due 6th),2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user3,2017-02-06T23:22:20Z,5276449944,205738270.0,15.0,Brainstorming on the steps we want to take toward milestone,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user1,2017-02-06T23:20:22Z,5276440296,205737928.0,14.0,Explore Different Sentiment Analysis Packages,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user1,2017-02-06T23:10:57Z,5276392521,205736200.0,13.0,Finalize Prototype for Demonstration ,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user1,2017-02-06T23:01:25Z,5276342294,205734319.0,12.0,"Brainstorm Session: Finalize 3 Implementations, assign who will investigate what ",2304228.0,4.0,February Milestone,team10,IssuesEvent
+user1,2017-02-06T22:48:42Z,5276272005,205731502.0,11.0,Pre-Process Data,2304228.0,4.0,February Milestone,team10,IssueCommentEvent
+user1,2017-02-06T22:48:15Z,5276269586,205731502.0,11.0,Pre-Process Data,2304228.0,4.0,February Milestone,team10,IssuesEvent
+user1,2017-02-06T22:47:54Z,5276267522,205731302.0,10.0,Pre-process Data,,,,team10,IssuesEvent
+user1,2017-02-06T22:47:19Z,5276264195,205731302.0,10.0,Pre-process Data,,,,team10,IssuesEvent
+user2,2017-02-01T04:45:10Z,5245495982,203469685.0,6.0,Final report submission on Jan 31.,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-02-01T04:35:55Z,5245473559,,,,,,,team10,PushEvent
+user2,2017-01-30T21:59:35Z,5236886797,203681896.0,9.0,Writing the report,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-01-30T21:59:35Z,5236886789,203680795.0,8.0,Include statistics in the report,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-01-30T21:59:35Z,5236886783,203676752.0,7.0,Action required (Paper summarization),2282605.0,2.0,Paper summarization  ,team10,IssuesEvent
+user2,2017-01-30T21:59:35Z,5236886766,203469259.0,5.0,Rough Draft of the report by Jan 29. Meeting on Jan 29. Please comment the timings when you are available.,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-01-30T21:59:35Z,5236886754,203468691.0,4.0,Paper summary by 28 Jan,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user1,2017-01-29T21:19:08Z,5230874027,,,,,,,team10,PushEvent
+user2,2017-01-29T17:23:05Z,5230450316,203469259.0,5.0,Rough Draft of the report by Jan 29. Meeting on Jan 29. Please comment the timings when you are available.,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user1,2017-01-28T06:08:38Z,5227737493,,,,,,,team10,PushEvent
+user2,2017-01-27T17:05:17Z,5225044496,203681896.0,9.0,Writing the report,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user2,2017-01-27T17:04:55Z,5225042625,203469259.0,5.0,Rough Draft of the report by Jan 29. Meeting on Jan 29. Please comment the timings when you are available.,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user3,2017-01-27T17:04:37Z,5225041204,203680795.0,8.0,Include statistics in the report,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user2,2017-01-27T17:03:39Z,5225036635,203468196.0,3.0,List of papers for literature survey by Jan 26th,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-01-27T17:03:08Z,5225033973,203468196.0,3.0,List of papers for literature survey by Jan 26th,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user2,2017-01-27T17:01:17Z,5225025573,203676752.0,7.0,Action required (Paper summarization),2282605.0,2.0,Paper summarization  ,team10,IssueCommentEvent
+user2,2017-01-27T16:57:37Z,5225004579,203680795.0,8.0,Include statistics in the report,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user4,2017-01-27T16:49:26Z,5224954078,203676752.0,7.0,Action required (Paper summarization),2282605.0,2.0,Paper summarization  ,team10,IssueCommentEvent
+user4,2017-01-27T16:48:00Z,5224945024,203681896.0,9.0,Writing the report,,,,team10,IssueCommentEvent
+user4,2017-01-27T16:47:12Z,5224940130,203468196.0,3.0,List of papers for literature survey by Jan 26th,2280839.0,1.0,January Milestone,team10,IssueCommentEvent
+user3,2017-01-27T16:44:23Z,5224922356,203468691.0,4.0,Paper summary by 28 Jan,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user3,2017-01-27T16:38:33Z,5224885259,203681896.0,9.0,Writing the report,,,,team10,IssuesEvent
+user3,2017-01-27T16:34:09Z,5224857104,203680795.0,8.0,Include statistics in the report,2282665.0,3.0,Statistics extraction from the survey ,team10,IssuesEvent
+user3,2017-01-27T16:22:05Z,5224779379,203468691.0,4.0,Paper summary by 28 Jan,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user3,2017-01-27T16:19:10Z,5224760748,203676752.0,7.0,Action needed,2282605.0,2.0,Paper summarization  ,team10,IssuesEvent
+user2,2017-01-26T19:45:27Z,5219684155,203469685.0,6.0,Final report submission on Jan 31.,,,,team10,IssuesEvent
+user2,2017-01-26T19:43:43Z,5219673505,203469259.0,5.0,Rough Draft of the report by Jan 29. Meeting on Jan 29. Please comment the timings when you are available.,,,,team10,IssuesEvent
+user2,2017-01-26T19:41:36Z,5219661064,203468691.0,4.0,Paper summary by 28 Jan,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user2,2017-01-26T19:39:35Z,5219648348,203468196.0,3.0,Update the list of papers for literature survey,2280839.0,1.0,January Milestone,team10,IssuesEvent
+user3,2017-01-26T00:10:14Z,5214540051,,,,,,,team10,PushEvent
+user3,2017-01-26T00:07:00Z,5214527227,,,,,,,team10,PushEvent
+user3,2017-01-25T23:59:06Z,5214493954,,,,,,,team10,PushEvent
+user4,2017-01-25T23:44:12Z,5214431843,,,,,,,team10,PushEvent
+user4,2017-01-25T23:43:11Z,5214427716,,,,,,,team10,PushEvent
+user4,2017-01-25T23:41:56Z,5214422185,,,,,,,team10,PushEvent
+user4,2017-01-25T23:40:01Z,5214413720,,,,,,,team10,PushEvent
+user3,2017-01-25T23:36:33Z,5214398389,,,,,,,team10,PushEvent
+user2,2017-01-24T18:07:02Z,5205504108,,,,,,,team10,PushEvent
+user3,2017-01-22T17:10:35Z,5193220154,,,,,,,team10,PushEvent
+user3,2017-01-22T17:04:15Z,5193209252,,,,,,,team10,PushEvent
+user3,2017-01-22T17:01:02Z,5193203867,,,,,,,team10,PushEvent
+user2,2017-01-22T16:56:45Z,5193196338,,,,,,,team10,PushEvent
+user2,2017-01-22T16:55:33Z,5193194316,,,,,,,team10,PushEvent
+user3,2017-01-22T16:45:24Z,5193174372,,,,,,,team10,PushEvent
+user3,2017-01-22T16:38:39Z,5193162375,,,,,,,team10,PushEvent
+user4,2017-01-22T16:35:47Z,5193157278,,,,,,,team10,PushEvent
+user2,2017-01-22T16:14:55Z,5193120529,202332622.0,2.0,22 Jan Meeting- Room 3313 hunt Library,,,,team10,IssuesEvent
+user2,2017-01-22T02:58:21Z,5192012230,,,,,,,team10,PushEvent
+user2,2017-01-21T18:46:01Z,5191285810,202332622.0,2.0,22 Jan Meeting- Room 3313 hunt Library,,,,team10,IssuesEvent
+user2,2017-01-21T17:55:26Z,5191202886,,,,,,,team10,PushEvent
+user3,2017-01-21T17:52:42Z,5191198390,,,,,,,team10,PushEvent
+user1,2017-01-21T17:51:24Z,5191196202,,,,,,,team10,PushEvent
+user1,2017-01-21T17:47:46Z,5191190138,,,,,,,team10,PushEvent
+user2,2017-01-21T17:47:12Z,5191189211,,,,,,,team10,PushEvent
+user4,2017-01-21T17:45:55Z,5191187031,,,,,,,team10,PushEvent
+user2,2017-01-21T17:45:17Z,5191186060,,,,,,,team10,PushEvent
+user2,2017-01-21T17:44:47Z,5191185189,202026792.0,1.0,Meeting agenda for 21 Jan room- 3316 Hunt Library,,,,team10,IssuesEvent
+user3,2017-01-21T17:44:23Z,5191184591,,,,,,,team10,PushEvent
+user4,2017-01-21T17:43:01Z,5191182230,,,,,,,team10,PushEvent
+user3,2017-01-21T17:42:37Z,5191181526,,,,,,,team10,PushEvent
+user2,2017-01-21T17:40:18Z,5191177746,,,,,,,team10,PushEvent
+user3,2017-01-21T17:17:11Z,5191139021,,,,,,,team10,PushEvent
+user2,2017-01-21T17:09:04Z,5191125743,,,,,,,team10,PushEvent
+user2,2017-01-21T16:30:24Z,5191061037,,,,,,,team10,PushEvent
+user1,2017-01-21T16:09:31Z,5191027017,,,,,,,team10,PushEvent

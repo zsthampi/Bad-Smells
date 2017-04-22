@@ -1,0 +1,1328 @@
+created_at,created_by,message,team
+2017-04-07T23:45:25Z,user1,Final report march,team1
+2017-04-06T04:38:08Z,user2,final classes voice tested,team1
+2017-03-09T01:43:55Z,user1,code clean up and Kairos consts separation,team1
+2017-03-08T06:56:34Z,user2,"databse connection
+
+save all fields in database..working on voice",team1
+2017-03-08T05:06:52Z,user1,parseJSON method and existing face check,team1
+2017-03-08T03:36:17Z,user1,buildResponse method added,team1
+2017-03-07T02:52:01Z,,Attendance_Viewing,team1
+2017-03-03T19:33:26Z,user2,"Update db pi voice
+
+reading sound file.....confusion...",team1
+2017-03-02T04:56:37Z,user2,"pi voice
+
+changes",team1
+2017-03-02T02:57:34Z,user2,"db test 
+
+added H2 database....trying multiple tools,...",team1
+2017-03-02T00:17:57Z,user2,"databse pi voice
+
+Java example that will be used for database connectivity...work in
+progress will be further enhanced.",team1
+2017-03-01T16:20:08Z,user2,"Applet including voice retrieval
+
+in connection to my last codes for the GUI",team1
+2017-03-01T01:14:44Z,user3,Add files via upload,team1
+2017-03-01T00:22:29Z,user1,Feb report,team1
+2017-02-28T23:38:57Z,user2,"Alokozai Voice Report
+
+Req Documents for Pi Voice-Alokozai",team1
+2017-02-28T22:55:09Z,user1,Facial recognition progress report,team1
+2017-02-28T22:14:08Z,user3,Add files via upload,team1
+2017-02-28T22:11:48Z,user3,Add files via upload,team1
+2017-02-28T11:13:43Z,user3,Add files via upload,team1
+2017-02-28T02:24:07Z,user3,Add files via upload,team1
+2017-02-28T01:29:21Z,user3,Add files via upload,team1
+2017-02-23T19:58:57Z,user2,New Folder,team1
+2017-02-23T20:05:41Z,user2,Delete Alokozai-SE-PIVOICE,team1
+2017-02-23T20:05:18Z,user2,"Alokozai 
+
+GUI",team1
+2017-02-23T09:42:46Z,user3,Create Lang Info,team1
+2017-02-23T09:37:14Z,user3,Add files via upload,team1
+2017-02-23T09:36:07Z,user3,"Create Other information
+
+Language, IDE decision processes",team1
+2017-02-23T09:26:52Z,user3,Update Requirements,team1
+2017-02-23T09:22:46Z,user3,Update Requirements,team1
+2017-02-23T09:07:22Z,user3,Update Requirements,team1
+2017-02-23T08:58:08Z,user3,"Create Requirements
+
+This is to describe the requirements for the ""engagement/quiz"" implementation.",team1
+2017-02-21T21:10:24Z,user1,App refinement,team1
+2017-02-19T01:30:10Z,user1,Base64 and REST api,team1
+2017-02-18T19:53:36Z,,photo capturing,team1
+2017-02-15T19:39:28Z,user1,Screenshot of response of the above tests,team1
+2017-02-15T19:38:37Z,user1,Enroll  and verify of image,team1
+2017-02-01T02:13:18Z,user3,Add files via upload,team1
+2017-02-01T02:09:34Z,user3,Add files via upload,team1
+2017-01-31T02:47:45Z,user3,Add files via upload,team1
+2017-01-31T02:46:54Z,user1,Update abstract.MD,team1
+2017-01-31T02:46:04Z,user1,abstract,team1
+2017-01-31T02:45:36Z,user3,Add files via upload,team1
+2017-01-30T23:09:09Z,user3,Create User testing Comments,team1
+2017-01-23T21:32:07Z,user3,Create Proffesor Survey.MD,team1
+2017-01-23T02:03:05Z,user3,Add files via upload,team1
+2017-01-23T02:00:39Z,user3,Update Attendance Management-More lit Review.MD,team1
+2017-01-23T01:57:47Z,user3,Update Attendance Management-More lit Review.MD,team1
+2017-01-23T01:54:32Z,user3,Update Attendance Management-More lit Review.MD,team1
+2017-01-23T01:50:39Z,user3,Update Attendance Management-More lit Review.MD,team1
+2017-01-23T01:42:42Z,user3,"Create Attendance Management-More lit Review.MD
+
+This has three new paper reviews",team1
+2017-01-22T18:29:00Z,user1,attendance mgmt system literature review,team1
+2017-01-22T04:16:46Z,user2,"Add files via upload
+
+Just a file for our record.",team1
+2017-01-22T04:14:30Z,user2,Update G4C.MD,team1
+2017-01-22T04:13:13Z,user2,"Update G4C.MD
+
+Literature review: Qaiss",team1
+2017-01-19T20:18:01Z,user1,Update visitor-management.MD,team1
+2017-01-19T20:16:30Z,user1,visitor management papers/implementations,team1
+2017-01-19T02:14:09Z,user1,G4C idea,team1
+2017-01-18T20:43:11Z,user2,"Add files via upload
+
+Ideas for project",team1
+2017-01-12T18:54:11Z,user1,Correcting members names,team1
+2017-01-12T18:51:57Z,user1,Adding team member names,team1
+2017-01-12T18:47:32Z,user1,Initial commit,team1
+2017-03-26T18:06:31Z,user1,"Merge pull request #88 from SE17GroupH/sid
+
+Features and bug fixes",team2
+2017-03-26T17:55:38Z,user1,Remove confirmation mail link code,team2
+2017-03-26T17:50:34Z,user1,Remove code for confirmation mail opening in app,team2
+2017-03-26T17:47:00Z,user1,rebuild the project,team2
+2017-03-26T17:45:11Z,user1,rebuild the project,team2
+2017-03-13T04:57:48Z,user1,"Merge pull request #86 from SE17GroupH/sid
+
+Bug fixes and more Features",team2
+2017-03-11T22:05:41Z,user1,add clear instructions,team2
+2017-03-11T21:54:37Z,user1,add changelog,team2
+2017-03-09T04:13:21Z,user1,Fix lot of bugs. Implement features.,team2
+2017-03-08T19:16:59Z,user1,Update README.md,team2
+2017-03-08T08:28:44Z,user1,update readme. remove old keystore,team2
+2017-03-08T08:21:54Z,user1,change to optimize,team2
+2017-03-08T07:37:56Z,user1,Update README.md,team2
+2017-03-08T07:37:21Z,user1,Update README.md,team2
+2017-03-08T07:00:07Z,user1,Update .travis.yml,team2
+2017-03-08T06:55:04Z,user1,Fix travis to only deploy via master on tag,team2
+2017-03-08T06:37:07Z,user1,Merge branch 'sid',team2
+2017-03-08T06:36:53Z,user1,fix signing apk release to deploy,team2
+2017-03-08T04:52:21Z,user1,Merge branch 'master' of https://github.com/SE17GroupH/Zap,team2
+2017-03-08T04:52:10Z,user1,travis deploys signed apk fix,team2
+2017-03-08T04:27:22Z,user1,"Merge pull request #81 from SE17GroupH/sid
+
+Sid",team2
+2017-03-08T04:21:54Z,user1,Merge branch 'master' into sid,team2
+2017-03-08T04:20:35Z,user1,travis deploys signed apk,team2
+2017-03-08T04:03:57Z,user1,"Merge pull request #80 from SE17GroupH/sid
+
+Sid",team2
+2017-03-08T03:53:53Z,user1,travis deploys signed apk,team2
+2017-03-08T03:41:34Z,user1,add keystore for releases signed with travis,team2
+2017-03-08T02:46:35Z,user1,"Merge pull request #78 from SE17GroupH/sid
+
+Onwards to version 2",team2
+2017-03-08T02:42:39Z,user1,restrict release deployment to master branch,team2
+2017-03-08T02:22:35Z,user1,fix apk path in travis,team2
+2017-03-08T02:12:47Z,user1,fix apk path in travis,team2
+2017-03-08T02:02:15Z,user1,fix apk path in travis,team2
+2017-03-08T01:31:47Z,user1,Merge branch 'master' into sid,team2
+2017-03-08T01:18:08Z,user1,More tests. Add apk deploy from travis,team2
+2017-03-07T22:57:20Z,user2,added screenshots and minor formatting,team2
+2017-03-07T22:49:12Z,user2,"Merge pull request #77 from SE17GroupH/kg
+
+low res screenshots",team2
+2017-03-07T22:48:10Z,user2,low res screenshots,team2
+2017-03-07T22:42:09Z,user2,"Merge pull request #76 from SE17GroupH/kg
+
+added screenshots",team2
+2017-03-07T22:41:42Z,user2,added screenshots,team2
+2017-03-07T22:31:17Z,user2,"Merge pull request #75 from SE17GroupH/kg
+
+fix incorrect voice-phrase crash",team2
+2017-03-07T22:22:44Z,user2,fix incorrect voice-phrase crash,team2
+2017-03-07T22:16:36Z,user1,fix conflicts,team2
+2017-03-07T22:15:54Z,user2,"Merge pull request #74 from SE17GroupH/kg
+
+Kg",team2
+2017-03-07T22:09:25Z,user1,Design and write more tests,team2
+2017-03-07T22:01:55Z,user2,UI improvements,team2
+2017-03-07T21:05:45Z,user2,improving UI,team2
+2017-03-07T20:07:23Z,user2,"Merge pull request #73 from SE17GroupH/kg
+
+Kg",team2
+2017-03-07T19:58:08Z,user2,another test added,team2
+2017-03-07T19:53:03Z,user2,basic end-to-end test added,team2
+2017-03-07T19:03:24Z,user2,"Merge pull request #72 from SE17GroupH/kg
+
+Kg",team2
+2017-03-07T18:55:08Z,user2,minor changes,team2
+2017-03-07T18:50:51Z,user2,refactorings,team2
+2017-03-07T18:45:56Z,user2,added email and password check tests,team2
+2017-03-07T18:18:41Z,user2,remove apikey toast,team2
+2017-03-06T16:27:11Z,user1,move to another repo,team2
+2017-03-05T20:23:11Z,user1,"Merge pull request #70 from SE17GroupH/sid
+
+Store and use API keys from travis",team2
+2017-03-05T20:13:33Z,user1,Merge branch 'master' into sid,team2
+2017-03-05T20:13:01Z,user1,modify travis config,team2
+2017-03-05T19:26:25Z,user1,modify to use environment variable,team2
+2017-03-05T18:54:01Z,user1,modify config,team2
+2017-03-05T18:33:27Z,user1,modify config,team2
+2017-03-05T18:20:50Z,user1,modify config,team2
+2017-03-05T18:05:17Z,user1,modify config,team2
+2017-03-05T17:55:38Z,user1,modify config,team2
+2017-03-05T17:47:57Z,user1,use subkey.java for keys,team2
+2017-03-05T16:46:37Z,user1,"Merge pull request #68 from SE17GroupH/sid
+
+Fix travis build config",team2
+2017-03-05T16:37:40Z,user1,fix licenses,team2
+2017-03-05T16:31:41Z,user1,add licenses,team2
+2017-03-05T16:21:36Z,user1,remove emulator,team2
+2017-03-05T15:35:05Z,user1,fix emulator,team2
+2017-03-05T15:20:28Z,user1,fix emulator,team2
+2017-03-05T15:09:00Z,user1,fix start emulator,team2
+2017-03-05T15:01:13Z,user1,add commands to start emulator,team2
+2017-03-05T09:15:18Z,user1,remove lint error abort,team2
+2017-03-05T09:06:06Z,user1,Fix bug wrong resource id,team2
+2017-03-05T08:54:36Z,user1,update to work with api keys as env variables,team2
+2017-03-05T07:06:58Z,user1,update travis config,team2
+2017-03-05T07:04:27Z,user1,update travis config,team2
+2017-03-05T06:48:48Z,user1,update travis config,team2
+2017-03-05T06:37:22Z,user1,"Merge pull request #67 from SE17GroupH/sid
+
+fix travis config",team2
+2017-03-05T06:31:47Z,user1,Update README.md,team2
+2017-03-05T06:25:15Z,user1,update sudo to true,team2
+2017-03-05T06:21:12Z,user1,update sudo requirement,team2
+2017-03-05T06:12:34Z,user1,update java version,team2
+2017-03-05T06:08:51Z,user1,"Merge pull request #66 from SE17GroupH/sid
+
+Fix bugs, optimize and add config",team2
+2017-03-05T06:06:02Z,user1,add config file,team2
+2017-03-05T06:05:39Z,user1,add travis config,team2
+2017-03-05T06:05:20Z,user1,Add travis config and license,team2
+2017-03-04T19:22:16Z,user1,Merge branch 'master' into sid,team2
+2017-03-04T19:20:59Z,user1,update gradle and android studio,team2
+2017-03-01T02:31:43Z,user1,Add February report,team2
+2017-02-26T20:04:34Z,user1,Update README.md,team2
+2017-02-26T20:03:30Z,user1,Update README.md,team2
+2017-02-26T20:00:51Z,user1,Update README.md,team2
+2017-02-26T19:31:26Z,user1,Update README with more info,team2
+2017-02-25T23:29:54Z,user1,Some fixes,team2
+2017-02-23T19:54:02Z,user1,Resolve conflict,team2
+2017-02-23T19:52:00Z,user1,change voice enroll to async task,team2
+2017-02-23T19:51:03Z,user2,"Merge pull request #58 from SE17GroupH/kg
+
+seperated register API call from main thread",team2
+2017-02-23T19:50:41Z,user2,seperated register API call from main thread,team2
+2017-02-23T19:38:22Z,user2,"Merge pull request #57 from SE17GroupH/kg
+
+seperated magic-link email call from main thread",team2
+2017-02-23T19:37:51Z,user2,seperated magic-link email call from main thread,team2
+2017-02-23T19:12:51Z,user2,"Merge pull request #56 from SE17GroupH/kg
+
+default login in background thread",team2
+2017-02-23T19:12:06Z,user2,default login in background thread,team2
+2017-02-23T18:52:17Z,user2,"Merge pull request #55 from SE17GroupH/kg
+
+minor changes",team2
+2017-02-23T18:52:02Z,user2,minor changes,team2
+2017-02-23T18:33:12Z,user1,Merge branch 'master' into sid,team2
+2017-02-21T21:53:18Z,user2,"Merge pull request #54 from SE17GroupH/kg
+
+put magic-link login API call on background thread",team2
+2017-02-21T21:52:36Z,user2,put magic-link login API call on background thread,team2
+2017-02-21T04:18:23Z,user1,Merge branch 'master' into sid,team2
+2017-02-21T03:14:52Z,user2,"Merge pull request #53 from SE17GroupH/kg
+
+minor changes",team2
+2017-02-21T03:14:18Z,user2,minor changes,team2
+2017-02-21T02:50:16Z,user1,Merge branch 'master' into sid,team2
+2017-02-21T02:42:41Z,user2,"Merge pull request #52 from SE17GroupH/kg
+
+Kg",team2
+2017-02-21T02:40:55Z,user2,linked api call to login from magic link,team2
+2017-02-21T02:25:57Z,user2,parse auth token from magic-url,team2
+2017-02-21T02:08:11Z,user2,"Merge pull request #51 from SE17GroupH/kg
+
+Kg",team2
+2017-02-21T02:05:06Z,user2,link magic link to a new activity,team2
+2017-02-21T01:50:13Z,user2,UI mod for homepage,team2
+2017-02-20T21:47:37Z,user2,permission deny crash fixed,team2
+2017-02-20T17:31:25Z,user1,"Fix magic link bug, was using wrong url",team2
+2017-02-20T07:28:46Z,user1,Implement magic api call. Remove logout call.,team2
+2017-02-18T22:50:52Z,user1,Fix email confirmation error bug,team2
+2017-02-18T22:41:40Z,user1,Fix Error of email not confirmed appearing null.,team2
+2017-02-18T21:59:09Z,user1,"Merge pull request #49 from SE17GroupH/sid
+
+Sid",team2
+2017-02-18T21:55:46Z,user1,Add Voice instructions and Improve UI layout.,team2
+2017-02-18T21:34:24Z,user1,Improve voice login functionality. Bug fixes.,team2
+2017-02-18T18:34:15Z,user1,Big changes. Implement Speaker recognition api calls and functionality. Fix many things.,team2
+2017-02-18T00:24:30Z,user1,"Merge pull request #43 from SE17GroupH/sid
+
+Sid",team2
+2017-02-18T00:20:11Z,user1,Merge branch 'master' into sid,team2
+2017-02-18T00:15:18Z,user1,Refactor code. Add some UI views,team2
+2017-02-18T00:14:51Z,user2,"Merge pull request #42 from SE17GroupH/kg
+
+added voice recording for enrollment and verification",team2
+2017-02-17T23:45:59Z,user2,added voice recording for enrollment and verification,team2
+2017-02-17T23:29:45Z,user1,Move secret keys to SubKey.java and add to gitignore. Resolve merge conflicts,team2
+2017-02-17T23:09:00Z,user2,"Merge pull request #41 from SE17GroupH/kg
+
+added voice recording",team2
+2017-02-17T23:08:56Z,user1,ignore SubKey.java that contains api keys to Microsoft Congitive Speaker Recognition service,team2
+2017-02-17T23:08:21Z,user2,added voice recording,team2
+2017-02-17T23:03:08Z,user1,change gitignore,team2
+2017-02-17T22:40:02Z,user1,merge master branch. resolve small conflict,team2
+2017-02-17T22:31:06Z,user1,Commit gitignore,team2
+2017-02-17T22:30:45Z,user1,Small changes,team2
+2017-02-17T22:18:26Z,user1,add small api call,team2
+2017-02-17T21:46:13Z,user2,"Merge pull request #40 from SE17GroupH/kg
+
+Kg",team2
+2017-02-17T21:41:14Z,user2,solve merge conflict,team2
+2017-02-17T20:11:50Z,user2,minor changes,team2
+2017-02-17T05:02:00Z,user1,"Merge pull request #39 from SE17GroupH/sid
+
+Improve a bunch of things",team2
+2017-02-17T04:57:35Z,user1,"Implement logout api call. Save email, password at login. Improve validation at registration.",team2
+2017-02-16T23:09:42Z,user1,"Merge pull request #32 from SE17GroupH/sid
+
+Add Registration and Logging plus Fingerprint auth enhancements.",team2
+2017-02-16T23:07:08Z,user1,"Add validation for email and password. Remove auth mode choosing at register page. Remove logging in from registration page, now redirect to login page.",team2
+2017-02-16T19:46:22Z,user1,"After fingerprint auth Redirect to Profile activity. Refactor code, delete unecessary files. Add some resource files",team2
+2017-02-16T18:06:26Z,user1,Parse JSON response and display error messages.,team2
+2017-02-16T01:01:10Z,user2,added URL linking skeleton,team2
+2017-02-15T08:13:52Z,user1,Switch to okHttp library. Working Json response. Create helper class.Clean up code.,team2
+2017-02-15T05:47:13Z,user1,"Add Register functionality to server with error checking. Add Toast notifications, support library for parsing, clean up code.",team2
+2017-02-14T22:33:38Z,user1,Add login by entering username and password and indicate if login success or fail,team2
+2017-02-14T18:25:24Z,user1,"Merge pull request #25 from SE17GroupH/sid
+
+Add local Fingerprint authentication in Android app",team2
+2017-02-14T18:05:17Z,user1,"Add local Fingerprint auth functionality
+
+Add authentication code to FingerprintAuthActivity, with layout, drawables, and a helper class. Force Close on phones which don't have fingerprint hardware.",team2
+2017-02-09T22:21:47Z,user1,Add build dependency for FingerprintAuthHelper. Add fingerpring code to Activity.,team2
+2017-02-09T20:39:31Z,user3,"Merge pull request #22 from SE17GroupH/devarenacn
+
+Move server project to seperate repo",team2
+2017-02-09T20:38:49Z,user3,Move server project to seperate repo,team2
+2017-02-09T17:38:48Z,user3,"Merge pull request #20 from SE17GroupH/devarenacn
+
+Basic registration with Devise using RoR",team2
+2017-02-09T17:16:11Z,user3,Basic registration with Devise using RoR,team2
+2017-02-09T17:00:41Z,user3,"Merge pull request #19 from SE17GroupH/kg
+
+Merged!",team2
+2017-02-09T16:12:45Z,user2,created basic app flow,team2
+2017-02-09T15:03:28Z,user2,created layouts for basic app-flow,team2
+2017-02-08T21:28:27Z,user2,"Merge pull request #13 from SE17GroupH/kg
+
+test branch commit",team2
+2017-02-08T21:26:39Z,user2,test branch commit,team2
+2017-02-08T20:31:57Z,user2,base project,team2
+2017-02-08T16:33:40Z,user3,Update README.md,team2
+2017-02-08T16:23:50Z,user3,Initial commit,team2
+2017-03-27T02:06:29Z,user3,Update new_session.html.erb,team2
+2017-03-27T01:57:10Z,user3,bug fix,team2
+2017-03-27T01:51:37Z,user3,Update url for magiclink,team2
+2017-03-27T01:33:43Z,user3,"Update new_session.html.erb
+
+Change to magic link url",team2
+2017-03-27T01:29:32Z,user3,"Update new_session.html.erb
+
+fix wrong link for magic link login",team2
+2017-03-10T04:03:42Z,user3,Add new mailing template,team2
+2017-03-10T03:35:24Z,user3,bug fixed,team2
+2017-03-10T03:34:54Z,user3,modify confirmation email,team2
+2017-03-10T03:29:55Z,user3,alpha version of the confirmation email,team2
+2017-03-10T03:24:15Z,user3,"Merge pull request #23 from SE17GroupH/mailModify
+
+Adding views for Devise",team2
+2017-03-10T03:23:53Z,user3,Adding views for Devise,team2
+2017-03-10T03:14:25Z,user3,"Merge pull request #22 from SE17GroupH/mailModify
+
+Upgrade security",team2
+2017-03-10T03:13:35Z,user3,Upgrade security,team2
+2017-03-10T03:01:42Z,user3,"Merge pull request #21 from SE17GroupH/mailModify
+
+upgrade security for showing too much info",team2
+2017-03-10T03:00:49Z,user3,upgrade security for showing too much info,team2
+2017-02-26T19:58:22Z,user1,Update README with some formatting,team2
+2017-02-23T14:25:51Z,user3,"Merge pull request #16 from SE17GroupH/mailModify
+
+Mail modify",team2
+2017-02-23T14:22:12Z,user3,custom view for magic link login,team2
+2017-02-23T13:52:40Z,user3,create function to get userId from Microsoft for later use,team2
+2017-02-20T17:37:00Z,user3,"Merge pull request #15 from SE17GroupH/enrollM
+
+minor change to magicLink return JSON format",team2
+2017-02-20T17:32:42Z,user3,minor change to magicLink return JSON format,team2
+2017-02-17T14:19:31Z,user3,"Merge pull request #12 from SE17GroupH/magicLink
+
+Add email confirmation, testing done on Heroku",team2
+2017-02-17T14:15:41Z,user3,"update mailer config, need testing",team2
+2017-02-17T14:13:12Z,user3,change env.rb file,team2
+2017-02-17T13:45:30Z,user3,change migration file,team2
+2017-02-17T13:38:35Z,user3,"Add user email confirmation method, need testing on Heroku",team2
+2017-02-17T02:33:42Z,user3,"Update readme.MD
+
+Adding documentation for auth_token verification",team2
+2017-02-17T02:28:34Z,user3,"Merge pull request #11 from SE17GroupH/magicLink
+
+Add authorization with email and token",team2
+2017-02-17T02:26:46Z,user3,Add authorization with email and token,team2
+2017-02-17T01:44:39Z,user3,"Update readme.MD
+
+Add magic link api call",team2
+2017-02-17T01:41:40Z,user3,"Merge pull request #10 from SE17GroupH/magicLink
+
+Magic link generated",team2
+2017-02-17T01:40:41Z,user3,modify magic link,team2
+2017-02-17T01:37:55Z,user3,add magic link in the email template,team2
+2017-02-16T14:00:46Z,user3,"Merge pull request #9 from SE17GroupH/magicLink
+
+Magic link",team2
+2017-02-16T13:58:12Z,user3,modify sending mailer controller method,team2
+2017-02-16T13:55:23Z,user3,modify application_mailer,team2
+2017-02-16T13:46:40Z,user3,minor fix on user_mailer,team2
+2017-02-16T13:35:48Z,user3,modify actionamailer parameter,team2
+2017-02-16T05:12:44Z,user3,change production setting,team2
+2017-02-16T05:07:36Z,user3,add dubug funtion,team2
+2017-02-16T05:02:46Z,user3,minor fix,team2
+2017-02-16T04:55:48Z,user3,minor fix,team2
+2017-02-16T04:48:56Z,user3,change magiclink controller location,team2
+2017-02-16T04:46:55Z,user3,change magiclink controller location,team2
+2017-02-16T04:39:52Z,user3,test send out email param,team2
+2017-02-16T04:16:18Z,user3,change gmail setup,team2
+2017-02-16T04:02:30Z,user3,fix dotenv error in application.rb,team2
+2017-02-16T04:01:17Z,user3,minor change to ENV variables,team2
+2017-02-16T03:54:49Z,user3,minor fix on gmail setting,team2
+2017-02-16T03:03:05Z,user3,"Add code for sending email, testing needed",team2
+2017-02-13T01:46:40Z,user3,"Update README.md
+
+fix errors",team2
+2017-02-13T01:45:21Z,user3,"Update README.md
+
+Update documentation for API calls",team2
+2017-02-13T01:38:05Z,user3,"Update README.md
+
+update README.md",team2
+2017-02-13T01:31:46Z,user3,add user register funtion to Api controller,team2
+2017-02-12T17:28:11Z,user3,changing route file for Heroku deployment,team2
+2017-02-12T03:50:09Z,user3,migrate to postgresql,team2
+2017-02-11T20:42:05Z,user3,Change Gemfile for Heroku,team2
+2017-02-11T20:09:33Z,user3,"finish with login and logout api calls, working on register right now",team2
+2017-02-11T19:15:20Z,user3,add destroy action in session controller,team2
+2017-02-11T19:13:24Z,user3,add create in sessions controller,team2
+2017-02-11T04:29:52Z,user3,Add user auth token,team2
+2017-02-11T03:41:14Z,user3,add destroy action in api calls,team2
+2017-02-11T03:39:18Z,user3,Add update action in Api calls,team2
+2017-02-11T03:36:53Z,user3,"Add user create endpoint, update rspec to 3.5 version",team2
+2017-02-11T03:24:37Z,user3,Able to get user info from API calls,team2
+2017-02-11T02:00:37Z,user3,Add user specs,team2
+2017-02-11T01:59:28Z,user3,Add devise user model,team2
+2017-02-11T01:45:11Z,user3,Set routes constraints,team2
+2017-02-11T01:40:04Z,user3,"Restart the whole project from scartch, another approach",team2
+2017-02-09T21:14:42Z,user3,reconfigure file structure,team2
+2017-02-09T21:11:43Z,user3,migrate database from sqlite3 to postgresql,team2
+2017-02-09T20:37:51Z,user3,Initial commit,team2
+2017-02-09T18:31:08Z,user2,Initial commit,team2
+2017-04-08T13:26:59Z,user1,April_report_chits,team3
+2017-04-08T01:07:24Z,user2,"Add files via upload
+
+April 7 report",team3
+2017-04-03T14:51:25Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-04-03T14:51:13Z,user1,CSS+SuggestionModuleFuncttionality,team3
+2017-04-03T05:44:30Z,user3,modify search,team3
+2017-04-03T03:26:13Z,user3,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-04-03T03:26:04Z,user3,Deleted  wrong files,team3
+2017-04-03T03:24:13Z,user3,delete wrong file,team3
+2017-04-03T01:59:27Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-04-03T01:59:17Z,user1,UI-Improvement,team3
+2017-04-03T01:42:47Z,user3,Update schema.rb,team3
+2017-04-02T21:53:46Z,user3,modify like,team3
+2017-04-02T02:59:01Z,user1,UI-improvement,team3
+2017-04-01T04:25:40Z,user3,like feature,team3
+2017-04-01T01:30:21Z,user3,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-04-01T01:30:14Z,user3,no update,team3
+2017-04-01T01:16:51Z,user3,no update,team3
+2017-03-31T01:15:07Z,user1,Gemmfile.lock,team3
+2017-03-31T01:13:23Z,user1,GemFile,team3
+2017-03-31T01:11:44Z,user1,NewGemFile,team3
+2017-03-31T01:10:03Z,user1,Delete Gemfile.lock,team3
+2017-03-31T01:00:33Z,user1,Gemfile,team3
+2017-03-31T00:58:33Z,user1,Gemfile,team3
+2017-03-31T00:51:50Z,user1,GemFile,team3
+2017-03-31T00:36:41Z,user1,Gemfile,team3
+2017-03-31T00:25:07Z,user1,gemfile,team3
+2017-03-31T00:07:58Z,user1,removed error,team3
+2017-03-19T02:37:49Z,user1,SliderImplementation,team3
+2017-03-18T18:10:05Z,user1,DropDown&feedbackUI,team3
+2017-03-15T17:33:57Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-03-15T17:33:48Z,user1,gemfile,team3
+2017-03-15T17:30:55Z,,new,team3
+2017-03-15T16:07:55Z,,suggestion new,team3
+2017-03-15T16:06:09Z,,suggestion,team3
+2017-03-15T14:18:02Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-03-15T14:17:45Z,user1,Visual representations for feedback,team3
+2017-03-15T03:06:51Z,user3,tests of models and views,team3
+2017-03-15T02:47:40Z,user1,Merge resolved,team3
+2017-03-15T02:44:59Z,user1,Course-eval-give&getfeedback,team3
+2017-03-15T00:43:52Z,user3,fix initial tests,team3
+2017-03-10T21:25:47Z,,suggestion,team3
+2017-03-09T23:30:42Z,,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-03-09T23:28:25Z,,suggestion,team3
+2017-03-09T21:14:09Z,user3,forum,team3
+2017-03-09T00:42:50Z,user3,Merge remote-tracking branch 'refs/remotes/origin/master',team3
+2017-03-08T22:44:28Z,,suggestion,team3
+2017-03-08T22:01:54Z,user3,forum,team3
+2017-03-05T17:15:29Z,user2,Add files via upload,team3
+2017-03-05T17:15:01Z,user2,Delete SE_FEB_END_REPORT .pdf,team3
+2017-03-01T22:00:05Z,user2,Add files via upload,team3
+2017-03-01T01:27:33Z,user1,Merge conflict resolved,team3
+2017-03-01T01:25:34Z,user1,Prof_rating_controller,team3
+2017-02-28T05:45:14Z,user3,forum,team3
+2017-02-28T05:43:00Z,user3,forum,team3
+2017-02-28T05:41:49Z,,Solution 3,team3
+2017-02-26T02:36:58Z,user1,Final db schema and model validation,team3
+2017-02-25T03:27:49Z,user1,Questionnaire,team3
+2017-02-23T20:18:09Z,user3,forum,team3
+2017-02-23T06:51:49Z,user3,"delete section model and semeter field in course, add relationship beteen course, review and user",team3
+2017-02-23T05:48:57Z,user3,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-02-23T05:43:38Z,user3,login fix,team3
+2017-02-23T04:58:52Z,user1,Course_Eval_section,team3
+2017-02-22T05:39:19Z,user3,fix CSS,team3
+2017-02-22T04:43:59Z,user3,solve conflits,team3
+2017-02-22T04:19:26Z,user3,reviews v1,team3
+2017-02-22T03:16:59Z,,login in and sign up,team3
+2017-02-21T20:31:30Z,user3,fix user model (email),team3
+2017-02-21T02:54:03Z,,git change ignore,team3
+2017-02-21T02:47:46Z,,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-02-21T02:45:57Z,,change git ignore,team3
+2017-02-21T02:45:21Z,user1,Model creation,team3
+2017-02-21T02:20:44Z,user1,Migration changes,team3
+2017-02-21T02:08:51Z,user1,Merge resolved,team3
+2017-02-21T02:07:04Z,user1,View changes for signup and login,team3
+2017-02-21T02:02:03Z,user3,create db models for targeted feedback system,team3
+2017-02-20T00:59:17Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-02-20T00:59:11Z,user1,temp,team3
+2017-02-19T23:09:02Z,user3,create users model,team3
+2017-02-19T21:12:49Z,user3,home page,team3
+2017-02-19T17:36:10Z,user3,ignore database.yml,team3
+2017-02-18T19:15:45Z,user3,hello world,team3
+2017-02-18T17:13:03Z,user3,Initial rails,team3
+2017-02-18T15:21:17Z,user3,add readme and gitignore file,team3
+2017-01-31T21:17:39Z,user1,January report PDF,team3
+2017-01-31T21:16:56Z,user1,January Report PDF,team3
+2017-01-31T21:16:27Z,user1,Deleted docx file,team3
+2017-01-31T21:15:57Z,user1,Deleted rough version,team3
+2017-01-31T21:10:49Z,user1,Jan-report,team3
+2017-04-11T16:25:53Z,user1,"Right to Privacy
+
+Right to Privacy",team4
+2017-04-10T21:23:48Z,user1,"Updated spelling mistakes in Report
+
+Updated spelling mistakes in Report",team4
+2017-04-08T00:18:53Z,user2,April Report,team4
+2017-03-28T14:41:12Z,user3,added syllabus,team4
+2017-03-20T13:15:41Z,user3,.,team4
+2017-03-19T23:41:47Z,user3,"add all courses to the db, allow user to comment",team4
+2017-03-17T00:11:26Z,user2,Update Gemfile,team4
+2017-03-17T00:08:29Z,user2,Delete Gemfile.lock,team4
+2017-03-08T04:12:19Z,,Added Unit Tests,team4
+2017-03-02T22:02:17Z,user3,Add files via upload,team4
+2017-02-28T00:11:58Z,,Minor fixes to text mining JS,team4
+2017-02-28T00:11:23Z,user3,text minning page added,team4
+2017-02-27T22:23:13Z,user2,February Report,team4
+2017-02-27T22:22:56Z,user2,Delete Feb Report.pdf,team4
+2017-02-27T22:15:39Z,user2,Add files via upload,team4
+2017-02-27T22:15:21Z,user2,Delete Feb report.docx,team4
+2017-02-27T21:23:03Z,user2,Add files via upload,team4
+2017-02-25T22:17:26Z,,Added installation steps on text mining,team4
+2017-02-24T20:37:33Z,,Passing requirement dictionary as a JSON parameter,team4
+2017-02-23T21:22:35Z,user3,"Make grade distribution sortable, added link to course",team4
+2017-02-21T21:41:21Z,user2,Grade Distribution Data Collection,team4
+2017-02-21T19:34:42Z,,Text mining : Added code to parse online PDF to text,team4
+2017-02-21T17:57:30Z,,Updated text mining code,team4
+2017-02-21T17:05:23Z,user3,add grade distribution,team4
+2017-02-20T20:19:11Z,user3,add course page,team4
+2017-02-19T21:28:13Z,user3,"dry the code, put navigation bar in application.html.erb",team4
+2017-02-19T17:43:06Z,user3,"add pictures and paginate to course list, however, need to fix the color of the link on hover",team4
+2017-02-19T17:14:09Z,user3,"added pictures and paginate into course list, but need to fix the color of the link of the title of the course on hover",team4
+2017-02-19T00:12:58Z,,Created JS script that pulls data from Piazza,team4
+2017-02-18T19:41:15Z,user3,Message,team4
+2017-02-18T19:10:56Z,user3,Website initial content,team4
+2017-02-17T00:11:49Z,,Pilot with Piazza API - JS Script,team4
+2017-02-13T04:27:43Z,,Course Description and details from Fall 2010 - Spring 2017,team4
+2017-02-08T23:03:51Z,,Python code for collecting data on Course Description and details,team4
+2017-02-01T00:07:55Z,,Jan Report,team4
+2017-02-01T00:05:17Z,user2,Delete SE Project Report Jan.docx,team4
+2017-01-30T20:26:26Z,user2,"Add files via upload
+
+Uploaded Abstract, Introduction, Literature Review, and Conclusion.",team4
+2017-01-27T21:05:59Z,user3,"Merge pull request #2 from zsthampi/Adrian
+
+Adrian",team4
+2017-01-27T21:05:41Z,user1,Update Questionnaire,team4
+2017-01-27T21:01:00Z,user3,Update Questionnaire,team4
+2017-01-27T20:58:54Z,user3,Create Questionnaire,team4
+2017-01-26T23:24:09Z,user2,Update chits.txt,team4
+2017-01-26T23:23:22Z,user1,"Create chits.txt
+
+Added file for chits",team4
+2017-01-23T20:28:51Z,,Added review of research papers,team4
+2017-01-19T03:58:59Z,,Added another project idea,team4
+2017-01-18T22:48:34Z,user1,Fixed the project,team4
+2017-01-18T22:42:21Z,user2,"Update Project Ideas.txt
+
+Decided on one topic and probed further into potential parameters.",team4
+2017-01-18T14:51:48Z,,Another project idea,team4
+2017-01-18T00:45:17Z,,Added some project ideas,team4
+2017-01-17T22:07:12Z,,First Commit,team4
+2017-04-14T01:06:42Z,user1,csv file for issues,team5
+2017-04-13T03:55:23Z,user2,Update README.md,team5
+2017-04-08T02:08:35Z,user2,Updated Final Report,team5
+2017-04-07T18:05:02Z,user2,Add files via upload,team5
+2017-04-04T17:17:04Z,user2,Added manual run for social,team5
+2017-04-02T21:12:50Z,user2,Added /email path,team5
+2017-04-02T15:56:16Z,user2,Cleaned up imports,team5
+2017-03-31T22:06:56Z,user3,"edits done, final file",team5
+2017-03-31T22:01:16Z,user3,Css edits done in email,team5
+2017-03-31T21:03:40Z,user3,"email done, css edits left",team5
+2017-03-31T20:59:29Z,user3,Email running,team5
+2017-03-31T18:26:31Z,user3,confirmation email is done,team5
+2017-03-31T17:30:33Z,user2,Delete old content,team5
+2017-03-31T03:02:19Z,user2,Added better formating for html,team5
+2017-03-31T02:10:30Z,user1,Merge branch 'master' of https://github.com/rnambis/SE17-group-O,team5
+2017-03-31T02:10:10Z,user1,google analytics code added,team5
+2017-03-31T00:19:30Z,user2,Cleanup of temp files,team5
+2017-03-31T00:16:42Z,user2,Readd python files. whoops,team5
+2017-03-31T00:10:59Z,user2,fixed untracked files,team5
+2017-03-30T20:56:11Z,user2,Update master requirments list,team5
+2017-03-30T20:47:52Z,user2,update requirements,team5
+2017-03-30T20:42:47Z,user2,Fixed error in __init__,team5
+2017-03-30T20:40:01Z,user2,Modified db in init,team5
+2017-03-30T19:31:59Z,user2,Added better formatting for base html,team5
+2017-03-30T19:13:11Z,user2,Forward to news automatically. Auto fill news,team5
+2017-03-30T01:50:28Z,user2,Added remote db checking,team5
+2017-03-29T20:56:18Z,user2,Deleting old References file,team5
+2017-03-29T20:52:54Z,user2,Delete old copy of project_idea.md,team5
+2017-03-28T23:26:07Z,user2,Fixed spelling error,team5
+2017-03-28T23:23:56Z,user2,Modified port and ip,team5
+2017-03-28T23:16:53Z,user1,newsapi link added,team5
+2017-03-28T23:16:51Z,user2,Updated Requirements,team5
+2017-03-28T23:10:30Z,user2,Removed old dependencies,team5
+2017-03-28T23:06:59Z,user1,duplicate feedback link removed,team5
+2017-03-28T23:04:39Z,user2,Merge branch 'bhushan' into master,team5
+2017-03-28T22:59:54Z,user1,link opens in new tab,team5
+2017-03-28T22:55:28Z,user2,Modified run,team5
+2017-03-28T22:54:13Z,user1,link opens in new tab,team5
+2017-03-28T22:52:23Z,user1,audio issue resolved,team5
+2017-03-28T22:47:43Z,user2,Testing stuff out for a sec,team5
+2017-03-28T22:40:08Z,user2,Getting ready for depolyment?,team5
+2017-03-28T22:34:03Z,user1,got rid of admin dashboard,team5
+2017-03-28T22:25:24Z,user1,better background color,team5
+2017-03-28T22:20:59Z,user1,color change,team5
+2017-03-28T22:16:33Z,user1,Feedback link added,team5
+2017-03-28T21:56:02Z,user1,login n color changed,team5
+2017-03-28T21:52:05Z,user2,Added survey link to website,team5
+2017-03-28T18:57:53Z,user2,"JK, actually fixed spacing this time",team5
+2017-03-28T18:55:05Z,user2,Corrected spacing,team5
+2017-03-28T18:28:07Z,user2,Better formatting for social,team5
+2017-03-28T18:08:51Z,user2,Corrected directory misspelling,team5
+2017-03-28T18:02:07Z,user2,Create sample_template.html,team5
+2017-03-23T02:07:03Z,user2,Better formatting for README.md,team5
+2017-03-21T20:13:19Z,user2,Better formatting for multi tweet stories,team5
+2017-03-21T04:35:21Z,user2,Updated social_job with new API,team5
+2017-03-21T04:03:13Z,user2,Added better handling of multi-tweet stories,team5
+2017-03-12T02:30:38Z,user1,link color red,team5
+2017-03-12T02:20:50Z,user1,removed unused files,team5
+2017-03-12T02:05:44Z,user1,new s aapi,team5
+2017-03-11T19:57:16Z,user2,Added social job for twitter posts,team5
+2017-03-10T17:40:46Z,user1,twitter link added,team5
+2017-03-10T17:07:26Z,user1,check added news_job,team5
+2017-03-10T05:42:11Z,user1,audio button for each news,team5
+2017-03-10T04:50:10Z,user1,image resized,team5
+2017-03-10T04:38:00Z,user1,images added,team5
+2017-03-10T04:34:40Z,user1,added title,team5
+2017-03-10T04:13:21Z,user1,newsfeed size change,team5
+2017-03-10T04:02:58Z,user1,color change,team5
+2017-03-10T03:27:37Z,user1,button color changed,team5
+2017-03-10T02:43:09Z,user1,better background image,team5
+2017-03-10T02:25:33Z,user1,Dashboard color changed,team5
+2017-03-10T01:48:18Z,user1,Newsfeed change,team5
+2017-03-09T03:32:56Z,user1,Dashboard added,team5
+2017-03-03T04:18:18Z,user2,Update README.md,team5
+2017-03-01T03:13:57Z,user1,commit issue,team5
+2017-02-28T19:29:29Z,user2,Readded Twitter support,team5
+2017-02-28T18:26:19Z,user2,Delete temp.md,team5
+2017-02-28T00:19:14Z,user1,Add files via upload,team5
+2017-02-28T00:09:29Z,user2,Update README.md to use md instead of html,team5
+2017-02-28T00:06:39Z,user2,Update README.md,team5
+2017-02-28T00:01:59Z,user2,Removes special characters before TTS,team5
+2017-02-27T23:09:53Z,user3,Create README.md,team5
+2017-02-27T04:37:40Z,user2,Create Twitter.md,team5
+2017-02-26T20:36:04Z,user2,Slow down news updates. Now 10 min.,team5
+2017-02-26T19:30:31Z,user2,Added voice to speech button using JS,team5
+2017-02-24T23:35:54Z,user2,Add correct path for fourm submission in news.html,team5
+2017-02-24T23:09:51Z,user2,Delete __init__.py~,team5
+2017-02-24T23:09:36Z,user2,Delete views.pyc,team5
+2017-02-24T23:09:32Z,user2,Delete models.pyc,team5
+2017-02-24T23:08:24Z,user2,Delete __init__.pyc,team5
+2017-02-24T23:02:00Z,user2,Added better error checking for news_job and unpickling for views,team5
+2017-02-23T22:26:16Z,user2,Remove old files that were moved to /News,team5
+2017-02-23T22:22:07Z,user2,Added automatic news downloading job on startup,team5
+2017-02-23T21:59:00Z,user3,removed old folder,team5
+2017-02-23T21:35:52Z,user2,Added better error checking for views.py,team5
+2017-02-23T21:27:48Z,user2,Added ability for views.py to read from file,team5
+2017-02-23T20:47:21Z,user2,Added sample news.data pickled file,team5
+2017-02-23T17:33:11Z,user2,Updated formatting for data file,team5
+2017-02-23T16:55:46Z,user2,Changed news_job.py to background task,team5
+2017-02-23T16:23:37Z,user1,Fixed css for newsfeed,team5
+2017-02-23T16:18:12Z,user2,Fixed missing colon in news_job.py,team5
+2017-02-23T03:52:09Z,user2,Added job scheduler that saves news to pickle object,team5
+2017-02-22T21:44:11Z,user2,Spelling Correction in,team5
+2017-02-21T23:10:27Z,user3,Create Readme,team5
+2017-02-21T20:45:22Z,user3,Integrated newspaper code to login code,team5
+2017-02-21T20:18:50Z,user2,Added ability to view txt file from site,team5
+2017-02-21T20:12:45Z,user2,Added better error checking for newspaper module,team5
+2017-02-21T19:35:35Z,user3,Merge conflicts resolved,team5
+2017-02-21T19:29:14Z,user3,login done,team5
+2017-02-21T18:49:47Z,user2,Added better text splitting for big twitter posts,team5
+2017-02-21T06:38:54Z,user1,Fetching data script,team5
+2017-02-19T04:40:59Z,user3,Dashboard reached,team5
+2017-02-19T04:35:44Z,user3,Login and registeration done,team5
+2017-02-19T04:20:56Z,user3,Home page done,team5
+2017-02-19T04:12:03Z,user3,"blueprint definitions of home,auth, admin over",team5
+2017-02-19T04:08:26Z,user3,Before home blueprint,team5
+2017-02-18T17:50:03Z,user2,"Create example.json
+
+Use as reference for format of news objects",team5
+2017-02-18T16:51:42Z,user1,Added weblinks and newsfeed window,team5
+2017-02-17T21:37:12Z,user2,"Added automatic parsing of news
+
+Retrives news at 1 minute intervals. Posts summary to twitter.",team5
+2017-02-17T05:45:16Z,user1,Bootstrap added,team5
+2017-02-16T22:04:13Z,user2,Made twitter file a class for later use.,team5
+2017-02-16T15:31:27Z,user2,Update README.md,team5
+2017-02-14T22:13:00Z,user2,Added additional button for testing,team5
+2017-02-12T21:47:48Z,user1,initial framework for newspaper,team5
+2017-02-12T19:45:41Z,user2,Added initial python framework for publishing messages,team5
+2017-02-07T21:42:08Z,user3,Working on sign up sheet of Web App,team5
+2017-02-01T03:55:48Z,user2,Add files via upload,team5
+2017-02-01T03:15:22Z,user2,Add files via upload,team5
+2017-02-01T01:49:00Z,user2,Add files via upload,team5
+2017-02-01T01:48:26Z,user2,Create temp.md,team5
+2017-01-21T17:12:55Z,user2,Update Reference papers for personalized news feed,team5
+2017-01-18T20:24:33Z,user1,Update project_idea.md,team5
+2017-01-18T18:54:07Z,user1,Update Reference papers for personalized news feed,team5
+2017-01-18T18:53:48Z,user2,Create project_idea.md,team5
+2017-01-18T18:49:30Z,user1,Update Reference papers for personalized news feed,team5
+2017-01-18T18:45:45Z,user2,Update Reference papers for personalized news feed,team5
+2017-01-18T18:42:12Z,user1,Create Reference papers for personalized news feed,team5
+2017-01-14T23:16:07Z,user3,Initial commit,team5
+2017-04-08T01:45:17Z,user1,User analysis paper,team6
+2017-04-08T00:32:12Z,user1,Upload User Study Survey Results,team6
+2017-03-20T14:18:56Z,user2,google stats survey,team6
+2017-03-19T17:47:35Z,user3,"User Evaluation Survey
+
+Threat Map User Eval Questions",team6
+2017-03-14T04:38:13Z,user1,Update README.md,team6
+2017-03-14T04:36:59Z,user1,Update README.md,team6
+2017-03-14T03:23:55Z,user1,generate log,team6
+2017-02-28T22:51:09Z,user3,"Feb Progress Report
+
+Feb Progress Report",team6
+2017-02-27T18:44:46Z,user1,Update README.md,team6
+2017-02-27T05:57:48Z,user1,Upload apk file,team6
+2017-02-23T19:28:23Z,user1,Added intro,team6
+2017-02-23T15:18:43Z,user3,Hackathon,team6
+2017-02-23T15:17:18Z,user3,Hackathon,team6
+2017-02-23T01:08:28Z,user2,Update README.md,team6
+2017-02-22T21:46:20Z,user1,Update README.md,team6
+2017-02-22T20:58:26Z,user1,Update README.md,team6
+2017-02-22T20:56:01Z,user2,Update DEVLOG.md,team6
+2017-02-22T20:50:47Z,user1,Add cloudant and nodeJS setup instructions,team6
+2017-02-22T19:33:45Z,user1,Update README.md,team6
+2017-02-22T13:16:59Z,user1,Update README.md,team6
+2017-02-22T03:19:51Z,user1,"Task list - update 1
+
+-change quotes in source codes
+-lean up codes
+-hide buttons, add autoload behavior
+-create task list request codes",team6
+2017-02-22T02:57:14Z,user2,nam setting file,team6
+2017-02-22T02:56:19Z,user2,google trends in nodejs,team6
+2017-02-20T03:10:49Z,user3,"READme
+
+To Do Check List",team6
+2017-02-20T02:30:36Z,user3,"Up dated READme
+
+Threat Map",team6
+2017-02-17T23:07:55Z,user1,"Improve personel stats
+
+Modify app.js to add more stats to nurses (image change, task list)
+Modified noSQL structure of nurse and room tables
+Modify frontend js and html codes for nurse section
+Upload more images for dashboard",team6
+2017-02-17T23:04:10Z,user1,Merge remote-tracking branch 'origin/master',team6
+2017-02-17T19:34:15Z,user3,Scenario's,team6
+2017-02-17T18:19:29Z,user3,"Scenario's
+
+Example Scenario's",team6
+2017-02-17T16:39:07Z,user3,"Threat Level Variables
+
+Threat Level Variables.",team6
+2017-02-17T03:02:41Z,user1,"more code lean up
+
+Removed irrelevant html and nodes functions",team6
+2017-02-16T20:12:39Z,user1,"Lean up codes, remove artifacts
+
+Lean up codes, remove artifacts from IBM sample",team6
+2017-02-14T19:46:47Z,user3,"AutoRefesh
+
+Threat Map view Controller, Auto Refresh",team6
+2017-02-14T19:40:46Z,user3,"README Intro
+
+README Intro",team6
+2017-02-14T19:37:05Z,user3,"Merge branch 'master' of https://github.com/genterist/whiteWolf
+
+# Conflicts:
+#	Matt_UI_Code/All_Code/Test.txt",team6
+2017-02-13T03:21:39Z,user1,Uploaded graphic files to project's graphic library,team6
+2017-02-12T16:51:44Z,user1,Updated UI and auto refresh of room stats,team6
+2017-02-11T15:06:49Z,user1,Admin console Upgraded,team6
+2017-02-10T21:24:40Z,user1,"Code to load Room stats
+
+modified app.js and name_actions.js to fully load room stats",team6
+2017-02-10T21:00:20Z,user3,Project_Code_Matt,team6
+2017-02-10T20:56:23Z,user3,Testing,team6
+2017-02-09T21:46:28Z,user2,draft of back up plan - threat map (in php with Codeigniter),team6
+2017-02-09T20:17:12Z,user1,"Cloudant and NodeJS mode
+
+Update button function in name_actions.js
+Modify app.get(/view_rooms)
+- change DB table
+- remove cvs export feature
+- change DB queries
+Modify app.get(/view_rooms) and name_actions.js - add more fields to
+room stats display",team6
+2017-02-09T15:01:44Z,user1,Update DEVLOG.md,team6
+2017-02-08T20:56:01Z,user3,Test-UI Code Object-C,team6
+2017-02-08T20:50:53Z,user3,node.js Code,team6
+2017-02-07T21:48:32Z,user3,Create Matt-TestCode,team6
+2017-02-07T19:25:56Z,user1,Rename PodInstall-ReadME.md to PodInstall.md,team6
+2017-02-07T19:17:29Z,user1,Update and rename devLog.md to DEVLOG.md,team6
+2017-02-07T19:03:56Z,user1,Create devLog.md,team6
+2017-02-06T21:04:04Z,user2,source tree test,team6
+2017-02-06T16:29:59Z,user1,test credential,team6
+2017-02-06T16:20:45Z,user1,test commit,team6
+2017-02-06T16:08:07Z,user4,test,team6
+2017-02-06T15:59:49Z,user4,test credential,team6
+2017-02-06T15:53:23Z,user4,test,team6
+2017-02-06T15:38:53Z,user4,"Initial BlueMix code gen
+
++Place holder codes
++Credentials are not shared between team members
++Advanced mobil and db features are not synced",team6
+2017-02-06T15:29:55Z,user4,"Revert ""Initial IBM BlueMix code gen""
+
+This reverts commit 914e5e0613e0076bacdaf77f7917c5eb88e5fa18.",team6
+2017-02-06T15:23:20Z,user4,"Initial IBM BlueMix code gen
+
++Place holder codes
++Credentials are not shared between team members
++Advanced mobil and db features are not synced",team6
+2017-01-31T21:04:06Z,user1,original upload,team6
+2017-01-18T04:58:23Z,user1,Create Progress.md,team6
+2017-01-18T04:34:29Z,user1,Create LICENSE.md,team6
+2017-01-18T04:32:13Z,user1,Create CONTRIBUTING.md,team6
+2017-01-18T04:30:50Z,user1,Update README.md,team6
+2017-01-17T19:06:06Z,user1,Update README.md,team6
+2017-01-17T19:03:51Z,user1,Initial commit,team6
+2017-04-08T02:24:35Z,user1,Add files via upload,team7
+2017-04-08T02:13:02Z,user1,Add files via upload,team7
+2017-03-01T02:06:34Z,user2,Add files via upload,team7
+2017-02-01T04:56:23Z,user1,Add files via upload,team7
+2017-02-01T04:56:14Z,user1,Delete Jan_Report_Latex.zip,team7
+2017-02-01T04:55:12Z,user1,Jan. Report,team7
+2017-02-01T04:54:58Z,user1,Delete Jan_Report_v3.pdf,team7
+2017-02-01T04:53:34Z,user1,Jan. Report,team7
+2017-02-01T04:53:02Z,user1,Delete Jan. Report,team7
+2017-02-01T04:52:19Z,user1,Create Jan. Report,team7
+2017-02-01T04:49:49Z,user1,ALL the Latex files for Jan Report,team7
+2017-01-25T01:54:51Z,user3,Update SurveyQuestion.md,team7
+2017-01-24T21:13:55Z,user1,Update SurveyQuestion.md,team7
+2017-01-24T21:10:17Z,user2,Update SurveyQuestion.md,team7
+2017-01-24T21:09:55Z,user2,Update SurveyQuestion.md,team7
+2017-01-24T21:09:23Z,user2,Update SurveyQuestion.md,team7
+2017-01-24T21:08:39Z,user2,Update SurveyQuestion.md,team7
+2017-01-24T21:07:14Z,user1,Create SurveyQuestion.md,team7
+2017-01-24T20:57:23Z,user1,Update Final se project.md,team7
+2017-01-24T20:56:51Z,user1,Update Final se project.md,team7
+2017-01-24T20:56:07Z,user1,Rename Final se project to Final se project.md,team7
+2017-01-24T20:55:05Z,user1,Update Final se project,team7
+2017-01-24T20:53:53Z,user1,Update Final se project,team7
+2017-01-24T20:53:30Z,user1,Update Final se project,team7
+2017-01-24T20:52:25Z,user1,Update Final se project,team7
+2017-01-24T20:32:12Z,user2,Create Final se project,team7
+2017-01-21T20:37:41Z,user2,Update Ideas.md,team7
+2017-01-15T00:14:39Z,user1,Update Ideas.md,team7
+2017-01-15T00:11:33Z,user1,Update Ideas.md,team7
+2017-01-14T19:39:25Z,user3,Update Ideas.md,team7
+2017-01-14T18:37:44Z,user2,Update Ideas.md,team7
+2017-01-14T18:37:01Z,user2,Update Ideas.md,team7
+2017-01-14T14:47:47Z,user3,Update Ideas.md,team7
+2017-01-14T14:45:52Z,user3,Update Ideas.md,team7
+2017-01-14T02:42:42Z,user1,Update Ideas.md,team7
+2017-01-13T21:46:29Z,user1,Update Ideas.md,team7
+2017-01-12T21:10:05Z,user3,Update Ideas.md,team7
+2017-01-12T21:09:13Z,user2,Update Ideas.md,team7
+2017-01-12T20:47:58Z,user3,project idea(notification system with GPS sensing),team7
+2017-01-12T20:42:48Z,user2,Update Ideas.md,team7
+2017-01-12T01:48:59Z,user2,Update Ideas.md,team7
+2017-01-12T01:48:07Z,user2,Create Ideas.md,team7
+2017-01-12T00:38:00Z,user2,Initial commit,team7
+2017-04-08T03:09:00Z,user1,Adding final paper,team8
+2017-04-08T03:03:03Z,user1,Final Draft,team8
+2017-04-08T02:31:19Z,user1,Rough Draft,team8
+2017-04-07T03:35:34Z,user1,Latest stuff,team8
+2017-04-05T01:43:02Z,user1,Adding analysis for approach 2,team8
+2017-04-03T17:22:47Z,user1,Added march paper section,team8
+2017-04-03T17:19:15Z,user1,Merge sharelatex-2017-04-03-1719 into master,team8
+2017-04-03T17:19:14Z,user1,Updates from ShareLaTeX,team8
+2017-03-31T00:37:49Z,user2,Merge branch 'approach1',team8
+2017-03-31T00:36:43Z,user2,Resolve conflicts for merge,team8
+2017-03-31T00:18:20Z,user3,Delete README.md,team8
+2017-03-31T00:12:53Z,user2,"Merge pull request #49 from NCSU-SE-Spring-17/approach3
+
+Approach3",team8
+2017-03-31T00:12:38Z,user2,"Merge pull request #48 from NCSU-SE-Spring-17/approach2
+
+Approach2",team8
+2017-03-30T21:47:54Z,user3,Delete font-awesome.scss,team8
+2017-03-30T21:47:48Z,user3,Delete _variables.scss,team8
+2017-03-30T21:47:40Z,user3,Delete _stacked.scss,team8
+2017-03-30T21:47:34Z,user3,Delete _rotated-flipped.scss,team8
+2017-03-30T21:47:28Z,user3,Delete _path.scss,team8
+2017-03-30T21:47:23Z,user3,Delete _mixins.scss,team8
+2017-03-30T21:47:17Z,user3,Delete _list.scss,team8
+2017-03-30T21:47:12Z,user3,Delete _larger.scss,team8
+2017-03-30T21:47:06Z,user3,Delete _icons.scss,team8
+2017-03-30T21:46:58Z,user3,Delete _fixed-width.scss,team8
+2017-03-30T21:46:52Z,user3,Delete _core.scss,team8
+2017-03-30T21:46:47Z,user3,Delete _bordered-pulled.scss,team8
+2017-03-30T21:46:41Z,user3,Delete _animated.scss,team8
+2017-03-30T21:46:33Z,user3,Delete larger.less,team8
+2017-03-30T21:46:27Z,user3,Delete variables.less,team8
+2017-03-30T21:46:19Z,user3,Delete stacked.less,team8
+2017-03-30T21:46:13Z,user3,Delete rotated-flipped.less,team8
+2017-03-30T21:46:08Z,user3,Delete list.less,team8
+2017-03-30T21:46:02Z,user3,Delete path.less,team8
+2017-03-30T21:45:57Z,user3,Delete mixins.less,team8
+2017-03-30T21:45:49Z,user3,Delete icons.less,team8
+2017-03-30T21:45:42Z,user3,Delete font-awesome.less,team8
+2017-03-30T21:45:36Z,user3,Delete fixed-width.less,team8
+2017-03-30T21:45:30Z,user3,Delete core.less,team8
+2017-03-30T21:45:25Z,user3,Delete bordered-pulled.less,team8
+2017-03-30T21:45:19Z,user3,Delete animated.less,team8
+2017-03-30T21:45:13Z,user3,Delete fontawesome-webfont.woff2,team8
+2017-03-30T21:45:08Z,user3,Delete fontawesome-webfont.woff,team8
+2017-03-30T21:45:03Z,user3,Delete fontawesome-webfont.ttf,team8
+2017-03-30T21:44:57Z,user3,Delete fontawesome-webfont.svg,team8
+2017-03-30T21:44:52Z,user3,Delete fontawesome-webfont.eot,team8
+2017-03-30T21:44:48Z,user3,Delete FontAwesome.otf,team8
+2017-03-30T21:44:35Z,user3,Delete font-awesome.min.css,team8
+2017-03-30T21:44:29Z,user3,Delete font-awesome.css,team8
+2017-03-30T21:44:11Z,user3,Delete npm.js,team8
+2017-03-30T21:44:04Z,user3,Delete bootstrap.min.js,team8
+2017-03-30T21:43:57Z,user3,Delete bootstrap.js,team8
+2017-03-30T21:43:35Z,user3,Delete glyphicons-halflings-regular.woff2,team8
+2017-03-30T21:43:30Z,user3,Delete glyphicons-halflings-regular.woff,team8
+2017-03-30T21:43:26Z,user3,Delete glyphicons-halflings-regular.ttf,team8
+2017-03-30T21:43:20Z,user3,Delete glyphicons-halflings-regular.svg,team8
+2017-03-30T21:43:15Z,user3,Delete glyphicons-halflings-regular.eot,team8
+2017-03-30T21:43:08Z,user3,Delete bootstrap.min.css,team8
+2017-03-30T21:43:03Z,user3,Delete bootstrap.css.map,team8
+2017-03-30T21:42:57Z,user3,Delete bootstrap.css,team8
+2017-03-30T21:42:48Z,user3,Delete bootstrap-theme.min.css,team8
+2017-03-30T21:42:43Z,user3,Delete bootstrap-theme.css.map,team8
+2017-03-30T21:42:37Z,user3,Delete bootstrap-theme.css,team8
+2017-03-30T21:42:19Z,user3,Delete 1@2x.jpg,team8
+2017-03-30T21:42:13Z,user3,Delete 1.jpg,team8
+2017-03-30T21:42:01Z,user3,Delete apple-touch-icon-114-precomposed.png,team8
+2017-03-30T21:41:57Z,user3,Delete apple-touch-icon-144-precomposed.png,team8
+2017-03-30T21:41:52Z,user3,Delete apple-touch-icon-57-precomposed.png,team8
+2017-03-30T21:41:47Z,user3,Delete apple-touch-icon-72-precomposed.png,team8
+2017-03-30T21:41:42Z,user3,Delete favicon.png,team8
+2017-03-30T21:41:34Z,user3,Delete style.css,team8
+2017-03-30T21:41:26Z,user3,Delete form-elements.css,team8
+2017-03-30T21:41:15Z,user3,Delete placeholder.js,team8
+2017-03-30T21:41:09Z,user3,Delete scripts.js,team8
+2017-03-30T21:41:02Z,user3,Delete jquery.backstretch.min.js,team8
+2017-03-30T21:40:56Z,user3,Delete jquery.backstretch.js,team8
+2017-03-30T21:40:47Z,user3,Delete jquery-1.11.1.min.js,team8
+2017-03-30T21:40:39Z,user3,Delete jquery-1.11.1.js,team8
+2017-03-30T21:40:22Z,user3,Delete navbar.css,team8
+2017-03-30T21:40:14Z,user3,Delete newUserDetails.html,team8
+2017-03-30T21:40:08Z,user3,Delete login.html,team8
+2017-03-30T21:40:00Z,user3,Delete list.htm,team8
+2017-03-30T21:39:51Z,user3,Delete index.htm,team8
+2017-03-30T21:39:43Z,user3,Delete home.htm,team8
+2017-03-30T21:39:37Z,user3,Delete editSkills.html,team8
+2017-03-30T21:38:22Z,user3,Delete app.js,team8
+2017-03-30T21:38:01Z,user3,Rename README.md to Approach 1/README.md,team8
+2017-03-30T21:37:07Z,user3,Delete header.html,team8
+2017-03-30T21:36:59Z,user3,Delete footer.html,team8
+2017-03-30T21:36:35Z,user3,Add files via upload,team8
+2017-03-30T21:36:03Z,user3,Delete index.html,team8
+2017-03-30T21:35:40Z,user3,Add files via upload,team8
+2017-03-30T21:34:57Z,user3,Add files via upload,team8
+2017-03-30T21:33:29Z,user3,Add files via upload,team8
+2017-03-30T21:30:42Z,user3,Create index.html,team8
+2017-03-20T21:25:57Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-20T21:25:41Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-20T21:24:37Z,user2,Changed max team size from 4 to 3,team8
+2017-03-14T17:51:40Z,user3,Update README.md,team8
+2017-03-14T16:49:41Z,user3,Update README.md,team8
+2017-03-14T16:48:22Z,user3,Delete exec.sh,team8
+2017-03-14T16:48:10Z,user3,Delete README 2.md,team8
+2017-03-14T16:47:59Z,user3,Rename newUserDetails.html to pages/newUserDetails.html,team8
+2017-03-14T16:47:41Z,user3,Rename login.html to pages/login.html,team8
+2017-03-14T16:47:23Z,user3,Rename list.htm to pages/list.htm,team8
+2017-03-14T16:47:06Z,user3,Rename index.htm to pages/index.htm,team8
+2017-03-14T16:46:51Z,user3,Rename home.htm to pages/home.htm,team8
+2017-03-14T16:46:32Z,user3,Rename editSkills.html to pages/editSkills.html,team8
+2017-03-14T16:46:12Z,user3,Rename navbar.css to css/navbar.css,team8
+2017-03-14T16:45:56Z,user3,Delete navbar.css,team8
+2017-03-14T16:45:35Z,user3,Delete list.htm,team8
+2017-03-14T16:45:27Z,user3,Delete home.htm,team8
+2017-03-14T16:45:16Z,user3,Delete Login.html,team8
+2017-03-14T16:38:27Z,user3,Add files via upload,team8
+2017-03-14T16:33:38Z,user3,Add files via upload,team8
+2017-03-14T14:06:27Z,user4,Update README.md,team8
+2017-03-14T14:04:50Z,user4,add unit test,team8
+2017-03-14T14:04:10Z,user4,add unit test,team8
+2017-03-14T03:39:38Z,user1,Fixed failing test in members page,team8
+2017-03-14T02:41:19Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-14T02:40:55Z,user2,Add generate team function,team8
+2017-03-14T02:06:53Z,user1,Fixed up default tests. Still have one failing needs investigation.,team8
+2017-03-13T23:34:49Z,user2,Initial approach for team division,team8
+2017-03-13T00:21:38Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-01T03:48:52Z,user1,Added proofread paper,team8
+2017-03-01T03:47:11Z,user1,Proofreading,team8
+2017-03-01T03:46:06Z,user1,Merge sharelatex-2017-03-01-0346 into master,team8
+2017-03-01T03:46:05Z,user1,Updates from ShareLaTeX,team8
+2017-03-01T02:17:09Z,user1,Adding first PDF in case things get messed up,team8
+2017-03-01T01:49:52Z,user1,Merge sharelatex-2017-03-01-0149 into master,team8
+2017-03-01T01:49:52Z,user1,Updates from ShareLaTeX,team8
+2017-03-01T01:49:05Z,user1,Adding approach 2 images,team8
+2017-03-01T01:48:16Z,user1,ignoring node packages,team8
+2017-03-01T01:29:07Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-02-28T20:54:27Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-02-28T20:53:39Z,user2,Fix #29 by additional check in members page,team8
+2017-02-28T20:11:42Z,user1,fixed #42 by adding permission check on profile route,team8
+2017-02-28T15:18:51Z,user1,Edits to approach 3 writeup,team8
+2017-02-28T15:09:20Z,user1,Added approach 3,team8
+2017-02-28T06:45:35Z,user2,Correct Google sign-in skill issue,team8
+2017-02-28T03:43:18Z,user2,Add edit profile option,team8
+2017-02-28T02:20:49Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-02-28T00:36:44Z,user1,Added an introduction and a discussion of approach 2,team8
+2017-02-27T22:03:32Z,user1,Added outline for February paper,team8
+2017-02-27T21:55:02Z,user1,starting stuff,team8
+2017-02-27T21:51:11Z,user1,Adding starter for Feb paper,team8
+2017-02-25T06:57:07Z,user4,add team config and teaminfo view,team8
+2017-02-24T02:40:45Z,user1,using other cli package for compatibility,team8
+2017-02-24T00:52:08Z,user4,fix signup bug,team8
+2017-02-23T21:44:58Z,user4,Merge branch 'approach3' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach3,team8
+2017-02-23T21:44:40Z,user4,add team view and function,team8
+2017-02-23T18:04:37Z,user2,Add header/footer with logout button,team8
+2017-02-23T01:51:53Z,user1,Marking spot for team algorithm,team8
+2017-02-23T01:30:59Z,user1,Now have a view for the teams page. This will need to be enhanced further. close #21,team8
+2017-02-23T00:53:10Z,user1,Fixed table display issue close #28 and added logout functionality to team page,team8
+2017-02-22T20:34:26Z,user2,Add signout funtion to app.js,team8
+2017-02-22T19:45:15Z,user1,Adding angular-cli instruction,team8
+2017-02-22T03:50:28Z,user1,close #23 Adding user data for new user created with email signup,team8
+2017-02-22T01:39:17Z,user1,close #22 user table now exists,team8
+2017-02-22T01:08:41Z,user1,Adding a teams view skeleton,team8
+2017-02-22T00:04:13Z,user1,Sample authentication code using the firebase db,team8
+2017-02-21T22:48:23Z,user1,Adding baseline Angular 2 project with Firebase components,team8
+2017-02-21T22:42:40Z,user1,Removing last project,team8
+2017-02-21T22:09:10Z,user3,Delete useful.PNG,team8
+2017-02-21T22:09:04Z,user3,Delete problems_finding_members.PNG,team8
+2017-02-21T22:08:59Z,user3,Delete prev_project_success.PNG,team8
+2017-02-21T22:08:53Z,user3,Delete online_person.PNG,team8
+2017-02-21T22:08:47Z,user3,Delete num_team_projects.PNG,team8
+2017-02-21T22:08:40Z,user3,Delete jan_paper.tex,team8
+2017-02-21T22:08:30Z,user3,Delete free_assigned.PNG,team8
+2017-02-21T22:08:25Z,user3,Delete assess_skill.PNG,team8
+2017-02-21T22:07:33Z,user3,Delete SE_17_S.pdf,team8
+2017-02-21T22:07:25Z,user3,Delete IEEEtran.cls,team8
+2017-02-21T22:05:41Z,,Approach1,team8
+2017-02-21T21:05:03Z,user1,adding git ignore and removing shell script,team8
+2017-02-21T20:42:27Z,user1,Adding starting point of approach 1,team8
+2017-02-21T19:12:51Z,user4,Update README.md,team8
+2017-02-21T04:49:58Z,user4,Merge branch 'approach3' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach3,team8
+2017-02-21T04:49:13Z,user4,fix redirect and auth,team8
+2017-02-21T00:39:30Z,user4,Update README.md,team8
+2017-02-21T00:35:31Z,user4,Update README.md,team8
+2017-02-21T00:34:36Z,user4,Create README.md,team8
+2017-02-21T00:22:00Z,user4,Rename README.md to AngularJS_guide.md,team8
+2017-02-20T23:35:25Z,user4,approach3-login-profile,team8
+2017-02-16T22:29:34Z,user1,adding readme,team8
+2017-02-16T22:27:45Z,user1,removing jan_paper from approach 2,team8
+2017-02-01T03:53:59Z,user1,Adding final paper,team8
+2017-02-01T03:52:41Z,user1,fixing keywords,team8
+2017-02-01T03:50:25Z,user1,Final paper changes,team8
+2017-01-28T19:05:15Z,user1,Merge sharelatex-2017-01-28-1905 into master,team8
+2017-01-28T19:05:14Z,user1,Updates from ShareLaTeX,team8
+2017-01-27T21:07:17Z,user1,Adding images from surveys for use in paper,team8
+2017-01-27T20:34:32Z,user1,Added an outline of research questions,team8
+2017-01-27T20:34:15Z,user1,Merge sharelatex-2017-01-27-2034 into master,team8
+2017-01-27T20:34:14Z,user1,Updates from ShareLaTeX,team8
+2017-01-26T22:38:13Z,user1,Create README.md,team8
+2017-01-26T22:34:52Z,user1,Test commit please ignore,team8
+2017-01-26T22:28:23Z,user1,adding paper template for January,team8
+2017-04-08T03:02:05Z,user1,removed white spaces in report,team9
+2017-04-08T00:57:53Z,user1,minor update to final report,team9
+2017-04-08T00:55:51Z,user1,minor update to final report,team9
+2017-04-08T00:48:40Z,user1,updating final report,team9
+2017-04-07T23:29:04Z,user1,April 7 Deliverable,team9
+2017-03-10T03:59:12Z,user2,"Merge pull request #37 from SidHeg/backend-branch
+
+qrcode display updated",team9
+2017-03-10T03:48:14Z,user2,qrcode display,team9
+2017-03-09T23:28:39Z,user1,sending qrc image to backend,team9
+2017-03-01T04:10:21Z,user2,"Merge pull request #35 from SidHeg/backend-branch
+
+completed feb report",team9
+2017-03-01T04:08:33Z,user2,completed feb report,team9
+2017-03-01T03:45:28Z,user3,feb report,team9
+2017-03-01T03:44:59Z,user3,deleting the report,team9
+2017-03-01T02:52:51Z,user3,Feb git logs,team9
+2017-03-01T02:43:30Z,user3,"Merge pull request #34 from SidHeg/unit_test_frontend
+
+Build script modified to support unit testing",team9
+2017-03-01T02:42:26Z,,Build script modified to support unit testing,team9
+2017-03-01T00:39:09Z,user3,Feb Report,team9
+2017-02-28T05:36:20Z,user2,"Merge pull request #33 from SidHeg/backend-branch
+
+finished",team9
+2017-02-28T05:32:34Z,user2,finished,team9
+2017-02-28T04:02:58Z,user3,"Merge pull request #31 from SidHeg/FBComm
+
+Fb comm",team9
+2017-02-28T04:02:04Z,,Frontend backend communication,team9
+2017-02-24T01:12:01Z,user3,HTTP rest api calls,team9
+2017-02-23T23:52:22Z,user2,adding backend directory,team9
+2017-02-23T23:09:12Z,user3,Deleting backend folder,team9
+2017-02-23T23:02:49Z,user2,"Merge pull request #30 from SidHeg/Backend
+
+backend code",team9
+2017-02-23T22:55:47Z,user2,backend code,team9
+2017-02-23T22:35:21Z,user3,Frontend backend communication - initial code,team9
+2017-02-23T17:44:23Z,user3,GPS fix,team9
+2017-02-23T08:59:15Z,user1,"Merge pull request #29 from SidHeg/qrc
+
+QRC",team9
+2017-02-23T08:57:26Z,user1,Fixed bug with generating QR Code for empty text,team9
+2017-02-23T08:04:57Z,user3,"Merge pull request #27 from SidHeg/GPS
+
+GPS Code development",team9
+2017-02-23T08:03:28Z,user3,GPS Code development,team9
+2017-02-22T21:31:17Z,user1,Minor UI Change and using Toast to view result of QR scanning instead of AlertDialog,team9
+2017-02-21T23:49:58Z,user1,"Merge pull request #26 from SidHeg/qrc
+
+basic QR code scanner",team9
+2017-02-21T23:47:13Z,user1,basic QR code scanner,team9
+2017-02-21T08:15:57Z,user2,Contains Backend code,team9
+2017-02-21T08:12:30Z,user3,"Merge pull request #25 from SidHeg/GPS
+
+GPS code development layout setup",team9
+2017-02-21T08:05:55Z,user3,GPS code development layout setup,team9
+2017-02-21T07:35:57Z,user1,"Merge pull request #24 from SidHeg/qrc
+
+Generating QR code from basic text",team9
+2017-02-21T06:59:14Z,user1,Generating QR code from basic text,team9
+2017-02-21T06:48:42Z,user2,Merge branch 'master' of https://github.com/SidHeg/se17-teamD,team9
+2017-02-21T06:44:53Z,user2,added backend code,team9
+2017-02-21T06:15:47Z,user2,Delete BackEnd,team9
+2017-02-21T06:14:42Z,user2,Contains Backend code,team9
+2017-02-20T07:24:16Z,user3,"Merge pull request #23 from SidHeg/NFC
+
+Cleanup code",team9
+2017-02-20T07:21:24Z,user3,Cleanup code,team9
+2017-02-20T06:35:47Z,user3,"Merge pull request #22 from SidHeg/NFC
+
+Nfc",team9
+2017-02-20T06:32:03Z,user3,NFC Writer completed,team9
+2017-02-20T05:43:25Z,user3,NFC Reader bug fix,team9
+2017-02-20T04:28:56Z,user3,NFC Write layout created,team9
+2017-02-20T04:02:26Z,user3,"Merge pull request #21 from SidHeg/NFC
+
+NFC Read completed",team9
+2017-02-20T03:59:17Z,user3,NFC Read completed,team9
+2017-02-20T00:58:38Z,user3,experimenting branch,team9
+2017-02-20T00:41:45Z,user3,NFC GPS QR Code Activity skeleton,team9
+2017-02-16T06:49:33Z,user3,Added Professor and Student activity,team9
+2017-02-16T05:40:16Z,user3,removing unwanted folder,team9
+2017-02-16T05:25:49Z,user3,FrontEnd initial code,team9
+2017-02-03T01:23:19Z,user1,added chit numbers,team9
+2017-01-31T20:58:33Z,user1,updating project report,team9
+2017-01-31T20:51:12Z,user1,updating project report,team9
+2017-01-31T07:42:45Z,user1,Uploading Project Report,team9
+2017-01-31T05:07:12Z,user2,Rename UserStudy to UserStudy_old,team9
+2017-01-31T01:36:52Z,user2,Update Literature Study,team9
+2017-01-30T16:50:57Z,user2,"Merge pull request #7 from SidHeg/siddharth
+
+Merge pull request #2 from SidHeg/master",team9
+2017-01-30T02:43:05Z,user3,deleting,team9
+2017-01-30T02:42:44Z,user3,Adding Paper to collabrate,team9
+2017-01-29T04:50:14Z,user3,adding NFC lit study,team9
+2017-01-29T04:42:08Z,user1,Minor edit,team9
+2017-01-29T04:41:38Z,user1,API for QR codes,team9
+2017-01-29T04:38:34Z,user1,Details about QR-Code Generator,team9
+2017-01-29T04:07:29Z,user1,Minor edit,team9
+2017-01-29T03:58:24Z,user1,Details about attendance system using QR code,team9
+2017-01-29T03:50:46Z,user3,Create Literature Study,team9
+2017-01-25T01:55:28Z,user3,creating user study - Attendance system,team9
+2017-01-24T01:20:10Z,user3,Creating user study,team9
+2017-01-21T08:00:38Z,user2,"Merge pull request #2 from SidHeg/master
+
+Pulling updated master branch",team9
+2017-01-20T21:02:51Z,user3,Adding the Cab Fare Estimation Idea,team9
+2017-01-20T18:28:41Z,user3,changes to password management idea,team9
+2017-01-20T18:21:48Z,user3,Adding Password management Idea,team9
+2017-01-19T07:02:29Z,user2,"Merge pull request #1 from SidHeg/siddharth
+
+1/19/2017",team9
+2017-01-19T07:00:05Z,user2,1/19/2017,team9
+2017-01-18T01:12:45Z,user3,Editing the idea,team9
+2017-01-18T01:09:27Z,user3,"Ideas file creation
+
+creating a new file to discuss ideas for the project",team9
+2017-01-14T19:02:38Z,user2,Initial commit,team9
+2017-04-08T03:37:04Z,user1,Final Report,team10
+2017-04-08T03:36:02Z,user2,Final upload of android app,team10
+2017-04-08T03:35:13Z,user2,Delete ReviewAnalysisApp.apk,team10
+2017-04-05T14:54:18Z,user2,Add files via upload,team10
+2017-04-05T09:32:57Z,user2,Android app,team10
+2017-04-05T09:32:38Z,user2,Delete ReviewAnalysisApp.apk,team10
+2017-04-05T09:32:08Z,user2,Add files via upload,team10
+2017-04-05T08:35:18Z,user2,Add files via upload,team10
+2017-04-05T08:34:54Z,user2,Incorporating evaluation changes,team10
+2017-04-04T04:55:44Z,user2,Adding background files,team10
+2017-04-04T04:54:58Z,user2,CSS changes,team10
+2017-04-04T04:53:13Z,user2,"Android App for Amazon Review Analysis
+
+Android App for Amazon Review Analysis Using Watson alchemy API",team10
+2017-04-04T02:22:07Z,user2,"Add files via upload
+
+Updating background",team10
+2017-04-04T02:21:41Z,user2,"Update style.css
+
+Updated styling",team10
+2017-04-04T00:47:44Z,user2,Update style.css,team10
+2017-04-03T14:28:48Z,user1,Small Change,team10
+2017-04-03T13:04:10Z,user1,Code to test Watson,team10
+2017-04-03T12:36:17Z,user1,Name Change,team10
+2017-04-03T12:34:46Z,user1,Deleting old stuff,team10
+2017-04-03T00:00:02Z,user1,Final Version of Chrome App,team10
+2017-03-30T18:12:54Z,user3,Add files via upload,team10
+2017-03-28T00:26:34Z,user1,Rapydjs Chrome Extension,team10
+2017-03-19T01:56:39Z,user1,Getting rid of junk,team10
+2017-03-19T01:54:13Z,user1,Chrome Extension using Python,team10
+2017-03-09T00:53:01Z,user2,Commit for android code,team10
+2017-03-01T03:52:53Z,user1,Add files via upload,team10
+2017-03-01T03:48:10Z,user1,Delete FebReport.pdf,team10
+2017-03-01T03:44:47Z,user1,Add files via upload,team10
+2017-03-01T03:22:40Z,user3,Add files via upload,team10
+2017-02-28T05:35:26Z,user3,Add files via upload,team10
+2017-02-28T03:45:43Z,user2,Add files via upload,team10
+2017-02-27T03:46:22Z,user4,Add files via upload,team10
+2017-02-27T03:45:21Z,user4,Add files via upload,team10
+2017-02-27T03:39:02Z,user4,Add files via upload,team10
+2017-02-27T02:55:08Z,user3,Add files via upload,team10
+2017-02-26T23:54:39Z,user1,Add files via upload,team10
+2017-02-26T17:09:54Z,user4,css and template,team10
+2017-02-25T18:34:50Z,user3,Add files via upload,team10
+2017-02-25T17:44:17Z,user2,Delete Feb report.docx,team10
+2017-02-25T17:43:48Z,user2,Web application approach,team10
+2017-02-25T17:39:33Z,user4,Add files via upload,team10
+2017-02-25T17:37:43Z,user2,"Report for Feb Deliverable
+
+Three approach to the problem + the accuracy of the chosen classifier",team10
+2017-02-25T16:50:10Z,user1,Create Amazon API for Retrieving Reviews,team10
+2017-02-25T16:39:00Z,user4,Add files via upload,team10
+2017-02-23T21:21:17Z,user4,Add files via upload,team10
+2017-02-23T16:20:48Z,user4,Add files via upload,team10
+2017-02-23T05:06:07Z,user4,Add files via upload,team10
+2017-02-23T05:05:28Z,user4,Delete Pform.py,team10
+2017-02-23T05:04:00Z,user4,Add files via upload,team10
+2017-02-23T05:03:37Z,user4,Delete codechef.py,team10
+2017-02-23T05:03:17Z,user4,Add files via upload,team10
+2017-02-21T23:28:08Z,user4,Add files via upload,team10
+2017-02-21T21:43:38Z,user4,Rename codechef.py to sentiment_analyzer.py,team10
+2017-02-21T21:23:28Z,user4,Add files via upload,team10
+2017-02-19T18:38:32Z,user2,"Python Code for Web page
+
+Download the file and run 
+pip install -r requirements.txt
+in your virtual environment folder",team10
+2017-02-19T17:19:12Z,user2,Add files via upload,team10
+2017-02-19T16:31:04Z,user1,Basic Chrome Extension,team10
+2017-02-11T00:00:44Z,user2,Update Sentiment Analysis Methods,team10
+2017-02-10T23:53:32Z,user2,Create Sentiment Analysis Methods,team10
+2017-02-01T04:35:55Z,user2,January Report,team10
+2017-01-29T21:19:08Z,user1,Add files via upload,team10
+2017-01-28T06:08:38Z,user1,Add files via upload,team10
+2017-01-26T00:10:13Z,user3,Update Selected papers to read,team10
+2017-01-26T00:07:00Z,user3,Update Selected papers to read,team10
+2017-01-25T23:59:06Z,user3,Update Selected papers to read,team10
+2017-01-25T23:44:11Z,user4,Update Selected papers to read,team10
+2017-01-25T23:43:11Z,user4,Update Selected papers to read,team10
+2017-01-25T23:41:56Z,user4,Update Selected papers to read,team10
+2017-01-25T23:40:01Z,user4,Update Selected papers to read,team10
+2017-01-25T23:36:32Z,user3,Create Selected papers to read,team10
+2017-01-24T18:07:02Z,user2,Update fake reviews ideas,team10
+2017-01-22T17:10:34Z,user3,Update Survey Questions,team10
+2017-01-22T17:04:15Z,user3,Update Survey Questions,team10
+2017-01-22T17:01:02Z,user3,Update fake reviews ideas,team10
+2017-01-22T16:56:45Z,user2,Create Survey Questions,team10
+2017-01-22T16:55:33Z,user2,Update fake reviews ideas,team10
+2017-01-22T16:45:24Z,user3,Update fake reviews ideas,team10
+2017-01-22T16:38:38Z,user3,Update fake reviews ideas,team10
+2017-01-22T16:35:47Z,user4,Create fake reviews ideas,team10
+2017-01-22T02:58:20Z,user2,Update README.md,team10
+2017-01-21T17:55:26Z,user2,Update Ideas,team10
+2017-01-21T17:52:42Z,user3,Update Ideas,team10
+2017-01-21T17:51:24Z,user1,"Delete Suggestions, Ideas",team10
+2017-01-21T17:47:46Z,user1,Update Ideas,team10
+2017-01-21T17:47:12Z,user2,Update Ideas,team10
+2017-01-21T17:45:55Z,user4,Update,team10
+2017-01-21T17:45:16Z,user2,Update Ideas,team10
+2017-01-21T17:44:22Z,user3,Update Ideas,team10
+2017-01-21T17:43:01Z,user4,Update,team10
+2017-01-21T17:42:37Z,user3,Update Ideas,team10
+2017-01-21T17:40:18Z,user2,"Update Suggestions, Ideas",team10
+2017-01-21T17:17:10Z,user3,Create Ideas,team10
+2017-01-21T17:09:04Z,user2,"Update Suggestions, Ideas",team10
+2017-01-21T16:30:23Z,user2,"Update and rename Personal Notes, Suggestions, Ideas to Suggestions, Ideas",team10
+2017-01-21T16:09:31Z,user1,"Update Personal Notes, Suggestions, Ideas",team10
+2017-01-18T21:47:22Z,user2,Update README.md,team10
+2017-01-18T21:46:24Z,user2,Update README.md,team10
+2017-01-18T21:44:09Z,user1,"Update Personal Notes, Suggestions, Ideas",team10
+2017-01-18T20:51:56Z,user1,"Update Personal Notes, Suggestions, Ideas",team10
+2017-01-17T19:47:42Z,user2,"Create Personal Notes, Suggestions, Ideas",team10
+2017-01-17T19:40:46Z,user2,Update README.md,team10
+2017-01-17T19:39:30Z,user2,Update README.md,team10
+2017-01-17T16:37:33Z,user2,Create README.md,team10
+2017-01-17T16:36:46Z,user2,Initial commit,team10

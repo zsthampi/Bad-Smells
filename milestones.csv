@@ -1,0 +1,108 @@
+closed_at,closed_issues,created_at,created_by,description,due_on,id,number,open_issues,state,team,title,updated_at
+,5,2017-02-16T19:58:12Z,user1,Creating a separate issue for this implementation to avoid cluttering up the generic Implementation issue,2017-02-24T08:00:00Z,2328351,11,2,open,team1,Implementation - Facial recognition,2017-03-08T03:24:21Z
+,6,2017-02-07T21:55:14Z,user2,Design structure of all 3 implementations,2017-02-28T08:00:00Z,2307047,9,2,open,team1,Design,2017-03-01T01:02:34Z
+,1,2017-02-07T21:54:07Z,user2,"Implementation of all 3 solutions - 2 android + 1 other OR 1 android + 2 other
+
+Voice, Facial, Engagement",2017-02-26T08:00:00Z,2307044,8,0,open,team1,Implementation,2017-03-01T00:58:25Z
+,2,2017-02-07T00:12:51Z,user1,Practice Android - Get Hello World working - get familiarized with framework/configurations - practice standard functionality such as a login/registration,2017-02-10T08:00:00Z,2304449,5,0,open,team1,Learn Android,2017-02-23T22:38:35Z
+,1,2017-02-07T21:52:33Z,user2,Test APIs within android app - total implementation not required,2017-02-13T08:00:00Z,2307042,7,0,open,team1,Facial/voice Recognition API,2017-02-19T00:42:31Z
+,0,2017-02-07T21:57:40Z,user2,Test all 3 implementations,2017-02-28T08:00:00Z,2307755,10,0,open,team1,Testing ,2017-02-07T22:26:18Z
+,8,2017-03-08T18:40:37Z,user1,Version 3 of Zap. Next major release.,2017-03-20T07:00:00Z,2372491,8,0,open,team2,v3,2017-04-13T20:15:09Z
+,1,2017-03-08T18:42:48Z,user1,Future release of zap with more enhancements and refinements.,2017-03-31T07:00:00Z,2372495,9,0,open,team2,v4,2017-04-13T20:14:13Z
+2017-03-15T17:54:08Z,1,2017-02-18T17:08:20Z,user1,The day we demo the application.,2017-03-14T07:00:00Z,2332067,7,0,closed,team2,Demo day,2017-03-15T17:54:08Z
+2017-03-08T18:41:27Z,12,2017-02-08T16:27:45Z,user3,,2017-03-31T07:00:00Z,2309836,6,0,closed,team2,Testing and debugging,2017-03-08T18:45:30Z
+2017-02-20T17:48:30Z,7,2017-02-08T16:26:56Z,user3,,2017-02-19T08:00:00Z,2309831,3,0,closed,team2,Fingerprint authentication complete,2017-02-20T17:48:30Z
+2017-02-20T17:48:28Z,6,2017-02-08T16:27:33Z,user3,,2017-02-19T08:00:00Z,2309835,5,0,closed,team2,Magic link setup complete,2017-02-20T17:48:28Z
+2017-02-20T17:42:31Z,3,2017-02-08T16:27:18Z,user3,,2017-02-19T08:00:00Z,2309833,4,0,closed,team2,Voice recognition setup complete,2017-02-20T17:42:31Z
+2017-02-13T01:52:05Z,3,2017-02-08T16:26:32Z,user3,Create files to supplement the file structure,2017-02-11T08:00:00Z,2309829,2,0,closed,team2,Setup UI for the app,2017-02-13T01:52:05Z
+2017-02-13T01:52:01Z,3,2017-02-08T16:25:50Z,user3,,2017-02-09T08:00:00Z,2309827,1,0,closed,team2,Code base setup,2017-02-13T01:52:01Z
+,2,2017-03-09T00:24:41Z,user1,Soft engg demo of Zap,2017-03-14T07:00:00Z,2373287,1,0,open,team2,Demo Day,2017-03-10T04:11:25Z
+,6,2017-02-06T15:46:32Z,user3,Develop and test main functions of website.,2017-02-18T08:00:00Z,2303050,3,0,open,team3,First Round Developing and Testing,2017-04-19T16:17:45Z
+,4,2017-02-06T15:22:40Z,user3,"Choose techniques for the application.
+Design prototypes for three approaches.",2017-02-09T08:00:00Z,2302972,1,0,open,team3,Prototype Design,2017-04-19T16:15:59Z
+,2,2017-02-06T15:53:40Z,user3,Talking about issues. Adjust initial design if there is a need.,2017-02-19T08:00:00Z,2303066,4,0,open,team3,Feedback and Adjustment ,2017-04-19T16:15:40Z
+,4,2017-02-06T15:35:12Z,user3,"Write functional specification.
+MVC design.",2017-02-12T08:00:00Z,2303013,2,0,open,team3,Technical Design,2017-04-19T16:15:24Z
+,1,2017-02-06T15:59:38Z,user3,Solve issues and add features.,2017-02-23T08:00:00Z,2303096,5,0,open,team3,Second Round Developing and Testing,2017-04-19T16:15:15Z
+2017-04-20T20:35:59Z,3,2017-03-16T22:11:36Z,user1,Stuff to do for evaluation,2017-03-19T07:00:00Z,2392039,4,0,closed,team4,Evaluation Plan,2017-04-20T20:35:59Z
+2017-04-20T20:35:58Z,2,2017-02-06T22:12:18Z,user1,"- User evaluation studies on the implementations. 
+- More details to be added soon",2017-03-31T07:00:00Z,2304189,3,0,closed,team4,March Milestone,2017-04-20T20:35:58Z
+2017-04-20T20:35:56Z,7,2017-02-06T22:09:30Z,user1,"- Code up 3 implementations to course selections and do a DEMO
+1. Peer to peer : Connect the right people to the right people. 
+2. Web Slurping : Get all info from the web, and present it on a web page. 
+3. Text Mining : Get course descriptions from the web and do a text mining approach. 
+",2017-02-28T08:00:00Z,2304184,2,0,closed,team4,February Milestone,2017-04-20T20:35:56Z
+2017-02-07T23:13:36Z,1,2017-01-26T23:34:14Z,user1,"- [ ] Find your users : A community of people who have a problem with X
+- [ ] Document a baseline : Document what problems people have with X
+- [ ] Conduct research : Look into how other people have solved X (using software)
+- [ ] Lightning talk : short minute briefing (20 slides * 20 seconds each to class on your problem) must include notes on your proposed solution",2017-01-31T08:00:00Z,2281219,1,0,closed,team4,January Milestone,2017-02-07T23:13:36Z
+2017-04-11T21:40:58Z,3,2017-02-06T20:00:50Z,user2,"Need to use Twitter and Facebook APIs to post to respective pages. May also explore adding media (images, video) as well.",2017-02-28T08:00:00Z,2303921,5,0,closed,team5,Explore feasibility of automatic posts to Twitter and Facebook page,2017-04-11T21:40:58Z
+2017-04-11T21:40:55Z,4,2017-02-06T20:00:07Z,user2,Get basic features up and running. Needs website that can handle periodic news updates.,2017-02-28T08:00:00Z,2303919,4,0,closed,team5,Get Server Side framework up and running,2017-04-11T21:40:55Z
+2017-04-11T21:40:54Z,0,2017-02-06T19:56:37Z,user2,Run basic test to determine how to implement text to speech.,2017-02-28T08:00:00Z,2303909,2,0,closed,team5,Test Text to Speech using JS or Python,2017-04-11T21:40:54Z
+2017-04-11T21:40:50Z,0,2017-02-06T19:57:42Z,user2,Use SMS Api to send messages to a test device. Determine if this is a feasible plan or if Email should be used instead of SMS.,2017-02-28T08:00:00Z,2303910,3,0,closed,team5,Find and Test SMS API,2017-04-11T21:40:50Z
+2017-04-11T21:40:47Z,0,2017-02-07T21:48:05Z,user3,Better Python API than newspaper. (erratic output from newspaper api),2017-02-23T08:00:00Z,2307032,6,0,closed,team5,API for summarized news,2017-04-11T21:40:47Z
+,18,2017-01-20T15:25:23Z,user1,"+ Propose 3 different ways to solve X
++ Code demos showing the 3 solutions
++ Materials required for user eval sessions.",2017-02-28T08:00:00Z,2267276,2,0,open,team6,FEB Milestone,2017-03-14T03:17:52Z
+,0,2017-02-09T14:55:46Z,user1,,,2312070,4,0,open,team6,APR milestone,2017-02-09T14:55:46Z
+,0,2017-02-09T14:55:34Z,user1,,,2312067,3,0,open,team6,MAR Milestone,2017-02-09T14:55:34Z
+2017-01-31T01:48:43Z,10,2017-01-18T05:06:54Z,user1,"Conduct research on problems regarding a certain topic
+
+Find volunteers for project testing/surveys
+
+Find a group of users with experience of a particular problem
+
+Conduct research on how people have tried to solve the problem (using software)
+
+Prepare a briefing that includes but not limited to 3 different proposed solutions
+",2017-01-31T08:00:00Z,2260454,1,0,closed,team6,JAN Milestone,2017-01-31T01:48:43Z
+,1,2017-02-06T15:44:01Z,user2,Have to implement the rest of the project by this date as later testing has to be implemented,2017-02-24T08:00:00Z,2303043,9,0,open,team7,Completion of other 2 methods,2017-02-27T14:37:10Z
+,1,2017-02-06T15:43:05Z,user2,After deciding implementing the first method and keep it later for testing and outlier cases,2017-02-17T08:00:00Z,2303042,8,0,open,team7,Completion of the Interface and implementation of 1st method,2017-02-19T00:49:01Z
+2017-02-06T15:37:58Z,1,2017-01-29T15:58:28Z,user2,Have to complete the above-given wok division things by 2.00 pm Tuesday.,2017-01-31T08:00:00Z,2284810,6,0,closed,team7,20 20 Project Presentation,2017-02-07T21:48:56Z
+2017-02-06T15:38:04Z,1,2017-01-28T22:20:06Z,user2,As per the check-list in the issue named 1st Report,2017-01-29T08:00:00Z,2284268,5,0,closed,team7,Project Report,2017-02-07T21:48:47Z
+2017-01-28T22:19:14Z,1,2017-01-26T14:15:13Z,user2,,,2280089,2,0,closed,team7,Paper link sharing by 9 pm ,2017-02-07T21:47:18Z
+,1,2017-02-06T15:41:50Z,user2,"Decide the topics and feasibility of all the methods and finalize the method which we have to do also think of how to implement it.
+Of all the different method mentioned in the issues.",2017-02-10T08:00:00Z,2303040,7,0,open,team7,Brain Storming of ideas and finalizing the three ways ,2017-02-07T21:34:42Z
+,0,2017-02-06T15:44:55Z,user2,By 28th do all the testing and try to make the best possible implementation.,2017-02-28T08:00:00Z,2303046,10,0,open,team7,Testing,2017-02-06T15:45:15Z
+2017-01-28T22:19:20Z,0,2017-01-26T14:23:55Z,user2,"- We will divide the report making and the presentation work in between all of us and by Sunday we should be done with both the things.
+- We have to meet on all the three days i.e. Friday, Saturday as well as Sunday.
+- The reason being the presenter can once go through things and if any problems we can sort it out on Monday.
+- As later next week we might all get a busy cause of the career fair and might not get all things done and loose some points.
+- It's better to start ASAP.",2017-01-28T08:00:00Z,2280106,4,0,closed,team7,Start making the Presentation,2017-01-28T22:19:20Z
+2017-01-28T22:19:16Z,0,2017-01-26T14:19:37Z,user2,"- We have to by tomorrow summarize all the literature and also cover up all the questions which are important with respect to the report.
+- Division of work between all of us which should be done by Saturday.
+- We are not only concentrating on a classrooms it can be career fairs, or conferences or annual meetups and other things.
+- Think in this dimension so we will be at least above the rest of the teams did you'll got it.",2017-01-27T08:00:00Z,2280097,3,0,closed,team7,Analyzing from the responses and evaluation the different results,2017-01-28T22:19:16Z
+2017-01-25T15:17:39Z,0,2017-01-24T22:58:00Z,user2,"Do the questions and post the google form by January 24rd, 2017.
+Latest by 9.00pm
+
+Posted on Slack all done.",,2275840,1,0,closed,team7,Survey Questions Completion,2017-01-25T15:18:29Z
+,4,2017-01-26T22:00:41Z,user1,Study github issues,2017-04-07T07:00:00Z,2281097,3,0,open,team8,March Milestone (Due April 7),2017-04-18T19:26:54Z
+2017-03-30T21:25:12Z,18,2017-02-22T00:48:16Z,user1,,2017-03-14T07:00:00Z,2339339,8,0,closed,team8,Approach 2,2017-04-06T21:29:05Z
+2017-03-30T21:25:34Z,0,2017-02-07T17:48:55Z,user2,Testing all the parts of the project.,2017-02-27T08:00:00Z,2306424,6,0,closed,team8,Testing,2017-03-30T21:25:34Z
+2017-03-30T21:25:27Z,0,2017-03-01T15:13:22Z,timm,,,2356328,9,0,closed,team8,"mits from on eperson, ever, on this roject",2017-03-30T21:25:27Z
+2017-03-30T21:25:15Z,4,2017-02-07T17:48:32Z,user2,,2017-02-23T08:00:00Z,2306423,5,0,closed,team8,Coding and implementation,2017-03-30T21:25:15Z
+2017-02-23T01:38:11Z,1,2017-02-07T18:01:54Z,user2,Complete this before starting on other approaches,2017-02-23T08:00:00Z,2306466,7,0,closed,team8,Core implementation,2017-02-23T01:38:11Z
+2017-02-22T00:48:07Z,4,2017-02-07T17:47:41Z,user2,"Since design is the most important part for any project, let us finalize this first.",2017-02-11T08:00:00Z,2306422,4,0,closed,team8,Finalize design for all approaches,2017-02-22T00:48:07Z
+2017-02-07T00:43:38Z,5,2017-01-26T22:00:06Z,user1,The research paper among other things,2017-01-31T08:00:00Z,2281094,1,0,closed,team8,January Deadline,2017-02-07T00:43:38Z
+2017-02-28T05:30:14Z,8,2017-02-07T21:20:35Z,user3,"Study and Implement the code for all three solutions
+1. NFC
+2. GPS
+3. QR Code
+
+Simultaneously test the features.",2017-02-28T08:00:00Z,2306939,2,0,closed,team9,Code development and Testing,2017-02-28T05:30:14Z
+2017-02-28T05:30:11Z,2,2017-02-07T21:22:11Z,user3,Final system testing and deployment as Android application,2017-02-28T08:00:00Z,2306942,3,0,closed,team9,Final Testing and Deployment,2017-02-28T05:30:11Z
+2017-02-14T04:32:00Z,4,2017-02-07T21:18:22Z,user3,"Coming up with the high level design.
+- Front End
+- Back End
+- Analysis of System Requirements and finding APIs 
+",2017-02-13T08:00:00Z,2306932,1,0,closed,team9,Software Design ,2017-02-14T04:32:00Z
+2017-02-07T21:57:25Z,5,2017-02-07T21:54:29Z,user2,"- Come up with ideas
+- User Survey
+- Literature Review
+- Create Project Report
+- Create Presentation",2017-01-31T08:00:00Z,2307045,4,0,closed,team9,Requirement Analysis,2017-02-09T09:05:34Z
+,8,2017-02-06T22:38:46Z,user2,Pre-process Amazon Data from: http://jmcauley.ucsd.edu/data/amazon/,2017-02-28T08:00:00Z,2304228,4,0,open,team10,February Milestone,2017-02-27T04:40:35Z
+2017-02-06T22:38:57Z,6,2017-01-26T19:37:29Z,user2,,2017-01-31T08:00:00Z,2280839,1,0,closed,team10,January Milestone,2017-02-06T22:38:57Z
+2017-02-06T22:38:55Z,1,2017-01-27T16:08:37Z,user3,Related papers should be read and summarized.,2017-01-28T08:00:00Z,2282605,2,0,closed,team10,Paper summarization  ,2017-02-06T22:38:55Z
+2017-02-06T22:37:49Z,0,2017-01-27T16:32:23Z,user3,,2017-01-30T08:00:00Z,2282665,3,0,closed,team10,Statistics extraction from the survey ,2017-02-06T22:37:49Z
