@@ -34,7 +34,7 @@ import numpy as np
 import pandas as pd
 data = []
 team = None
-users = {'team8': {'sshankjha': 'user2', 'jdeng8': 'user4', 'bhaskarsinha1311': 'user3', 'effat': 'effat', 'MichaelGoff': 'user1', 'timm': 'timm'}, 'team9': {'mohits19': 'user1', 'SidHeg': 'user2', 'effat': 'effat', 'saravanan19': 'user3', 'timm': 'timm'}, 'team4': {'adrianluan': 'user3', 'zsthampi': 'user1', 'effat': 'effat', 'fuzailm1': 'user2', 'timm': 'timm'}, 'team5': {'bhushan9': 'user1', 'ZacheryThomas': 'user2', 'effat': 'effat', 'rnambis': 'user3', 'timm': 'timm'}, 'team6': {'mfarve1': 'user3', 'effat': 'effat', 'ChristineTzeng': 'user2', 'genterist': 'user1', 'genterist2': 'user4', 'timm': 'timm'}, 'team7': {'harshalgala': 'user2', 'qiufengyu21': 'user1', 'effat': 'effat', 'gosavipooja': 'user3', 'timm': 'timm'}, 'team1': {'karanjadhav2508': 'user1', 'effat': 'effat', 'alokozai': 'user2', 'smscoggi': 'user3', 'timm': 'timm'}, 'team2': {'thegreyd': 'user1', 'DevArenaCN': 'user3', 'effat': 'effat', 'KaustubhG': 'user2', 'timm': 'timm'}, 'team3': {'popoosl': 'user3', 'effat': 'effat', 'Rushi-Bhatt': 'user1', 'dndesai': 'user2', 'timm': 'timm','czhao13rm':'user4'}, 'team10': {'Sanand007': 'user4', 'effat': 'effat', 'ecdraayer': 'user1', 'syazdan25': 'user2', 'timm': 'timm', 'MahnazBehroozi': 'user3'}}
+users = {'team8': {'sshankjha': 'user2','Shashank Jha': 'user2', 'jdeng8': 'user4', 'bhaskarsinha1311': 'user3', 'Bhaskar Sinha': 'user3', 'effat': 'effat', 'MichaelGoff': 'user1', 'timm': 'timm'}, 'team9': {'mohits19': 'user1', 'SidHeg': 'user2', 'effat': 'effat', 'saravanan19': 'user3', 'sbalasu7': 'user3', 'timm': 'timm'}, 'team4': {'adrianluan': 'user3', 'zsthampi': 'user1', 'effat': 'effat', 'fuzailm1': 'user2', 'timm': 'timm'}, 'team5': {'bhushan9': 'user1', 'ZacheryThomas': 'user2', 'effat': 'effat', 'rnambis': 'user3', 'timm': 'timm'}, 'team6': {'mfarve1': 'user3', 'effat': 'effat', 'ChristineTzeng': 'user2', 'genterist': 'user1', 'genterist2': 'user4', 'timm': 'timm'}, 'team7': {'harshalgala': 'user2', 'qiufengyu21': 'user1', 'effat': 'effat', 'gosavipooja': 'user3', 'pigosavi': 'user3', 'timm': 'timm'}, 'team1': {'karanjadhav2508': 'user1','Karan Jadhav': 'user1', 'effat': 'effat', 'alokozai': 'user2', 'smscoggi': 'user3', 'timm': 'timm'}, 'team2': {'thegreyd': 'user1', 'DevArenaCN': 'user3', 'effat': 'effat', 'KaustubhG': 'user2', 'timm': 'timm'}, 'team3': {'popoosl': 'user3', 'effat': 'effat', 'Rushi-Bhatt': 'user1', 'dndesai': 'user2', 'timm': 'timm','czhao13rm':'user4','Chen':'user4'}, 'team10': {'Sanand007': 'user4', 'effat': 'effat', 'ecdraayer': 'user1', 'syazdan25': 'user2', 'timm': 'timm', 'MahnazBehroozi': 'user3'}}
 
 class L():
   "Anonymous container"
@@ -80,7 +80,7 @@ def dump2(u):
     if commit['author']:
       commits_data['created_by'] = users[team][str(commit['author']['login'])]
     else:
-      commits_data['created_by'] = None
+      commits_data['created_by'] = users[team][str(commit['commit']['author']['name'])]
     commits_data['created_at'] = commit['commit']['author']['date']
     commits_data['message'] = commit['commit']['message']
     data.append(commits_data)
@@ -115,6 +115,7 @@ start = [('team1',['karanjadhav2508/kqsse17']),
 ('team10',['syazdan25/SE17-Project'])]
 
 for team,repos in start:
+  print (team)
   for repo in repos:
     launchDump(repo)
 

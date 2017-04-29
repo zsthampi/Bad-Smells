@@ -1,4 +1,26 @@
 created_at,created_by,message,team
+2017-04-28T21:42:31Z,user1,data for 3 repositories including milestone data,team1
+2017-04-28T21:41:49Z,user1,creating new data folder,team1
+2017-04-28T21:40:25Z,user1,removed token,team1
+2017-04-28T21:36:56Z,user1,includes milestone data,team1
+2017-04-28T01:03:40Z,user1,removing duplicate gitable script,team1
+2017-04-28T01:03:21Z,user1,removed token,team1
+2017-04-28T01:02:19Z,user1,removed token,team1
+2017-04-27T20:20:17Z,user1,added extractors,team1
+2017-04-27T19:16:24Z,user1,comments on extractors,team1
+2017-04-26T21:58:40Z,user3,Create Extracter questions,team1
+2017-04-26T20:57:06Z,user1,"customized gitable.py script
+
+includes issues with no labels",team1
+2017-04-26T20:25:27Z,user1,"comparison of data fields
+
+group-h's script and last year's group's data fields comparison",team1
+2017-04-25T18:58:53Z,user1,"Anonymized Data for three groups' github repos
+
+data folder contains two sub folders
+""changed"" and ""unchanged""
+the first includes data from unlabelled issues
+the second does not include data from unlabelled issues. only from labelled ones",team1
 2017-04-07T23:45:25Z,user1,Final report march,team1
 2017-04-06T04:38:08Z,user2,final classes voice tested,team1
 2017-03-09T01:43:55Z,user1,code clean up and Kairos consts separation,team1
@@ -7,7 +29,7 @@ created_at,created_by,message,team
 save all fields in database..working on voice",team1
 2017-03-08T05:06:52Z,user1,parseJSON method and existing face check,team1
 2017-03-08T03:36:17Z,user1,buildResponse method added,team1
-2017-03-07T02:52:01Z,,Attendance_Viewing,team1
+2017-03-07T02:52:01Z,user1,Attendance_Viewing,team1
 2017-03-03T19:33:26Z,user2,"Update db pi voice
 
 reading sound file.....confusion...",team1
@@ -53,7 +75,7 @@ Language, IDE decision processes",team1
 This is to describe the requirements for the ""engagement/quiz"" implementation.",team1
 2017-02-21T21:10:24Z,user1,App refinement,team1
 2017-02-19T01:30:10Z,user1,Base64 and REST api,team1
-2017-02-18T19:53:36Z,,photo capturing,team1
+2017-02-18T19:53:36Z,user1,photo capturing,team1
 2017-02-15T19:39:28Z,user1,Screenshot of response of the above tests,team1
 2017-02-15T19:38:37Z,user1,Enroll  and verify of image,team1
 2017-02-01T02:13:18Z,user3,Add files via upload,team1
@@ -468,21 +490,21 @@ April 7 report",team3
 2017-03-18T18:10:05Z,user1,DropDown&feedbackUI,team3
 2017-03-15T17:33:57Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
 2017-03-15T17:33:48Z,user1,gemfile,team3
-2017-03-15T17:30:55Z,,new,team3
-2017-03-15T16:07:55Z,,suggestion new,team3
-2017-03-15T16:06:09Z,,suggestion,team3
+2017-03-15T17:30:55Z,user4,new,team3
+2017-03-15T16:07:55Z,user4,suggestion new,team3
+2017-03-15T16:06:09Z,user4,suggestion,team3
 2017-03-15T14:18:02Z,user1,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
 2017-03-15T14:17:45Z,user1,Visual representations for feedback,team3
 2017-03-15T03:06:51Z,user3,tests of models and views,team3
 2017-03-15T02:47:40Z,user1,Merge resolved,team3
 2017-03-15T02:44:59Z,user1,Course-eval-give&getfeedback,team3
 2017-03-15T00:43:52Z,user3,fix initial tests,team3
-2017-03-10T21:25:47Z,,suggestion,team3
-2017-03-09T23:30:42Z,,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
-2017-03-09T23:28:25Z,,suggestion,team3
+2017-03-10T21:25:47Z,user4,suggestion,team3
+2017-03-09T23:30:42Z,user4,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-03-09T23:28:25Z,user4,suggestion,team3
 2017-03-09T21:14:09Z,user3,forum,team3
 2017-03-09T00:42:50Z,user3,Merge remote-tracking branch 'refs/remotes/origin/master',team3
-2017-03-08T22:44:28Z,,suggestion,team3
+2017-03-08T22:44:28Z,user4,suggestion,team3
 2017-03-08T22:01:54Z,user3,forum,team3
 2017-03-05T17:15:29Z,user2,Add files via upload,team3
 2017-03-05T17:15:01Z,user2,Delete SE_FEB_END_REPORT .pdf,team3
@@ -491,7 +513,7 @@ April 7 report",team3
 2017-03-01T01:25:34Z,user1,Prof_rating_controller,team3
 2017-02-28T05:45:14Z,user3,forum,team3
 2017-02-28T05:43:00Z,user3,forum,team3
-2017-02-28T05:41:49Z,,Solution 3,team3
+2017-02-28T05:41:49Z,user4,Solution 3,team3
 2017-02-26T02:36:58Z,user1,Final db schema and model validation,team3
 2017-02-25T03:27:49Z,user1,Questionnaire,team3
 2017-02-23T20:18:09Z,user3,forum,team3
@@ -502,11 +524,11 @@ April 7 report",team3
 2017-02-22T05:39:19Z,user3,fix CSS,team3
 2017-02-22T04:43:59Z,user3,solve conflits,team3
 2017-02-22T04:19:26Z,user3,reviews v1,team3
-2017-02-22T03:16:59Z,,login in and sign up,team3
+2017-02-22T03:16:59Z,user4,login in and sign up,team3
 2017-02-21T20:31:30Z,user3,fix user model (email),team3
-2017-02-21T02:54:03Z,,git change ignore,team3
-2017-02-21T02:47:46Z,,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
-2017-02-21T02:45:57Z,,change git ignore,team3
+2017-02-21T02:54:03Z,user4,git change ignore,team3
+2017-02-21T02:47:46Z,user4,Merge branch 'master' of https://github.com/Rushi-Bhatt/SE17-Team-K,team3
+2017-02-21T02:45:57Z,user4,change git ignore,team3
 2017-02-21T02:45:21Z,user1,Model creation,team3
 2017-02-21T02:20:44Z,user1,Migration changes,team3
 2017-02-21T02:08:51Z,user1,Merge resolved,team3
@@ -537,33 +559,33 @@ Updated spelling mistakes in Report",team4
 2017-03-19T23:41:47Z,user3,"add all courses to the db, allow user to comment",team4
 2017-03-17T00:11:26Z,user2,Update Gemfile,team4
 2017-03-17T00:08:29Z,user2,Delete Gemfile.lock,team4
-2017-03-08T04:12:19Z,,Added Unit Tests,team4
+2017-03-08T04:12:19Z,user1,Added Unit Tests,team4
 2017-03-02T22:02:17Z,user3,Add files via upload,team4
-2017-02-28T00:11:58Z,,Minor fixes to text mining JS,team4
+2017-02-28T00:11:58Z,user1,Minor fixes to text mining JS,team4
 2017-02-28T00:11:23Z,user3,text minning page added,team4
 2017-02-27T22:23:13Z,user2,February Report,team4
 2017-02-27T22:22:56Z,user2,Delete Feb Report.pdf,team4
 2017-02-27T22:15:39Z,user2,Add files via upload,team4
 2017-02-27T22:15:21Z,user2,Delete Feb report.docx,team4
 2017-02-27T21:23:03Z,user2,Add files via upload,team4
-2017-02-25T22:17:26Z,,Added installation steps on text mining,team4
-2017-02-24T20:37:33Z,,Passing requirement dictionary as a JSON parameter,team4
+2017-02-25T22:17:26Z,user1,Added installation steps on text mining,team4
+2017-02-24T20:37:33Z,user1,Passing requirement dictionary as a JSON parameter,team4
 2017-02-23T21:22:35Z,user3,"Make grade distribution sortable, added link to course",team4
 2017-02-21T21:41:21Z,user2,Grade Distribution Data Collection,team4
-2017-02-21T19:34:42Z,,Text mining : Added code to parse online PDF to text,team4
-2017-02-21T17:57:30Z,,Updated text mining code,team4
+2017-02-21T19:34:42Z,user1,Text mining : Added code to parse online PDF to text,team4
+2017-02-21T17:57:30Z,user1,Updated text mining code,team4
 2017-02-21T17:05:23Z,user3,add grade distribution,team4
 2017-02-20T20:19:11Z,user3,add course page,team4
 2017-02-19T21:28:13Z,user3,"dry the code, put navigation bar in application.html.erb",team4
 2017-02-19T17:43:06Z,user3,"add pictures and paginate to course list, however, need to fix the color of the link on hover",team4
 2017-02-19T17:14:09Z,user3,"added pictures and paginate into course list, but need to fix the color of the link of the title of the course on hover",team4
-2017-02-19T00:12:58Z,,Created JS script that pulls data from Piazza,team4
+2017-02-19T00:12:58Z,user1,Created JS script that pulls data from Piazza,team4
 2017-02-18T19:41:15Z,user3,Message,team4
 2017-02-18T19:10:56Z,user3,Website initial content,team4
-2017-02-17T00:11:49Z,,Pilot with Piazza API - JS Script,team4
-2017-02-13T04:27:43Z,,Course Description and details from Fall 2010 - Spring 2017,team4
-2017-02-08T23:03:51Z,,Python code for collecting data on Course Description and details,team4
-2017-02-01T00:07:55Z,,Jan Report,team4
+2017-02-17T00:11:49Z,user1,Pilot with Piazza API - JS Script,team4
+2017-02-13T04:27:43Z,user1,Course Description and details from Fall 2010 - Spring 2017,team4
+2017-02-08T23:03:51Z,user1,Python code for collecting data on Course Description and details,team4
+2017-02-01T00:07:55Z,user1,Jan Report,team4
 2017-02-01T00:05:17Z,user2,Delete SE Project Report Jan.docx,team4
 2017-01-30T20:26:26Z,user2,"Add files via upload
 
@@ -578,15 +600,15 @@ Adrian",team4
 2017-01-26T23:23:22Z,user1,"Create chits.txt
 
 Added file for chits",team4
-2017-01-23T20:28:51Z,,Added review of research papers,team4
-2017-01-19T03:58:59Z,,Added another project idea,team4
+2017-01-23T20:28:51Z,user1,Added review of research papers,team4
+2017-01-19T03:58:59Z,user1,Added another project idea,team4
 2017-01-18T22:48:34Z,user1,Fixed the project,team4
 2017-01-18T22:42:21Z,user2,"Update Project Ideas.txt
 
 Decided on one topic and probed further into potential parameters.",team4
-2017-01-18T14:51:48Z,,Another project idea,team4
-2017-01-18T00:45:17Z,,Added some project ideas,team4
-2017-01-17T22:07:12Z,,First Commit,team4
+2017-01-18T14:51:48Z,user1,Another project idea,team4
+2017-01-18T00:45:17Z,user1,Added some project ideas,team4
+2017-01-17T22:07:12Z,user1,First Commit,team4
 2017-04-14T01:06:42Z,user1,csv file for issues,team5
 2017-04-13T03:55:23Z,user2,Update README.md,team5
 2017-04-08T02:08:35Z,user2,Updated Final Report,team5
@@ -848,6 +870,7 @@ This reverts commit 914e5e0613e0076bacdaf77f7917c5eb88e5fa18.",team6
 2017-01-18T04:30:50Z,user1,Update README.md,team6
 2017-01-17T19:06:06Z,user1,Update README.md,team6
 2017-01-17T19:03:51Z,user1,Initial commit,team6
+2017-04-25T21:38:25Z,user3,Bad Smell Detection Folder,team7
 2017-04-08T02:24:35Z,user1,Add files via upload,team7
 2017-04-08T02:13:02Z,user1,Add files via upload,team7
 2017-03-01T02:06:34Z,user2,Add files via upload,team7
@@ -891,131 +914,293 @@ This reverts commit 914e5e0613e0076bacdaf77f7917c5eb88e5fa18.",team6
 2017-01-12T01:48:59Z,user2,Update Ideas.md,team7
 2017-01-12T01:48:07Z,user2,Create Ideas.md,team7
 2017-01-12T00:38:00Z,user2,Initial commit,team7
+2017-04-28T20:40:17Z,user1,Merge sharelatex-2017-04-28-2039 into master,team8
+2017-04-28T20:40:16Z,user1,Adding Michael's figure discussion.,team8
+2017-04-28T20:25:10Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-28T20:24:51Z,user4,predict,team8
+2017-04-28T15:18:00Z,user1,Merge sharelatex-2017-04-28-1517 into master,team8
+2017-04-28T15:17:59Z,user1,Updates from ShareLaTeX,team8
+2017-04-28T05:15:11Z,user4,move distribution graphs,team8
+2017-04-28T05:12:19Z,user4,number of comments per issue distribution,team8
+2017-04-28T04:56:29Z,user4,commit vs time,team8
+2017-04-28T04:08:04Z,user4,milestone time,team8
+2017-04-28T03:59:03Z,user4,relationship between comment and issue time,team8
+2017-04-28T03:57:43Z,user4,relationship between comment and issue time,team8
+2017-04-28T03:52:05Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-28T03:51:56Z,user4,fix space,team8
+2017-04-28T03:47:28Z,user1,Adding some more pictures,team8
+2017-04-28T03:37:28Z,user1,Merge sharelatex-2017-04-28-0337 into master,team8
+2017-04-28T03:37:27Z,user1,Added data content,team8
+2017-04-28T03:34:34Z,user4,user commit percentage,team8
+2017-04-28T02:58:13Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-28T02:57:23Z,user4,distribution graphs,team8
+2017-04-27T20:08:25Z,user1,"Merge pull request #51 from NCSU-SE-Spring-17/sharelatex-2017-04-27-2004
+
+Sharelatex 2017 04 27 2004",team8
+2017-04-27T20:08:08Z,user1,Merge branch 'master' into sharelatex-2017-04-27-2004,team8
+2017-04-27T20:05:00Z,user1,Updates from ShareLaTeX,team8
+2017-04-27T19:52:27Z,user1,removing duplicate image,team8
+2017-04-26T01:29:40Z,user1,Paper progress. Added figures and started explanations,team8
+2017-04-26T01:29:40Z,user1,Paper progress. Added figures and started explanations,team8
+2017-04-25T07:58:01Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-25T07:58:01Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-25T07:56:31Z,user4,graphs of data analysis,team8
+2017-04-25T07:56:31Z,user4,graphs of data analysis,team8
+2017-04-24T20:06:05Z,user2,Add check for null authors,team8
+2017-04-24T20:06:05Z,user2,Add check for null authors,team8
+2017-04-24T19:07:41Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-24T19:07:41Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-23T00:14:10Z,user2,Change git-api script to correct milestone issue,team8
+2017-04-23T00:14:10Z,user2,Change git-api script to correct milestone issue,team8
+2017-04-22T23:53:55Z,user2,Add config file for running script,team8
+2017-04-22T23:53:55Z,user2,Add config file for running script,team8
+2017-04-22T23:36:43Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-22T23:36:43Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-22T23:36:19Z,user2,Add git-api script,team8
+2017-04-22T23:36:19Z,user2,Add git-api script,team8
+2017-04-22T19:18:08Z,user1,Adding start template for April paper,team8
+2017-04-22T19:01:48Z,user1,Adding template stuff for april paper,team8
 2017-04-08T03:09:00Z,user1,Adding final paper,team8
 2017-04-08T03:03:03Z,user1,Final Draft,team8
 2017-04-08T02:31:19Z,user1,Rough Draft,team8
 2017-04-07T03:35:34Z,user1,Latest stuff,team8
 2017-04-05T01:43:02Z,user1,Adding analysis for approach 2,team8
+2017-04-04T17:34:48Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
+2017-04-04T17:34:48Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
 2017-04-03T17:22:47Z,user1,Added march paper section,team8
 2017-04-03T17:19:15Z,user1,Merge sharelatex-2017-04-03-1719 into master,team8
 2017-04-03T17:19:14Z,user1,Updates from ShareLaTeX,team8
 2017-03-31T00:37:49Z,user2,Merge branch 'approach1',team8
+2017-03-31T00:37:49Z,user2,Merge branch 'approach1',team8
+2017-03-31T00:36:43Z,user2,Resolve conflicts for merge,team8
 2017-03-31T00:36:43Z,user2,Resolve conflicts for merge,team8
 2017-03-31T00:18:20Z,user3,Delete README.md,team8
+2017-03-31T00:18:20Z,user3,Delete README.md,team8
+2017-03-31T00:12:53Z,user2,"Merge pull request #49 from NCSU-SE-Spring-17/approach3
+
+Approach3",team8
 2017-03-31T00:12:53Z,user2,"Merge pull request #49 from NCSU-SE-Spring-17/approach3
 
 Approach3",team8
 2017-03-31T00:12:38Z,user2,"Merge pull request #48 from NCSU-SE-Spring-17/approach2
 
 Approach2",team8
+2017-03-31T00:12:38Z,user2,"Merge pull request #48 from NCSU-SE-Spring-17/approach2
+
+Approach2",team8
+2017-03-30T21:47:54Z,user3,Delete font-awesome.scss,team8
 2017-03-30T21:47:54Z,user3,Delete font-awesome.scss,team8
 2017-03-30T21:47:48Z,user3,Delete _variables.scss,team8
+2017-03-30T21:47:48Z,user3,Delete _variables.scss,team8
+2017-03-30T21:47:40Z,user3,Delete _stacked.scss,team8
 2017-03-30T21:47:40Z,user3,Delete _stacked.scss,team8
 2017-03-30T21:47:34Z,user3,Delete _rotated-flipped.scss,team8
+2017-03-30T21:47:34Z,user3,Delete _rotated-flipped.scss,team8
+2017-03-30T21:47:28Z,user3,Delete _path.scss,team8
 2017-03-30T21:47:28Z,user3,Delete _path.scss,team8
 2017-03-30T21:47:23Z,user3,Delete _mixins.scss,team8
+2017-03-30T21:47:23Z,user3,Delete _mixins.scss,team8
+2017-03-30T21:47:17Z,user3,Delete _list.scss,team8
 2017-03-30T21:47:17Z,user3,Delete _list.scss,team8
 2017-03-30T21:47:12Z,user3,Delete _larger.scss,team8
+2017-03-30T21:47:12Z,user3,Delete _larger.scss,team8
+2017-03-30T21:47:06Z,user3,Delete _icons.scss,team8
 2017-03-30T21:47:06Z,user3,Delete _icons.scss,team8
 2017-03-30T21:46:58Z,user3,Delete _fixed-width.scss,team8
+2017-03-30T21:46:58Z,user3,Delete _fixed-width.scss,team8
+2017-03-30T21:46:52Z,user3,Delete _core.scss,team8
 2017-03-30T21:46:52Z,user3,Delete _core.scss,team8
 2017-03-30T21:46:47Z,user3,Delete _bordered-pulled.scss,team8
+2017-03-30T21:46:47Z,user3,Delete _bordered-pulled.scss,team8
+2017-03-30T21:46:41Z,user3,Delete _animated.scss,team8
 2017-03-30T21:46:41Z,user3,Delete _animated.scss,team8
 2017-03-30T21:46:33Z,user3,Delete larger.less,team8
+2017-03-30T21:46:33Z,user3,Delete larger.less,team8
+2017-03-30T21:46:27Z,user3,Delete variables.less,team8
 2017-03-30T21:46:27Z,user3,Delete variables.less,team8
 2017-03-30T21:46:19Z,user3,Delete stacked.less,team8
+2017-03-30T21:46:19Z,user3,Delete stacked.less,team8
+2017-03-30T21:46:13Z,user3,Delete rotated-flipped.less,team8
 2017-03-30T21:46:13Z,user3,Delete rotated-flipped.less,team8
 2017-03-30T21:46:08Z,user3,Delete list.less,team8
+2017-03-30T21:46:08Z,user3,Delete list.less,team8
+2017-03-30T21:46:02Z,user3,Delete path.less,team8
 2017-03-30T21:46:02Z,user3,Delete path.less,team8
 2017-03-30T21:45:57Z,user3,Delete mixins.less,team8
+2017-03-30T21:45:57Z,user3,Delete mixins.less,team8
+2017-03-30T21:45:49Z,user3,Delete icons.less,team8
 2017-03-30T21:45:49Z,user3,Delete icons.less,team8
 2017-03-30T21:45:42Z,user3,Delete font-awesome.less,team8
+2017-03-30T21:45:42Z,user3,Delete font-awesome.less,team8
+2017-03-30T21:45:36Z,user3,Delete fixed-width.less,team8
 2017-03-30T21:45:36Z,user3,Delete fixed-width.less,team8
 2017-03-30T21:45:30Z,user3,Delete core.less,team8
+2017-03-30T21:45:30Z,user3,Delete core.less,team8
+2017-03-30T21:45:25Z,user3,Delete bordered-pulled.less,team8
 2017-03-30T21:45:25Z,user3,Delete bordered-pulled.less,team8
 2017-03-30T21:45:19Z,user3,Delete animated.less,team8
+2017-03-30T21:45:19Z,user3,Delete animated.less,team8
+2017-03-30T21:45:13Z,user3,Delete fontawesome-webfont.woff2,team8
 2017-03-30T21:45:13Z,user3,Delete fontawesome-webfont.woff2,team8
 2017-03-30T21:45:08Z,user3,Delete fontawesome-webfont.woff,team8
+2017-03-30T21:45:08Z,user3,Delete fontawesome-webfont.woff,team8
+2017-03-30T21:45:03Z,user3,Delete fontawesome-webfont.ttf,team8
 2017-03-30T21:45:03Z,user3,Delete fontawesome-webfont.ttf,team8
 2017-03-30T21:44:57Z,user3,Delete fontawesome-webfont.svg,team8
+2017-03-30T21:44:57Z,user3,Delete fontawesome-webfont.svg,team8
+2017-03-30T21:44:52Z,user3,Delete fontawesome-webfont.eot,team8
 2017-03-30T21:44:52Z,user3,Delete fontawesome-webfont.eot,team8
 2017-03-30T21:44:48Z,user3,Delete FontAwesome.otf,team8
+2017-03-30T21:44:48Z,user3,Delete FontAwesome.otf,team8
+2017-03-30T21:44:35Z,user3,Delete font-awesome.min.css,team8
 2017-03-30T21:44:35Z,user3,Delete font-awesome.min.css,team8
 2017-03-30T21:44:29Z,user3,Delete font-awesome.css,team8
+2017-03-30T21:44:29Z,user3,Delete font-awesome.css,team8
+2017-03-30T21:44:11Z,user3,Delete npm.js,team8
 2017-03-30T21:44:11Z,user3,Delete npm.js,team8
 2017-03-30T21:44:04Z,user3,Delete bootstrap.min.js,team8
+2017-03-30T21:44:04Z,user3,Delete bootstrap.min.js,team8
+2017-03-30T21:43:57Z,user3,Delete bootstrap.js,team8
 2017-03-30T21:43:57Z,user3,Delete bootstrap.js,team8
 2017-03-30T21:43:35Z,user3,Delete glyphicons-halflings-regular.woff2,team8
+2017-03-30T21:43:35Z,user3,Delete glyphicons-halflings-regular.woff2,team8
+2017-03-30T21:43:30Z,user3,Delete glyphicons-halflings-regular.woff,team8
 2017-03-30T21:43:30Z,user3,Delete glyphicons-halflings-regular.woff,team8
 2017-03-30T21:43:26Z,user3,Delete glyphicons-halflings-regular.ttf,team8
+2017-03-30T21:43:26Z,user3,Delete glyphicons-halflings-regular.ttf,team8
+2017-03-30T21:43:20Z,user3,Delete glyphicons-halflings-regular.svg,team8
 2017-03-30T21:43:20Z,user3,Delete glyphicons-halflings-regular.svg,team8
 2017-03-30T21:43:15Z,user3,Delete glyphicons-halflings-regular.eot,team8
+2017-03-30T21:43:15Z,user3,Delete glyphicons-halflings-regular.eot,team8
+2017-03-30T21:43:08Z,user3,Delete bootstrap.min.css,team8
 2017-03-30T21:43:08Z,user3,Delete bootstrap.min.css,team8
 2017-03-30T21:43:03Z,user3,Delete bootstrap.css.map,team8
+2017-03-30T21:43:03Z,user3,Delete bootstrap.css.map,team8
+2017-03-30T21:42:57Z,user3,Delete bootstrap.css,team8
 2017-03-30T21:42:57Z,user3,Delete bootstrap.css,team8
 2017-03-30T21:42:48Z,user3,Delete bootstrap-theme.min.css,team8
+2017-03-30T21:42:48Z,user3,Delete bootstrap-theme.min.css,team8
+2017-03-30T21:42:43Z,user3,Delete bootstrap-theme.css.map,team8
 2017-03-30T21:42:43Z,user3,Delete bootstrap-theme.css.map,team8
 2017-03-30T21:42:37Z,user3,Delete bootstrap-theme.css,team8
+2017-03-30T21:42:37Z,user3,Delete bootstrap-theme.css,team8
+2017-03-30T21:42:19Z,user3,Delete 1@2x.jpg,team8
 2017-03-30T21:42:19Z,user3,Delete 1@2x.jpg,team8
 2017-03-30T21:42:13Z,user3,Delete 1.jpg,team8
+2017-03-30T21:42:13Z,user3,Delete 1.jpg,team8
+2017-03-30T21:42:01Z,user3,Delete apple-touch-icon-114-precomposed.png,team8
 2017-03-30T21:42:01Z,user3,Delete apple-touch-icon-114-precomposed.png,team8
 2017-03-30T21:41:57Z,user3,Delete apple-touch-icon-144-precomposed.png,team8
+2017-03-30T21:41:57Z,user3,Delete apple-touch-icon-144-precomposed.png,team8
+2017-03-30T21:41:52Z,user3,Delete apple-touch-icon-57-precomposed.png,team8
 2017-03-30T21:41:52Z,user3,Delete apple-touch-icon-57-precomposed.png,team8
 2017-03-30T21:41:47Z,user3,Delete apple-touch-icon-72-precomposed.png,team8
+2017-03-30T21:41:47Z,user3,Delete apple-touch-icon-72-precomposed.png,team8
+2017-03-30T21:41:42Z,user3,Delete favicon.png,team8
 2017-03-30T21:41:42Z,user3,Delete favicon.png,team8
 2017-03-30T21:41:34Z,user3,Delete style.css,team8
+2017-03-30T21:41:34Z,user3,Delete style.css,team8
+2017-03-30T21:41:26Z,user3,Delete form-elements.css,team8
 2017-03-30T21:41:26Z,user3,Delete form-elements.css,team8
 2017-03-30T21:41:15Z,user3,Delete placeholder.js,team8
+2017-03-30T21:41:15Z,user3,Delete placeholder.js,team8
+2017-03-30T21:41:09Z,user3,Delete scripts.js,team8
 2017-03-30T21:41:09Z,user3,Delete scripts.js,team8
 2017-03-30T21:41:02Z,user3,Delete jquery.backstretch.min.js,team8
+2017-03-30T21:41:02Z,user3,Delete jquery.backstretch.min.js,team8
+2017-03-30T21:40:56Z,user3,Delete jquery.backstretch.js,team8
 2017-03-30T21:40:56Z,user3,Delete jquery.backstretch.js,team8
 2017-03-30T21:40:47Z,user3,Delete jquery-1.11.1.min.js,team8
+2017-03-30T21:40:47Z,user3,Delete jquery-1.11.1.min.js,team8
+2017-03-30T21:40:39Z,user3,Delete jquery-1.11.1.js,team8
 2017-03-30T21:40:39Z,user3,Delete jquery-1.11.1.js,team8
 2017-03-30T21:40:22Z,user3,Delete navbar.css,team8
+2017-03-30T21:40:22Z,user3,Delete navbar.css,team8
+2017-03-30T21:40:14Z,user3,Delete newUserDetails.html,team8
 2017-03-30T21:40:14Z,user3,Delete newUserDetails.html,team8
 2017-03-30T21:40:08Z,user3,Delete login.html,team8
+2017-03-30T21:40:08Z,user3,Delete login.html,team8
+2017-03-30T21:40:00Z,user3,Delete list.htm,team8
 2017-03-30T21:40:00Z,user3,Delete list.htm,team8
 2017-03-30T21:39:51Z,user3,Delete index.htm,team8
+2017-03-30T21:39:51Z,user3,Delete index.htm,team8
+2017-03-30T21:39:43Z,user3,Delete home.htm,team8
 2017-03-30T21:39:43Z,user3,Delete home.htm,team8
 2017-03-30T21:39:37Z,user3,Delete editSkills.html,team8
+2017-03-30T21:39:37Z,user3,Delete editSkills.html,team8
+2017-03-30T21:38:22Z,user3,Delete app.js,team8
 2017-03-30T21:38:22Z,user3,Delete app.js,team8
 2017-03-30T21:38:01Z,user3,Rename README.md to Approach 1/README.md,team8
+2017-03-30T21:38:01Z,user3,Rename README.md to Approach 1/README.md,team8
+2017-03-30T21:37:07Z,user3,Delete header.html,team8
 2017-03-30T21:37:07Z,user3,Delete header.html,team8
 2017-03-30T21:36:59Z,user3,Delete footer.html,team8
+2017-03-30T21:36:59Z,user3,Delete footer.html,team8
+2017-03-30T21:36:35Z,user3,Add files via upload,team8
 2017-03-30T21:36:35Z,user3,Add files via upload,team8
 2017-03-30T21:36:03Z,user3,Delete index.html,team8
+2017-03-30T21:36:03Z,user3,Delete index.html,team8
+2017-03-30T21:35:40Z,user3,Add files via upload,team8
 2017-03-30T21:35:40Z,user3,Add files via upload,team8
 2017-03-30T21:34:57Z,user3,Add files via upload,team8
+2017-03-30T21:34:57Z,user3,Add files via upload,team8
+2017-03-30T21:33:29Z,user3,Add files via upload,team8
 2017-03-30T21:33:29Z,user3,Add files via upload,team8
 2017-03-30T21:30:42Z,user3,Create index.html,team8
+2017-03-30T21:30:42Z,user3,Create index.html,team8
+2017-03-20T21:25:57Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-20T21:25:57Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-20T21:25:41Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-20T21:25:41Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-20T21:24:37Z,user2,Changed max team size from 4 to 3,team8
 2017-03-20T21:24:37Z,user2,Changed max team size from 4 to 3,team8
 2017-03-14T17:51:40Z,user3,Update README.md,team8
 2017-03-14T16:49:41Z,user3,Update README.md,team8
+2017-03-14T16:49:41Z,user3,Update README.md,team8
+2017-03-14T16:48:22Z,user3,Delete exec.sh,team8
 2017-03-14T16:48:22Z,user3,Delete exec.sh,team8
 2017-03-14T16:48:10Z,user3,Delete README 2.md,team8
+2017-03-14T16:48:10Z,user3,Delete README 2.md,team8
+2017-03-14T16:47:59Z,user3,Rename newUserDetails.html to pages/newUserDetails.html,team8
 2017-03-14T16:47:59Z,user3,Rename newUserDetails.html to pages/newUserDetails.html,team8
 2017-03-14T16:47:41Z,user3,Rename login.html to pages/login.html,team8
+2017-03-14T16:47:41Z,user3,Rename login.html to pages/login.html,team8
+2017-03-14T16:47:23Z,user3,Rename list.htm to pages/list.htm,team8
 2017-03-14T16:47:23Z,user3,Rename list.htm to pages/list.htm,team8
 2017-03-14T16:47:06Z,user3,Rename index.htm to pages/index.htm,team8
+2017-03-14T16:47:06Z,user3,Rename index.htm to pages/index.htm,team8
+2017-03-14T16:46:51Z,user3,Rename home.htm to pages/home.htm,team8
 2017-03-14T16:46:51Z,user3,Rename home.htm to pages/home.htm,team8
 2017-03-14T16:46:32Z,user3,Rename editSkills.html to pages/editSkills.html,team8
+2017-03-14T16:46:32Z,user3,Rename editSkills.html to pages/editSkills.html,team8
+2017-03-14T16:46:12Z,user3,Rename navbar.css to css/navbar.css,team8
 2017-03-14T16:46:12Z,user3,Rename navbar.css to css/navbar.css,team8
 2017-03-14T16:45:56Z,user3,Delete navbar.css,team8
+2017-03-14T16:45:56Z,user3,Delete navbar.css,team8
+2017-03-14T16:45:35Z,user3,Delete list.htm,team8
 2017-03-14T16:45:35Z,user3,Delete list.htm,team8
 2017-03-14T16:45:27Z,user3,Delete home.htm,team8
+2017-03-14T16:45:27Z,user3,Delete home.htm,team8
+2017-03-14T16:45:16Z,user3,Delete Login.html,team8
 2017-03-14T16:45:16Z,user3,Delete Login.html,team8
 2017-03-14T16:38:27Z,user3,Add files via upload,team8
+2017-03-14T16:38:27Z,user3,Add files via upload,team8
+2017-03-14T16:33:38Z,user3,Add files via upload,team8
 2017-03-14T16:33:38Z,user3,Add files via upload,team8
 2017-03-14T14:06:27Z,user4,Update README.md,team8
 2017-03-14T14:04:50Z,user4,add unit test,team8
 2017-03-14T14:04:10Z,user4,add unit test,team8
 2017-03-14T03:39:38Z,user1,Fixed failing test in members page,team8
+2017-03-14T03:39:38Z,user1,Fixed failing test in members page,team8
+2017-03-14T02:41:19Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-14T02:41:19Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-14T02:40:55Z,user2,Add generate team function,team8
+2017-03-14T02:40:55Z,user2,Add generate team function,team8
+2017-03-14T02:06:53Z,user1,Fixed up default tests. Still have one failing needs investigation.,team8
 2017-03-14T02:06:53Z,user1,Fixed up default tests. Still have one failing needs investigation.,team8
 2017-03-13T23:34:49Z,user2,Initial approach for team division,team8
+2017-03-13T23:34:49Z,user2,Initial approach for team division,team8
+2017-03-13T00:21:38Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-13T00:21:38Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-03-01T03:48:52Z,user1,Added proofread paper,team8
 2017-03-01T03:47:11Z,user1,Proofreading,team8
@@ -1027,13 +1212,20 @@ Approach2",team8
 2017-03-01T01:49:05Z,user1,Adding approach 2 images,team8
 2017-03-01T01:48:16Z,user1,ignoring node packages,team8
 2017-03-01T01:29:07Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-03-01T01:29:07Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
+2017-02-28T20:54:27Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-02-28T20:54:27Z,user2,Merge branch 'approach2' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-02-28T20:53:39Z,user2,Fix #29 by additional check in members page,team8
+2017-02-28T20:53:39Z,user2,Fix #29 by additional check in members page,team8
+2017-02-28T20:11:42Z,user1,fixed #42 by adding permission check on profile route,team8
 2017-02-28T20:11:42Z,user1,fixed #42 by adding permission check on profile route,team8
 2017-02-28T15:18:51Z,user1,Edits to approach 3 writeup,team8
 2017-02-28T15:09:20Z,user1,Added approach 3,team8
 2017-02-28T06:45:35Z,user2,Correct Google sign-in skill issue,team8
+2017-02-28T06:45:35Z,user2,Correct Google sign-in skill issue,team8
 2017-02-28T03:43:18Z,user2,Add edit profile option,team8
+2017-02-28T03:43:18Z,user2,Add edit profile option,team8
+2017-02-28T02:20:49Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-02-28T02:20:49Z,user2,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach2,team8
 2017-02-28T00:36:44Z,user1,Added an introduction and a discussion of approach 2,team8
 2017-02-27T22:03:32Z,user1,Added outline for February paper,team8
@@ -1045,9 +1237,11 @@ Approach2",team8
 2017-02-23T21:44:58Z,user4,Merge branch 'approach3' of https://github.com/NCSU-SE-Spring-17/SE-17-S into approach3,team8
 2017-02-23T21:44:40Z,user4,add team view and function,team8
 2017-02-23T18:04:37Z,user2,Add header/footer with logout button,team8
+2017-02-23T18:04:37Z,user2,Add header/footer with logout button,team8
 2017-02-23T01:51:53Z,user1,Marking spot for team algorithm,team8
 2017-02-23T01:30:59Z,user1,Now have a view for the teams page. This will need to be enhanced further. close #21,team8
 2017-02-23T00:53:10Z,user1,Fixed table display issue close #28 and added logout functionality to team page,team8
+2017-02-22T20:34:26Z,user2,Add signout funtion to app.js,team8
 2017-02-22T20:34:26Z,user2,Add signout funtion to app.js,team8
 2017-02-22T19:45:15Z,user1,Adding angular-cli instruction,team8
 2017-02-22T03:50:28Z,user1,close #23 Adding user data for new user created with email signup,team8
@@ -1066,7 +1260,7 @@ Approach2",team8
 2017-02-21T22:08:25Z,user3,Delete assess_skill.PNG,team8
 2017-02-21T22:07:33Z,user3,Delete SE_17_S.pdf,team8
 2017-02-21T22:07:25Z,user3,Delete IEEEtran.cls,team8
-2017-02-21T22:05:41Z,,Approach1,team8
+2017-02-21T22:05:41Z,user3,Approach1,team8
 2017-02-21T21:05:03Z,user1,adding git ignore and removing shell script,team8
 2017-02-21T20:42:27Z,user1,Adding starting point of approach 1,team8
 2017-02-21T19:12:51Z,user4,Update README.md,team8
@@ -1111,7 +1305,7 @@ completed feb report",team9
 2017-03-01T02:43:30Z,user3,"Merge pull request #34 from SidHeg/unit_test_frontend
 
 Build script modified to support unit testing",team9
-2017-03-01T02:42:26Z,,Build script modified to support unit testing,team9
+2017-03-01T02:42:26Z,user3,Build script modified to support unit testing,team9
 2017-03-01T00:39:09Z,user3,Feb Report,team9
 2017-02-28T05:36:20Z,user2,"Merge pull request #33 from SidHeg/backend-branch
 
@@ -1120,7 +1314,7 @@ finished",team9
 2017-02-28T04:02:58Z,user3,"Merge pull request #31 from SidHeg/FBComm
 
 Fb comm",team9
-2017-02-28T04:02:04Z,,Frontend backend communication,team9
+2017-02-28T04:02:04Z,user3,Frontend backend communication,team9
 2017-02-24T01:12:01Z,user3,HTTP rest api calls,team9
 2017-02-23T23:52:22Z,user2,adding backend directory,team9
 2017-02-23T23:09:12Z,user3,Deleting backend folder,team9
