@@ -847,18 +847,18 @@ room stats display",team6
 2017-02-06T21:04:04Z,user2,source tree test,team6
 2017-02-06T16:29:59Z,user1,test credential,team6
 2017-02-06T16:20:45Z,user1,test commit,team6
-2017-02-06T16:08:07Z,user4,test,team6
-2017-02-06T15:59:49Z,user4,test credential,team6
-2017-02-06T15:53:23Z,user4,test,team6
-2017-02-06T15:38:53Z,user4,"Initial BlueMix code gen
+2017-02-06T16:08:07Z,user1,test,team6
+2017-02-06T15:59:49Z,user1,test credential,team6
+2017-02-06T15:53:23Z,user1,test,team6
+2017-02-06T15:38:53Z,user1,"Initial BlueMix code gen
 
 +Place holder codes
 +Credentials are not shared between team members
 +Advanced mobil and db features are not synced",team6
-2017-02-06T15:29:55Z,user4,"Revert ""Initial IBM BlueMix code gen""
+2017-02-06T15:29:55Z,user1,"Revert ""Initial IBM BlueMix code gen""
 
 This reverts commit 914e5e0613e0076bacdaf77f7917c5eb88e5fa18.",team6
-2017-02-06T15:23:20Z,user4,"Initial IBM BlueMix code gen
+2017-02-06T15:23:20Z,user1,"Initial IBM BlueMix code gen
 
 +Place holder codes
 +Credentials are not shared between team members
@@ -914,6 +914,7 @@ This reverts commit 914e5e0613e0076bacdaf77f7917c5eb88e5fa18.",team6
 2017-01-12T01:48:59Z,user2,Update Ideas.md,team7
 2017-01-12T01:48:07Z,user2,Create Ideas.md,team7
 2017-01-12T00:38:00Z,user2,Initial commit,team7
+2017-04-29T04:45:09Z,user1,file name,team8
 2017-04-28T20:40:17Z,user1,Merge sharelatex-2017-04-28-2039 into master,team8
 2017-04-28T20:40:16Z,user1,Adding Michael's figure discussion.,team8
 2017-04-28T20:25:10Z,user4,Merge branch 'master' of https://github.com/NCSU-SE-Spring-17/SE-17-S,team8
