@@ -1,3 +1,67 @@
+# Added by Zubin 
+# Code to plot line graph between no:of issues and time span 
+issues <- read.csv(file="issues.csv",head=TRUE,sep=",")
+issues$team <- as.factor(as.character(issues$team))
+issues$created_at <- strptime(as.character(issues$created_at),format = "%Y-%m-%dT%H:%M:%SZ", tz="GMT")
+issues$closed_at <- strptime(as.character(issues$closed_at),format = "%Y-%m-%dT%H:%M:%SZ", tz="GMT")
+issues$span <- issues$closed_at - issues$created_at
+issues$assignee <- as.character(issues$assignee)
+
+# Mean/Median of time span vs Number of issues
+x <- table(issues$team)
+issues_new <- issues[is.na(issues$span)==FALSE,]
+y <- aggregate(issues_new$span,by=list(issues_new$team),FUN="mean")
+plot(as.list(x),as.list(y$x),ylim=c(50000,3000000),pch=15,yaxt='n',ylab="Mean/Median time span for issues",xlab="Number of issues per team",col="green")
+y <- aggregate(issues_new$span,by=list(issues_new$team),FUN="median")
+points(as.list(x),as.list(y$x),pch=4,col="red")
+legend("topright",c('Mean','Median'),pch=c(15,4),col=c('green','red'))
+
+
+# Number of issues created 
+issues_new <- issues[is.element(as.character(issues$assignee),c('user1','user2','user3','user4')),]
+issues_new$created_by <- as.factor(as.character(issues_new$created_by))
+
+x <- table(issues_new$created_by,issues_new$team)
+for (i in 1:ncol(x)) {
+    x[,i] <- x[,i]/sum(x[,i])
+}
+
+barplot(x,legend.text = TRUE,args.legend = list(x="top",inset=c(0,-0.2),horiz=TRUE))
+
+# Number of unassigned issues 
+issues_new <- issues[issues$assignee=="",]
+x <- table(issues_new$team)
+for (i in 1:nrow(x)) {
+    x[i] <- x[i]/nrow(issues[issues$team==names(x)[i],])
+}
+
+barplot(sort(x),legend.text = TRUE,args.legend = list(x="top",inset=c(0,-0.2),horiz=TRUE))
+abline(h=mean(x), col = "blue")
+abline(h=mean(x) + sd(x), col = "red")
+abline(h=mean(x) - sd(x), col = "red")
+abline(h=median(x), col = "green")
+# add legend
+legend_col <- c()
+legend_col <- c(legend_col, "blue")
+legend_col <- c(legend_col, "red")
+legend_col <- c(legend_col, "green")
+
+legend("topleft", c(sprintf("mean: %f",mean(x)), 
+                sprintf("standard deviation: %f",sd(x)),
+                sprintf("median: %f",median(x))
+                ), 
+       lty=c(1,1), lwd=c(2,2.5),col=legend_col, inset=c(0.05,0))
+
+# Issues closed too soon
+issues_new <- issues[is.na(issues$span)==FALSE,]
+issues_new$span <- as.numeric(issues_new$span)
+issues_new$span <- issues_new$span/(60*60)
+mean(issues_new$span)
+sd(issues_new$span)
+
+
+#######################################################################
+
 require('plyr')
 
 
