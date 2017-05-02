@@ -256,4 +256,31 @@ axis(1,at=1:10,labels=c('team1','team10','team2','team3','team4','team5','team6'
 bad_smells['user4',is.na(bad_smells['user4',])] <- 0
 sum <- bad_smells['user1',] + bad_smells['user2',] + bad_smells['user3',] + bad_smells['user4',]
 
+# bs9 - issues not closed
 
+issues <- read.csv(file="issues.csv",head=TRUE,sep=",")
+issues$team <- as.factor(as.character(issues$team))
+issues$created_at <- strptime(as.character(issues$created_at),format = "%Y-%m-%dT%H:%M:%SZ", tz="GMT")
+issues$closed_at <- strptime(as.character(issues$closed_at),format = "%Y-%m-%dT%H:%M:%SZ", tz="GMT")
+issues$milestone_due_on <- strptime(as.character(issues$milestone_due_on),format = "%Y-%m-%dT%H:%M:%SZ", tz="GMT")
+issues$span <- issues$closed_at - issues$created_at
+issues$assignee <- as.character(issues$assignee)
+
+x <- table(issues[is.na(issues$closed_at),]$team)
+x[x>3] <- -1 
+x[x>0] <- 1 
+x[x==-1] <- 2 
+
+sum <- sum + x
+
+# bs8 - numberofissueclosed after milestonedeadline
+issues <- issues[is.na(issues$closed_at)==FALSE,]
+issues <- issues[issues$closed_at > issues$milestone_due_on,]
+x <- table(issues$team)
+x[x>10] <- -2 
+x[x>5] <- -1
+x[x>0] <- 1
+x[x==-1] <- 2
+x[x==-2] <- 3
+
+sum <- sum + x
