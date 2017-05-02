@@ -257,8 +257,3 @@ bad_smells['user4',is.na(bad_smells['user4',])] <- 0
 sum <- bad_smells['user1',] + bad_smells['user2',] + bad_smells['user3',] + bad_smells['user4',]
 
 
-
-
-
-
-
